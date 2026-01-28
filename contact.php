@@ -3,10 +3,11 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">    <title>Contact Us | Vahan Mover - Pan-India Car & Bike Transport</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us | Vahan Mover - Pan-India Car & Bike Transport</title>
     <meta name="description"
         content="Get in touch with Vahan Mover for reliable car and bike shifting services across India. Request a free quote or call us for instant assistance.">
-    
+
     <?php include 'includes/header-link.php'; ?>
 </head>
 
@@ -117,24 +118,25 @@
             </div>
 
             <div class="glass-card floating" style="max-width: 800px; margin: 0 auto; padding: 50px;">
-                <form id="contactForm" style="display: grid; gap: 25px;">
+                <form id="contactForm" action="submit.php" method="post" style="display: grid; gap: 25px;">
+                    <input type="hidden" name="submission_id" value="<?php echo uniqid('SUB-'); ?>">
 
                     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 25px;">
                         <div>
                             <label
                                 style="display: block; margin-bottom: 8px; color: var(--color-text-white); font-weight: 500;">Full
                                 Name *</label>
-                            <input type="text" required
+                            <input type="text" name="full_name" required
                                 style="width: 100%; padding: 14px 18px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 12px; color: var(--color-text-white); font-size: 1rem; transition: all 0.3s;"
-                                placeholder="Enter your name">
+                                placeholder="Full Name">
                         </div>
                         <div>
                             <label
                                 style="display: block; margin-bottom: 8px; color: var(--color-text-white); font-weight: 500;">Phone
                                 Number *</label>
-                            <input type="tel" required
+                            <input type="text" name="phone" required
                                 style="width: 100%; padding: 14px 18px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 12px; color: var(--color-text-white); font-size: 1rem; transition: all 0.3s;"
-                                placeholder="Enter phone number">
+                                placeholder="Phone Number">
                         </div>
                     </div>
 
@@ -142,9 +144,9 @@
                         <label
                             style="display: block; margin-bottom: 8px; color: var(--color-text-white); font-weight: 500;">Email
                             Address *</label>
-                        <input type="email" required
+                        <input type="email" name="email" required
                             style="width: 100%; padding: 14px 18px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 12px; color: var(--color-text-white); font-size: 1rem; transition: all 0.3s;"
-                            placeholder="Enter your email">
+                            placeholder="Email Address">
                     </div>
 
                     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 25px;">
@@ -152,17 +154,17 @@
                             <label
                                 style="display: block; margin-bottom: 8px; color: var(--color-text-white); font-weight: 500;">Pickup
                                 City *</label>
-                            <input type="text" required
+                            <input type="text" name="pickup_city" required
                                 style="width: 100%; padding: 14px 18px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 12px; color: var(--color-text-white); font-size: 1rem; transition: all 0.3s;"
-                                placeholder="From city">
+                                placeholder="Pickup City">
                         </div>
                         <div>
                             <label
                                 style="display: block; margin-bottom: 8px; color: var(--color-text-white); font-weight: 500;">Drop
                                 City *</label>
-                            <input type="text" required
+                            <input type="text" name="drop_city" required
                                 style="width: 100%; padding: 14px 18px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 12px; color: var(--color-text-white); font-size: 1rem; transition: all 0.3s;"
-                                placeholder="To city">
+                                placeholder="Drop City">
                         </div>
                     </div>
 
@@ -171,18 +173,18 @@
                             <label
                                 style="display: block; margin-bottom: 8px; color: var(--color-text-white); font-weight: 500;">Vehicle
                                 Type *</label>
-                            <select required
+                            <select name="vehicle_type" required
                                 style="width: 100%; padding: 14px 18px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 12px; color: var(--color-text-white); font-size: 1rem; transition: all 0.3s;">
-                                <option value="" style="background: var(--color-bg-dark);">Select vehicle type</option>
-                                <option value="car" style="background: var(--color-bg-dark);">Car</option>
-                                <option value="bike" style="background: var(--color-bg-dark);">Bike</option>
+                                <option value="" style="background: var(--color-bg-dark);">Select Vehicle Type</option>
+                                <option value="Car" style="background: var(--color-bg-dark);">Car</option>
+                                <option value="Bike" style="background: var(--color-bg-dark);">Bike</option>
                             </select>
                         </div>
                         <div>
                             <label
                                 style="display: block; margin-bottom: 8px; color: var(--color-text-white); font-weight: 500;">Preferred
                                 Date</label>
-                            <input type="date"
+                            <input type="date" name="preferred_date" required
                                 style="width: 100%; padding: 14px 18px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 12px; color: var(--color-text-white); font-size: 1rem; transition: all 0.3s;">
                         </div>
                     </div>
@@ -191,16 +193,15 @@
                         <label
                             style="display: block; margin-bottom: 8px; color: var(--color-text-white); font-weight: 500;">Message
                             / Special Instructions</label>
-                        <textarea rows="4"
+                        <textarea name="message" rows="4"
                             style="width: 100%; padding: 14px 18px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 12px; color: var(--color-text-white); font-size: 1rem; resize: vertical; transition: all 0.3s;"
-                            placeholder="Any special requirements or questions..."></textarea>
+                            placeholder="Message"></textarea>
                     </div>
 
                     <button type="submit" class="btn btn-primary"
                         style="width: 100%; padding: 16px; font-size: 1.1rem; margin-top: 10px;">
-                        <i class="fa-solid fa-paper-plane"></i> Get Free Quote
+                        <i class="fa-solid fa-paper-plane"></i> Submit
                     </button>
-
                 </form>
             </div>
         </div>
