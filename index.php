@@ -3,10 +3,11 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">    <title>Vahan Mover | Pan-India Car & Bike Transport</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vahan Mover | Pan-India Car & Bike Transport</title>
     <meta name="description"
         content="Professional Car & Bike Shifting Services across India. Safe, fast, and reliable vehicle transportation. Get a free quote today!">
-    
+
     <?php include 'includes/header-link.php'; ?>
 </head>
 
@@ -205,6 +206,55 @@
                     <p style="color: var(--color-text-dim); line-height: 1.6;">Complete insurance coverage for
                         stress-free vehicle relocation regarding any unforeseen events.</p>
                 </div>
+            </div>
+    </section>
+
+    <!-- Pan India Coverage Section -->
+    <section style="padding: 80px 0; position: relative;">
+        <div class="container">
+            <div style="text-align: center; margin-bottom: 60px;">
+                <h2 style="font-size: 3rem; margin-bottom: 15px; font-weight: 700;">Pan India <span
+                        style="color: var(--color-primary);">Bike & Car Transport Coverage</span></h2>
+                <p style="color: var(--color-text-dim); font-size: 1.1rem; max-width: 800px; margin: 0 auto;">Our bike
+                    parcel service operates across all major metro cities, tier-2, and tier-3 towns throughout India,
+                    ensuring your two-wheeler reaches any destination safely.</p>
+            </div>
+
+            <div
+                style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; max-width: 1000px; margin: 0 auto 40px;">
+                <span
+                    style="padding: 12px 24px; background: rgba(6, 182, 212, 0.1); border: 1px solid rgba(6, 182, 212, 0.3); border-radius: 30px; color: var(--color-primary); font-weight: 500;">Delhi
+                    NCR</span>
+                <span
+                    style="padding: 12px 24px; background: rgba(6, 182, 212, 0.1); border: 1px solid rgba(6, 182, 212, 0.3); border-radius: 30px; color: var(--color-primary); font-weight: 500;">Mumbai</span>
+                <span
+                    style="padding: 12px 24px; background: rgba(6, 182, 212, 0.1); border: 1px solid rgba(6, 182, 212, 0.3); border-radius: 30px; color: var(--color-primary); font-weight: 500;">Bangalore</span>
+                <span
+                    style="padding: 12px 24px; background: rgba(6, 182, 212, 0.1); border: 1px solid rgba(6, 182, 212, 0.3); border-radius: 30px; color: var(--color-primary); font-weight: 500;">Hyderabad</span>
+                <span
+                    style="padding: 12px 24px; background: rgba(6, 182, 212, 0.1); border: 1px solid rgba(6, 182, 212, 0.3); border-radius: 30px; color: var(--color-primary); font-weight: 500;">Chennai</span>
+                <span
+                    style="padding: 12px 24px; background: rgba(6, 182, 212, 0.1); border: 1px solid rgba(6, 182, 212, 0.3); border-radius: 30px; color: var(--color-primary); font-weight: 500;">Pune</span>
+                <span
+                    style="padding: 12px 24px; background: rgba(6, 182, 212, 0.1); border: 1px solid rgba(6, 182, 212, 0.3); border-radius: 30px; color: var(--color-primary); font-weight: 500;">Kolkata</span>
+                <span
+                    style="padding: 12px 24px; background: rgba(6, 182, 212, 0.1); border: 1px solid rgba(6, 182, 212, 0.3); border-radius: 30px; color: var(--color-primary); font-weight: 500;">Ahmedabad</span>
+                <span
+                    style="padding: 12px 24px; background: rgba(6, 182, 212, 0.1); border: 1px solid rgba(6, 182, 212, 0.3); border-radius: 30px; color: var(--color-primary); font-weight: 500;">Jaipur</span>
+                <span
+                    style="padding: 12px 24px; background: rgba(6, 182, 212, 0.1); border: 1px solid rgba(6, 182, 212, 0.3); border-radius: 30px; color: var(--color-primary); font-weight: 500;">Lucknow</span>
+                <span
+                    style="padding: 12px 24px; background: rgba(6, 182, 212, 0.1); border: 1px solid rgba(6, 182, 212, 0.3); border-radius: 30px; color: var(--color-primary); font-weight: 500;">Chandigarh</span>
+                <span
+                    style="padding: 12px 24px; background: rgba(6, 182, 212, 0.1); border: 1px solid rgba(6, 182, 212, 0.3); border-radius: 30px; color: var(--color-primary); font-weight: 500;">Kochi</span>
+                <span
+                    style="padding: 12px 24px; background: rgba(6, 182, 212, 0.1); border: 1px solid rgba(6, 182, 212, 0.3); border-radius: 30px; color: var(--color-primary); font-weight: 500;">&
+                    450+ More Cities</span>
+            </div>
+
+            <div style="text-align: center;">
+                <i class="fa-solid fa-map-location-dot floating"
+                    style="font-size: 6rem; color: var(--color-primary); opacity: 0.2;"></i>
             </div>
         </div>
     </section>
