@@ -264,6 +264,67 @@
         </div>
     </section>
 
+    <!-- Why Choose Us Section -->
+    <section style="padding: 70px 0; position: relative;">
+        <div class="container">
+            <div style="text-align: center; margin-bottom: 60px;">
+                <h2 style="font-size: 3rem; margin-bottom: 15px; font-weight: 700;">Why Choose <span
+                        style="color: var(--color-primary);">Vahan Mover?</span></h2>
+                <p style="color: var(--color-text-dim); font-size: 1.1rem; max-width: 600px; margin: 0 auto;">
+                    We are committed to providing the best vehicle transport experience with safety, reliability, and
+                    transparency.</p>
+            </div>
+
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 30px;">
+                <!-- Item 1 -->
+                <div class="glass-card" style="padding: 30px; text-align: center;">
+                    <div
+                        style="width: 70px; height: 70px; background: rgba(6, 182, 212, 0.1); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 20px;">
+                        <i class="fa-solid fa-house-chimney"
+                            style="font-size: 1.8rem; color: var(--color-primary);"></i>
+                    </div>
+                    <h3 style="font-size: 1.3rem; margin-bottom: 15px;">Door-to-Door Service</h3>
+                    <p style="color: var(--color-text-dim); line-height: 1.6;">Complete pickup and delivery at your
+                        doorstep for maximum convenience.</p>
+                </div>
+
+                <!-- Item 2 -->
+                <div class="glass-card" style="padding: 30px; text-align: center;">
+                    <div
+                        style="width: 70px; height: 70px; background: rgba(6, 182, 212, 0.1); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 20px;">
+                        <i class="fa-solid fa-shield-halved"
+                            style="font-size: 1.8rem; color: var(--color-primary);"></i>
+                    </div>
+                    <h3 style="font-size: 1.3rem; margin-bottom: 15px;">Fully Insured</h3>
+                    <p style="color: var(--color-text-dim); line-height: 1.6;">Complete insurance coverage for
+                        stress-free vehicle transportation.</p>
+                </div>
+
+                <!-- Item 3 -->
+                <div class="glass-card" style="padding: 30px; text-align: center;">
+                    <div
+                        style="width: 70px; height: 70px; background: rgba(6, 182, 212, 0.1); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 20px;">
+                        <i class="fa-solid fa-user-shield" style="font-size: 1.8rem; color: var(--color-primary);"></i>
+                    </div>
+                    <h3 style="font-size: 1.3rem; margin-bottom: 15px;">Trained Professionals</h3>
+                    <p style="color: var(--color-text-dim); line-height: 1.6;">Expert team with years of experience in
+                        safe vehicle handling.</p>
+                </div>
+
+                <!-- Item 4 -->
+                <div class="glass-card" style="padding: 30px; text-align: center;">
+                    <div
+                        style="width: 70px; height: 70px; background: rgba(6, 182, 212, 0.1); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 20px;">
+                        <i class="fa-solid fa-tags" style="font-size: 1.8rem; color: var(--color-primary);"></i>
+                    </div>
+                    <h3 style="font-size: 1.3rem; margin-bottom: 15px;">Transparent Pricing</h3>
+                    <p style="color: var(--color-text-dim); line-height: 1.6;">No hidden charges. Clear, upfront pricing
+                        for all our services.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- FAQ Section -->
     <section class="faq" style="padding: 70px 0; position: relative;">
         <!-- Background Bloom -->
