@@ -6,7 +6,7 @@ $current_page = basename($_SERVER['PHP_SELF']);
         <div class="container" style="display: flex; justify-content: space-between; align-items: center;">
             <div class="logo"
                 style="font-size: 1.8rem; font-weight: 800; color: var(--color-primary); letter-spacing: -1px;">
-                VAHAN MOVER<span style="color: var(--color-text-white);">.</span>
+                VAHAN MOVER
             </div>
             <div class="nav-links" style="display: flex; gap: 30px;">
                 <a href="index.php"

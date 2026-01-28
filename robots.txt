@@ -10,5 +10,4 @@ Disallow: /html_backup/
 # Sitemap location
 Sitemap: https://vahanmover.com/sitemap.xml
 
-# Crawl-delay for polite crawling
-Crawl-delay: 1
+
