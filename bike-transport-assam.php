@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Assam | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in Assam covering Guwahati, Dibrugarh, Silchar, Jorhat, and all districts. Safe, insured door-to-door bike shifting.">
     <meta name="keywords"
-        content="bike transport assam, bike shifting guwahati, two wheeler transport dibrugarh, bike courier silchar, bike relocation jorhat, motorcycle transport assam">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport assam, bike shifting guwahati, two wheeler transport dibrugarh, bike courier silchar, bike relocation jorhat, motorcycle transport assam">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

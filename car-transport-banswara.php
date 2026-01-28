@@ -4,15 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Car Transport in Banswara | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Banswara. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport banswara, car shifting banswara, vehicle transport banswara, car carrier banswara, car relocation banswara">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <meta name="keywords" content="car transport banswara, car shifting banswara, vehicle transport banswara, car carrier banswara, car relocation banswara">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

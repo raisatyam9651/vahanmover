@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Kamrup Metropolitan | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in Kamrup Metropolitan. Safe, insured door-to-door bike shifting to and from Kamrup Metropolitan to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kamrup-metropolitan, bike shifting kamrup-metropolitan, two wheeler transport kamrup-metropolitan, bike courier service kamrup-metropolitan, bike relocation kamrup-metropolitan, motorcycle transport kamrup-metropolitan">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport kamrup-metropolitan, bike shifting kamrup-metropolitan, two wheeler transport kamrup-metropolitan, bike courier service kamrup-metropolitan, bike relocation kamrup-metropolitan, motorcycle transport kamrup-metropolitan">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

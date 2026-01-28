@@ -4,16 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Car Transport in Nagaland | Safe Vehicle Shifting Services</title>
     <meta name="description"
         content="Professional car transport service in Nagaland covering Kohima, Dimapur, Mokokchung, Wokha, Mon, and all districts. Safe, insured door-to-door car shifting.">
-    <meta name="keywords" content="car transport nagaland, car transport chumoukedima, car transport dimapur, car transport kiphire, car transport kohima, car transport longleng, car transport mokokchung, car transport mon, car transport niuland, car transport noklak, car transport peren, car transport phek, car transport shamator, car transport tseminyu, car transport tuensang, car transport wokha, car transport zunheboto, car shifting nagaland, vehicle transport nagaland, car carrier kohima, car relocation dimapur">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <meta name="keywords" content="car transport nagaland, car transport chumoukedima, car transport dimapur, car transport kiphire, car transport kohima, car transport longleng, car transport mokokchung, car transport mon, car transport niuland, car transport noklak, car transport peren, car transport phek, car transport shamator, car transport tseminyu, car transport tuensang, car transport wokha, car transport zunheboto, car shifting nagaland, vehicle transport nagaland, car carrier kohima, car relocation dimapur">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

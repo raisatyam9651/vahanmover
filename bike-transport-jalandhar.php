@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Jalandhar | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in Jalandhar. Safe, insured door-to-door bike shifting to and from Jalandhar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport jalandhar, bike shifting jalandhar, two wheeler transport jalandhar, bike courier service jalandhar, bike relocation jalandhar, motorcycle transport jalandhar">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport jalandhar, bike shifting jalandhar, two wheeler transport jalandhar, bike courier service jalandhar, bike relocation jalandhar, motorcycle transport jalandhar">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

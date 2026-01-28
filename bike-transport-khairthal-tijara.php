@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Khairthal-Tijara | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in Khairthal-Tijara. Safe, insured door-to-door bike shifting to and from Khairthal-Tijara to anywhere in India.">
     <meta name="keywords"
-        content="bike transport khairthal-tijara, bike shifting khairthal-tijara, two wheeler transport khairthal-tijara, bike courier service khairthal-tijara, bike relocation khairthal-tijara, motorcycle transport khairthal-tijara">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport khairthal-tijara, bike shifting khairthal-tijara, two wheeler transport khairthal-tijara, bike courier service khairthal-tijara, bike relocation khairthal-tijara, motorcycle transport khairthal-tijara">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

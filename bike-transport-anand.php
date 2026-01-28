@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Anand | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in Anand. Safe, insured door-to-door bike shifting to and from Anand to anywhere in India.">
     <meta name="keywords"
-        content="bike transport anand, bike shifting anand, two wheeler transport anand, bike courier service anand, bike relocation anand, motorcycle transport anand">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport anand, bike shifting anand, two wheeler transport anand, bike courier service anand, bike relocation anand, motorcycle transport anand">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

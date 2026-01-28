@@ -4,16 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Car Transport in Telangana | Safe Vehicle Shifting Services</title>
     <meta name="description"
         content="Professional car transport service in Telangana covering Hyderabad, Warangal, Nizamabad, Karimnagar, Khammam, and all districts. Safe, insured door-to-door car shifting.">
-    <meta name="keywords" content="car transport telangana, car transport adilabad, car transport bhadradri kothagudem, car transport hanumakonda, car transport hyderabad, car transport jagtial, car transport jangaon, car transport jayashankar bhupalpally, car transport jogulamba gadwal, car transport kamareddy, car transport karimnagar, car transport khammam, car transport komaram bheem asifabad, car transport mahabubabad, car transport mahabubnagar, car transport mancherial, car transport medak, car transport medchal-malkajgiri, car transport mulugu, car transport nagarkurnool, car transport nalgonda, car transport narayanpet, car transport nirmal, car transport nizamabad, car transport peddapalli, car transport rajanna sircilla, car transport rangareddy, car transport sangareddy, car transport siddipet, car transport suryapet, car transport vikarabad, car transport wanaparthy, car transport warangal, car transport yadadri bhuvanagiri, car shifting telangana, vehicle transport telangana, car carrier hyderabad, car relocation warangal">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <meta name="keywords" content="car transport telangana, car transport adilabad, car transport bhadradri kothagudem, car transport hanumakonda, car transport hyderabad, car transport jagtial, car transport jangaon, car transport jayashankar bhupalpally, car transport jogulamba gadwal, car transport kamareddy, car transport karimnagar, car transport khammam, car transport komaram bheem asifabad, car transport mahabubabad, car transport mahabubnagar, car transport mancherial, car transport medak, car transport medchal-malkajgiri, car transport mulugu, car transport nagarkurnool, car transport nalgonda, car transport narayanpet, car transport nirmal, car transport nizamabad, car transport peddapalli, car transport rajanna sircilla, car transport rangareddy, car transport sangareddy, car transport siddipet, car transport suryapet, car transport vikarabad, car transport wanaparthy, car transport warangal, car transport yadadri bhuvanagiri, car shifting telangana, vehicle transport telangana, car carrier hyderabad, car relocation warangal">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -3,13 +3,9 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact Us | Vahan Mover - Pan-India Car & Bike Transport</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">    <title>Contact Us | Vahan Mover - Pan-India Car & Bike Transport</title>
     <meta name="description"
-        content="Get in touch with Vahan Mover for reliable car and bike shifting services across India. Request a free quote or call us for instant assistance.">
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="Get in touch with Vahan Mover for reliable car and bike shifting services across India. Request a free quote or call us for instant assistance.">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

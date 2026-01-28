@@ -4,15 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Car Transport in Ramanagara | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Ramanagara. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport ramanagara, car shifting ramanagara, vehicle transport ramanagara, car carrier ramanagara, car relocation ramanagara">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <meta name="keywords" content="car transport ramanagara, car shifting ramanagara, vehicle transport ramanagara, car carrier ramanagara, car relocation ramanagara">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

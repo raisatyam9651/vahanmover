@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Guna | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in Guna. Safe, insured door-to-door bike shifting to and from Guna to anywhere in India.">
     <meta name="keywords"
-        content="bike transport guna, bike shifting guna, two wheeler transport guna, bike courier service guna, bike relocation guna, motorcycle transport guna">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport guna, bike shifting guna, two wheeler transport guna, bike courier service guna, bike relocation guna, motorcycle transport guna">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

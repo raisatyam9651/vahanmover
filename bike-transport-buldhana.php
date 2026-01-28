@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Buldhana | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in Buldhana. Safe, insured door-to-door bike shifting to and from Buldhana to anywhere in India.">
     <meta name="keywords"
-        content="bike transport buldhana, bike shifting buldhana, two wheeler transport buldhana, bike courier service buldhana, bike relocation buldhana, motorcycle transport buldhana">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport buldhana, bike shifting buldhana, two wheeler transport buldhana, bike courier service buldhana, bike relocation buldhana, motorcycle transport buldhana">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

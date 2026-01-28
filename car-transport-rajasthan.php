@@ -4,16 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Car Transport in Rajasthan | Safe Vehicle Shifting Services</title>
     <meta name="description"
         content="Professional car transport service in Rajasthan covering Jaipur, Jodhpur, Udaipur, Kota, Ajmer, Bikaner, and all districts. Safe, insured door-to-door car shifting.">
-    <meta name="keywords" content="car transport rajasthan, car transport ajmer, car transport alwar, car transport anupgarh, car transport balotra, car transport banswara, car transport baran, car transport barmer, car transport beawar, car transport bharatpur, car transport bhilwara, car transport bikaner, car transport bundi, car transport chittorgarh, car transport churu, car transport dausa, car transport deeg, car transport dholpur, car transport didwana-kuchaman, car transport dudu, car transport dungarpur, car transport ganganagar, car transport gangapur city, car transport hanumangarh, car transport jaipur, car transport jaipur rural, car transport jaisalmer, car transport jalore, car transport jhalawar, car transport jhunjhunu, car transport jodhpur, car transport jodhpur rural, car transport karauli, car transport kekri, car transport khairthal-tijara, car transport kota, car transport kotputli-behror, car transport nagaur, car transport neem ka thana, car transport pali, car transport phalodi, car transport pratapgarh, car transport rajsamand, car transport salumbar, car transport sanchore, car transport sawai madhopur, car transport shahpura, car transport sikar, car transport sirohi, car transport tonk, car transport udaipur, car shifting rajasthan, vehicle transport rajasthan, car carrier jaipur, car relocation jodhpur">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <meta name="keywords" content="car transport rajasthan, car transport ajmer, car transport alwar, car transport anupgarh, car transport balotra, car transport banswara, car transport baran, car transport barmer, car transport beawar, car transport bharatpur, car transport bhilwara, car transport bikaner, car transport bundi, car transport chittorgarh, car transport churu, car transport dausa, car transport deeg, car transport dholpur, car transport didwana-kuchaman, car transport dudu, car transport dungarpur, car transport ganganagar, car transport gangapur city, car transport hanumangarh, car transport jaipur, car transport jaipur rural, car transport jaisalmer, car transport jalore, car transport jhalawar, car transport jhunjhunu, car transport jodhpur, car transport jodhpur rural, car transport karauli, car transport kekri, car transport khairthal-tijara, car transport kota, car transport kotputli-behror, car transport nagaur, car transport neem ka thana, car transport pali, car transport phalodi, car transport pratapgarh, car transport rajsamand, car transport salumbar, car transport sanchore, car transport sawai madhopur, car transport shahpura, car transport sikar, car transport sirohi, car transport tonk, car transport udaipur, car shifting rajasthan, vehicle transport rajasthan, car carrier jaipur, car relocation jodhpur">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

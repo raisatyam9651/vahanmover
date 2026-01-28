@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Chhota Udaipur | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in Chhota Udaipur. Safe, insured door-to-door bike shifting to and from Chhota Udaipur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport chhota-udaipur, bike shifting chhota-udaipur, two wheeler transport chhota-udaipur, bike courier service chhota-udaipur, bike relocation chhota-udaipur, motorcycle transport chhota-udaipur">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport chhota-udaipur, bike shifting chhota-udaipur, two wheeler transport chhota-udaipur, bike courier service chhota-udaipur, bike relocation chhota-udaipur, motorcycle transport chhota-udaipur">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Araria | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in Araria. Safe, insured door-to-door bike shifting to and from Araria to anywhere in India.">
     <meta name="keywords"
-        content="bike transport araria, bike shifting araria, two wheeler transport araria, bike courier service araria, bike relocation araria, motorcycle transport araria">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport araria, bike shifting araria, two wheeler transport araria, bike courier service araria, bike relocation araria, motorcycle transport araria">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

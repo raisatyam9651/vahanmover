@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Perambalur | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in Perambalur. Safe, insured door-to-door bike shifting to and from Perambalur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport perambalur, bike shifting perambalur, two wheeler transport perambalur, bike courier service perambalur, bike relocation perambalur, motorcycle transport perambalur">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport perambalur, bike shifting perambalur, two wheeler transport perambalur, bike courier service perambalur, bike relocation perambalur, motorcycle transport perambalur">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

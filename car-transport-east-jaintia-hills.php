@@ -4,15 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Car Transport in East Jaintia Hills | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in East Jaintia Hills. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport east jaintia hills, car shifting east jaintia hills, vehicle transport east jaintia hills, car carrier east jaintia hills, car relocation east jaintia hills">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <meta name="keywords" content="car transport east jaintia hills, car shifting east jaintia hills, vehicle transport east jaintia hills, car carrier east jaintia hills, car relocation east jaintia hills">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Devbhoomi Dwarka | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in Devbhoomi Dwarka. Safe, insured door-to-door bike shifting to and from Devbhoomi Dwarka to anywhere in India.">
     <meta name="keywords"
-        content="bike transport devbhoomi-dwarka, bike shifting devbhoomi-dwarka, two wheeler transport devbhoomi-dwarka, bike courier service devbhoomi-dwarka, bike relocation devbhoomi-dwarka, motorcycle transport devbhoomi-dwarka">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport devbhoomi-dwarka, bike shifting devbhoomi-dwarka, two wheeler transport devbhoomi-dwarka, bike courier service devbhoomi-dwarka, bike relocation devbhoomi-dwarka, motorcycle transport devbhoomi-dwarka">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Car Transport Service in India | Reliable Car Carrier & Relocation</title>
     <meta name="description"
         content="Looking for a reliable car transport service in India? We offer safe, enclosed car carriers, door-to-door car shifting, and vehicle relocation services across all major cities.">
     <meta name="keywords"
-        content="car transport service in india, car carriers india, auto transportation india, car shipping services, vehicle relocation, enclosed car transport, car moving services, door-to-door car transport">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="car transport service in india, car carriers india, auto transportation india, car shipping services, vehicle relocation, enclosed car transport, car moving services, door-to-door car transport">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

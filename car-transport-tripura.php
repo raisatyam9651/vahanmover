@@ -4,16 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Car Transport in Tripura | Safe Vehicle Shifting Services</title>
     <meta name="description"
         content="Professional car transport service in Tripura covering Agartala, Dharmanagar, Udaipur, Ambassa, and all districts. Safe, insured door-to-door car shifting.">
-    <meta name="keywords" content="car transport tripura, car transport dhalai, car transport gomati, car transport khowai, car transport north tripura, car transport sepahijala, car transport south tripura, car transport unakoti, car transport west tripura, car shifting tripura, vehicle transport tripura, car carrier agartala">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <meta name="keywords" content="car transport tripura, car transport dhalai, car transport gomati, car transport khowai, car transport north tripura, car transport sepahijala, car transport south tripura, car transport unakoti, car transport west tripura, car shifting tripura, vehicle transport tripura, car carrier agartala">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

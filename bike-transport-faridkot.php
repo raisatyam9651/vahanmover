@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Faridkot | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in Faridkot. Safe, insured door-to-door bike shifting to and from Faridkot to anywhere in India.">
     <meta name="keywords"
-        content="bike transport faridkot, bike shifting faridkot, two wheeler transport faridkot, bike courier service faridkot, bike relocation faridkot, motorcycle transport faridkot">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport faridkot, bike shifting faridkot, two wheeler transport faridkot, bike courier service faridkot, bike relocation faridkot, motorcycle transport faridkot">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

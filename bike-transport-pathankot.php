@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Pathankot | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in Pathankot. Safe, insured door-to-door bike shifting to and from Pathankot to anywhere in India.">
     <meta name="keywords"
-        content="bike transport pathankot, bike shifting pathankot, two wheeler transport pathankot, bike courier service pathankot, bike relocation pathankot, motorcycle transport pathankot">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport pathankot, bike shifting pathankot, two wheeler transport pathankot, bike courier service pathankot, bike relocation pathankot, motorcycle transport pathankot">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

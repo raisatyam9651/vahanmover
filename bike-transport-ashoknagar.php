@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Ashoknagar | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in Ashoknagar. Safe, insured door-to-door bike shifting to and from Ashoknagar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport ashoknagar, bike shifting ashoknagar, two wheeler transport ashoknagar, bike courier service ashoknagar, bike relocation ashoknagar, motorcycle transport ashoknagar">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport ashoknagar, bike shifting ashoknagar, two wheeler transport ashoknagar, bike courier service ashoknagar, bike relocation ashoknagar, motorcycle transport ashoknagar">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

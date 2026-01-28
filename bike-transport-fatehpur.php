@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Fatehpur | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in Fatehpur. Safe, insured door-to-door bike shifting to and from Fatehpur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport fatehpur, bike shifting fatehpur, two wheeler transport fatehpur, bike courier service fatehpur, bike relocation fatehpur, motorcycle transport fatehpur">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport fatehpur, bike shifting fatehpur, two wheeler transport fatehpur, bike courier service fatehpur, bike relocation fatehpur, motorcycle transport fatehpur">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

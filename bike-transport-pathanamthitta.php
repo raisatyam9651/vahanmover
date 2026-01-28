@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Pathanamthitta | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in Pathanamthitta. Safe, insured door-to-door bike shifting to and from Pathanamthitta to anywhere in India.">
     <meta name="keywords"
-        content="bike transport pathanamthitta, bike shifting pathanamthitta, two wheeler transport pathanamthitta, bike courier service pathanamthitta, bike relocation pathanamthitta, motorcycle transport pathanamthitta">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport pathanamthitta, bike shifting pathanamthitta, two wheeler transport pathanamthitta, bike courier service pathanamthitta, bike relocation pathanamthitta, motorcycle transport pathanamthitta">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

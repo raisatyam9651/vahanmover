@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Vikarabad | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in Vikarabad. Safe, insured door-to-door bike shifting to and from Vikarabad to anywhere in India.">
     <meta name="keywords"
-        content="bike transport vikarabad, bike shifting vikarabad, two wheeler transport vikarabad, bike courier service vikarabad, bike relocation vikarabad, motorcycle transport vikarabad">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport vikarabad, bike shifting vikarabad, two wheeler transport vikarabad, bike courier service vikarabad, bike relocation vikarabad, motorcycle transport vikarabad">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

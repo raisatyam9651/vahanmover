@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Unakoti | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in Unakoti. Safe, insured door-to-door bike shifting to and from Unakoti to anywhere in India.">
     <meta name="keywords"
-        content="bike transport unakoti, bike shifting unakoti, two wheeler transport unakoti, bike courier service unakoti, bike relocation unakoti, motorcycle transport unakoti">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport unakoti, bike shifting unakoti, two wheeler transport unakoti, bike courier service unakoti, bike relocation unakoti, motorcycle transport unakoti">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

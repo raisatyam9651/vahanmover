@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Sanchore | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in Sanchore. Safe, insured door-to-door bike shifting to and from Sanchore to anywhere in India.">
     <meta name="keywords"
-        content="bike transport sanchore, bike shifting sanchore, two wheeler transport sanchore, bike courier service sanchore, bike relocation sanchore, motorcycle transport sanchore">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport sanchore, bike shifting sanchore, two wheeler transport sanchore, bike courier service sanchore, bike relocation sanchore, motorcycle transport sanchore">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

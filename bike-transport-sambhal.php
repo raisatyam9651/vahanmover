@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Sambhal | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in Sambhal. Safe, insured door-to-door bike shifting to and from Sambhal to anywhere in India.">
     <meta name="keywords"
-        content="bike transport sambhal, bike shifting sambhal, two wheeler transport sambhal, bike courier service sambhal, bike relocation sambhal, motorcycle transport sambhal">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport sambhal, bike shifting sambhal, two wheeler transport sambhal, bike courier service sambhal, bike relocation sambhal, motorcycle transport sambhal">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

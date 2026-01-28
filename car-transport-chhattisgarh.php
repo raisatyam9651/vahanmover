@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Car Transport in Chhattisgarh | Safe Vehicle Shifting Services</title>
     <meta name="description"
         content="Professional car transport service in Chhattisgarh covering Raipur, Bilaspur, Durg, Bhilai, Korba, and all districts. Safe, insured door-to-door car shifting.">
     <meta name="keywords"
-        content="car transport chhattisgarh, car shifting raipur, vehicle transport bilaspur, car carrier durg, car relocation bhilai, auto transport chhattisgarh">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="car transport chhattisgarh, car shifting raipur, vehicle transport bilaspur, car carrier durg, car relocation bhilai, auto transport chhattisgarh">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

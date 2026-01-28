@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Fazilka | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in Fazilka. Safe, insured door-to-door bike shifting to and from Fazilka to anywhere in India.">
     <meta name="keywords"
-        content="bike transport fazilka, bike shifting fazilka, two wheeler transport fazilka, bike courier service fazilka, bike relocation fazilka, motorcycle transport fazilka">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport fazilka, bike shifting fazilka, two wheeler transport fazilka, bike courier service fazilka, bike relocation fazilka, motorcycle transport fazilka">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

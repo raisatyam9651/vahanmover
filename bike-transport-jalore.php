@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Jalore | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in Jalore. Safe, insured door-to-door bike shifting to and from Jalore to anywhere in India.">
     <meta name="keywords"
-        content="bike transport jalore, bike shifting jalore, two wheeler transport jalore, bike courier service jalore, bike relocation jalore, motorcycle transport jalore">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport jalore, bike shifting jalore, two wheeler transport jalore, bike courier service jalore, bike relocation jalore, motorcycle transport jalore">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

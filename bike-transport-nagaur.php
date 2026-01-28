@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Nagaur | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in Nagaur. Safe, insured door-to-door bike shifting to and from Nagaur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport nagaur, bike shifting nagaur, two wheeler transport nagaur, bike courier service nagaur, bike relocation nagaur, motorcycle transport nagaur">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport nagaur, bike shifting nagaur, two wheeler transport nagaur, bike courier service nagaur, bike relocation nagaur, motorcycle transport nagaur">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

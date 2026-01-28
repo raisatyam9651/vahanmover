@@ -4,15 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Car Transport in Bengaluru Urban | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Bengaluru Urban. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport bengaluru urban, car shifting bengaluru urban, vehicle transport bengaluru urban, car carrier bengaluru urban, car relocation bengaluru urban">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <meta name="keywords" content="car transport bengaluru urban, car shifting bengaluru urban, vehicle transport bengaluru urban, car carrier bengaluru urban, car relocation bengaluru urban">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

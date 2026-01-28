@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Car Transport in Karnataka | Safe Vehicle Shifting Services</title>
     <meta name="description"
         content="Professional car transport service in Karnataka covering Bengaluru, Mysuru, Mangaluru, Hubli, Belagavi, and all districts. Safe, insured door-to-door car shifting.">
     <meta name="keywords"
-        content="car transport karnataka, car shifting bengaluru, vehicle transport mysuru, car carrier mangaluru, car relocation hubli, auto transport karnataka">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="car transport karnataka, car shifting bengaluru, vehicle transport mysuru, car carrier mangaluru, car relocation hubli, auto transport karnataka">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Neem Ka Thana | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in Neem Ka Thana. Safe, insured door-to-door bike shifting to and from Neem Ka Thana to anywhere in India.">
     <meta name="keywords"
-        content="bike transport neem-ka-thana, bike shifting neem-ka-thana, two wheeler transport neem-ka-thana, bike courier service neem-ka-thana, bike relocation neem-ka-thana, motorcycle transport neem-ka-thana">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport neem-ka-thana, bike shifting neem-ka-thana, two wheeler transport neem-ka-thana, bike courier service neem-ka-thana, bike relocation neem-ka-thana, motorcycle transport neem-ka-thana">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

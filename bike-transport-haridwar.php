@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Haridwar | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in Haridwar. Safe, insured door-to-door bike shifting to and from Haridwar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport haridwar, bike shifting haridwar, two wheeler transport haridwar, bike courier service haridwar, bike relocation haridwar, motorcycle transport haridwar">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport haridwar, bike shifting haridwar, two wheeler transport haridwar, bike courier service haridwar, bike relocation haridwar, motorcycle transport haridwar">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

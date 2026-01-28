@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Car Transport in Gujarat | Safe Vehicle Shifting Services</title>
     <meta name="description"
         content="Professional car transport service in Gujarat covering Ahmedabad, Surat, Vadodara, Rajkot, Gandhinagar, and all districts. Safe, insured door-to-door car shifting.">
     <meta name="keywords"
-        content="car transport gujarat, car shifting ahmedabad, vehicle transport surat, car carrier vadodara, car relocation rajkot, auto transport gujarat">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="car transport gujarat, car shifting ahmedabad, vehicle transport surat, car carrier vadodara, car relocation rajkot, auto transport gujarat">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Sheikhpura | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in Sheikhpura. Safe, insured door-to-door bike shifting to and from Sheikhpura to anywhere in India.">
     <meta name="keywords"
-        content="bike transport sheikhpura, bike shifting sheikhpura, two wheeler transport sheikhpura, bike courier service sheikhpura, bike relocation sheikhpura, motorcycle transport sheikhpura">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport sheikhpura, bike shifting sheikhpura, two wheeler transport sheikhpura, bike courier service sheikhpura, bike relocation sheikhpura, motorcycle transport sheikhpura">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

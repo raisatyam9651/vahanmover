@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Jhunjhunu | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in Jhunjhunu. Safe, insured door-to-door bike shifting to and from Jhunjhunu to anywhere in India.">
     <meta name="keywords"
-        content="bike transport jhunjhunu, bike shifting jhunjhunu, two wheeler transport jhunjhunu, bike courier service jhunjhunu, bike relocation jhunjhunu, motorcycle transport jhunjhunu">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport jhunjhunu, bike shifting jhunjhunu, two wheeler transport jhunjhunu, bike courier service jhunjhunu, bike relocation jhunjhunu, motorcycle transport jhunjhunu">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

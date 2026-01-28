@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Telangana | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in Telangana covering Hyderabad, Warangal, Nizamabad, Karimnagar, and all districts. Safe, insured door-to-door bike shifting.">
     <meta name="keywords"
-        content="bike transport telangana, bike shifting hyderabad, two wheeler transport warangal, bike courier nizamabad, bike relocation karimnagar, motorcycle transport telangana">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport telangana, bike shifting hyderabad, two wheeler transport warangal, bike courier nizamabad, bike relocation karimnagar, motorcycle transport telangana">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

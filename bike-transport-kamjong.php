@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Kamjong | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in Kamjong. Safe, insured door-to-door bike shifting to and from Kamjong to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kamjong, bike shifting kamjong, two wheeler transport kamjong, bike courier service kamjong, bike relocation kamjong, motorcycle transport kamjong">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport kamjong, bike shifting kamjong, two wheeler transport kamjong, bike courier service kamjong, bike relocation kamjong, motorcycle transport kamjong">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Car Transport in Andhra Pradesh | Safe Vehicle Shifting Services</title>
     <meta name="description"
         content="Professional car transport service in Andhra Pradesh covering Visakhapatnam, Vijayawada, Tirupati, Guntur, and all districts. Safe, insured door-to-door car shifting.">
     <meta name="keywords"
-        content="car transport andhra pradesh, car shifting visakhapatnam, vehicle transport vijayawada, car carrier tirupati, car relocation guntur, auto transport andhra pradesh">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="car transport andhra pradesh, car shifting visakhapatnam, vehicle transport vijayawada, car carrier tirupati, car relocation guntur, auto transport andhra pradesh">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

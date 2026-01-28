@@ -4,16 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Car Transport in Tamil Nadu | Safe Vehicle Shifting Services</title>
     <meta name="description"
         content="Professional car transport service in Tamil Nadu covering Chennai, Coimbatore, Madurai, Tiruchirappalli, Salem, and all districts. Safe, insured door-to-door car shifting.">
-    <meta name="keywords" content="car transport tamil nadu, car transport ariyalur, car transport chengalpattu, car transport chennai, car transport coimbatore, car transport cuddalore, car transport dharmapuri, car transport dindigul, car transport erode, car transport kallakurichi, car transport kancheepuram, car transport karur, car transport krishnagiri, car transport madurai, car transport mayiladuthurai, car transport nagapattinam, car transport namakkal, car transport nilgiris, car transport perambalur, car transport pudukkottai, car transport ramanathapuram, car transport ranipet, car transport salem, car transport sivaganga, car transport tenkasi, car transport thanjavur, car transport theni, car transport thoothukudi, car transport tiruchirappalli, car transport tirunelveli, car transport tirupathur, car transport tiruppur, car transport tiruvallur, car transport tiruvannamalai, car transport tiruvarur, car transport vellore, car transport viluppuram, car transport virudhunagar, car shifting tamil nadu, vehicle transport tamil nadu, car carrier chennai, car relocation coimbatore">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <meta name="keywords" content="car transport tamil nadu, car transport ariyalur, car transport chengalpattu, car transport chennai, car transport coimbatore, car transport cuddalore, car transport dharmapuri, car transport dindigul, car transport erode, car transport kallakurichi, car transport kancheepuram, car transport karur, car transport krishnagiri, car transport madurai, car transport mayiladuthurai, car transport nagapattinam, car transport namakkal, car transport nilgiris, car transport perambalur, car transport pudukkottai, car transport ramanathapuram, car transport ranipet, car transport salem, car transport sivaganga, car transport tenkasi, car transport thanjavur, car transport theni, car transport thoothukudi, car transport tiruchirappalli, car transport tirunelveli, car transport tirupathur, car transport tiruppur, car transport tiruvallur, car transport tiruvannamalai, car transport tiruvarur, car transport vellore, car transport viluppuram, car transport virudhunagar, car shifting tamil nadu, vehicle transport tamil nadu, car carrier chennai, car relocation coimbatore">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

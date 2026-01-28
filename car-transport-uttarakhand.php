@@ -4,16 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Car Transport in Uttarakhand | Safe Vehicle Shifting Services</title>
     <meta name="description"
         content="Professional car transport service in Uttarakhand covering Dehradun, Haridwar, Nainital, Rishikesh, Roorkee, and all districts. Safe, insured door-to-door car shifting.">
-    <meta name="keywords" content="car transport uttarakhand, car transport almora, car transport bageshwar, car transport chamoli, car transport champawat, car transport dehradun, car transport haridwar, car transport nainital, car transport pauri garhwal, car transport pithoragarh, car transport rudraprayag, car transport tehri garhwal, car transport udham singh nagar, car transport uttarkashi, car shifting uttarakhand, vehicle transport uttarakhand, car carrier dehradun, car relocation haridwar">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <meta name="keywords" content="car transport uttarakhand, car transport almora, car transport bageshwar, car transport chamoli, car transport champawat, car transport dehradun, car transport haridwar, car transport nainital, car transport pauri garhwal, car transport pithoragarh, car transport rudraprayag, car transport tehri garhwal, car transport udham singh nagar, car transport uttarkashi, car shifting uttarakhand, vehicle transport uttarakhand, car carrier dehradun, car relocation haridwar">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

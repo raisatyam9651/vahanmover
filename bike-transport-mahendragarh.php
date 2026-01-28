@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Mahendragarh | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in Mahendragarh. Safe, insured door-to-door bike shifting to and from Mahendragarh to anywhere in India.">
     <meta name="keywords"
-        content="bike transport mahendragarh, bike shifting mahendragarh, two wheeler transport mahendragarh, bike courier service mahendragarh, bike relocation mahendragarh, motorcycle transport mahendragarh">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport mahendragarh, bike shifting mahendragarh, two wheeler transport mahendragarh, bike courier service mahendragarh, bike relocation mahendragarh, motorcycle transport mahendragarh">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

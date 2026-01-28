@@ -4,16 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Car Transport in West Bengal | Safe Vehicle Shifting Services</title>
     <meta name="description"
         content="Professional car transport service in West Bengal covering Kolkata, Howrah, Darjeeling, Siliguri, Durgapur, and all districts. Safe, insured door-to-door car shifting.">
-    <meta name="keywords" content="car transport west bengal, car transport alipurduar, car transport bankura, car transport birbhum, car transport cooch behar, car transport dakshin dinajpur, car transport darjeeling, car transport hooghly, car transport howrah, car transport jalpaiguri, car transport jhargram, car transport kalimpong, car transport kolkata, car transport malda, car transport murshidabad, car transport nadia, car transport north 24 parganas, car transport paschim bardhaman, car transport paschim medinipur, car transport purba bardhaman, car transport purba medinipur, car transport purulia, car transport south 24 parganas, car transport uttar dinajpur, car shifting west bengal, vehicle transport west bengal, car carrier kolkata, car relocation howrah">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <meta name="keywords" content="car transport west bengal, car transport alipurduar, car transport bankura, car transport birbhum, car transport cooch behar, car transport dakshin dinajpur, car transport darjeeling, car transport hooghly, car transport howrah, car transport jalpaiguri, car transport jhargram, car transport kalimpong, car transport kolkata, car transport malda, car transport murshidabad, car transport nadia, car transport north 24 parganas, car transport paschim bardhaman, car transport paschim medinipur, car transport purba bardhaman, car transport purba medinipur, car transport purulia, car transport south 24 parganas, car transport uttar dinajpur, car shifting west bengal, vehicle transport west bengal, car carrier kolkata, car relocation howrah">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

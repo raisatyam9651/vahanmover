@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Aurangabad | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in Aurangabad. Safe, insured door-to-door bike shifting to and from Aurangabad to anywhere in India.">
     <meta name="keywords"
-        content="bike transport aurangabad, bike shifting aurangabad, two wheeler transport aurangabad, bike courier service aurangabad, bike relocation aurangabad, motorcycle transport aurangabad">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport aurangabad, bike shifting aurangabad, two wheeler transport aurangabad, bike courier service aurangabad, bike relocation aurangabad, motorcycle transport aurangabad">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

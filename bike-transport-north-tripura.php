@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in North Tripura | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in North Tripura. Safe, insured door-to-door bike shifting to and from North Tripura to anywhere in India.">
     <meta name="keywords"
-        content="bike transport north-tripura, bike shifting north-tripura, two wheeler transport north-tripura, bike courier service north-tripura, bike relocation north-tripura, motorcycle transport north-tripura">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport north-tripura, bike shifting north-tripura, two wheeler transport north-tripura, bike courier service north-tripura, bike relocation north-tripura, motorcycle transport north-tripura">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Amreli | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in Amreli. Safe, insured door-to-door bike shifting to and from Amreli to anywhere in India.">
     <meta name="keywords"
-        content="bike transport amreli, bike shifting amreli, two wheeler transport amreli, bike courier service amreli, bike relocation amreli, motorcycle transport amreli">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport amreli, bike shifting amreli, two wheeler transport amreli, bike courier service amreli, bike relocation amreli, motorcycle transport amreli">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Kalahandi | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in Kalahandi. Safe, insured door-to-door bike shifting to and from Kalahandi to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kalahandi, bike shifting kalahandi, two wheeler transport kalahandi, bike courier service kalahandi, bike relocation kalahandi, motorcycle transport kalahandi">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport kalahandi, bike shifting kalahandi, two wheeler transport kalahandi, bike courier service kalahandi, bike relocation kalahandi, motorcycle transport kalahandi">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -4,7 +4,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Kra
                                 Daadi | Safe Two-Wheeler Shifting Services</title>
@@ -19,11 +18,7 @@
 -daadi, bike courier service kra
 -daadi, bike relocation kra
 -daadi, motorcycle transport kra
--daadi">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+-daadi">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

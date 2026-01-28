@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Janjgir-Champa | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in Janjgir-Champa. Safe, insured door-to-door bike shifting to and from Janjgir-Champa to anywhere in India.">
     <meta name="keywords"
-        content="bike transport janjgir-champa, bike shifting janjgir-champa, two wheeler transport janjgir-champa, bike courier service janjgir-champa, bike relocation janjgir-champa, motorcycle transport janjgir-champa">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport janjgir-champa, bike shifting janjgir-champa, two wheeler transport janjgir-champa, bike courier service janjgir-champa, bike relocation janjgir-champa, motorcycle transport janjgir-champa">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

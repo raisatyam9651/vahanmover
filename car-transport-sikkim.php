@@ -4,16 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Car Transport in Sikkim | Safe Vehicle Shifting Services</title>
     <meta name="description"
         content="Professional car transport service in Sikkim covering Gangtok, Namchi, Gyalshing, Mangan, and all districts. Safe, insured door-to-door car shifting.">
-    <meta name="keywords" content="car transport sikkim, car transport gangtok, car transport gyalshing, car transport mangan, car transport namchi, car transport pakyong, car transport soreng, car shifting sikkim, vehicle transport sikkim, car carrier gangtok, car relocation namchi">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <meta name="keywords" content="car transport sikkim, car transport gangtok, car transport gyalshing, car transport mangan, car transport namchi, car transport pakyong, car transport soreng, car shifting sikkim, vehicle transport sikkim, car carrier gangtok, car relocation namchi">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

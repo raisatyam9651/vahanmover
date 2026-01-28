@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Pakyong | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in Pakyong. Safe, insured door-to-door bike shifting to and from Pakyong to anywhere in India.">
     <meta name="keywords"
-        content="bike transport pakyong, bike shifting pakyong, two wheeler transport pakyong, bike courier service pakyong, bike relocation pakyong, motorcycle transport pakyong">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport pakyong, bike shifting pakyong, two wheeler transport pakyong, bike courier service pakyong, bike relocation pakyong, motorcycle transport pakyong">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

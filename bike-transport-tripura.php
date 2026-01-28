@@ -4,17 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <!-- SEO Meta Tags -->
     <title>Bike Transport in Tripura | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
         content="Professional bike transport service in Tripura covering Agartala, Dharmanagar, Udaipur, Ambassa, and all districts. Safe, insured door-to-door bike shifting.">
     <meta name="keywords"
-        content="bike transport tripura, bike shifting agartala, two wheeler transport dharmanagar, bike courier udaipur, bike relocation ambassa, motorcycle transport tripura">
-
-    <link rel="stylesheet" href="style.css">
-    <!-- Font Awesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        content="bike transport tripura, bike shifting agartala, two wheeler transport dharmanagar, bike courier udaipur, bike relocation ambassa, motorcycle transport tripura">    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>
