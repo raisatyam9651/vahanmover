@@ -51,7 +51,7 @@
                     packing, and real-time tracking for your peace of mind.
                 </p>
                 <div class="cta-container" style="display: flex; gap: 20px;">
-                    <a href="contact.php" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
+                    <a href="contact/" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
                     <a href="tel:+919876543210" class="btn btn-secondary"><i class="fa-solid fa-phone"></i> Call Now</a>
                 </div>
             </div>
@@ -591,7 +591,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-anakapalli.php"
+                            <a href="bike-transport-anakapalli/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
                                 transport in Anakapalli</a>
                         </li>
@@ -599,7 +599,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-anantapur.php"
+                            <a href="bike-transport-anantapur/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
                                 transport in Anantapur</a>
                         </li>
@@ -607,7 +607,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-alluri-sitarama-raju.php"
+                            <a href="bike-transport-alluri-sitarama-raju/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
                                 transport in Alluri Sitarama Raju</a>
                         </li>
@@ -615,7 +615,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-annamayya.php"
+                            <a href="bike-transport-annamayya/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
                                 transport in Annamayya</a>
                         </li>
@@ -623,7 +623,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-bapatla.php"
+                            <a href="bike-transport-bapatla/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
                                 transport in
                                 Bapatla</a>
@@ -632,7 +632,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-chittoor.php"
+                            <a href="bike-transport-chittoor/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
                                 transport in
                                 Chittoor</a>
@@ -641,7 +641,7 @@
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
                             <a href="bike-transport-dr-b-r
--ambedkar-konaseema.php" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Dr. B. R.
+-ambedkar-konaseema/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Dr. B. R.
                                 Ambedkar Konaseema</a>
                         </li>
                     </ul>
@@ -653,14 +653,14 @@
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
                             <a href="bike-transport-east
--godavari.php" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in East
+-godavari/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in East
                                 Godavari</a>
                         </li>
                         <li
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-eluru.php"
+                            <a href="bike-transport-eluru/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
                                 transport in
                                 Eluru</a>
@@ -669,7 +669,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-guntur.php"
+                            <a href="bike-transport-guntur/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
                                 transport in
                                 Guntur</a>
@@ -678,7 +678,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-kakinada.php"
+                            <a href="bike-transport-kakinada/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
                                 transport in
                                 Kakinada</a>
@@ -687,7 +687,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-krishna.php"
+                            <a href="bike-transport-krishna/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
                                 transport in
                                 Krishna</a>
@@ -696,7 +696,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-kurnool.php"
+                            <a href="bike-transport-kurnool/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
                                 transport in
                                 Kurnool</a>
@@ -704,7 +704,7 @@
                         <li style="padding: 10px 0; display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-nandyal.php"
+                            <a href="bike-transport-nandyal/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
                                 transport in
                                 Nandyal</a>
@@ -717,7 +717,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-nellore.php"
+                            <a href="bike-transport-nellore/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
                                 transport in
                                 Nellore</a>
@@ -726,7 +726,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-ntr.php"
+                            <a href="bike-transport-ntr/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
                                 transport in NTR</a>
                         </li>
@@ -734,7 +734,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-palnadu.php"
+                            <a href="bike-transport-palnadu/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
                                 transport in
                                 Palnadu</a>
@@ -743,7 +743,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-parvathipuram-manyam.php"
+                            <a href="bike-transport-parvathipuram-manyam/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
                                 transport in
                                 Parvathipuram Manyam</a>
@@ -752,7 +752,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-prakasam.php"
+                            <a href="bike-transport-prakasam/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
                                 transport in
                                 Prakasam</a>
@@ -761,7 +761,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-srikakulam.php"
+                            <a href="bike-transport-srikakulam/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
                                 transport in
                                 Srikakulam</a>
@@ -769,7 +769,7 @@
                         <li style="padding: 10px 0; display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-sri-sathya-sai.php"
+                            <a href="bike-transport-sri-sathya-sai/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
                                 transport in Sri Sathya Sai</a>
                         </li>
@@ -781,7 +781,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-tirupati.php"
+                            <a href="bike-transport-tirupati/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
                                 transport in
                                 Tirupati</a>
@@ -790,7 +790,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-visakhapatnam.php"
+                            <a href="bike-transport-visakhapatnam/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
                                 transport in
                                 Visakhapatnam</a>
@@ -799,7 +799,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-vizianagaram.php"
+                            <a href="bike-transport-vizianagaram/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
                                 transport in
                                 Vizianagaram</a>
@@ -808,14 +808,14 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-west-godavari.php"
+                            <a href="bike-transport-west-godavari/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
                                 transport in West Godavari</a>
                         </li>
                         <li style="padding: 10px 0; display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-ysr-kadapa.php"
+                            <a href="bike-transport-ysr-kadapa/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
                                 transport in YSR Kadapa</a>
                         </li>

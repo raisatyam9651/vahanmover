@@ -46,7 +46,7 @@
                     Looking for reliable <strong>bike transport in West Bengal</strong>? We provide professional two-wheeler shifting services across all districts including Kolkata, Siliguri, Durgapur, Asansol, Howrah, and more. Our <strong>bike shifting service in West Bengal</strong> offers complete door-to-door solutions with trained professionals, comprehensive insurance coverage, secure packing, and real-time tracking for your peace of mind.
                 </p>
                 <div class="cta-container" style="display: flex; gap: 20px;">
-                    <a href="contact.php" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
+                    <a href="contact/" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
                     <a href="tel:+919876543210" class="btn btn-secondary"><i class="fa-solid fa-phone"></i> Call Now</a>
                 </div>
             </div>

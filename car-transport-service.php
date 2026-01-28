@@ -51,7 +51,7 @@
                     stress-free experience.
                 </p>
                 <div class="cta-container" style="display: flex; gap: 20px;">
-                    <a href="contact.php" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
+                    <a href="contact/" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
                     <a href="tel:+919876543210" class="btn btn-secondary"><i class="fa-solid fa-phone"></i> Call Now</a>
                 </div>
             </div>
@@ -587,7 +587,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-andhra-pradesh.php"
+                            <a href="car-transport-andhra-pradesh/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car
                                 transport in Andhra
                                 Pradesh</a>
@@ -596,7 +596,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-arunachal-pradesh.php"
+                            <a href="car-transport-arunachal-pradesh/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car
                                 transport in Arunachal
                                 Pradesh</a>
@@ -605,7 +605,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-assam.php"
+                            <a href="car-transport-assam/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car
                                 transport in Assam</a>
                         </li>
@@ -613,7 +613,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-bihar.php"
+                            <a href="car-transport-bihar/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car
                                 transport in Bihar</a>
                         </li>
@@ -621,7 +621,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-chhattisgarh.php"
+                            <a href="car-transport-chhattisgarh/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car
                                 transport in
                                 Chhattisgarh</a>
@@ -630,14 +630,14 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-goa.php"
+                            <a href="car-transport-goa/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car
                                 transport in Goa</a>
                         </li>
                         <li style="padding: 10px 0; display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-gujarat.php"
+                            <a href="car-transport-gujarat/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car
                                 transport in
                                 Gujarat</a>
@@ -650,7 +650,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-haryana.php"
+                            <a href="car-transport-haryana/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car
                                 transport in
                                 Haryana</a>
@@ -659,7 +659,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-himachal-pradesh.php"
+                            <a href="car-transport-himachal-pradesh/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car
                                 transport in Himachal
                                 Pradesh</a>
@@ -668,7 +668,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-jharkhand.php"
+                            <a href="car-transport-jharkhand/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car
                                 transport in
                                 Jharkhand</a>
@@ -677,7 +677,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-karnataka.php"
+                            <a href="car-transport-karnataka/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car
                                 transport in
                                 Karnataka</a>
@@ -686,7 +686,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-kerala.php"
+                            <a href="car-transport-kerala/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car
                                 transport in
                                 Kerala</a>
@@ -695,7 +695,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-madhya-pradesh.php"
+                            <a href="car-transport-madhya-pradesh/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car
                                 transport in Madhya
                                 Pradesh</a>
@@ -703,7 +703,7 @@
                         <li style="padding: 10px 0; display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-maharashtra.php"
+                            <a href="car-transport-maharashtra/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car
                                 transport in
                                 Maharashtra</a>
@@ -716,7 +716,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-manipur.php"
+                            <a href="car-transport-manipur/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car
                                 transport in
                                 Manipur</a>
@@ -725,7 +725,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-meghalaya.php"
+                            <a href="car-transport-meghalaya/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car
                                 transport in
                                 Meghalaya</a>
@@ -734,7 +734,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-mizoram.php"
+                            <a href="car-transport-mizoram/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car
                                 transport in
                                 Mizoram</a>
@@ -743,7 +743,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-nagaland.php"
+                            <a href="car-transport-nagaland/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car
                                 transport in
                                 Nagaland</a>
@@ -752,7 +752,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-odisha.php"
+                            <a href="car-transport-odisha/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car
                                 transport in
                                 Odisha</a>
@@ -761,7 +761,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-punjab.php"
+                            <a href="car-transport-punjab/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car
                                 transport in
                                 Punjab</a>
@@ -769,7 +769,7 @@
                         <li style="padding: 10px 0; display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-rajasthan.php"
+                            <a href="car-transport-rajasthan/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car
                                 transport in
                                 Rajasthan</a>
@@ -782,7 +782,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-sikkim.php"
+                            <a href="car-transport-sikkim/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car
                                 transport in
                                 Sikkim</a>
@@ -791,7 +791,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-tamil-nadu.php"
+                            <a href="car-transport-tamil-nadu/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car
                                 transport in Tamil
                                 Nadu</a>
@@ -800,7 +800,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-telangana.php"
+                            <a href="car-transport-telangana/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car
                                 transport in
                                 Telangana</a>
@@ -809,7 +809,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-tripura.php"
+                            <a href="car-transport-tripura/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car
                                 transport in
                                 Tripura</a>
@@ -818,7 +818,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-uttar-pradesh.php"
+                            <a href="car-transport-uttar-pradesh/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car
                                 transport in Uttar
                                 Pradesh</a>
@@ -827,7 +827,7 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-uttarakhand.php"
+                            <a href="car-transport-uttarakhand/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car
                                 transport in
                                 Uttarakhand</a>
@@ -835,7 +835,7 @@
                         <li style="padding: 10px 0; display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-west-bengal.php"
+                            <a href="car-transport-west-bengal/"
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car
                                 transport in West
                                 Bengal</a>
