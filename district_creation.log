@@ -1,0 +1,1583 @@
+Found 27 state files to process
+
+============================================================
+Processing: bike-transport-andhra-pradesh.php
+============================================================
+  Found 2 districts
+  ✓ Created: bike-transport-dr-b-r
+-ambedkar-konaseema.php
+  ✓ Linked: Dr. B. R.
+                                Ambedkar Konaseema
+  ✓ Created: bike-transport-east
+-godavari.php
+  ✓ Linked: East
+                                Godavari
+  Updated: bike-transport-andhra-pradesh.php
+
+============================================================
+Processing: bike-transport-arunachal-pradesh.php
+============================================================
+  Found 25 districts
+  ✓ Created: bike-transport-anjaw.php
+  ✓ Linked: Anjaw
+  ✓ Created: bike-transport-changlang.php
+  ✓ Linked: Changlang
+  ✓ Created: bike-transport-dibang
+-valley.php
+  ✓ Linked: Dibang
+                                Valley
+  ✓ Created: bike-transport-east
+-kameng.php
+  ✓ Linked: East
+                                Kameng
+  ✓ Created: bike-transport-east
+-siang.php
+  ✓ Linked: East
+                                Siang
+  ✓ Created: bike-transport-kamle.php
+  ✓ Linked: Kamle
+  ✓ Created: bike-transport-kra
+-daadi.php
+  ✓ Linked: Kra
+                                Daadi
+  ✓ Created: bike-transport-kurung
+-kumey.php
+  ✓ Linked: Kurung
+                                Kumey
+  ✓ Created: bike-transport-lepa
+-rada.php
+  ✓ Linked: Lepa
+                                Rada
+  ✓ Created: bike-transport-lohit.php
+  ✓ Linked: Lohit
+  ✓ Created: bike-transport-longding.php
+  ✓ Linked: Longding
+  ✓ Created: bike-transport-lower
+-dibang-valley.php
+  ✓ Linked: Lower
+                                Dibang Valley
+  ✓ Created: bike-transport-lower
+-siang.php
+  ✓ Linked: Lower
+                                Siang
+  ✓ Created: bike-transport-lower
+-subansiri.php
+  ✓ Linked: Lower
+                                Subansiri
+  ✓ Created: bike-transport-namsai.php
+  ✓ Linked: Namsai
+  ✓ Created: bike-transport-pakke-kessang.php
+  ✓ Linked: Pakke-Kessang
+  ✓ Created: bike-transport-papum
+-pare.php
+  ✓ Linked: Papum
+                                Pare
+  ✓ Created: bike-transport-shi
+-yomi.php
+  ✓ Linked: Shi
+                                Yomi
+  ✓ Created: bike-transport-siang.php
+  ✓ Linked: Siang
+  ✓ Created: bike-transport-tawang.php
+  ✓ Linked: Tawang
+  ✓ Created: bike-transport-tirap.php
+  ✓ Linked: Tirap
+  ✓ Created: bike-transport-upper
+-siang.php
+  ✓ Linked: Upper
+                                Siang
+  ✓ Created: bike-transport-upper
+-subansiri.php
+  ✓ Linked: Upper
+                                Subansiri
+  ✓ Created: bike-transport-west
+-kameng.php
+  ✓ Linked: West
+                                Kameng
+  ✓ Created: bike-transport-west
+-siang.php
+  ✓ Linked: West
+                                Siang
+  Updated: bike-transport-arunachal-pradesh.php
+
+============================================================
+Processing: bike-transport-assam.php
+============================================================
+  Found 35 districts
+  ✓ Created: bike-transport-baksa.php
+  ✓ Linked: Baksa
+  ✓ Created: bike-transport-barpeta.php
+  ✓ Linked: Barpeta
+  ✓ Created: bike-transport-biswanath.php
+  ✓ Linked: Biswanath
+  ✓ Created: bike-transport-bongaigaon.php
+  ✓ Linked: Bongaigaon
+  ✓ Created: bike-transport-cachar.php
+  ✓ Linked: Cachar
+  ✓ Created: bike-transport-charaideo.php
+  ✓ Linked: Charaideo
+  ✓ Created: bike-transport-chirang.php
+  ✓ Linked: Chirang
+  ✓ Created: bike-transport-darrang.php
+  ✓ Linked: Darrang
+  ✓ Created: bike-transport-dhemaji.php
+  ✓ Linked: Dhemaji
+  ✓ Created: bike-transport-dhubri.php
+  ✓ Linked: Dhubri
+  ✓ Created: bike-transport-dibrugarh.php
+  ✓ Linked: Dibrugarh
+  ✓ Created: bike-transport-dima-hasao.php
+  ✓ Linked: Dima Hasao
+  ✓ Created: bike-transport-goalpara.php
+  ✓ Linked: Goalpara
+  ✓ Created: bike-transport-golaghat.php
+  ✓ Linked: Golaghat
+  ✓ Created: bike-transport-hailakandi.php
+  ✓ Linked: Hailakandi
+  ✓ Created: bike-transport-hojai.php
+  ✓ Linked: Hojai
+  ✓ Created: bike-transport-jorhat.php
+  ✓ Linked: Jorhat
+  ✓ Created: bike-transport-kamrup.php
+  ✓ Linked: Kamrup
+  ✓ Created: bike-transport-kamrup-metropolitan.php
+  ✓ Linked: Kamrup Metropolitan
+  ✓ Created: bike-transport-karbi-anglong.php
+  ✓ Linked: Karbi Anglong
+  ✓ Created: bike-transport-karimganj.php
+  ✓ Linked: Karimganj
+  ✓ Created: bike-transport-kokrajhar.php
+  ✓ Linked: Kokrajhar
+  ✓ Created: bike-transport-lakhimpur.php
+  ✓ Linked: Lakhimpur
+  ✓ Created: bike-transport-majuli.php
+  ✓ Linked: Majuli
+  ✓ Created: bike-transport-morigaon.php
+  ✓ Linked: Morigaon
+  ✓ Created: bike-transport-nagaon.php
+  ✓ Linked: Nagaon
+  ✓ Created: bike-transport-nalbari.php
+  ✓ Linked: Nalbari
+  ✓ Created: bike-transport-sivasagar.php
+  ✓ Linked: Sivasagar
+  ✓ Created: bike-transport-sonitpur.php
+  ✓ Linked: Sonitpur
+  ✓ Created: bike-transport-south-salmara-mankachar.php
+  ✓ Linked: South Salmara-Mankachar
+  ✓ Created: bike-transport-tinsukia.php
+  ✓ Linked: Tinsukia
+  ✓ Created: bike-transport-udalguri.php
+  ✓ Linked: Udalguri
+  ✓ Created: bike-transport-west-karbi-anglong.php
+  ✓ Linked: West Karbi Anglong
+  ✓ Created: bike-transport-bajali.php
+  ✓ Linked: Bajali
+  ✓ Created: bike-transport-tamulpur.php
+  ✓ Linked: Tamulpur
+  Updated: bike-transport-assam.php
+
+============================================================
+Processing: bike-transport-bihar.php
+============================================================
+  Found 38 districts
+  ✓ Created: bike-transport-araria.php
+  ✓ Linked: Araria
+  ✓ Created: bike-transport-arwal.php
+  ✓ Linked: Arwal
+  ✓ Created: bike-transport-aurangabad.php
+  ✓ Linked: Aurangabad
+  ✓ Created: bike-transport-banka.php
+  ✓ Linked: Banka
+  ✓ Created: bike-transport-begusarai.php
+  ✓ Linked: Begusarai
+  ✓ Created: bike-transport-bhagalpur.php
+  ✓ Linked: Bhagalpur
+  ✓ Created: bike-transport-bhojpur.php
+  ✓ Linked: Bhojpur
+  ✓ Created: bike-transport-buxar.php
+  ✓ Linked: Buxar
+  ✓ Created: bike-transport-darbhanga.php
+  ✓ Linked: Darbhanga
+  ✓ Created: bike-transport-east-champaran.php
+  ✓ Linked: East Champaran
+  ✓ Created: bike-transport-gaya.php
+  ✓ Linked: Gaya
+  ✓ Created: bike-transport-gopalganj.php
+  ✓ Linked: Gopalganj
+  ✓ Created: bike-transport-jamui.php
+  ✓ Linked: Jamui
+  ✓ Created: bike-transport-jehanabad.php
+  ✓ Linked: Jehanabad
+  ✓ Created: bike-transport-kaimur.php
+  ✓ Linked: Kaimur
+  ✓ Created: bike-transport-katihar.php
+  ✓ Linked: Katihar
+  ✓ Created: bike-transport-khagaria.php
+  ✓ Linked: Khagaria
+  ✓ Created: bike-transport-kishanganj.php
+  ✓ Linked: Kishanganj
+  ✓ Created: bike-transport-lakhisarai.php
+  ✓ Linked: Lakhisarai
+  ✓ Created: bike-transport-madhepura.php
+  ✓ Linked: Madhepura
+  ✓ Created: bike-transport-madhubani.php
+  ✓ Linked: Madhubani
+  ✓ Created: bike-transport-munger.php
+  ✓ Linked: Munger
+  ✓ Created: bike-transport-muzaffarpur.php
+  ✓ Linked: Muzaffarpur
+  ✓ Created: bike-transport-nalanda.php
+  ✓ Linked: Nalanda
+  ✓ Created: bike-transport-nawada.php
+  ✓ Linked: Nawada
+  ✓ Created: bike-transport-patna.php
+  ✓ Linked: Patna
+  ✓ Created: bike-transport-purnia.php
+  ✓ Linked: Purnia
+  ✓ Created: bike-transport-rohtas.php
+  ✓ Linked: Rohtas
+  ✓ Created: bike-transport-saharsa.php
+  ✓ Linked: Saharsa
+  ✓ Created: bike-transport-samastipur.php
+  ✓ Linked: Samastipur
+  ✓ Created: bike-transport-saran.php
+  ✓ Linked: Saran
+  ✓ Created: bike-transport-sheikhpura.php
+  ✓ Linked: Sheikhpura
+  ✓ Created: bike-transport-sheohar.php
+  ✓ Linked: Sheohar
+  ✓ Created: bike-transport-sitamarhi.php
+  ✓ Linked: Sitamarhi
+  ✓ Created: bike-transport-siwan.php
+  ✓ Linked: Siwan
+  ✓ Created: bike-transport-supaul.php
+  ✓ Linked: Supaul
+  ✓ Created: bike-transport-vaishali.php
+  ✓ Linked: Vaishali
+  ✓ Created: bike-transport-west-champaran.php
+  ✓ Linked: West Champaran
+  Updated: bike-transport-bihar.php
+
+============================================================
+Processing: bike-transport-chhattisgarh.php
+============================================================
+  Found 33 districts
+  ✓ Created: bike-transport-balod.php
+  ✓ Linked: Balod
+  ✓ Created: bike-transport-baloda-bazar.php
+  ✓ Linked: Baloda Bazar
+  ✓ Created: bike-transport-balrampur.php
+  ✓ Linked: Balrampur
+  ✓ Created: bike-transport-bastar.php
+  ✓ Linked: Bastar
+  ✓ Created: bike-transport-bemetara.php
+  ✓ Linked: Bemetara
+  ✓ Created: bike-transport-bijapur.php
+  ✓ Linked: Bijapur
+  ✓ Created: bike-transport-bilaspur.php
+  ✓ Linked: Bilaspur
+  ✓ Created: bike-transport-dantewada.php
+  ✓ Linked: Dantewada
+  ✓ Created: bike-transport-dhamtari.php
+  ✓ Linked: Dhamtari
+  ✓ Created: bike-transport-durg.php
+  ✓ Linked: Durg
+  ✓ Created: bike-transport-gariaband.php
+  ✓ Linked: Gariaband
+  ✓ Created: bike-transport-gaurela-pendra-marwahi.php
+  ✓ Linked: Gaurela-Pendra-Marwahi
+  ✓ Created: bike-transport-janjgir-champa.php
+  ✓ Linked: Janjgir-Champa
+  ✓ Created: bike-transport-jashpur.php
+  ✓ Linked: Jashpur
+  ✓ Created: bike-transport-kabirdham.php
+  ✓ Linked: Kabirdham
+  ✓ Created: bike-transport-kanker.php
+  ✓ Linked: Kanker
+  ✓ Created: bike-transport-kondagaon.php
+  ✓ Linked: Kondagaon
+  ✓ Created: bike-transport-korba.php
+  ✓ Linked: Korba
+  ✓ Created: bike-transport-koriya.php
+  ✓ Linked: Koriya
+  ✓ Created: bike-transport-mahasamund.php
+  ✓ Linked: Mahasamund
+  ✓ Created: bike-transport-mungeli.php
+  ✓ Linked: Mungeli
+  ✓ Created: bike-transport-narayanpur.php
+  ✓ Linked: Narayanpur
+  ✓ Created: bike-transport-raigarh.php
+  ✓ Linked: Raigarh
+  ✓ Created: bike-transport-raipur.php
+  ✓ Linked: Raipur
+  ✓ Created: bike-transport-rajnandgaon.php
+  ✓ Linked: Rajnandgaon
+  ✓ Created: bike-transport-sukma.php
+  ✓ Linked: Sukma
+  ✓ Created: bike-transport-surajpur.php
+  ✓ Linked: Surajpur
+  ✓ Created: bike-transport-surguja.php
+  ✓ Linked: Surguja
+  ✓ Created: bike-transport-balodabazar-bhatapara.php
+  ✓ Linked: Balodabazar-Bhatapara
+  Skipping Bemetara (already exists)
+  Skipping Durg (already exists)
+  ✓ Created: bike-transport-mohla-manpur-ambagarh-chowki.php
+  ✓ Linked: Mohla-Manpur-Ambagarh Chowki
+  ✓ Created: bike-transport-sarangarh-bilaigarh.php
+  ✓ Linked: Sarangarh-Bilaigarh
+  Updated: bike-transport-chhattisgarh.php
+
+============================================================
+Processing: bike-transport-goa.php
+============================================================
+  Found 2 districts
+  ✓ Created: bike-transport-north-goa.php
+  ✓ Linked: North Goa
+  ✓ Created: bike-transport-south-goa.php
+  ✓ Linked: South Goa
+  Updated: bike-transport-goa.php
+
+============================================================
+Processing: bike-transport-gujarat.php
+============================================================
+  Found 33 districts
+  ✓ Created: bike-transport-ahmedabad.php
+  ✓ Linked: Ahmedabad
+  ✓ Created: bike-transport-amreli.php
+  ✓ Linked: Amreli
+  ✓ Created: bike-transport-anand.php
+  ✓ Linked: Anand
+  ✓ Created: bike-transport-aravalli.php
+  ✓ Linked: Aravalli
+  ✓ Created: bike-transport-banaskantha.php
+  ✓ Linked: Banaskantha
+  ✓ Created: bike-transport-bharuch.php
+  ✓ Linked: Bharuch
+  ✓ Created: bike-transport-bhavnagar.php
+  ✓ Linked: Bhavnagar
+  ✓ Created: bike-transport-botad.php
+  ✓ Linked: Botad
+  ✓ Created: bike-transport-chhota-udaipur.php
+  ✓ Linked: Chhota Udaipur
+  ✓ Created: bike-transport-dahod.php
+  ✓ Linked: Dahod
+  ✓ Created: bike-transport-dang.php
+  ✓ Linked: Dang
+  ✓ Created: bike-transport-devbhoomi-dwarka.php
+  ✓ Linked: Devbhoomi Dwarka
+  ✓ Created: bike-transport-gandhinagar.php
+  ✓ Linked: Gandhinagar
+  ✓ Created: bike-transport-gir-somnath.php
+  ✓ Linked: Gir Somnath
+  ✓ Created: bike-transport-jamnagar.php
+  ✓ Linked: Jamnagar
+  ✓ Created: bike-transport-junagadh.php
+  ✓ Linked: Junagadh
+  ✓ Created: bike-transport-kheda.php
+  ✓ Linked: Kheda
+  ✓ Created: bike-transport-kutch.php
+  ✓ Linked: Kutch
+  ✓ Created: bike-transport-mahisagar.php
+  ✓ Linked: Mahisagar
+  ✓ Created: bike-transport-mehsana.php
+  ✓ Linked: Mehsana
+  ✓ Created: bike-transport-morbi.php
+  ✓ Linked: Morbi
+  ✓ Created: bike-transport-narmada.php
+  ✓ Linked: Narmada
+  ✓ Created: bike-transport-navsari.php
+  ✓ Linked: Navsari
+  ✓ Created: bike-transport-panchmahal.php
+  ✓ Linked: Panchmahal
+  ✓ Created: bike-transport-patan.php
+  ✓ Linked: Patan
+  ✓ Created: bike-transport-porbandar.php
+  ✓ Linked: Porbandar
+  ✓ Created: bike-transport-rajkot.php
+  ✓ Linked: Rajkot
+  ✓ Created: bike-transport-sabarkantha.php
+  ✓ Linked: Sabarkantha
+  ✓ Created: bike-transport-surat.php
+  ✓ Linked: Surat
+  ✓ Created: bike-transport-surendranagar.php
+  ✓ Linked: Surendranagar
+  ✓ Created: bike-transport-tapi.php
+  ✓ Linked: Tapi
+  ✓ Created: bike-transport-vadodara.php
+  ✓ Linked: Vadodara
+  ✓ Created: bike-transport-valsad.php
+  ✓ Linked: Valsad
+  Updated: bike-transport-gujarat.php
+
+============================================================
+Processing: bike-transport-haryana.php
+============================================================
+  Found 22 districts
+  ✓ Created: bike-transport-ambala.php
+  ✓ Linked: Ambala
+  ✓ Created: bike-transport-bhiwani.php
+  ✓ Linked: Bhiwani
+  ✓ Created: bike-transport-charkhi-dadri.php
+  ✓ Linked: Charkhi Dadri
+  ✓ Created: bike-transport-faridabad.php
+  ✓ Linked: Faridabad
+  ✓ Created: bike-transport-fatehabad.php
+  ✓ Linked: Fatehabad
+  ✓ Created: bike-transport-gurugram.php
+  ✓ Linked: Gurugram
+  ✓ Created: bike-transport-hisar.php
+  ✓ Linked: Hisar
+  ✓ Created: bike-transport-jhajjar.php
+  ✓ Linked: Jhajjar
+  ✓ Created: bike-transport-jind.php
+  ✓ Linked: Jind
+  ✓ Created: bike-transport-kaithal.php
+  ✓ Linked: Kaithal
+  ✓ Created: bike-transport-karnal.php
+  ✓ Linked: Karnal
+  ✓ Created: bike-transport-kurukshetra.php
+  ✓ Linked: Kurukshetra
+  ✓ Created: bike-transport-mahendragarh.php
+  ✓ Linked: Mahendragarh
+  ✓ Created: bike-transport-nuh.php
+  ✓ Linked: Nuh
+  ✓ Created: bike-transport-palwal.php
+  ✓ Linked: Palwal
+  ✓ Created: bike-transport-panchkula.php
+  ✓ Linked: Panchkula
+  ✓ Created: bike-transport-panipat.php
+  ✓ Linked: Panipat
+  ✓ Created: bike-transport-rewari.php
+  ✓ Linked: Rewari
+  ✓ Created: bike-transport-rohtak.php
+  ✓ Linked: Rohtak
+  ✓ Created: bike-transport-sirsa.php
+  ✓ Linked: Sirsa
+  ✓ Created: bike-transport-sonipat.php
+  ✓ Linked: Sonipat
+  ✓ Created: bike-transport-yamunanagar.php
+  ✓ Linked: Yamunanagar
+  Updated: bike-transport-haryana.php
+
+============================================================
+Processing: bike-transport-himachal-pradesh.php
+============================================================
+  Found 12 districts
+  Skipping Bilaspur (already exists)
+  ✓ Created: bike-transport-chamba.php
+  ✓ Linked: Chamba
+  ✓ Created: bike-transport-hamirpur.php
+  ✓ Linked: Hamirpur
+  ✓ Created: bike-transport-kangra.php
+  ✓ Linked: Kangra
+  ✓ Created: bike-transport-kinnaur.php
+  ✓ Linked: Kinnaur
+  ✓ Created: bike-transport-kullu.php
+  ✓ Linked: Kullu
+  ✓ Created: bike-transport-lahaul-and-spiti.php
+  ✓ Linked: Lahaul and Spiti
+  ✓ Created: bike-transport-mandi.php
+  ✓ Linked: Mandi
+  ✓ Created: bike-transport-shimla.php
+  ✓ Linked: Shimla
+  ✓ Created: bike-transport-sirmaur.php
+  ✓ Linked: Sirmaur
+  ✓ Created: bike-transport-solan.php
+  ✓ Linked: Solan
+  ✓ Created: bike-transport-una.php
+  ✓ Linked: Una
+  Updated: bike-transport-himachal-pradesh.php
+
+============================================================
+Processing: bike-transport-jharkhand.php
+============================================================
+  Found 24 districts
+  ✓ Created: bike-transport-bokaro.php
+  ✓ Linked: Bokaro
+  ✓ Created: bike-transport-chatra.php
+  ✓ Linked: Chatra
+  ✓ Created: bike-transport-deoghar.php
+  ✓ Linked: Deoghar
+  ✓ Created: bike-transport-dhanbad.php
+  ✓ Linked: Dhanbad
+  ✓ Created: bike-transport-dumka.php
+  ✓ Linked: Dumka
+  ✓ Created: bike-transport-east-singhbhum.php
+  ✓ Linked: East Singhbhum
+  ✓ Created: bike-transport-garhwa.php
+  ✓ Linked: Garhwa
+  ✓ Created: bike-transport-giridih.php
+  ✓ Linked: Giridih
+  ✓ Created: bike-transport-godda.php
+  ✓ Linked: Godda
+  ✓ Created: bike-transport-gumla.php
+  ✓ Linked: Gumla
+  ✓ Created: bike-transport-hazaribagh.php
+  ✓ Linked: Hazaribagh
+  ✓ Created: bike-transport-jamtara.php
+  ✓ Linked: Jamtara
+  ✓ Created: bike-transport-khunti.php
+  ✓ Linked: Khunti
+  ✓ Created: bike-transport-koderma.php
+  ✓ Linked: Koderma
+  ✓ Created: bike-transport-latehar.php
+  ✓ Linked: Latehar
+  ✓ Created: bike-transport-lohardaga.php
+  ✓ Linked: Lohardaga
+  ✓ Created: bike-transport-pakur.php
+  ✓ Linked: Pakur
+  ✓ Created: bike-transport-palamu.php
+  ✓ Linked: Palamu
+  ✓ Created: bike-transport-ramgarh.php
+  ✓ Linked: Ramgarh
+  ✓ Created: bike-transport-ranchi.php
+  ✓ Linked: Ranchi
+  ✓ Created: bike-transport-sahibganj.php
+  ✓ Linked: Sahibganj
+  ✓ Created: bike-transport-seraikela-kharsawan.php
+  ✓ Linked: Seraikela Kharsawan
+  ✓ Created: bike-transport-simdega.php
+  ✓ Linked: Simdega
+  ✓ Created: bike-transport-west-singhbhum.php
+  ✓ Linked: West Singhbhum
+  Updated: bike-transport-jharkhand.php
+
+============================================================
+Processing: bike-transport-karnataka.php
+============================================================
+  Found 31 districts
+  ✓ Created: bike-transport-bagalkot.php
+  ✓ Linked: Bagalkot
+  ✓ Created: bike-transport-ballari.php
+  ✓ Linked: Ballari
+  ✓ Created: bike-transport-belagavi.php
+  ✓ Linked: Belagavi
+  ✓ Created: bike-transport-bengaluru-rural.php
+  ✓ Linked: Bengaluru Rural
+  ✓ Created: bike-transport-bengaluru-urban.php
+  ✓ Linked: Bengaluru Urban
+  ✓ Created: bike-transport-bidar.php
+  ✓ Linked: Bidar
+  ✓ Created: bike-transport-chamarajanagar.php
+  ✓ Linked: Chamarajanagar
+  ✓ Created: bike-transport-chikkaballapur.php
+  ✓ Linked: Chikkaballapur
+  ✓ Created: bike-transport-chikkamagaluru.php
+  ✓ Linked: Chikkamagaluru
+  ✓ Created: bike-transport-chitradurga.php
+  ✓ Linked: Chitradurga
+  ✓ Created: bike-transport-dakshina-kannada.php
+  ✓ Linked: Dakshina Kannada
+  ✓ Created: bike-transport-davanagere.php
+  ✓ Linked: Davanagere
+  ✓ Created: bike-transport-dharwad.php
+  ✓ Linked: Dharwad
+  ✓ Created: bike-transport-gadag.php
+  ✓ Linked: Gadag
+  ✓ Created: bike-transport-hassan.php
+  ✓ Linked: Hassan
+  ✓ Created: bike-transport-haveri.php
+  ✓ Linked: Haveri
+  ✓ Created: bike-transport-kalaburagi.php
+  ✓ Linked: Kalaburagi
+  ✓ Created: bike-transport-kodagu.php
+  ✓ Linked: Kodagu
+  ✓ Created: bike-transport-kolar.php
+  ✓ Linked: Kolar
+  ✓ Created: bike-transport-koppal.php
+  ✓ Linked: Koppal
+  ✓ Created: bike-transport-mandya.php
+  ✓ Linked: Mandya
+  ✓ Created: bike-transport-mysuru.php
+  ✓ Linked: Mysuru
+  ✓ Created: bike-transport-raichur.php
+  ✓ Linked: Raichur
+  ✓ Created: bike-transport-ramanagara.php
+  ✓ Linked: Ramanagara
+  ✓ Created: bike-transport-shivamogga.php
+  ✓ Linked: Shivamogga
+  ✓ Created: bike-transport-tumakuru.php
+  ✓ Linked: Tumakuru
+  ✓ Created: bike-transport-udupi.php
+  ✓ Linked: Udupi
+  ✓ Created: bike-transport-uttara-kannada.php
+  ✓ Linked: Uttara Kannada
+  ✓ Created: bike-transport-vijayapura.php
+  ✓ Linked: Vijayapura
+  ✓ Created: bike-transport-yadgir.php
+  ✓ Linked: Yadgir
+  ✓ Created: bike-transport-vijayanagara.php
+  ✓ Linked: Vijayanagara
+  Updated: bike-transport-karnataka.php
+
+============================================================
+Processing: bike-transport-kerala.php
+============================================================
+  Found 14 districts
+  ✓ Created: bike-transport-alappuzha.php
+  ✓ Linked: Alappuzha
+  ✓ Created: bike-transport-ernakulam.php
+  ✓ Linked: Ernakulam
+  ✓ Created: bike-transport-idukki.php
+  ✓ Linked: Idukki
+  ✓ Created: bike-transport-kannur.php
+  ✓ Linked: Kannur
+  ✓ Created: bike-transport-kasaragod.php
+  ✓ Linked: Kasaragod
+  ✓ Created: bike-transport-kollam.php
+  ✓ Linked: Kollam
+  ✓ Created: bike-transport-kottayam.php
+  ✓ Linked: Kottayam
+  ✓ Created: bike-transport-kozhikode.php
+  ✓ Linked: Kozhikode
+  ✓ Created: bike-transport-malappuram.php
+  ✓ Linked: Malappuram
+  ✓ Created: bike-transport-palakkad.php
+  ✓ Linked: Palakkad
+  ✓ Created: bike-transport-pathanamthitta.php
+  ✓ Linked: Pathanamthitta
+  ✓ Created: bike-transport-thiruvananthapuram.php
+  ✓ Linked: Thiruvananthapuram
+  ✓ Created: bike-transport-thrissur.php
+  ✓ Linked: Thrissur
+  ✓ Created: bike-transport-wayanad.php
+  ✓ Linked: Wayanad
+  Updated: bike-transport-kerala.php
+
+============================================================
+Processing: bike-transport-madhya-pradesh.php
+============================================================
+  Found 55 districts
+  ✓ Created: bike-transport-agar-malwa.php
+  ✓ Linked: Agar Malwa
+  ✓ Created: bike-transport-alirajpur.php
+  ✓ Linked: Alirajpur
+  ✓ Created: bike-transport-anuppur.php
+  ✓ Linked: Anuppur
+  ✓ Created: bike-transport-ashoknagar.php
+  ✓ Linked: Ashoknagar
+  ✓ Created: bike-transport-balaghat.php
+  ✓ Linked: Balaghat
+  ✓ Created: bike-transport-barwani.php
+  ✓ Linked: Barwani
+  ✓ Created: bike-transport-betul.php
+  ✓ Linked: Betul
+  ✓ Created: bike-transport-bhind.php
+  ✓ Linked: Bhind
+  ✓ Created: bike-transport-bhopal.php
+  ✓ Linked: Bhopal
+  ✓ Created: bike-transport-burhanpur.php
+  ✓ Linked: Burhanpur
+  ✓ Created: bike-transport-chhatarpur.php
+  ✓ Linked: Chhatarpur
+  ✓ Created: bike-transport-chhindwara.php
+  ✓ Linked: Chhindwara
+  ✓ Created: bike-transport-damoh.php
+  ✓ Linked: Damoh
+  ✓ Created: bike-transport-datia.php
+  ✓ Linked: Datia
+  ✓ Created: bike-transport-dewas.php
+  ✓ Linked: Dewas
+  ✓ Created: bike-transport-dhar.php
+  ✓ Linked: Dhar
+  ✓ Created: bike-transport-dindori.php
+  ✓ Linked: Dindori
+  ✓ Created: bike-transport-guna.php
+  ✓ Linked: Guna
+  ✓ Created: bike-transport-gwalior.php
+  ✓ Linked: Gwalior
+  ✓ Created: bike-transport-harda.php
+  ✓ Linked: Harda
+  ✓ Created: bike-transport-narmadapuram.php
+  ✓ Linked: Narmadapuram
+  ✓ Created: bike-transport-indore.php
+  ✓ Linked: Indore
+  ✓ Created: bike-transport-jabalpur.php
+  ✓ Linked: Jabalpur
+  ✓ Created: bike-transport-jhabua.php
+  ✓ Linked: Jhabua
+  ✓ Created: bike-transport-katni.php
+  ✓ Linked: Katni
+  ✓ Created: bike-transport-khandwa.php
+  ✓ Linked: Khandwa
+  ✓ Created: bike-transport-khargone.php
+  ✓ Linked: Khargone
+  ✓ Created: bike-transport-maihar.php
+  ✓ Linked: Maihar
+  ✓ Created: bike-transport-mandla.php
+  ✓ Linked: Mandla
+  ✓ Created: bike-transport-mandsaur.php
+  ✓ Linked: Mandsaur
+  ✓ Created: bike-transport-mauganj.php
+  ✓ Linked: Mauganj
+  ✓ Created: bike-transport-morena.php
+  ✓ Linked: Morena
+  ✓ Created: bike-transport-narsinghpur.php
+  ✓ Linked: Narsinghpur
+  ✓ Created: bike-transport-neemuch.php
+  ✓ Linked: Neemuch
+  ✓ Created: bike-transport-niwari.php
+  ✓ Linked: Niwari
+  ✓ Created: bike-transport-pandhurna.php
+  ✓ Linked: Pandhurna
+  ✓ Created: bike-transport-panna.php
+  ✓ Linked: Panna
+  ✓ Created: bike-transport-raisen.php
+  ✓ Linked: Raisen
+  ✓ Created: bike-transport-rajgarh.php
+  ✓ Linked: Rajgarh
+  ✓ Created: bike-transport-ratlam.php
+  ✓ Linked: Ratlam
+  ✓ Created: bike-transport-rewa.php
+  ✓ Linked: Rewa
+  ✓ Created: bike-transport-sagar.php
+  ✓ Linked: Sagar
+  ✓ Created: bike-transport-satna.php
+  ✓ Linked: Satna
+  ✓ Created: bike-transport-sehore.php
+  ✓ Linked: Sehore
+  ✓ Created: bike-transport-seoni.php
+  ✓ Linked: Seoni
+  ✓ Created: bike-transport-shahdol.php
+  ✓ Linked: Shahdol
+  ✓ Created: bike-transport-shajapur.php
+  ✓ Linked: Shajapur
+  ✓ Created: bike-transport-sheopur.php
+  ✓ Linked: Sheopur
+  ✓ Created: bike-transport-shivpuri.php
+  ✓ Linked: Shivpuri
+  ✓ Created: bike-transport-sidhi.php
+  ✓ Linked: Sidhi
+  ✓ Created: bike-transport-singrauli.php
+  ✓ Linked: Singrauli
+  ✓ Created: bike-transport-tikamgarh.php
+  ✓ Linked: Tikamgarh
+  ✓ Created: bike-transport-ujjain.php
+  ✓ Linked: Ujjain
+  ✓ Created: bike-transport-umaria.php
+  ✓ Linked: Umaria
+  ✓ Created: bike-transport-vidisha.php
+  ✓ Linked: Vidisha
+  Updated: bike-transport-madhya-pradesh.php
+
+============================================================
+Processing: bike-transport-maharashtra.php
+============================================================
+  Found 36 districts
+  ✓ Created: bike-transport-ahmednagar.php
+  ✓ Linked: Ahmednagar
+  ✓ Created: bike-transport-akola.php
+  ✓ Linked: Akola
+  ✓ Created: bike-transport-amravati.php
+  ✓ Linked: Amravati
+  ✓ Created: bike-transport-chhatrapati-sambhajinagar.php
+  ✓ Linked: Chhatrapati Sambhajinagar
+  ✓ Created: bike-transport-beed.php
+  ✓ Linked: Beed
+  ✓ Created: bike-transport-bhandara.php
+  ✓ Linked: Bhandara
+  ✓ Created: bike-transport-buldhana.php
+  ✓ Linked: Buldhana
+  ✓ Created: bike-transport-chandrapur.php
+  ✓ Linked: Chandrapur
+  ✓ Created: bike-transport-dhule.php
+  ✓ Linked: Dhule
+  ✓ Created: bike-transport-gadchiroli.php
+  ✓ Linked: Gadchiroli
+  ✓ Created: bike-transport-gondia.php
+  ✓ Linked: Gondia
+  ✓ Created: bike-transport-hingoli.php
+  ✓ Linked: Hingoli
+  ✓ Created: bike-transport-jalgaon.php
+  ✓ Linked: Jalgaon
+  ✓ Created: bike-transport-jalna.php
+  ✓ Linked: Jalna
+  ✓ Created: bike-transport-kolhapur.php
+  ✓ Linked: Kolhapur
+  ✓ Created: bike-transport-latur.php
+  ✓ Linked: Latur
+  ✓ Created: bike-transport-mumbai-city.php
+  ✓ Linked: Mumbai City
+  ✓ Created: bike-transport-mumbai-suburban.php
+  ✓ Linked: Mumbai Suburban
+  ✓ Created: bike-transport-nagpur.php
+  ✓ Linked: Nagpur
+  ✓ Created: bike-transport-nanded.php
+  ✓ Linked: Nanded
+  ✓ Created: bike-transport-nandurbar.php
+  ✓ Linked: Nandurbar
+  ✓ Created: bike-transport-nashik.php
+  ✓ Linked: Nashik
+  ✓ Created: bike-transport-dharashiv.php
+  ✓ Linked: Dharashiv
+  ✓ Created: bike-transport-palghar.php
+  ✓ Linked: Palghar
+  ✓ Created: bike-transport-parbhani.php
+  ✓ Linked: Parbhani
+  ✓ Created: bike-transport-pune.php
+  ✓ Linked: Pune
+  ✓ Created: bike-transport-raigad.php
+  ✓ Linked: Raigad
+  ✓ Created: bike-transport-ratnagiri.php
+  ✓ Linked: Ratnagiri
+  ✓ Created: bike-transport-sangli.php
+  ✓ Linked: Sangli
+  ✓ Created: bike-transport-satara.php
+  ✓ Linked: Satara
+  ✓ Created: bike-transport-sindhudurg.php
+  ✓ Linked: Sindhudurg
+  ✓ Created: bike-transport-solapur.php
+  ✓ Linked: Solapur
+  ✓ Created: bike-transport-thane.php
+  ✓ Linked: Thane
+  ✓ Created: bike-transport-wardha.php
+  ✓ Linked: Wardha
+  ✓ Created: bike-transport-washim.php
+  ✓ Linked: Washim
+  ✓ Created: bike-transport-yavatmal.php
+  ✓ Linked: Yavatmal
+  Updated: bike-transport-maharashtra.php
+
+============================================================
+Processing: bike-transport-manipur.php
+============================================================
+  Found 16 districts
+  ✓ Created: bike-transport-bishnupur.php
+  ✓ Linked: Bishnupur
+  ✓ Created: bike-transport-chandel.php
+  ✓ Linked: Chandel
+  ✓ Created: bike-transport-churachandpur.php
+  ✓ Linked: Churachandpur
+  ✓ Created: bike-transport-imphal-east.php
+  ✓ Linked: Imphal East
+  ✓ Created: bike-transport-imphal-west.php
+  ✓ Linked: Imphal West
+  ✓ Created: bike-transport-jiribam.php
+  ✓ Linked: Jiribam
+  ✓ Created: bike-transport-kakching.php
+  ✓ Linked: Kakching
+  ✓ Created: bike-transport-kamjong.php
+  ✓ Linked: Kamjong
+  ✓ Created: bike-transport-kangpokpi.php
+  ✓ Linked: Kangpokpi
+  ✓ Created: bike-transport-noney.php
+  ✓ Linked: Noney
+  ✓ Created: bike-transport-pherzawl.php
+  ✓ Linked: Pherzawl
+  ✓ Created: bike-transport-senapati.php
+  ✓ Linked: Senapati
+  ✓ Created: bike-transport-tamenglong.php
+  ✓ Linked: Tamenglong
+  ✓ Created: bike-transport-tengnoupal.php
+  ✓ Linked: Tengnoupal
+  ✓ Created: bike-transport-thoubal.php
+  ✓ Linked: Thoubal
+  ✓ Created: bike-transport-ukhrul.php
+  ✓ Linked: Ukhrul
+  Updated: bike-transport-manipur.php
+
+============================================================
+Processing: bike-transport-meghalaya.php
+============================================================
+  Found 12 districts
+  ✓ Created: bike-transport-east-garo-hills.php
+  ✓ Linked: East Garo Hills
+  ✓ Created: bike-transport-east-jaintia-hills.php
+  ✓ Linked: East Jaintia Hills
+  ✓ Created: bike-transport-east-khasi-hills.php
+  ✓ Linked: East Khasi Hills
+  ✓ Created: bike-transport-eastern-west-khasi-hills.php
+  ✓ Linked: Eastern West Khasi Hills
+  ✓ Created: bike-transport-north-garo-hills.php
+  ✓ Linked: North Garo Hills
+  ✓ Created: bike-transport-ri-bhoi.php
+  ✓ Linked: Ri Bhoi
+  ✓ Created: bike-transport-south-garo-hills.php
+  ✓ Linked: South Garo Hills
+  ✓ Created: bike-transport-south-west-garo-hills.php
+  ✓ Linked: South West Garo Hills
+  ✓ Created: bike-transport-south-west-khasi-hills.php
+  ✓ Linked: South West Khasi Hills
+  ✓ Created: bike-transport-west-garo-hills.php
+  ✓ Linked: West Garo Hills
+  ✓ Created: bike-transport-west-jaintia-hills.php
+  ✓ Linked: West Jaintia Hills
+  ✓ Created: bike-transport-west-khasi-hills.php
+  ✓ Linked: West Khasi Hills
+  Updated: bike-transport-meghalaya.php
+
+============================================================
+Processing: bike-transport-mizoram.php
+============================================================
+  Found 11 districts
+  ✓ Created: bike-transport-aizawl.php
+  ✓ Linked: Aizawl
+  ✓ Created: bike-transport-champhai.php
+  ✓ Linked: Champhai
+  ✓ Created: bike-transport-hnahthial.php
+  ✓ Linked: Hnahthial
+  ✓ Created: bike-transport-khawzawl.php
+  ✓ Linked: Khawzawl
+  ✓ Created: bike-transport-kolasib.php
+  ✓ Linked: Kolasib
+  ✓ Created: bike-transport-lawngtlai.php
+  ✓ Linked: Lawngtlai
+  ✓ Created: bike-transport-lunglei.php
+  ✓ Linked: Lunglei
+  ✓ Created: bike-transport-mamit.php
+  ✓ Linked: Mamit
+  ✓ Created: bike-transport-saiha.php
+  ✓ Linked: Saiha
+  ✓ Created: bike-transport-saitual.php
+  ✓ Linked: Saitual
+  ✓ Created: bike-transport-serchhip.php
+  ✓ Linked: Serchhip
+  Updated: bike-transport-mizoram.php
+
+============================================================
+Processing: bike-transport-nagaland.php
+============================================================
+  Found 16 districts
+  ✓ Created: bike-transport-chumoukedima.php
+  ✓ Linked: Chumoukedima
+  ✓ Created: bike-transport-dimapur.php
+  ✓ Linked: Dimapur
+  ✓ Created: bike-transport-kiphire.php
+  ✓ Linked: Kiphire
+  ✓ Created: bike-transport-kohima.php
+  ✓ Linked: Kohima
+  ✓ Created: bike-transport-longleng.php
+  ✓ Linked: Longleng
+  ✓ Created: bike-transport-mokokchung.php
+  ✓ Linked: Mokokchung
+  ✓ Created: bike-transport-mon.php
+  ✓ Linked: Mon
+  ✓ Created: bike-transport-niuland.php
+  ✓ Linked: Niuland
+  ✓ Created: bike-transport-noklak.php
+  ✓ Linked: Noklak
+  ✓ Created: bike-transport-peren.php
+  ✓ Linked: Peren
+  ✓ Created: bike-transport-phek.php
+  ✓ Linked: Phek
+  ✓ Created: bike-transport-shamator.php
+  ✓ Linked: Shamator
+  ✓ Created: bike-transport-tseminyu.php
+  ✓ Linked: Tseminyu
+  ✓ Created: bike-transport-tuensang.php
+  ✓ Linked: Tuensang
+  ✓ Created: bike-transport-wokha.php
+  ✓ Linked: Wokha
+  ✓ Created: bike-transport-zunheboto.php
+  ✓ Linked: Zunheboto
+  Updated: bike-transport-nagaland.php
+
+============================================================
+Processing: bike-transport-odisha.php
+============================================================
+  Found 30 districts
+  ✓ Created: bike-transport-angul.php
+  ✓ Linked: Angul
+  ✓ Created: bike-transport-balangir.php
+  ✓ Linked: Balangir
+  ✓ Created: bike-transport-balasore.php
+  ✓ Linked: Balasore
+  ✓ Created: bike-transport-bargarh.php
+  ✓ Linked: Bargarh
+  ✓ Created: bike-transport-bhadrak.php
+  ✓ Linked: Bhadrak
+  ✓ Created: bike-transport-boudh.php
+  ✓ Linked: Boudh
+  ✓ Created: bike-transport-cuttack.php
+  ✓ Linked: Cuttack
+  ✓ Created: bike-transport-deogarh.php
+  ✓ Linked: Deogarh
+  ✓ Created: bike-transport-dhenkanal.php
+  ✓ Linked: Dhenkanal
+  ✓ Created: bike-transport-gajapati.php
+  ✓ Linked: Gajapati
+  ✓ Created: bike-transport-ganjam.php
+  ✓ Linked: Ganjam
+  ✓ Created: bike-transport-jagatsinghpur.php
+  ✓ Linked: Jagatsinghpur
+  ✓ Created: bike-transport-jajpur.php
+  ✓ Linked: Jajpur
+  ✓ Created: bike-transport-jharsuguda.php
+  ✓ Linked: Jharsuguda
+  ✓ Created: bike-transport-kalahandi.php
+  ✓ Linked: Kalahandi
+  ✓ Created: bike-transport-kandhamal.php
+  ✓ Linked: Kandhamal
+  ✓ Created: bike-transport-kendrapara.php
+  ✓ Linked: Kendrapara
+  ✓ Created: bike-transport-kendujhar.php
+  ✓ Linked: Kendujhar
+  ✓ Created: bike-transport-khordha.php
+  ✓ Linked: Khordha
+  ✓ Created: bike-transport-koraput.php
+  ✓ Linked: Koraput
+  ✓ Created: bike-transport-malkangiri.php
+  ✓ Linked: Malkangiri
+  ✓ Created: bike-transport-mayurbhanj.php
+  ✓ Linked: Mayurbhanj
+  ✓ Created: bike-transport-nabarangpur.php
+  ✓ Linked: Nabarangpur
+  ✓ Created: bike-transport-nayagarh.php
+  ✓ Linked: Nayagarh
+  ✓ Created: bike-transport-nuapada.php
+  ✓ Linked: Nuapada
+  ✓ Created: bike-transport-puri.php
+  ✓ Linked: Puri
+  ✓ Created: bike-transport-rayagada.php
+  ✓ Linked: Rayagada
+  ✓ Created: bike-transport-sambalpur.php
+  ✓ Linked: Sambalpur
+  ✓ Created: bike-transport-subarnapur.php
+  ✓ Linked: Subarnapur
+  ✓ Created: bike-transport-sundargarh.php
+  ✓ Linked: Sundargarh
+  Updated: bike-transport-odisha.php
+
+============================================================
+Processing: bike-transport-punjab.php
+============================================================
+  Found 23 districts
+  ✓ Created: bike-transport-amritsar.php
+  ✓ Linked: Amritsar
+  ✓ Created: bike-transport-barnala.php
+  ✓ Linked: Barnala
+  ✓ Created: bike-transport-bathinda.php
+  ✓ Linked: Bathinda
+  ✓ Created: bike-transport-faridkot.php
+  ✓ Linked: Faridkot
+  ✓ Created: bike-transport-fatehgarh-sahib.php
+  ✓ Linked: Fatehgarh Sahib
+  ✓ Created: bike-transport-fazilka.php
+  ✓ Linked: Fazilka
+  ✓ Created: bike-transport-ferozepur.php
+  ✓ Linked: Ferozepur
+  ✓ Created: bike-transport-gurdaspur.php
+  ✓ Linked: Gurdaspur
+  ✓ Created: bike-transport-hoshiarpur.php
+  ✓ Linked: Hoshiarpur
+  ✓ Created: bike-transport-jalandhar.php
+  ✓ Linked: Jalandhar
+  ✓ Created: bike-transport-kapurthala.php
+  ✓ Linked: Kapurthala
+  ✓ Created: bike-transport-ludhiana.php
+  ✓ Linked: Ludhiana
+  ✓ Created: bike-transport-malerkotla.php
+  ✓ Linked: Malerkotla
+  ✓ Created: bike-transport-mansa.php
+  ✓ Linked: Mansa
+  ✓ Created: bike-transport-moga.php
+  ✓ Linked: Moga
+  ✓ Created: bike-transport-mohali.php
+  ✓ Linked: Mohali
+  ✓ Created: bike-transport-muktsar.php
+  ✓ Linked: Muktsar
+  ✓ Created: bike-transport-nawanshahr.php
+  ✓ Linked: Nawanshahr
+  ✓ Created: bike-transport-pathankot.php
+  ✓ Linked: Pathankot
+  ✓ Created: bike-transport-patiala.php
+  ✓ Linked: Patiala
+  ✓ Created: bike-transport-rupnagar.php
+  ✓ Linked: Rupnagar
+  ✓ Created: bike-transport-sangrur.php
+  ✓ Linked: Sangrur
+  ✓ Created: bike-transport-tarn-taran.php
+  ✓ Linked: Tarn Taran
+  Updated: bike-transport-punjab.php
+
+============================================================
+Processing: bike-transport-rajasthan.php
+============================================================
+  Found 50 districts
+  ✓ Created: bike-transport-ajmer.php
+  ✓ Linked: Ajmer
+  ✓ Created: bike-transport-alwar.php
+  ✓ Linked: Alwar
+  ✓ Created: bike-transport-anupgarh.php
+  ✓ Linked: Anupgarh
+  ✓ Created: bike-transport-balotra.php
+  ✓ Linked: Balotra
+  ✓ Created: bike-transport-banswara.php
+  ✓ Linked: Banswara
+  ✓ Created: bike-transport-baran.php
+  ✓ Linked: Baran
+  ✓ Created: bike-transport-barmer.php
+  ✓ Linked: Barmer
+  ✓ Created: bike-transport-beawar.php
+  ✓ Linked: Beawar
+  ✓ Created: bike-transport-bharatpur.php
+  ✓ Linked: Bharatpur
+  ✓ Created: bike-transport-bhilwara.php
+  ✓ Linked: Bhilwara
+  ✓ Created: bike-transport-bikaner.php
+  ✓ Linked: Bikaner
+  ✓ Created: bike-transport-bundi.php
+  ✓ Linked: Bundi
+  ✓ Created: bike-transport-chittorgarh.php
+  ✓ Linked: Chittorgarh
+  ✓ Created: bike-transport-churu.php
+  ✓ Linked: Churu
+  ✓ Created: bike-transport-dausa.php
+  ✓ Linked: Dausa
+  ✓ Created: bike-transport-deeg.php
+  ✓ Linked: Deeg
+  ✓ Created: bike-transport-dholpur.php
+  ✓ Linked: Dholpur
+  ✓ Created: bike-transport-didwana-kuchaman.php
+  ✓ Linked: Didwana-Kuchaman
+  ✓ Created: bike-transport-dudu.php
+  ✓ Linked: Dudu
+  ✓ Created: bike-transport-dungarpur.php
+  ✓ Linked: Dungarpur
+  ✓ Created: bike-transport-ganganagar.php
+  ✓ Linked: Ganganagar
+  ✓ Created: bike-transport-gangapur-city.php
+  ✓ Linked: Gangapur City
+  ✓ Created: bike-transport-hanumangarh.php
+  ✓ Linked: Hanumangarh
+  ✓ Created: bike-transport-jaipur.php
+  ✓ Linked: Jaipur
+  ✓ Created: bike-transport-jaipur-rural.php
+  ✓ Linked: Jaipur Rural
+  ✓ Created: bike-transport-jaisalmer.php
+  ✓ Linked: Jaisalmer
+  ✓ Created: bike-transport-jalore.php
+  ✓ Linked: Jalore
+  ✓ Created: bike-transport-jhalawar.php
+  ✓ Linked: Jhalawar
+  ✓ Created: bike-transport-jhunjhunu.php
+  ✓ Linked: Jhunjhunu
+  ✓ Created: bike-transport-jodhpur.php
+  ✓ Linked: Jodhpur
+  ✓ Created: bike-transport-jodhpur-rural.php
+  ✓ Linked: Jodhpur Rural
+  ✓ Created: bike-transport-karauli.php
+  ✓ Linked: Karauli
+  ✓ Created: bike-transport-kekri.php
+  ✓ Linked: Kekri
+  ✓ Created: bike-transport-khairthal-tijara.php
+  ✓ Linked: Khairthal-Tijara
+  ✓ Created: bike-transport-kota.php
+  ✓ Linked: Kota
+  ✓ Created: bike-transport-kotputli-behror.php
+  ✓ Linked: Kotputli-Behror
+  ✓ Created: bike-transport-nagaur.php
+  ✓ Linked: Nagaur
+  ✓ Created: bike-transport-neem-ka-thana.php
+  ✓ Linked: Neem Ka Thana
+  ✓ Created: bike-transport-pali.php
+  ✓ Linked: Pali
+  ✓ Created: bike-transport-phalodi.php
+  ✓ Linked: Phalodi
+  ✓ Created: bike-transport-pratapgarh.php
+  ✓ Linked: Pratapgarh
+  ✓ Created: bike-transport-rajsamand.php
+  ✓ Linked: Rajsamand
+  ✓ Created: bike-transport-salumbar.php
+  ✓ Linked: Salumbar
+  ✓ Created: bike-transport-sanchore.php
+  ✓ Linked: Sanchore
+  ✓ Created: bike-transport-sawai-madhopur.php
+  ✓ Linked: Sawai Madhopur
+  ✓ Created: bike-transport-shahpura.php
+  ✓ Linked: Shahpura
+  ✓ Created: bike-transport-sikar.php
+  ✓ Linked: Sikar
+  ✓ Created: bike-transport-sirohi.php
+  ✓ Linked: Sirohi
+  ✓ Created: bike-transport-tonk.php
+  ✓ Linked: Tonk
+  ✓ Created: bike-transport-udaipur.php
+  ✓ Linked: Udaipur
+  Updated: bike-transport-rajasthan.php
+
+============================================================
+Processing: bike-transport-sikkim.php
+============================================================
+  Found 6 districts
+  ✓ Created: bike-transport-gangtok.php
+  ✓ Linked: Gangtok
+  ✓ Created: bike-transport-gyalshing.php
+  ✓ Linked: Gyalshing
+  ✓ Created: bike-transport-mangan.php
+  ✓ Linked: Mangan
+  ✓ Created: bike-transport-namchi.php
+  ✓ Linked: Namchi
+  ✓ Created: bike-transport-pakyong.php
+  ✓ Linked: Pakyong
+  ✓ Created: bike-transport-soreng.php
+  ✓ Linked: Soreng
+  Updated: bike-transport-sikkim.php
+
+============================================================
+Processing: bike-transport-tamil-nadu.php
+============================================================
+  Found 37 districts
+  ✓ Created: bike-transport-ariyalur.php
+  ✓ Linked: Ariyalur
+  ✓ Created: bike-transport-chengalpattu.php
+  ✓ Linked: Chengalpattu
+  ✓ Created: bike-transport-chennai.php
+  ✓ Linked: Chennai
+  ✓ Created: bike-transport-coimbatore.php
+  ✓ Linked: Coimbatore
+  ✓ Created: bike-transport-cuddalore.php
+  ✓ Linked: Cuddalore
+  ✓ Created: bike-transport-dharmapuri.php
+  ✓ Linked: Dharmapuri
+  ✓ Created: bike-transport-dindigul.php
+  ✓ Linked: Dindigul
+  ✓ Created: bike-transport-erode.php
+  ✓ Linked: Erode
+  ✓ Created: bike-transport-kallakurichi.php
+  ✓ Linked: Kallakurichi
+  ✓ Created: bike-transport-kancheepuram.php
+  ✓ Linked: Kancheepuram
+  ✓ Created: bike-transport-karur.php
+  ✓ Linked: Karur
+  ✓ Created: bike-transport-krishnagiri.php
+  ✓ Linked: Krishnagiri
+  ✓ Created: bike-transport-madurai.php
+  ✓ Linked: Madurai
+  ✓ Created: bike-transport-mayiladuthurai.php
+  ✓ Linked: Mayiladuthurai
+  ✓ Created: bike-transport-nagapattinam.php
+  ✓ Linked: Nagapattinam
+  ✓ Created: bike-transport-namakkal.php
+  ✓ Linked: Namakkal
+  ✓ Created: bike-transport-nilgiris.php
+  ✓ Linked: Nilgiris
+  ✓ Created: bike-transport-perambalur.php
+  ✓ Linked: Perambalur
+  ✓ Created: bike-transport-pudukkottai.php
+  ✓ Linked: Pudukkottai
+  ✓ Created: bike-transport-ramanathapuram.php
+  ✓ Linked: Ramanathapuram
+  ✓ Created: bike-transport-ranipet.php
+  ✓ Linked: Ranipet
+  ✓ Created: bike-transport-salem.php
+  ✓ Linked: Salem
+  ✓ Created: bike-transport-sivaganga.php
+  ✓ Linked: Sivaganga
+  ✓ Created: bike-transport-tenkasi.php
+  ✓ Linked: Tenkasi
+  ✓ Created: bike-transport-thanjavur.php
+  ✓ Linked: Thanjavur
+  ✓ Created: bike-transport-theni.php
+  ✓ Linked: Theni
+  ✓ Created: bike-transport-thoothukudi.php
+  ✓ Linked: Thoothukudi
+  ✓ Created: bike-transport-tiruchirappalli.php
+  ✓ Linked: Tiruchirappalli
+  ✓ Created: bike-transport-tirunelveli.php
+  ✓ Linked: Tirunelveli
+  ✓ Created: bike-transport-tirupathur.php
+  ✓ Linked: Tirupathur
+  ✓ Created: bike-transport-tiruppur.php
+  ✓ Linked: Tiruppur
+  ✓ Created: bike-transport-tiruvallur.php
+  ✓ Linked: Tiruvallur
+  ✓ Created: bike-transport-tiruvannamalai.php
+  ✓ Linked: Tiruvannamalai
+  ✓ Created: bike-transport-tiruvarur.php
+  ✓ Linked: Tiruvarur
+  ✓ Created: bike-transport-vellore.php
+  ✓ Linked: Vellore
+  ✓ Created: bike-transport-viluppuram.php
+  ✓ Linked: Viluppuram
+  ✓ Created: bike-transport-virudhunagar.php
+  ✓ Linked: Virudhunagar
+  Updated: bike-transport-tamil-nadu.php
+
+============================================================
+Processing: bike-transport-telangana.php
+============================================================
+  Found 33 districts
+  ✓ Created: bike-transport-adilabad.php
+  ✓ Linked: Adilabad
+  ✓ Created: bike-transport-bhadradri-kothagudem.php
+  ✓ Linked: Bhadradri Kothagudem
+  ✓ Created: bike-transport-hanumakonda.php
+  ✓ Linked: Hanumakonda
+  ✓ Created: bike-transport-hyderabad.php
+  ✓ Linked: Hyderabad
+  ✓ Created: bike-transport-jagtial.php
+  ✓ Linked: Jagtial
+  ✓ Created: bike-transport-jangaon.php
+  ✓ Linked: Jangaon
+  ✓ Created: bike-transport-jayashankar-bhupalpally.php
+  ✓ Linked: Jayashankar Bhupalpally
+  ✓ Created: bike-transport-jogulamba-gadwal.php
+  ✓ Linked: Jogulamba Gadwal
+  ✓ Created: bike-transport-kamareddy.php
+  ✓ Linked: Kamareddy
+  ✓ Created: bike-transport-karimnagar.php
+  ✓ Linked: Karimnagar
+  ✓ Created: bike-transport-khammam.php
+  ✓ Linked: Khammam
+  ✓ Created: bike-transport-komaram-bheem-asifabad.php
+  ✓ Linked: Komaram Bheem Asifabad
+  ✓ Created: bike-transport-mahabubabad.php
+  ✓ Linked: Mahabubabad
+  ✓ Created: bike-transport-mahabubnagar.php
+  ✓ Linked: Mahabubnagar
+  ✓ Created: bike-transport-mancherial.php
+  ✓ Linked: Mancherial
+  ✓ Created: bike-transport-medak.php
+  ✓ Linked: Medak
+  ✓ Created: bike-transport-medchal-malkajgiri.php
+  ✓ Linked: Medchal-Malkajgiri
+  ✓ Created: bike-transport-mulugu.php
+  ✓ Linked: Mulugu
+  ✓ Created: bike-transport-nagarkurnool.php
+  ✓ Linked: Nagarkurnool
+  ✓ Created: bike-transport-nalgonda.php
+  ✓ Linked: Nalgonda
+  ✓ Created: bike-transport-narayanpet.php
+  ✓ Linked: Narayanpet
+  ✓ Created: bike-transport-nirmal.php
+  ✓ Linked: Nirmal
+  ✓ Created: bike-transport-nizamabad.php
+  ✓ Linked: Nizamabad
+  ✓ Created: bike-transport-peddapalli.php
+  ✓ Linked: Peddapalli
+  ✓ Created: bike-transport-rajanna-sircilla.php
+  ✓ Linked: Rajanna Sircilla
+  ✓ Created: bike-transport-rangareddy.php
+  ✓ Linked: Rangareddy
+  ✓ Created: bike-transport-sangareddy.php
+  ✓ Linked: Sangareddy
+  ✓ Created: bike-transport-siddipet.php
+  ✓ Linked: Siddipet
+  ✓ Created: bike-transport-suryapet.php
+  ✓ Linked: Suryapet
+  ✓ Created: bike-transport-vikarabad.php
+  ✓ Linked: Vikarabad
+  ✓ Created: bike-transport-wanaparthy.php
+  ✓ Linked: Wanaparthy
+  ✓ Created: bike-transport-warangal.php
+  ✓ Linked: Warangal
+  ✓ Created: bike-transport-yadadri-bhuvanagiri.php
+  ✓ Linked: Yadadri Bhuvanagiri
+  Updated: bike-transport-telangana.php
+
+============================================================
+Processing: bike-transport-tripura.php
+============================================================
+  Found 8 districts
+  ✓ Created: bike-transport-dhalai.php
+  ✓ Linked: Dhalai
+  ✓ Created: bike-transport-gomati.php
+  ✓ Linked: Gomati
+  ✓ Created: bike-transport-khowai.php
+  ✓ Linked: Khowai
+  ✓ Created: bike-transport-north-tripura.php
+  ✓ Linked: North Tripura
+  ✓ Created: bike-transport-sepahijala.php
+  ✓ Linked: Sepahijala
+  ✓ Created: bike-transport-south-tripura.php
+  ✓ Linked: South Tripura
+  ✓ Created: bike-transport-unakoti.php
+  ✓ Linked: Unakoti
+  ✓ Created: bike-transport-west-tripura.php
+  ✓ Linked: West Tripura
+  Updated: bike-transport-tripura.php
+
+============================================================
+Processing: bike-transport-uttar-pradesh.php
+============================================================
+  Found 75 districts
+  ✓ Created: bike-transport-agra.php
+  ✓ Linked: Agra
+  ✓ Created: bike-transport-aligarh.php
+  ✓ Linked: Aligarh
+  ✓ Created: bike-transport-ambedkar-nagar.php
+  ✓ Linked: Ambedkar Nagar
+  ✓ Created: bike-transport-amethi.php
+  ✓ Linked: Amethi
+  ✓ Created: bike-transport-amroha.php
+  ✓ Linked: Amroha
+  ✓ Created: bike-transport-auraiya.php
+  ✓ Linked: Auraiya
+  ✓ Created: bike-transport-ayodhya.php
+  ✓ Linked: Ayodhya
+  ✓ Created: bike-transport-azamgarh.php
+  ✓ Linked: Azamgarh
+  ✓ Created: bike-transport-baghpat.php
+  ✓ Linked: Baghpat
+  ✓ Created: bike-transport-bahraich.php
+  ✓ Linked: Bahraich
+  ✓ Created: bike-transport-ballia.php
+  ✓ Linked: Ballia
+  Skipping Balrampur (already exists)
+  ✓ Created: bike-transport-banda.php
+  ✓ Linked: Banda
+  ✓ Created: bike-transport-barabanki.php
+  ✓ Linked: Barabanki
+  ✓ Created: bike-transport-bareilly.php
+  ✓ Linked: Bareilly
+  ✓ Created: bike-transport-basti.php
+  ✓ Linked: Basti
+  ✓ Created: bike-transport-bhadohi.php
+  ✓ Linked: Bhadohi
+  ✓ Created: bike-transport-bijnor.php
+  ✓ Linked: Bijnor
+  ✓ Created: bike-transport-budaun.php
+  ✓ Linked: Budaun
+  ✓ Created: bike-transport-bulandshahr.php
+  ✓ Linked: Bulandshahr
+  ✓ Created: bike-transport-chandauli.php
+  ✓ Linked: Chandauli
+  ✓ Created: bike-transport-chitrakoot.php
+  ✓ Linked: Chitrakoot
+  ✓ Created: bike-transport-deoria.php
+  ✓ Linked: Deoria
+  ✓ Created: bike-transport-etah.php
+  ✓ Linked: Etah
+  ✓ Created: bike-transport-etawah.php
+  ✓ Linked: Etawah
+  ✓ Created: bike-transport-farrukhabad.php
+  ✓ Linked: Farrukhabad
+  ✓ Created: bike-transport-fatehpur.php
+  ✓ Linked: Fatehpur
+  ✓ Created: bike-transport-firozabad.php
+  ✓ Linked: Firozabad
+  ✓ Created: bike-transport-gautam-buddha-nagar.php
+  ✓ Linked: Gautam Buddha Nagar
+  ✓ Created: bike-transport-ghaziabad.php
+  ✓ Linked: Ghaziabad
+  ✓ Created: bike-transport-ghazipur.php
+  ✓ Linked: Ghazipur
+  ✓ Created: bike-transport-gonda.php
+  ✓ Linked: Gonda
+  ✓ Created: bike-transport-gorakhpur.php
+  ✓ Linked: Gorakhpur
+  Skipping Hamirpur (already exists)
+  ✓ Created: bike-transport-hapur.php
+  ✓ Linked: Hapur
+  ✓ Created: bike-transport-hardoi.php
+  ✓ Linked: Hardoi
+  ✓ Created: bike-transport-hathras.php
+  ✓ Linked: Hathras
+  ✓ Created: bike-transport-jalaun.php
+  ✓ Linked: Jalaun
+  ✓ Created: bike-transport-jaunpur.php
+  ✓ Linked: Jaunpur
+  ✓ Created: bike-transport-jhansi.php
+  ✓ Linked: Jhansi
+  ✓ Created: bike-transport-kannauj.php
+  ✓ Linked: Kannauj
+  ✓ Created: bike-transport-kanpur-dehat.php
+  ✓ Linked: Kanpur Dehat
+  ✓ Created: bike-transport-kanpur-nagar.php
+  ✓ Linked: Kanpur Nagar
+  ✓ Created: bike-transport-kasganj.php
+  ✓ Linked: Kasganj
+  ✓ Created: bike-transport-kaushambi.php
+  ✓ Linked: Kaushambi
+  ✓ Created: bike-transport-kushinagar.php
+  ✓ Linked: Kushinagar
+  ✓ Created: bike-transport-lakhimpur-kheri.php
+  ✓ Linked: Lakhimpur Kheri
+  ✓ Created: bike-transport-lalitpur.php
+  ✓ Linked: Lalitpur
+  ✓ Created: bike-transport-lucknow.php
+  ✓ Linked: Lucknow
+  ✓ Created: bike-transport-maharajganj.php
+  ✓ Linked: Maharajganj
+  ✓ Created: bike-transport-mahoba.php
+  ✓ Linked: Mahoba
+  ✓ Created: bike-transport-mainpuri.php
+  ✓ Linked: Mainpuri
+  ✓ Created: bike-transport-mathura.php
+  ✓ Linked: Mathura
+  ✓ Created: bike-transport-mau.php
+  ✓ Linked: Mau
+  ✓ Created: bike-transport-meerut.php
+  ✓ Linked: Meerut
+  ✓ Created: bike-transport-mirzapur.php
+  ✓ Linked: Mirzapur
+  ✓ Created: bike-transport-moradabad.php
+  ✓ Linked: Moradabad
+  ✓ Created: bike-transport-muzaffarnagar.php
+  ✓ Linked: Muzaffarnagar
+  ✓ Created: bike-transport-pilibhit.php
+  ✓ Linked: Pilibhit
+  Skipping Pratapgarh (already exists)
+  ✓ Created: bike-transport-prayagraj.php
+  ✓ Linked: Prayagraj
+  ✓ Created: bike-transport-raebareli.php
+  ✓ Linked: Raebareli
+  ✓ Created: bike-transport-rampur.php
+  ✓ Linked: Rampur
+  ✓ Created: bike-transport-saharanpur.php
+  ✓ Linked: Saharanpur
+  ✓ Created: bike-transport-sambhal.php
+  ✓ Linked: Sambhal
+  ✓ Created: bike-transport-sant-kabir-nagar.php
+  ✓ Linked: Sant Kabir Nagar
+  ✓ Created: bike-transport-shahjahanpur.php
+  ✓ Linked: Shahjahanpur
+  ✓ Created: bike-transport-shamli.php
+  ✓ Linked: Shamli
+  ✓ Created: bike-transport-shravasti.php
+  ✓ Linked: Shravasti
+  ✓ Created: bike-transport-siddharthnagar.php
+  ✓ Linked: Siddharthnagar
+  ✓ Created: bike-transport-sitapur.php
+  ✓ Linked: Sitapur
+  ✓ Created: bike-transport-sonbhadra.php
+  ✓ Linked: Sonbhadra
+  ✓ Created: bike-transport-sultanpur.php
+  ✓ Linked: Sultanpur
+  ✓ Created: bike-transport-unnao.php
+  ✓ Linked: Unnao
+  ✓ Created: bike-transport-varanasi.php
+  ✓ Linked: Varanasi
+  Updated: bike-transport-uttar-pradesh.php
+
+============================================================
+Processing: bike-transport-uttarakhand.php
+============================================================
+  Found 13 districts
+  ✓ Created: bike-transport-almora.php
+  ✓ Linked: Almora
+  ✓ Created: bike-transport-bageshwar.php
+  ✓ Linked: Bageshwar
+  ✓ Created: bike-transport-chamoli.php
+  ✓ Linked: Chamoli
+  ✓ Created: bike-transport-champawat.php
+  ✓ Linked: Champawat
+  ✓ Created: bike-transport-dehradun.php
+  ✓ Linked: Dehradun
+  ✓ Created: bike-transport-haridwar.php
+  ✓ Linked: Haridwar
+  ✓ Created: bike-transport-nainital.php
+  ✓ Linked: Nainital
+  ✓ Created: bike-transport-pauri-garhwal.php
+  ✓ Linked: Pauri Garhwal
+  ✓ Created: bike-transport-pithoragarh.php
+  ✓ Linked: Pithoragarh
+  ✓ Created: bike-transport-rudraprayag.php
+  ✓ Linked: Rudraprayag
+  ✓ Created: bike-transport-tehri-garhwal.php
+  ✓ Linked: Tehri Garhwal
+  ✓ Created: bike-transport-udham-singh-nagar.php
+  ✓ Linked: Udham Singh Nagar
+  ✓ Created: bike-transport-uttarkashi.php
+  ✓ Linked: Uttarkashi
+  Updated: bike-transport-uttarakhand.php
+
+============================================================
+SUMMARY
+============================================================
+Total pages created: 686
+Total links updated: 686
+States processed: 27
+============================================================
