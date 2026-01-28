@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Aurangabad. Safe, insured door-to-door bike shifting to and from Aurangabad to anywhere in India.">
     <meta name="keywords"
-        content="bike transport aurangabad, bike shifting aurangabad, two wheeler transport aurangabad, bike courier service aurangabad, bike relocation aurangabad, motorcycle transport aurangabad">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport aurangabad, bike shifting aurangabad, two wheeler transport aurangabad, bike courier service aurangabad, bike relocation aurangabad, motorcycle transport aurangabad">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

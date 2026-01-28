@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Bijapur. Safe, insured door-to-door bike shifting to and from Bijapur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport bijapur, bike shifting bijapur, two wheeler transport bijapur, bike courier service bijapur, bike relocation bijapur, motorcycle transport bijapur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport bijapur, bike shifting bijapur, two wheeler transport bijapur, bike courier service bijapur, bike relocation bijapur, motorcycle transport bijapur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

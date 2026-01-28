@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Supaul | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Supaul. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport supaul, car shifting supaul, vehicle transport supaul, car carrier supaul, car relocation supaul">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport supaul, car shifting supaul, vehicle transport supaul, car carrier supaul, car relocation supaul">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

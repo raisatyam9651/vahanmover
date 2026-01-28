@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Auraiya. Safe, insured door-to-door bike shifting to and from Auraiya to anywhere in India.">
     <meta name="keywords"
-        content="bike transport auraiya, bike shifting auraiya, two wheeler transport auraiya, bike courier service auraiya, bike relocation auraiya, motorcycle transport auraiya">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport auraiya, bike shifting auraiya, two wheeler transport auraiya, bike courier service auraiya, bike relocation auraiya, motorcycle transport auraiya">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

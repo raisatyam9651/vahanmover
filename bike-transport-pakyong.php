@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Pakyong. Safe, insured door-to-door bike shifting to and from Pakyong to anywhere in India.">
     <meta name="keywords"
-        content="bike transport pakyong, bike shifting pakyong, two wheeler transport pakyong, bike courier service pakyong, bike relocation pakyong, motorcycle transport pakyong">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport pakyong, bike shifting pakyong, two wheeler transport pakyong, bike courier service pakyong, bike relocation pakyong, motorcycle transport pakyong">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

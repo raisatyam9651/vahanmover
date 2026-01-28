@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Ramanagara | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Ramanagara. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport ramanagara, car shifting ramanagara, vehicle transport ramanagara, car carrier ramanagara, car relocation ramanagara">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport ramanagara, car shifting ramanagara, vehicle transport ramanagara, car carrier ramanagara, car relocation ramanagara">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

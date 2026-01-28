@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Mayurbhanj. Safe, insured door-to-door bike shifting to and from Mayurbhanj to anywhere in India.">
     <meta name="keywords"
-        content="bike transport mayurbhanj, bike shifting mayurbhanj, two wheeler transport mayurbhanj, bike courier service mayurbhanj, bike relocation mayurbhanj, motorcycle transport mayurbhanj">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport mayurbhanj, bike shifting mayurbhanj, two wheeler transport mayurbhanj, bike courier service mayurbhanj, bike relocation mayurbhanj, motorcycle transport mayurbhanj">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

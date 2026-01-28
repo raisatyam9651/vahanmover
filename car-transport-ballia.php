@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Ballia | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Ballia. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport ballia, car shifting ballia, vehicle transport ballia, car carrier ballia, car relocation ballia">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport ballia, car shifting ballia, vehicle transport ballia, car carrier ballia, car relocation ballia">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

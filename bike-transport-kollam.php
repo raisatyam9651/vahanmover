@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kollam. Safe, insured door-to-door bike shifting to and from Kollam to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kollam, bike shifting kollam, two wheeler transport kollam, bike courier service kollam, bike relocation kollam, motorcycle transport kollam">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kollam, bike shifting kollam, two wheeler transport kollam, bike courier service kollam, bike relocation kollam, motorcycle transport kollam">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Dhule. Safe, insured door-to-door bike shifting to and from Dhule to anywhere in India.">
     <meta name="keywords"
-        content="bike transport dhule, bike shifting dhule, two wheeler transport dhule, bike courier service dhule, bike relocation dhule, motorcycle transport dhule">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport dhule, bike shifting dhule, two wheeler transport dhule, bike courier service dhule, bike relocation dhule, motorcycle transport dhule">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Koderma | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Koderma. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport koderma, car shifting koderma, vehicle transport koderma, car carrier koderma, car relocation koderma">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport koderma, car shifting koderma, vehicle transport koderma, car carrier koderma, car relocation koderma">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

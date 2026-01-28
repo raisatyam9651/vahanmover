@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in South West Garo Hills. Safe, insured door-to-door bike shifting to and from South West Garo Hills to anywhere in India.">
     <meta name="keywords"
-        content="bike transport south-west-garo-hills, bike shifting south-west-garo-hills, two wheeler transport south-west-garo-hills, bike courier service south-west-garo-hills, bike relocation south-west-garo-hills, motorcycle transport south-west-garo-hills">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport south-west-garo-hills, bike shifting south-west-garo-hills, two wheeler transport south-west-garo-hills, bike courier service south-west-garo-hills, bike relocation south-west-garo-hills, motorcycle transport south-west-garo-hills">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

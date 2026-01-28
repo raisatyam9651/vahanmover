@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Mahisagar. Safe, insured door-to-door bike shifting to and from Mahisagar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport mahisagar, bike shifting mahisagar, two wheeler transport mahisagar, bike courier service mahisagar, bike relocation mahisagar, motorcycle transport mahisagar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport mahisagar, bike shifting mahisagar, two wheeler transport mahisagar, bike courier service mahisagar, bike relocation mahisagar, motorcycle transport mahisagar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

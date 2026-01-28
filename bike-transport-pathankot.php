@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Pathankot. Safe, insured door-to-door bike shifting to and from Pathankot to anywhere in India.">
     <meta name="keywords"
-        content="bike transport pathankot, bike shifting pathankot, two wheeler transport pathankot, bike courier service pathankot, bike relocation pathankot, motorcycle transport pathankot">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport pathankot, bike shifting pathankot, two wheeler transport pathankot, bike courier service pathankot, bike relocation pathankot, motorcycle transport pathankot">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

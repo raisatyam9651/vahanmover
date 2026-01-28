@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Gaurela-Pendra-Marwahi | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Gaurela-Pendra-Marwahi. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport gaurela-pendra-marwahi, car shifting gaurela-pendra-marwahi, vehicle transport gaurela-pendra-marwahi, car carrier gaurela-pendra-marwahi, car relocation gaurela-pendra-marwahi">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport gaurela-pendra-marwahi, car shifting gaurela-pendra-marwahi, vehicle transport gaurela-pendra-marwahi, car carrier gaurela-pendra-marwahi, car relocation gaurela-pendra-marwahi">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

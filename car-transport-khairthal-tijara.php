@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Khairthal-Tijara | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Khairthal-Tijara. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport khairthal-tijara, car shifting khairthal-tijara, vehicle transport khairthal-tijara, car carrier khairthal-tijara, car relocation khairthal-tijara">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport khairthal-tijara, car shifting khairthal-tijara, vehicle transport khairthal-tijara, car carrier khairthal-tijara, car relocation khairthal-tijara">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

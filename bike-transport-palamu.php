@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Palamu. Safe, insured door-to-door bike shifting to and from Palamu to anywhere in India.">
     <meta name="keywords"
-        content="bike transport palamu, bike shifting palamu, two wheeler transport palamu, bike courier service palamu, bike relocation palamu, motorcycle transport palamu">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport palamu, bike shifting palamu, two wheeler transport palamu, bike courier service palamu, bike relocation palamu, motorcycle transport palamu">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

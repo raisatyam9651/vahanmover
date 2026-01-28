@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Gondia. Safe, insured door-to-door bike shifting to and from Gondia to anywhere in India.">
     <meta name="keywords"
-        content="bike transport gondia, bike shifting gondia, two wheeler transport gondia, bike courier service gondia, bike relocation gondia, motorcycle transport gondia">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport gondia, bike shifting gondia, two wheeler transport gondia, bike courier service gondia, bike relocation gondia, motorcycle transport gondia">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

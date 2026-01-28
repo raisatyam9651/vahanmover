@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Chittorgarh. Safe, insured door-to-door bike shifting to and from Chittorgarh to anywhere in India.">
     <meta name="keywords"
-        content="bike transport chittorgarh, bike shifting chittorgarh, two wheeler transport chittorgarh, bike courier service chittorgarh, bike relocation chittorgarh, motorcycle transport chittorgarh">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport chittorgarh, bike shifting chittorgarh, two wheeler transport chittorgarh, bike courier service chittorgarh, bike relocation chittorgarh, motorcycle transport chittorgarh">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

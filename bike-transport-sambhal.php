@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Sambhal. Safe, insured door-to-door bike shifting to and from Sambhal to anywhere in India.">
     <meta name="keywords"
-        content="bike transport sambhal, bike shifting sambhal, two wheeler transport sambhal, bike courier service sambhal, bike relocation sambhal, motorcycle transport sambhal">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport sambhal, bike shifting sambhal, two wheeler transport sambhal, bike courier service sambhal, bike relocation sambhal, motorcycle transport sambhal">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

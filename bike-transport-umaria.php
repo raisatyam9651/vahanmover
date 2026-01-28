@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Umaria. Safe, insured door-to-door bike shifting to and from Umaria to anywhere in India.">
     <meta name="keywords"
-        content="bike transport umaria, bike shifting umaria, two wheeler transport umaria, bike courier service umaria, bike relocation umaria, motorcycle transport umaria">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport umaria, bike shifting umaria, two wheeler transport umaria, bike courier service umaria, bike relocation umaria, motorcycle transport umaria">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

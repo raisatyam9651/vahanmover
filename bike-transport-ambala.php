@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Ambala. Safe, insured door-to-door bike shifting to and from Ambala to anywhere in India.">
     <meta name="keywords"
-        content="bike transport ambala, bike shifting ambala, two wheeler transport ambala, bike courier service ambala, bike relocation ambala, motorcycle transport ambala">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport ambala, bike shifting ambala, two wheeler transport ambala, bike courier service ambala, bike relocation ambala, motorcycle transport ambala">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

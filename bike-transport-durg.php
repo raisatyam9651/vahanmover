@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Durg. Safe, insured door-to-door bike shifting to and from Durg to anywhere in India.">
     <meta name="keywords"
-        content="bike transport durg, bike shifting durg, two wheeler transport durg, bike courier service durg, bike relocation durg, motorcycle transport durg">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport durg, bike shifting durg, two wheeler transport durg, bike courier service durg, bike relocation durg, motorcycle transport durg">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

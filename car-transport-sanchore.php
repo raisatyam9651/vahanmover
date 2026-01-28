@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Sanchore | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Sanchore. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport sanchore, car shifting sanchore, vehicle transport sanchore, car carrier sanchore, car relocation sanchore">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport sanchore, car shifting sanchore, vehicle transport sanchore, car carrier sanchore, car relocation sanchore">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

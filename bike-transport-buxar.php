@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Buxar. Safe, insured door-to-door bike shifting to and from Buxar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport buxar, bike shifting buxar, two wheeler transport buxar, bike courier service buxar, bike relocation buxar, motorcycle transport buxar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport buxar, bike shifting buxar, two wheeler transport buxar, bike courier service buxar, bike relocation buxar, motorcycle transport buxar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

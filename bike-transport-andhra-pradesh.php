@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Andhra Pradesh covering Visakhapatnam, Vijayawada, Tirupati, Guntur, and all districts. Safe, insured door-to-door bike shifting.">
     <meta name="keywords"
-        content="bike transport andhra pradesh, bike shifting visakhapatnam, two wheeler transport vijayawada, bike courier tirupati, bike relocation guntur, motorcycle transport andhra pradesh">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport andhra pradesh, bike shifting visakhapatnam, two wheeler transport vijayawada, bike courier tirupati, bike relocation guntur, motorcycle transport andhra pradesh">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Banda. Safe, insured door-to-door bike shifting to and from Banda to anywhere in India.">
     <meta name="keywords"
-        content="bike transport banda, bike shifting banda, two wheeler transport banda, bike courier service banda, bike relocation banda, motorcycle transport banda">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport banda, bike shifting banda, two wheeler transport banda, bike courier service banda, bike relocation banda, motorcycle transport banda">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

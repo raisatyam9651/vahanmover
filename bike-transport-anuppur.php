@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Anuppur. Safe, insured door-to-door bike shifting to and from Anuppur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport anuppur, bike shifting anuppur, two wheeler transport anuppur, bike courier service anuppur, bike relocation anuppur, motorcycle transport anuppur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport anuppur, bike shifting anuppur, two wheeler transport anuppur, bike courier service anuppur, bike relocation anuppur, motorcycle transport anuppur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

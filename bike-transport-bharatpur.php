@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Bharatpur. Safe, insured door-to-door bike shifting to and from Bharatpur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport bharatpur, bike shifting bharatpur, two wheeler transport bharatpur, bike courier service bharatpur, bike relocation bharatpur, motorcycle transport bharatpur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport bharatpur, bike shifting bharatpur, two wheeler transport bharatpur, bike courier service bharatpur, bike relocation bharatpur, motorcycle transport bharatpur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

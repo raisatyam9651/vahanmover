@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Gangtok. Safe, insured door-to-door bike shifting to and from Gangtok to anywhere in India.">
     <meta name="keywords"
-        content="bike transport gangtok, bike shifting gangtok, two wheeler transport gangtok, bike courier service gangtok, bike relocation gangtok, motorcycle transport gangtok">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport gangtok, bike shifting gangtok, two wheeler transport gangtok, bike courier service gangtok, bike relocation gangtok, motorcycle transport gangtok">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

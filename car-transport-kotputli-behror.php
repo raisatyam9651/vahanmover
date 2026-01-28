@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Kotputli-Behror | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Kotputli-Behror. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport kotputli-behror, car shifting kotputli-behror, vehicle transport kotputli-behror, car carrier kotputli-behror, car relocation kotputli-behror">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport kotputli-behror, car shifting kotputli-behror, vehicle transport kotputli-behror, car carrier kotputli-behror, car relocation kotputli-behror">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

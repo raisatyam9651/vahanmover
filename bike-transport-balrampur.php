@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Balrampur. Safe, insured door-to-door bike shifting to and from Balrampur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport balrampur, bike shifting balrampur, two wheeler transport balrampur, bike courier service balrampur, bike relocation balrampur, motorcycle transport balrampur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport balrampur, bike shifting balrampur, two wheeler transport balrampur, bike courier service balrampur, bike relocation balrampur, motorcycle transport balrampur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

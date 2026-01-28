@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Nalanda. Safe, insured door-to-door bike shifting to and from Nalanda to anywhere in India.">
     <meta name="keywords"
-        content="bike transport nalanda, bike shifting nalanda, two wheeler transport nalanda, bike courier service nalanda, bike relocation nalanda, motorcycle transport nalanda">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport nalanda, bike shifting nalanda, two wheeler transport nalanda, bike courier service nalanda, bike relocation nalanda, motorcycle transport nalanda">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Guntur | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Guntur. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport guntur, car shifting guntur, vehicle transport guntur, car carrier guntur, car relocation guntur">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport guntur, car shifting guntur, vehicle transport guntur, car carrier guntur, car relocation guntur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

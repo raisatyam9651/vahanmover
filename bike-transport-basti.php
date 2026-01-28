@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Basti. Safe, insured door-to-door bike shifting to and from Basti to anywhere in India.">
     <meta name="keywords"
-        content="bike transport basti, bike shifting basti, two wheeler transport basti, bike courier service basti, bike relocation basti, motorcycle transport basti">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport basti, bike shifting basti, two wheeler transport basti, bike courier service basti, bike relocation basti, motorcycle transport basti">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

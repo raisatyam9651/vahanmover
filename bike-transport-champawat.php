@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Champawat. Safe, insured door-to-door bike shifting to and from Champawat to anywhere in India.">
     <meta name="keywords"
-        content="bike transport champawat, bike shifting champawat, two wheeler transport champawat, bike courier service champawat, bike relocation champawat, motorcycle transport champawat">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport champawat, bike shifting champawat, two wheeler transport champawat, bike courier service champawat, bike relocation champawat, motorcycle transport champawat">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

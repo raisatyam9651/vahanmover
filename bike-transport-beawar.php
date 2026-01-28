@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Beawar. Safe, insured door-to-door bike shifting to and from Beawar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport beawar, bike shifting beawar, two wheeler transport beawar, bike courier service beawar, bike relocation beawar, motorcycle transport beawar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport beawar, bike shifting beawar, two wheeler transport beawar, bike courier service beawar, bike relocation beawar, motorcycle transport beawar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

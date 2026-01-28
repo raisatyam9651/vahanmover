@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Gomati | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Gomati. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport gomati, car shifting gomati, vehicle transport gomati, car carrier gomati, car relocation gomati">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport gomati, car shifting gomati, vehicle transport gomati, car carrier gomati, car relocation gomati">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

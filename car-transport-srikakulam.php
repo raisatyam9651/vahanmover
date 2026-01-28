@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Srikakulam | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Srikakulam. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport srikakulam, car shifting srikakulam, vehicle transport srikakulam, car carrier srikakulam, car relocation srikakulam">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport srikakulam, car shifting srikakulam, vehicle transport srikakulam, car carrier srikakulam, car relocation srikakulam">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

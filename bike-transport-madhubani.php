@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Madhubani. Safe, insured door-to-door bike shifting to and from Madhubani to anywhere in India.">
     <meta name="keywords"
-        content="bike transport madhubani, bike shifting madhubani, two wheeler transport madhubani, bike courier service madhubani, bike relocation madhubani, motorcycle transport madhubani">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport madhubani, bike shifting madhubani, two wheeler transport madhubani, bike courier service madhubani, bike relocation madhubani, motorcycle transport madhubani">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

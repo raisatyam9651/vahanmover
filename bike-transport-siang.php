@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Siang. Safe, insured door-to-door bike shifting to and from Siang to anywhere in India.">
     <meta name="keywords"
-        content="bike transport siang, bike shifting siang, two wheeler transport siang, bike courier service siang, bike relocation siang, motorcycle transport siang">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport siang, bike shifting siang, two wheeler transport siang, bike courier service siang, bike relocation siang, motorcycle transport siang">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

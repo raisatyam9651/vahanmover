@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Jaipur Rural | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Jaipur Rural. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport jaipur rural, car shifting jaipur rural, vehicle transport jaipur rural, car carrier jaipur rural, car relocation jaipur rural">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport jaipur rural, car shifting jaipur rural, vehicle transport jaipur rural, car carrier jaipur rural, car relocation jaipur rural">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

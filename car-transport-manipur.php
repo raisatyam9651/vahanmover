@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional car transport service in Manipur covering Imphal, Thoubal, Bishnupur, Churachandpur, Kakching, and all districts. Safe, insured door-to-door car shifting.">
     <meta name="keywords"
-        content="car transport manipur, car shifting imphal, vehicle transport thoubal, car carrier bishnupur, car relocation churachandpur, auto transport manipur">    <?php include 'includes/header-link.php'; ?>
+        content="car transport manipur, car shifting imphal, vehicle transport thoubal, car carrier bishnupur, car relocation churachandpur, auto transport manipur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

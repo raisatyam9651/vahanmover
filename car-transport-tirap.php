@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Tirap | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Tirap. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport tirap, car shifting tirap, vehicle transport tirap, car carrier tirap, car relocation tirap">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport tirap, car shifting tirap, vehicle transport tirap, car carrier tirap, car relocation tirap">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Sukma. Safe, insured door-to-door bike shifting to and from Sukma to anywhere in India.">
     <meta name="keywords"
-        content="bike transport sukma, bike shifting sukma, two wheeler transport sukma, bike courier service sukma, bike relocation sukma, motorcycle transport sukma">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport sukma, bike shifting sukma, two wheeler transport sukma, bike courier service sukma, bike relocation sukma, motorcycle transport sukma">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

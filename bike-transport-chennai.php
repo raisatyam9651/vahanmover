@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Chennai. Safe, insured door-to-door bike shifting to and from Chennai to anywhere in India.">
     <meta name="keywords"
-        content="bike transport chennai, bike shifting chennai, two wheeler transport chennai, bike courier service chennai, bike relocation chennai, motorcycle transport chennai">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport chennai, bike shifting chennai, two wheeler transport chennai, bike courier service chennai, bike relocation chennai, motorcycle transport chennai">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

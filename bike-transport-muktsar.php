@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Muktsar. Safe, insured door-to-door bike shifting to and from Muktsar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport muktsar, bike shifting muktsar, two wheeler transport muktsar, bike courier service muktsar, bike relocation muktsar, motorcycle transport muktsar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport muktsar, bike shifting muktsar, two wheeler transport muktsar, bike courier service muktsar, bike relocation muktsar, motorcycle transport muktsar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

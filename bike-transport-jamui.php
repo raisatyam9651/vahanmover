@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Jamui. Safe, insured door-to-door bike shifting to and from Jamui to anywhere in India.">
     <meta name="keywords"
-        content="bike transport jamui, bike shifting jamui, two wheeler transport jamui, bike courier service jamui, bike relocation jamui, motorcycle transport jamui">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport jamui, bike shifting jamui, two wheeler transport jamui, bike courier service jamui, bike relocation jamui, motorcycle transport jamui">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

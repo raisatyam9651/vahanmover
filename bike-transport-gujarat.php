@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Gujarat covering Ahmedabad, Surat, Vadodara, Rajkot, and all districts. Safe, insured door-to-door bike shifting.">
     <meta name="keywords"
-        content="bike transport gujarat, bike shifting ahmedabad, two wheeler transport surat, bike courier vadodara, bike relocation rajkot, motorcycle transport gujarat">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport gujarat, bike shifting ahmedabad, two wheeler transport surat, bike courier vadodara, bike relocation rajkot, motorcycle transport gujarat">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

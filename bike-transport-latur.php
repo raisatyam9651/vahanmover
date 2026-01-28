@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Latur. Safe, insured door-to-door bike shifting to and from Latur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport latur, bike shifting latur, two wheeler transport latur, bike courier service latur, bike relocation latur, motorcycle transport latur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport latur, bike shifting latur, two wheeler transport latur, bike courier service latur, bike relocation latur, motorcycle transport latur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

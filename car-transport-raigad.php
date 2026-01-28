@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Raigad | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Raigad. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport raigad, car shifting raigad, vehicle transport raigad, car carrier raigad, car relocation raigad">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport raigad, car shifting raigad, vehicle transport raigad, car carrier raigad, car relocation raigad">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

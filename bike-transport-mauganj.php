@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Mauganj. Safe, insured door-to-door bike shifting to and from Mauganj to anywhere in India.">
     <meta name="keywords"
-        content="bike transport mauganj, bike shifting mauganj, two wheeler transport mauganj, bike courier service mauganj, bike relocation mauganj, motorcycle transport mauganj">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport mauganj, bike shifting mauganj, two wheeler transport mauganj, bike courier service mauganj, bike relocation mauganj, motorcycle transport mauganj">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

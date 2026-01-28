@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Bilaspur. Safe, insured door-to-door bike shifting to and from Bilaspur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport bilaspur, bike shifting bilaspur, two wheeler transport bilaspur, bike courier service bilaspur, bike relocation bilaspur, motorcycle transport bilaspur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport bilaspur, bike shifting bilaspur, two wheeler transport bilaspur, bike courier service bilaspur, bike relocation bilaspur, motorcycle transport bilaspur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

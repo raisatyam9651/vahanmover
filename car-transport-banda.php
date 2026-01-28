@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Banda | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Banda. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport banda, car shifting banda, vehicle transport banda, car carrier banda, car relocation banda">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport banda, car shifting banda, vehicle transport banda, car carrier banda, car relocation banda">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

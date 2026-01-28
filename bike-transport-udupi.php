@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Udupi. Safe, insured door-to-door bike shifting to and from Udupi to anywhere in India.">
     <meta name="keywords"
-        content="bike transport udupi, bike shifting udupi, two wheeler transport udupi, bike courier service udupi, bike relocation udupi, motorcycle transport udupi">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport udupi, bike shifting udupi, two wheeler transport udupi, bike courier service udupi, bike relocation udupi, motorcycle transport udupi">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

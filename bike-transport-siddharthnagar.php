@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Siddharthnagar. Safe, insured door-to-door bike shifting to and from Siddharthnagar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport siddharthnagar, bike shifting siddharthnagar, two wheeler transport siddharthnagar, bike courier service siddharthnagar, bike relocation siddharthnagar, motorcycle transport siddharthnagar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport siddharthnagar, bike shifting siddharthnagar, two wheeler transport siddharthnagar, bike courier service siddharthnagar, bike relocation siddharthnagar, motorcycle transport siddharthnagar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

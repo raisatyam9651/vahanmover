@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Hanumangarh. Safe, insured door-to-door bike shifting to and from Hanumangarh to anywhere in India.">
     <meta name="keywords"
-        content="bike transport hanumangarh, bike shifting hanumangarh, two wheeler transport hanumangarh, bike courier service hanumangarh, bike relocation hanumangarh, motorcycle transport hanumangarh">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport hanumangarh, bike shifting hanumangarh, two wheeler transport hanumangarh, bike courier service hanumangarh, bike relocation hanumangarh, motorcycle transport hanumangarh">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

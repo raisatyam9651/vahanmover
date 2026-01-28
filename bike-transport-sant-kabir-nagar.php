@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Sant Kabir Nagar. Safe, insured door-to-door bike shifting to and from Sant Kabir Nagar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport sant-kabir-nagar, bike shifting sant-kabir-nagar, two wheeler transport sant-kabir-nagar, bike courier service sant-kabir-nagar, bike relocation sant-kabir-nagar, motorcycle transport sant-kabir-nagar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport sant-kabir-nagar, bike shifting sant-kabir-nagar, two wheeler transport sant-kabir-nagar, bike courier service sant-kabir-nagar, bike relocation sant-kabir-nagar, motorcycle transport sant-kabir-nagar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

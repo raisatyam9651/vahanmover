@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Deogarh. Safe, insured door-to-door bike shifting to and from Deogarh to anywhere in India.">
     <meta name="keywords"
-        content="bike transport deogarh, bike shifting deogarh, two wheeler transport deogarh, bike courier service deogarh, bike relocation deogarh, motorcycle transport deogarh">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport deogarh, bike shifting deogarh, two wheeler transport deogarh, bike courier service deogarh, bike relocation deogarh, motorcycle transport deogarh">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

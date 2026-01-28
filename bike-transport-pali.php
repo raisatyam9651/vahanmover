@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Pali. Safe, insured door-to-door bike shifting to and from Pali to anywhere in India.">
     <meta name="keywords"
-        content="bike transport pali, bike shifting pali, two wheeler transport pali, bike courier service pali, bike relocation pali, motorcycle transport pali">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport pali, bike shifting pali, two wheeler transport pali, bike courier service pali, bike relocation pali, motorcycle transport pali">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

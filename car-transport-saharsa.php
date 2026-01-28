@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Saharsa | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Saharsa. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport saharsa, car shifting saharsa, vehicle transport saharsa, car carrier saharsa, car relocation saharsa">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport saharsa, car shifting saharsa, vehicle transport saharsa, car carrier saharsa, car relocation saharsa">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Niuland. Safe, insured door-to-door bike shifting to and from Niuland to anywhere in India.">
     <meta name="keywords"
-        content="bike transport niuland, bike shifting niuland, two wheeler transport niuland, bike courier service niuland, bike relocation niuland, motorcycle transport niuland">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport niuland, bike shifting niuland, two wheeler transport niuland, bike courier service niuland, bike relocation niuland, motorcycle transport niuland">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

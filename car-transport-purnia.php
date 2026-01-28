@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Purnia | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Purnia. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport purnia, car shifting purnia, vehicle transport purnia, car carrier purnia, car relocation purnia">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport purnia, car shifting purnia, vehicle transport purnia, car carrier purnia, car relocation purnia">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Tseminyu. Safe, insured door-to-door bike shifting to and from Tseminyu to anywhere in India.">
     <meta name="keywords"
-        content="bike transport tseminyu, bike shifting tseminyu, two wheeler transport tseminyu, bike courier service tseminyu, bike relocation tseminyu, motorcycle transport tseminyu">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport tseminyu, bike shifting tseminyu, two wheeler transport tseminyu, bike courier service tseminyu, bike relocation tseminyu, motorcycle transport tseminyu">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

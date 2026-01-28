@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Mandya. Safe, insured door-to-door bike shifting to and from Mandya to anywhere in India.">
     <meta name="keywords"
-        content="bike transport mandya, bike shifting mandya, two wheeler transport mandya, bike courier service mandya, bike relocation mandya, motorcycle transport mandya">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport mandya, bike shifting mandya, two wheeler transport mandya, bike courier service mandya, bike relocation mandya, motorcycle transport mandya">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

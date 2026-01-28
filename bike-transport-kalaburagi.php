@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kalaburagi. Safe, insured door-to-door bike shifting to and from Kalaburagi to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kalaburagi, bike shifting kalaburagi, two wheeler transport kalaburagi, bike courier service kalaburagi, bike relocation kalaburagi, motorcycle transport kalaburagi">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kalaburagi, bike shifting kalaburagi, two wheeler transport kalaburagi, bike courier service kalaburagi, bike relocation kalaburagi, motorcycle transport kalaburagi">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

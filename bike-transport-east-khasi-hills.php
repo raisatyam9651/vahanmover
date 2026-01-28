@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in East Khasi Hills. Safe, insured door-to-door bike shifting to and from East Khasi Hills to anywhere in India.">
     <meta name="keywords"
-        content="bike transport east-khasi-hills, bike shifting east-khasi-hills, two wheeler transport east-khasi-hills, bike courier service east-khasi-hills, bike relocation east-khasi-hills, motorcycle transport east-khasi-hills">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport east-khasi-hills, bike shifting east-khasi-hills, two wheeler transport east-khasi-hills, bike courier service east-khasi-hills, bike relocation east-khasi-hills, motorcycle transport east-khasi-hills">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

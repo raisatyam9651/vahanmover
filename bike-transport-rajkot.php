@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Rajkot. Safe, insured door-to-door bike shifting to and from Rajkot to anywhere in India.">
     <meta name="keywords"
-        content="bike transport rajkot, bike shifting rajkot, two wheeler transport rajkot, bike courier service rajkot, bike relocation rajkot, motorcycle transport rajkot">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport rajkot, bike shifting rajkot, two wheeler transport rajkot, bike courier service rajkot, bike relocation rajkot, motorcycle transport rajkot">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

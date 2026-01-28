@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Sheikhpura. Safe, insured door-to-door bike shifting to and from Sheikhpura to anywhere in India.">
     <meta name="keywords"
-        content="bike transport sheikhpura, bike shifting sheikhpura, two wheeler transport sheikhpura, bike courier service sheikhpura, bike relocation sheikhpura, motorcycle transport sheikhpura">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport sheikhpura, bike shifting sheikhpura, two wheeler transport sheikhpura, bike courier service sheikhpura, bike relocation sheikhpura, motorcycle transport sheikhpura">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

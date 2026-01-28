@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Dhamtari | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Dhamtari. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport dhamtari, car shifting dhamtari, vehicle transport dhamtari, car carrier dhamtari, car relocation dhamtari">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport dhamtari, car shifting dhamtari, vehicle transport dhamtari, car carrier dhamtari, car relocation dhamtari">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

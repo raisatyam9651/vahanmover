@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Rupnagar. Safe, insured door-to-door bike shifting to and from Rupnagar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport rupnagar, bike shifting rupnagar, two wheeler transport rupnagar, bike courier service rupnagar, bike relocation rupnagar, motorcycle transport rupnagar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport rupnagar, bike shifting rupnagar, two wheeler transport rupnagar, bike courier service rupnagar, bike relocation rupnagar, motorcycle transport rupnagar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

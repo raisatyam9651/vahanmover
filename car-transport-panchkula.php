@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Panchkula | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Panchkula. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport panchkula, car shifting panchkula, vehicle transport panchkula, car carrier panchkula, car relocation panchkula">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport panchkula, car shifting panchkula, vehicle transport panchkula, car carrier panchkula, car relocation panchkula">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

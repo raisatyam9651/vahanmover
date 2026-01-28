@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Dindigul. Safe, insured door-to-door bike shifting to and from Dindigul to anywhere in India.">
     <meta name="keywords"
-        content="bike transport dindigul, bike shifting dindigul, two wheeler transport dindigul, bike courier service dindigul, bike relocation dindigul, motorcycle transport dindigul">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport dindigul, bike shifting dindigul, two wheeler transport dindigul, bike courier service dindigul, bike relocation dindigul, motorcycle transport dindigul">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

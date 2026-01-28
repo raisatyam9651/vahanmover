@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Pilibhit. Safe, insured door-to-door bike shifting to and from Pilibhit to anywhere in India.">
     <meta name="keywords"
-        content="bike transport pilibhit, bike shifting pilibhit, two wheeler transport pilibhit, bike courier service pilibhit, bike relocation pilibhit, motorcycle transport pilibhit">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport pilibhit, bike shifting pilibhit, two wheeler transport pilibhit, bike courier service pilibhit, bike relocation pilibhit, motorcycle transport pilibhit">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

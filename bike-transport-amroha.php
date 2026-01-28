@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Amroha. Safe, insured door-to-door bike shifting to and from Amroha to anywhere in India.">
     <meta name="keywords"
-        content="bike transport amroha, bike shifting amroha, two wheeler transport amroha, bike courier service amroha, bike relocation amroha, motorcycle transport amroha">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport amroha, bike shifting amroha, two wheeler transport amroha, bike courier service amroha, bike relocation amroha, motorcycle transport amroha">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

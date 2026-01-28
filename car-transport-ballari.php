@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Ballari | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Ballari. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport ballari, car shifting ballari, vehicle transport ballari, car carrier ballari, car relocation ballari">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport ballari, car shifting ballari, vehicle transport ballari, car carrier ballari, car relocation ballari">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

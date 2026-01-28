@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Wayanad. Safe, insured door-to-door bike shifting to and from Wayanad to anywhere in India.">
     <meta name="keywords"
-        content="bike transport wayanad, bike shifting wayanad, two wheeler transport wayanad, bike courier service wayanad, bike relocation wayanad, motorcycle transport wayanad">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport wayanad, bike shifting wayanad, two wheeler transport wayanad, bike courier service wayanad, bike relocation wayanad, motorcycle transport wayanad">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

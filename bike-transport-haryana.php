@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Haryana covering Gurgaon, Faridabad, Panipat, Ambala, and all districts. Safe, insured door-to-door bike shifting.">
     <meta name="keywords"
-        content="bike transport haryana, bike shifting gurgaon, two wheeler transport faridabad, bike courier panipat, bike relocation ambala, motorcycle transport haryana">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport haryana, bike shifting gurgaon, two wheeler transport faridabad, bike courier panipat, bike relocation ambala, motorcycle transport haryana">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

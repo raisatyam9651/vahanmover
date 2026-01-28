@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Faridabad. Safe, insured door-to-door bike shifting to and from Faridabad to anywhere in India.">
     <meta name="keywords"
-        content="bike transport faridabad, bike shifting faridabad, two wheeler transport faridabad, bike courier service faridabad, bike relocation faridabad, motorcycle transport faridabad">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport faridabad, bike shifting faridabad, two wheeler transport faridabad, bike courier service faridabad, bike relocation faridabad, motorcycle transport faridabad">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

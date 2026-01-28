@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Sikar. Safe, insured door-to-door bike shifting to and from Sikar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport sikar, bike shifting sikar, two wheeler transport sikar, bike courier service sikar, bike relocation sikar, motorcycle transport sikar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport sikar, bike shifting sikar, two wheeler transport sikar, bike courier service sikar, bike relocation sikar, motorcycle transport sikar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

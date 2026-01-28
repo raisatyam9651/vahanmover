@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Rajsamand. Safe, insured door-to-door bike shifting to and from Rajsamand to anywhere in India.">
     <meta name="keywords"
-        content="bike transport rajsamand, bike shifting rajsamand, two wheeler transport rajsamand, bike courier service rajsamand, bike relocation rajsamand, motorcycle transport rajsamand">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport rajsamand, bike shifting rajsamand, two wheeler transport rajsamand, bike courier service rajsamand, bike relocation rajsamand, motorcycle transport rajsamand">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

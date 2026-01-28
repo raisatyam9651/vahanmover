@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Sundargarh. Safe, insured door-to-door bike shifting to and from Sundargarh to anywhere in India.">
     <meta name="keywords"
-        content="bike transport sundargarh, bike shifting sundargarh, two wheeler transport sundargarh, bike courier service sundargarh, bike relocation sundargarh, motorcycle transport sundargarh">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport sundargarh, bike shifting sundargarh, two wheeler transport sundargarh, bike courier service sundargarh, bike relocation sundargarh, motorcycle transport sundargarh">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

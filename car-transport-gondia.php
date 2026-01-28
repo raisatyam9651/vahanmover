@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Gondia | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Gondia. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport gondia, car shifting gondia, vehicle transport gondia, car carrier gondia, car relocation gondia">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport gondia, car shifting gondia, vehicle transport gondia, car carrier gondia, car relocation gondia">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

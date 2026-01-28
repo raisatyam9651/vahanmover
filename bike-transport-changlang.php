@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Changlang. Safe, insured door-to-door bike shifting to and from Changlang to anywhere in India.">
     <meta name="keywords"
-        content="bike transport changlang, bike shifting changlang, two wheeler transport changlang, bike courier service changlang, bike relocation changlang, motorcycle transport changlang">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport changlang, bike shifting changlang, two wheeler transport changlang, bike courier service changlang, bike relocation changlang, motorcycle transport changlang">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

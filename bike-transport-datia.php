@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Datia. Safe, insured door-to-door bike shifting to and from Datia to anywhere in India.">
     <meta name="keywords"
-        content="bike transport datia, bike shifting datia, two wheeler transport datia, bike courier service datia, bike relocation datia, motorcycle transport datia">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport datia, bike shifting datia, two wheeler transport datia, bike courier service datia, bike relocation datia, motorcycle transport datia">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

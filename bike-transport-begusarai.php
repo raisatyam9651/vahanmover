@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Begusarai. Safe, insured door-to-door bike shifting to and from Begusarai to anywhere in India.">
     <meta name="keywords"
-        content="bike transport begusarai, bike shifting begusarai, two wheeler transport begusarai, bike courier service begusarai, bike relocation begusarai, motorcycle transport begusarai">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport begusarai, bike shifting begusarai, two wheeler transport begusarai, bike courier service begusarai, bike relocation begusarai, motorcycle transport begusarai">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

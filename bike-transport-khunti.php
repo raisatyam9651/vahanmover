@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Khunti. Safe, insured door-to-door bike shifting to and from Khunti to anywhere in India.">
     <meta name="keywords"
-        content="bike transport khunti, bike shifting khunti, two wheeler transport khunti, bike courier service khunti, bike relocation khunti, motorcycle transport khunti">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport khunti, bike shifting khunti, two wheeler transport khunti, bike courier service khunti, bike relocation khunti, motorcycle transport khunti">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

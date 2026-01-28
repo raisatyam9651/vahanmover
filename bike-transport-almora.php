@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Almora. Safe, insured door-to-door bike shifting to and from Almora to anywhere in India.">
     <meta name="keywords"
-        content="bike transport almora, bike shifting almora, two wheeler transport almora, bike courier service almora, bike relocation almora, motorcycle transport almora">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport almora, bike shifting almora, two wheeler transport almora, bike courier service almora, bike relocation almora, motorcycle transport almora">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

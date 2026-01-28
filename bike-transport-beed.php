@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Beed. Safe, insured door-to-door bike shifting to and from Beed to anywhere in India.">
     <meta name="keywords"
-        content="bike transport beed, bike shifting beed, two wheeler transport beed, bike courier service beed, bike relocation beed, motorcycle transport beed">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport beed, bike shifting beed, two wheeler transport beed, bike courier service beed, bike relocation beed, motorcycle transport beed">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

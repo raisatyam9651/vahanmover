@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Thrissur. Safe, insured door-to-door bike shifting to and from Thrissur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport thrissur, bike shifting thrissur, two wheeler transport thrissur, bike courier service thrissur, bike relocation thrissur, motorcycle transport thrissur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport thrissur, bike shifting thrissur, two wheeler transport thrissur, bike courier service thrissur, bike relocation thrissur, motorcycle transport thrissur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

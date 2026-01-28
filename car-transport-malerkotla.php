@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Malerkotla | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Malerkotla. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport malerkotla, car shifting malerkotla, vehicle transport malerkotla, car carrier malerkotla, car relocation malerkotla">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport malerkotla, car shifting malerkotla, vehicle transport malerkotla, car carrier malerkotla, car relocation malerkotla">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

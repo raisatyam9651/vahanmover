@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Manipur covering Imphal, Thoubal, Bishnupur, Churachandpur, and all districts. Safe, insured door-to-door bike shifting.">
     <meta name="keywords"
-        content="bike transport manipur, bike shifting imphal, two wheeler transport thoubal, bike courier bishnupur, bike relocation churachandpur, motorcycle transport manipur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport manipur, bike shifting imphal, two wheeler transport thoubal, bike courier bishnupur, bike relocation churachandpur, motorcycle transport manipur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

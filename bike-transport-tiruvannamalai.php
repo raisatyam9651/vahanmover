@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Tiruvannamalai. Safe, insured door-to-door bike shifting to and from Tiruvannamalai to anywhere in India.">
     <meta name="keywords"
-        content="bike transport tiruvannamalai, bike shifting tiruvannamalai, two wheeler transport tiruvannamalai, bike courier service tiruvannamalai, bike relocation tiruvannamalai, motorcycle transport tiruvannamalai">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport tiruvannamalai, bike shifting tiruvannamalai, two wheeler transport tiruvannamalai, bike courier service tiruvannamalai, bike relocation tiruvannamalai, motorcycle transport tiruvannamalai">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

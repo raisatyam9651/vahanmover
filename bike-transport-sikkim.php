@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Sikkim covering Gangtok, Namchi, Gyalshing, Mangan, and all districts. Safe, insured door-to-door bike shifting.">
     <meta name="keywords"
-        content="bike transport sikkim, bike shifting gangtok, two wheeler transport namchi, bike courier gyalshing, bike relocation mangan, motorcycle transport sikkim">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport sikkim, bike shifting gangtok, two wheeler transport namchi, bike courier gyalshing, bike relocation mangan, motorcycle transport sikkim">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Rohtak. Safe, insured door-to-door bike shifting to and from Rohtak to anywhere in India.">
     <meta name="keywords"
-        content="bike transport rohtak, bike shifting rohtak, two wheeler transport rohtak, bike courier service rohtak, bike relocation rohtak, motorcycle transport rohtak">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport rohtak, bike shifting rohtak, two wheeler transport rohtak, bike courier service rohtak, bike relocation rohtak, motorcycle transport rohtak">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

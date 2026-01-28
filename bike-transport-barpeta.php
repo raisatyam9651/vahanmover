@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Barpeta. Safe, insured door-to-door bike shifting to and from Barpeta to anywhere in India.">
     <meta name="keywords"
-        content="bike transport barpeta, bike shifting barpeta, two wheeler transport barpeta, bike courier service barpeta, bike relocation barpeta, motorcycle transport barpeta">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport barpeta, bike shifting barpeta, two wheeler transport barpeta, bike courier service barpeta, bike relocation barpeta, motorcycle transport barpeta">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

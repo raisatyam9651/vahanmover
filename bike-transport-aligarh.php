@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Aligarh. Safe, insured door-to-door bike shifting to and from Aligarh to anywhere in India.">
     <meta name="keywords"
-        content="bike transport aligarh, bike shifting aligarh, two wheeler transport aligarh, bike courier service aligarh, bike relocation aligarh, motorcycle transport aligarh">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport aligarh, bike shifting aligarh, two wheeler transport aligarh, bike courier service aligarh, bike relocation aligarh, motorcycle transport aligarh">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

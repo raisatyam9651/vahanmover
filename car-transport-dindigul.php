@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Dindigul | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Dindigul. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport dindigul, car shifting dindigul, vehicle transport dindigul, car carrier dindigul, car relocation dindigul">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport dindigul, car shifting dindigul, vehicle transport dindigul, car carrier dindigul, car relocation dindigul">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kolhapur. Safe, insured door-to-door bike shifting to and from Kolhapur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kolhapur, bike shifting kolhapur, two wheeler transport kolhapur, bike courier service kolhapur, bike relocation kolhapur, motorcycle transport kolhapur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kolhapur, bike shifting kolhapur, two wheeler transport kolhapur, bike courier service kolhapur, bike relocation kolhapur, motorcycle transport kolhapur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

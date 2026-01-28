@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Barwani. Safe, insured door-to-door bike shifting to and from Barwani to anywhere in India.">
     <meta name="keywords"
-        content="bike transport barwani, bike shifting barwani, two wheeler transport barwani, bike courier service barwani, bike relocation barwani, motorcycle transport barwani">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport barwani, bike shifting barwani, two wheeler transport barwani, bike courier service barwani, bike relocation barwani, motorcycle transport barwani">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

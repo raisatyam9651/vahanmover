@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Fatehabad. Safe, insured door-to-door bike shifting to and from Fatehabad to anywhere in India.">
     <meta name="keywords"
-        content="bike transport fatehabad, bike shifting fatehabad, two wheeler transport fatehabad, bike courier service fatehabad, bike relocation fatehabad, motorcycle transport fatehabad">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport fatehabad, bike shifting fatehabad, two wheeler transport fatehabad, bike courier service fatehabad, bike relocation fatehabad, motorcycle transport fatehabad">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

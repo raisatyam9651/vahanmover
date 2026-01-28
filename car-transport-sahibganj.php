@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Sahibganj | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Sahibganj. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport sahibganj, car shifting sahibganj, vehicle transport sahibganj, car carrier sahibganj, car relocation sahibganj">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport sahibganj, car shifting sahibganj, vehicle transport sahibganj, car carrier sahibganj, car relocation sahibganj">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

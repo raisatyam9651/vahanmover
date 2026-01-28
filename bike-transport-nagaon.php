@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Nagaon. Safe, insured door-to-door bike shifting to and from Nagaon to anywhere in India.">
     <meta name="keywords"
-        content="bike transport nagaon, bike shifting nagaon, two wheeler transport nagaon, bike courier service nagaon, bike relocation nagaon, motorcycle transport nagaon">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport nagaon, bike shifting nagaon, two wheeler transport nagaon, bike courier service nagaon, bike relocation nagaon, motorcycle transport nagaon">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

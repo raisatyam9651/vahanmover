@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Ballari. Safe, insured door-to-door bike shifting to and from Ballari to anywhere in India.">
     <meta name="keywords"
-        content="bike transport ballari, bike shifting ballari, two wheeler transport ballari, bike courier service ballari, bike relocation ballari, motorcycle transport ballari">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport ballari, bike shifting ballari, two wheeler transport ballari, bike courier service ballari, bike relocation ballari, motorcycle transport ballari">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

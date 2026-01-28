@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Udalguri. Safe, insured door-to-door bike shifting to and from Udalguri to anywhere in India.">
     <meta name="keywords"
-        content="bike transport udalguri, bike shifting udalguri, two wheeler transport udalguri, bike courier service udalguri, bike relocation udalguri, motorcycle transport udalguri">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport udalguri, bike shifting udalguri, two wheeler transport udalguri, bike courier service udalguri, bike relocation udalguri, motorcycle transport udalguri">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kheda. Safe, insured door-to-door bike shifting to and from Kheda to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kheda, bike shifting kheda, two wheeler transport kheda, bike courier service kheda, bike relocation kheda, motorcycle transport kheda">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kheda, bike shifting kheda, two wheeler transport kheda, bike courier service kheda, bike relocation kheda, motorcycle transport kheda">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

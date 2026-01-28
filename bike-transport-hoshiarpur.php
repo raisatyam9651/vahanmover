@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Hoshiarpur. Safe, insured door-to-door bike shifting to and from Hoshiarpur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport hoshiarpur, bike shifting hoshiarpur, two wheeler transport hoshiarpur, bike courier service hoshiarpur, bike relocation hoshiarpur, motorcycle transport hoshiarpur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport hoshiarpur, bike shifting hoshiarpur, two wheeler transport hoshiarpur, bike courier service hoshiarpur, bike relocation hoshiarpur, motorcycle transport hoshiarpur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

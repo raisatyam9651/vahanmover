@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Maharashtra covering Mumbai, Pune, Nagpur, Nashik, and all districts. Safe, insured door-to-door bike shifting.">
     <meta name="keywords"
-        content="bike transport maharashtra, bike shifting mumbai, two wheeler transport pune, bike courier nagpur, bike relocation nashik, motorcycle transport maharashtra">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport maharashtra, bike shifting mumbai, two wheeler transport pune, bike courier nagpur, bike relocation nashik, motorcycle transport maharashtra">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

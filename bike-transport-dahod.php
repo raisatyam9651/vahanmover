@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Dahod. Safe, insured door-to-door bike shifting to and from Dahod to anywhere in India.">
     <meta name="keywords"
-        content="bike transport dahod, bike shifting dahod, two wheeler transport dahod, bike courier service dahod, bike relocation dahod, motorcycle transport dahod">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport dahod, bike shifting dahod, two wheeler transport dahod, bike courier service dahod, bike relocation dahod, motorcycle transport dahod">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

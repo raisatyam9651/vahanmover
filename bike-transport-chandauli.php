@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Chandauli. Safe, insured door-to-door bike shifting to and from Chandauli to anywhere in India.">
     <meta name="keywords"
-        content="bike transport chandauli, bike shifting chandauli, two wheeler transport chandauli, bike courier service chandauli, bike relocation chandauli, motorcycle transport chandauli">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport chandauli, bike shifting chandauli, two wheeler transport chandauli, bike courier service chandauli, bike relocation chandauli, motorcycle transport chandauli">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

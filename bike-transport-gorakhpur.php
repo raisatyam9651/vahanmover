@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Gorakhpur. Safe, insured door-to-door bike shifting to and from Gorakhpur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport gorakhpur, bike shifting gorakhpur, two wheeler transport gorakhpur, bike courier service gorakhpur, bike relocation gorakhpur, motorcycle transport gorakhpur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport gorakhpur, bike shifting gorakhpur, two wheeler transport gorakhpur, bike courier service gorakhpur, bike relocation gorakhpur, motorcycle transport gorakhpur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

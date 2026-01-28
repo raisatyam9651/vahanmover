@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Bihar covering Patna, Gaya, Bhagalpur, Muzaffarpur, and all districts. Safe, insured door-to-door bike shifting.">
     <meta name="keywords"
-        content="bike transport bihar, bike shifting patna, two wheeler transport gaya, bike courier bhagalpur, bike relocation muzaffarpur, motorcycle transport bihar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport bihar, bike shifting patna, two wheeler transport gaya, bike courier bhagalpur, bike relocation muzaffarpur, motorcycle transport bihar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

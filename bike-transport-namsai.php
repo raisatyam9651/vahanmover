@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Namsai. Safe, insured door-to-door bike shifting to and from Namsai to anywhere in India.">
     <meta name="keywords"
-        content="bike transport namsai, bike shifting namsai, two wheeler transport namsai, bike courier service namsai, bike relocation namsai, motorcycle transport namsai">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport namsai, bike shifting namsai, two wheeler transport namsai, bike courier service namsai, bike relocation namsai, motorcycle transport namsai">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

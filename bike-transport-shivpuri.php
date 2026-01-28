@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Shivpuri. Safe, insured door-to-door bike shifting to and from Shivpuri to anywhere in India.">
     <meta name="keywords"
-        content="bike transport shivpuri, bike shifting shivpuri, two wheeler transport shivpuri, bike courier service shivpuri, bike relocation shivpuri, motorcycle transport shivpuri">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport shivpuri, bike shifting shivpuri, two wheeler transport shivpuri, bike courier service shivpuri, bike relocation shivpuri, motorcycle transport shivpuri">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

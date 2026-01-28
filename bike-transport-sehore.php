@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Sehore. Safe, insured door-to-door bike shifting to and from Sehore to anywhere in India.">
     <meta name="keywords"
-        content="bike transport sehore, bike shifting sehore, two wheeler transport sehore, bike courier service sehore, bike relocation sehore, motorcycle transport sehore">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport sehore, bike shifting sehore, two wheeler transport sehore, bike courier service sehore, bike relocation sehore, motorcycle transport sehore">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Ramanathapuram. Safe, insured door-to-door bike shifting to and from Ramanathapuram to anywhere in India.">
     <meta name="keywords"
-        content="bike transport ramanathapuram, bike shifting ramanathapuram, two wheeler transport ramanathapuram, bike courier service ramanathapuram, bike relocation ramanathapuram, motorcycle transport ramanathapuram">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport ramanathapuram, bike shifting ramanathapuram, two wheeler transport ramanathapuram, bike courier service ramanathapuram, bike relocation ramanathapuram, motorcycle transport ramanathapuram">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

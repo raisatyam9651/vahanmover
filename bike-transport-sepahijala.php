@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Sepahijala. Safe, insured door-to-door bike shifting to and from Sepahijala to anywhere in India.">
     <meta name="keywords"
-        content="bike transport sepahijala, bike shifting sepahijala, two wheeler transport sepahijala, bike courier service sepahijala, bike relocation sepahijala, motorcycle transport sepahijala">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport sepahijala, bike shifting sepahijala, two wheeler transport sepahijala, bike courier service sepahijala, bike relocation sepahijala, motorcycle transport sepahijala">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Visakhapatnam | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Visakhapatnam. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport visakhapatnam, car shifting visakhapatnam, vehicle transport visakhapatnam, car carrier visakhapatnam, car relocation visakhapatnam">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport visakhapatnam, car shifting visakhapatnam, vehicle transport visakhapatnam, car carrier visakhapatnam, car relocation visakhapatnam">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

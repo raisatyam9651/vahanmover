@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in South Tripura. Safe, insured door-to-door bike shifting to and from South Tripura to anywhere in India.">
     <meta name="keywords"
-        content="bike transport south-tripura, bike shifting south-tripura, two wheeler transport south-tripura, bike courier service south-tripura, bike relocation south-tripura, motorcycle transport south-tripura">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport south-tripura, bike shifting south-tripura, two wheeler transport south-tripura, bike courier service south-tripura, bike relocation south-tripura, motorcycle transport south-tripura">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

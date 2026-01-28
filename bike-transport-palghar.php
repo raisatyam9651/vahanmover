@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Palghar. Safe, insured door-to-door bike shifting to and from Palghar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport palghar, bike shifting palghar, two wheeler transport palghar, bike courier service palghar, bike relocation palghar, motorcycle transport palghar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport palghar, bike shifting palghar, two wheeler transport palghar, bike courier service palghar, bike relocation palghar, motorcycle transport palghar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

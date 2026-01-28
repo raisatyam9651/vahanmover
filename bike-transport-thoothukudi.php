@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Thoothukudi. Safe, insured door-to-door bike shifting to and from Thoothukudi to anywhere in India.">
     <meta name="keywords"
-        content="bike transport thoothukudi, bike shifting thoothukudi, two wheeler transport thoothukudi, bike courier service thoothukudi, bike relocation thoothukudi, motorcycle transport thoothukudi">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport thoothukudi, bike shifting thoothukudi, two wheeler transport thoothukudi, bike courier service thoothukudi, bike relocation thoothukudi, motorcycle transport thoothukudi">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

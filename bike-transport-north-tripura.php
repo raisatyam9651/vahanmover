@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in North Tripura. Safe, insured door-to-door bike shifting to and from North Tripura to anywhere in India.">
     <meta name="keywords"
-        content="bike transport north-tripura, bike shifting north-tripura, two wheeler transport north-tripura, bike courier service north-tripura, bike relocation north-tripura, motorcycle transport north-tripura">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport north-tripura, bike shifting north-tripura, two wheeler transport north-tripura, bike courier service north-tripura, bike relocation north-tripura, motorcycle transport north-tripura">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

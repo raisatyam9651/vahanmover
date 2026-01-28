@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Fatehgarh Sahib. Safe, insured door-to-door bike shifting to and from Fatehgarh Sahib to anywhere in India.">
     <meta name="keywords"
-        content="bike transport fatehgarh-sahib, bike shifting fatehgarh-sahib, two wheeler transport fatehgarh-sahib, bike courier service fatehgarh-sahib, bike relocation fatehgarh-sahib, motorcycle transport fatehgarh-sahib">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport fatehgarh-sahib, bike shifting fatehgarh-sahib, two wheeler transport fatehgarh-sahib, bike courier service fatehgarh-sahib, bike relocation fatehgarh-sahib, motorcycle transport fatehgarh-sahib">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

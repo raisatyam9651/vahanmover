@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Serchhip. Safe, insured door-to-door bike shifting to and from Serchhip to anywhere in India.">
     <meta name="keywords"
-        content="bike transport serchhip, bike shifting serchhip, two wheeler transport serchhip, bike courier service serchhip, bike relocation serchhip, motorcycle transport serchhip">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport serchhip, bike shifting serchhip, two wheeler transport serchhip, bike courier service serchhip, bike relocation serchhip, motorcycle transport serchhip">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

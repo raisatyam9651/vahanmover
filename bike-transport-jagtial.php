@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Jagtial. Safe, insured door-to-door bike shifting to and from Jagtial to anywhere in India.">
     <meta name="keywords"
-        content="bike transport jagtial, bike shifting jagtial, two wheeler transport jagtial, bike courier service jagtial, bike relocation jagtial, motorcycle transport jagtial">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport jagtial, bike shifting jagtial, two wheeler transport jagtial, bike courier service jagtial, bike relocation jagtial, motorcycle transport jagtial">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Hassan | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Hassan. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport hassan, car shifting hassan, vehicle transport hassan, car carrier hassan, car relocation hassan">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport hassan, car shifting hassan, vehicle transport hassan, car carrier hassan, car relocation hassan">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

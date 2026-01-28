@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Karimganj. Safe, insured door-to-door bike shifting to and from Karimganj to anywhere in India.">
     <meta name="keywords"
-        content="bike transport karimganj, bike shifting karimganj, two wheeler transport karimganj, bike courier service karimganj, bike relocation karimganj, motorcycle transport karimganj">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport karimganj, bike shifting karimganj, two wheeler transport karimganj, bike courier service karimganj, bike relocation karimganj, motorcycle transport karimganj">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

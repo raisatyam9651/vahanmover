@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Hojai. Safe, insured door-to-door bike shifting to and from Hojai to anywhere in India.">
     <meta name="keywords"
-        content="bike transport hojai, bike shifting hojai, two wheeler transport hojai, bike courier service hojai, bike relocation hojai, motorcycle transport hojai">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport hojai, bike shifting hojai, two wheeler transport hojai, bike courier service hojai, bike relocation hojai, motorcycle transport hojai">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

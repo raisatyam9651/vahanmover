@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Vaishali. Safe, insured door-to-door bike shifting to and from Vaishali to anywhere in India.">
     <meta name="keywords"
-        content="bike transport vaishali, bike shifting vaishali, two wheeler transport vaishali, bike courier service vaishali, bike relocation vaishali, motorcycle transport vaishali">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport vaishali, bike shifting vaishali, two wheeler transport vaishali, bike courier service vaishali, bike relocation vaishali, motorcycle transport vaishali">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

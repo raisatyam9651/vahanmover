@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kaimur. Safe, insured door-to-door bike shifting to and from Kaimur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kaimur, bike shifting kaimur, two wheeler transport kaimur, bike courier service kaimur, bike relocation kaimur, motorcycle transport kaimur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kaimur, bike shifting kaimur, two wheeler transport kaimur, bike courier service kaimur, bike relocation kaimur, motorcycle transport kaimur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Dakshina Kannada. Safe, insured door-to-door bike shifting to and from Dakshina Kannada to anywhere in India.">
     <meta name="keywords"
-        content="bike transport dakshina-kannada, bike shifting dakshina-kannada, two wheeler transport dakshina-kannada, bike courier service dakshina-kannada, bike relocation dakshina-kannada, motorcycle transport dakshina-kannada">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport dakshina-kannada, bike shifting dakshina-kannada, two wheeler transport dakshina-kannada, bike courier service dakshina-kannada, bike relocation dakshina-kannada, motorcycle transport dakshina-kannada">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

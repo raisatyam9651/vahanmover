@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Gandhinagar. Safe, insured door-to-door bike shifting to and from Gandhinagar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport gandhinagar, bike shifting gandhinagar, two wheeler transport gandhinagar, bike courier service gandhinagar, bike relocation gandhinagar, motorcycle transport gandhinagar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport gandhinagar, bike shifting gandhinagar, two wheeler transport gandhinagar, bike courier service gandhinagar, bike relocation gandhinagar, motorcycle transport gandhinagar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

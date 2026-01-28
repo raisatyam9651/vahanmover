@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Goalpara. Safe, insured door-to-door bike shifting to and from Goalpara to anywhere in India.">
     <meta name="keywords"
-        content="bike transport goalpara, bike shifting goalpara, two wheeler transport goalpara, bike courier service goalpara, bike relocation goalpara, motorcycle transport goalpara">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport goalpara, bike shifting goalpara, two wheeler transport goalpara, bike courier service goalpara, bike relocation goalpara, motorcycle transport goalpara">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

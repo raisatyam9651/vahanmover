@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Muzaffarnagar. Safe, insured door-to-door bike shifting to and from Muzaffarnagar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport muzaffarnagar, bike shifting muzaffarnagar, two wheeler transport muzaffarnagar, bike courier service muzaffarnagar, bike relocation muzaffarnagar, motorcycle transport muzaffarnagar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport muzaffarnagar, bike shifting muzaffarnagar, two wheeler transport muzaffarnagar, bike courier service muzaffarnagar, bike relocation muzaffarnagar, motorcycle transport muzaffarnagar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

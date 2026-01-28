@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Himachal Pradesh covering Shimla, Dharamshala, Manali, Solan, and all districts. Safe, insured door-to-door bike shifting.">
     <meta name="keywords"
-        content="bike transport himachal pradesh, bike shifting shimla, two wheeler transport dharamshala, bike courier manali, bike relocation solan, motorcycle transport himachal pradesh">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport himachal pradesh, bike shifting shimla, two wheeler transport dharamshala, bike courier manali, bike relocation solan, motorcycle transport himachal pradesh">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

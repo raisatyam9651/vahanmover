@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Dindori. Safe, insured door-to-door bike shifting to and from Dindori to anywhere in India.">
     <meta name="keywords"
-        content="bike transport dindori, bike shifting dindori, two wheeler transport dindori, bike courier service dindori, bike relocation dindori, motorcycle transport dindori">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport dindori, bike shifting dindori, two wheeler transport dindori, bike courier service dindori, bike relocation dindori, motorcycle transport dindori">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

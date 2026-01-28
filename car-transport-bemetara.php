@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Bemetara | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Bemetara. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport bemetara, car shifting bemetara, vehicle transport bemetara, car carrier bemetara, car relocation bemetara">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport bemetara, car shifting bemetara, vehicle transport bemetara, car carrier bemetara, car relocation bemetara">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Adilabad. Safe, insured door-to-door bike shifting to and from Adilabad to anywhere in India.">
     <meta name="keywords"
-        content="bike transport adilabad, bike shifting adilabad, two wheeler transport adilabad, bike courier service adilabad, bike relocation adilabad, motorcycle transport adilabad">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport adilabad, bike shifting adilabad, two wheeler transport adilabad, bike courier service adilabad, bike relocation adilabad, motorcycle transport adilabad">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

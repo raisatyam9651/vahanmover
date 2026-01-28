@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Thiruvananthapuram | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Thiruvananthapuram. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport thiruvananthapuram, car shifting thiruvananthapuram, vehicle transport thiruvananthapuram, car carrier thiruvananthapuram, car relocation thiruvananthapuram">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport thiruvananthapuram, car shifting thiruvananthapuram, vehicle transport thiruvananthapuram, car carrier thiruvananthapuram, car relocation thiruvananthapuram">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

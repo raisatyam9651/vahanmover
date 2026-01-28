@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Tumakuru. Safe, insured door-to-door bike shifting to and from Tumakuru to anywhere in India.">
     <meta name="keywords"
-        content="bike transport tumakuru, bike shifting tumakuru, two wheeler transport tumakuru, bike courier service tumakuru, bike relocation tumakuru, motorcycle transport tumakuru">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport tumakuru, bike shifting tumakuru, two wheeler transport tumakuru, bike courier service tumakuru, bike relocation tumakuru, motorcycle transport tumakuru">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

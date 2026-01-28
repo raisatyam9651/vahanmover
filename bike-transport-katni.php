@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Katni. Safe, insured door-to-door bike shifting to and from Katni to anywhere in India.">
     <meta name="keywords"
-        content="bike transport katni, bike shifting katni, two wheeler transport katni, bike courier service katni, bike relocation katni, motorcycle transport katni">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport katni, bike shifting katni, two wheeler transport katni, bike courier service katni, bike relocation katni, motorcycle transport katni">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

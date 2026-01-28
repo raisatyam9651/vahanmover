@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Didwana-Kuchaman | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Didwana-Kuchaman. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport didwana-kuchaman, car shifting didwana-kuchaman, vehicle transport didwana-kuchaman, car carrier didwana-kuchaman, car relocation didwana-kuchaman">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport didwana-kuchaman, car shifting didwana-kuchaman, vehicle transport didwana-kuchaman, car carrier didwana-kuchaman, car relocation didwana-kuchaman">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

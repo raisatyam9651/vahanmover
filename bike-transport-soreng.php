@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Soreng. Safe, insured door-to-door bike shifting to and from Soreng to anywhere in India.">
     <meta name="keywords"
-        content="bike transport soreng, bike shifting soreng, two wheeler transport soreng, bike courier service soreng, bike relocation soreng, motorcycle transport soreng">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport soreng, bike shifting soreng, two wheeler transport soreng, bike courier service soreng, bike relocation soreng, motorcycle transport soreng">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

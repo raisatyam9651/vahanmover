@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kondagaon. Safe, insured door-to-door bike shifting to and from Kondagaon to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kondagaon, bike shifting kondagaon, two wheeler transport kondagaon, bike courier service kondagaon, bike relocation kondagaon, motorcycle transport kondagaon">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kondagaon, bike shifting kondagaon, two wheeler transport kondagaon, bike courier service kondagaon, bike relocation kondagaon, motorcycle transport kondagaon">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

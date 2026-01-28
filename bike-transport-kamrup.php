@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kamrup. Safe, insured door-to-door bike shifting to and from Kamrup to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kamrup, bike shifting kamrup, two wheeler transport kamrup, bike courier service kamrup, bike relocation kamrup, motorcycle transport kamrup">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kamrup, bike shifting kamrup, two wheeler transport kamrup, bike courier service kamrup, bike relocation kamrup, motorcycle transport kamrup">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

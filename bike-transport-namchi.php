@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Namchi. Safe, insured door-to-door bike shifting to and from Namchi to anywhere in India.">
     <meta name="keywords"
-        content="bike transport namchi, bike shifting namchi, two wheeler transport namchi, bike courier service namchi, bike relocation namchi, motorcycle transport namchi">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport namchi, bike shifting namchi, two wheeler transport namchi, bike courier service namchi, bike relocation namchi, motorcycle transport namchi">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

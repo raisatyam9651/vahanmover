@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Phek. Safe, insured door-to-door bike shifting to and from Phek to anywhere in India.">
     <meta name="keywords"
-        content="bike transport phek, bike shifting phek, two wheeler transport phek, bike courier service phek, bike relocation phek, motorcycle transport phek">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport phek, bike shifting phek, two wheeler transport phek, bike courier service phek, bike relocation phek, motorcycle transport phek">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

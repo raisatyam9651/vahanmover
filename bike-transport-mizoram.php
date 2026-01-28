@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Mizoram covering Aizawl, Lunglei, Champhai, Kolasib, and all districts. Safe, insured door-to-door bike shifting.">
     <meta name="keywords"
-        content="bike transport mizoram, bike shifting aizawl, two wheeler transport lunglei, bike courier champhai, bike relocation kolasib, motorcycle transport mizoram">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport mizoram, bike shifting aizawl, two wheeler transport lunglei, bike courier champhai, bike relocation kolasib, motorcycle transport mizoram">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

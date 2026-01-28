@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Sonitpur. Safe, insured door-to-door bike shifting to and from Sonitpur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport sonitpur, bike shifting sonitpur, two wheeler transport sonitpur, bike courier service sonitpur, bike relocation sonitpur, motorcycle transport sonitpur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport sonitpur, bike shifting sonitpur, two wheeler transport sonitpur, bike courier service sonitpur, bike relocation sonitpur, motorcycle transport sonitpur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

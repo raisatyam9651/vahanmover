@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Phalodi. Safe, insured door-to-door bike shifting to and from Phalodi to anywhere in India.">
     <meta name="keywords"
-        content="bike transport phalodi, bike shifting phalodi, two wheeler transport phalodi, bike courier service phalodi, bike relocation phalodi, motorcycle transport phalodi">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport phalodi, bike shifting phalodi, two wheeler transport phalodi, bike courier service phalodi, bike relocation phalodi, motorcycle transport phalodi">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

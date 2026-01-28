@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Betul. Safe, insured door-to-door bike shifting to and from Betul to anywhere in India.">
     <meta name="keywords"
-        content="bike transport betul, bike shifting betul, two wheeler transport betul, bike courier service betul, bike relocation betul, motorcycle transport betul">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport betul, bike shifting betul, two wheeler transport betul, bike courier service betul, bike relocation betul, motorcycle transport betul">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

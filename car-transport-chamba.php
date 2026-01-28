@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Chamba | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Chamba. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport chamba, car shifting chamba, vehicle transport chamba, car carrier chamba, car relocation chamba">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport chamba, car shifting chamba, vehicle transport chamba, car carrier chamba, car relocation chamba">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

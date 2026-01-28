@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Tiruvallur | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Tiruvallur. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport tiruvallur, car shifting tiruvallur, vehicle transport tiruvallur, car carrier tiruvallur, car relocation tiruvallur">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport tiruvallur, car shifting tiruvallur, vehicle transport tiruvallur, car carrier tiruvallur, car relocation tiruvallur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

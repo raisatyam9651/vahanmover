@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Dhalai. Safe, insured door-to-door bike shifting to and from Dhalai to anywhere in India.">
     <meta name="keywords"
-        content="bike transport dhalai, bike shifting dhalai, two wheeler transport dhalai, bike courier service dhalai, bike relocation dhalai, motorcycle transport dhalai">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport dhalai, bike shifting dhalai, two wheeler transport dhalai, bike courier service dhalai, bike relocation dhalai, motorcycle transport dhalai">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

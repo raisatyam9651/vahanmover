@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Anupgarh | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Anupgarh. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport anupgarh, car shifting anupgarh, vehicle transport anupgarh, car carrier anupgarh, car relocation anupgarh">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport anupgarh, car shifting anupgarh, vehicle transport anupgarh, car carrier anupgarh, car relocation anupgarh">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

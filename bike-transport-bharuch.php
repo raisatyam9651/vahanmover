@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Bharuch. Safe, insured door-to-door bike shifting to and from Bharuch to anywhere in India.">
     <meta name="keywords"
-        content="bike transport bharuch, bike shifting bharuch, two wheeler transport bharuch, bike courier service bharuch, bike relocation bharuch, motorcycle transport bharuch">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport bharuch, bike shifting bharuch, two wheeler transport bharuch, bike courier service bharuch, bike relocation bharuch, motorcycle transport bharuch">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

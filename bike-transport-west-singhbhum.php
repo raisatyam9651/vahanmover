@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in West Singhbhum. Safe, insured door-to-door bike shifting to and from West Singhbhum to anywhere in India.">
     <meta name="keywords"
-        content="bike transport west-singhbhum, bike shifting west-singhbhum, two wheeler transport west-singhbhum, bike courier service west-singhbhum, bike relocation west-singhbhum, motorcycle transport west-singhbhum">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport west-singhbhum, bike shifting west-singhbhum, two wheeler transport west-singhbhum, bike courier service west-singhbhum, bike relocation west-singhbhum, motorcycle transport west-singhbhum">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

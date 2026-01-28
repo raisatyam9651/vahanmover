@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Khawzawl. Safe, insured door-to-door bike shifting to and from Khawzawl to anywhere in India.">
     <meta name="keywords"
-        content="bike transport khawzawl, bike shifting khawzawl, two wheeler transport khawzawl, bike courier service khawzawl, bike relocation khawzawl, motorcycle transport khawzawl">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport khawzawl, bike shifting khawzawl, two wheeler transport khawzawl, bike courier service khawzawl, bike relocation khawzawl, motorcycle transport khawzawl">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

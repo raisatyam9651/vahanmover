@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Mahabubnagar. Safe, insured door-to-door bike shifting to and from Mahabubnagar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport mahabubnagar, bike shifting mahabubnagar, two wheeler transport mahabubnagar, bike courier service mahabubnagar, bike relocation mahabubnagar, motorcycle transport mahabubnagar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport mahabubnagar, bike shifting mahabubnagar, two wheeler transport mahabubnagar, bike courier service mahabubnagar, bike relocation mahabubnagar, motorcycle transport mahabubnagar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

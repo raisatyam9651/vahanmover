@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Ernakulam. Safe, insured door-to-door bike shifting to and from Ernakulam to anywhere in India.">
     <meta name="keywords"
-        content="bike transport ernakulam, bike shifting ernakulam, two wheeler transport ernakulam, bike courier service ernakulam, bike relocation ernakulam, motorcycle transport ernakulam">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport ernakulam, bike shifting ernakulam, two wheeler transport ernakulam, bike courier service ernakulam, bike relocation ernakulam, motorcycle transport ernakulam">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Sangrur | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Sangrur. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport sangrur, car shifting sangrur, vehicle transport sangrur, car carrier sangrur, car relocation sangrur">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport sangrur, car shifting sangrur, vehicle transport sangrur, car carrier sangrur, car relocation sangrur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Pali | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Pali. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport pali, car shifting pali, vehicle transport pali, car carrier pali, car relocation pali">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport pali, car shifting pali, vehicle transport pali, car carrier pali, car relocation pali">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

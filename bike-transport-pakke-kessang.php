@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Pakke-Kessang. Safe, insured door-to-door bike shifting to and from Pakke-Kessang to anywhere in India.">
     <meta name="keywords"
-        content="bike transport pakke-kessang, bike shifting pakke-kessang, two wheeler transport pakke-kessang, bike courier service pakke-kessang, bike relocation pakke-kessang, motorcycle transport pakke-kessang">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport pakke-kessang, bike shifting pakke-kessang, two wheeler transport pakke-kessang, bike courier service pakke-kessang, bike relocation pakke-kessang, motorcycle transport pakke-kessang">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Pakur. Safe, insured door-to-door bike shifting to and from Pakur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport pakur, bike shifting pakur, two wheeler transport pakur, bike courier service pakur, bike relocation pakur, motorcycle transport pakur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport pakur, bike shifting pakur, two wheeler transport pakur, bike courier service pakur, bike relocation pakur, motorcycle transport pakur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

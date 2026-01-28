@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Dholpur. Safe, insured door-to-door bike shifting to and from Dholpur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport dholpur, bike shifting dholpur, two wheeler transport dholpur, bike courier service dholpur, bike relocation dholpur, motorcycle transport dholpur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport dholpur, bike shifting dholpur, two wheeler transport dholpur, bike courier service dholpur, bike relocation dholpur, motorcycle transport dholpur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

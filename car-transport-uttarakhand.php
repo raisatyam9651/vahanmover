@@ -8,7 +8,9 @@
     <title>Car Transport in Uttarakhand | Safe Vehicle Shifting Services</title>
     <meta name="description"
         content="Professional car transport service in Uttarakhand covering Dehradun, Haridwar, Nainital, Rishikesh, Roorkee, and all districts. Safe, insured door-to-door car shifting.">
-    <meta name="keywords" content="car transport uttarakhand, car transport almora, car transport bageshwar, car transport chamoli, car transport champawat, car transport dehradun, car transport haridwar, car transport nainital, car transport pauri garhwal, car transport pithoragarh, car transport rudraprayag, car transport tehri garhwal, car transport udham singh nagar, car transport uttarkashi, car shifting uttarakhand, vehicle transport uttarakhand, car carrier dehradun, car relocation haridwar">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport uttarakhand, car transport almora, car transport bageshwar, car transport chamoli, car transport champawat, car transport dehradun, car transport haridwar, car transport nainital, car transport pauri garhwal, car transport pithoragarh, car transport rudraprayag, car transport tehri garhwal, car transport udham singh nagar, car transport uttarkashi, car shifting uttarakhand, vehicle transport uttarakhand, car carrier dehradun, car relocation haridwar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

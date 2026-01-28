@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Arwal. Safe, insured door-to-door bike shifting to and from Arwal to anywhere in India.">
     <meta name="keywords"
-        content="bike transport arwal, bike shifting arwal, two wheeler transport arwal, bike courier service arwal, bike relocation arwal, motorcycle transport arwal">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport arwal, bike shifting arwal, two wheeler transport arwal, bike courier service arwal, bike relocation arwal, motorcycle transport arwal">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

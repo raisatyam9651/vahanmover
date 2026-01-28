@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Dumka | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Dumka. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport dumka, car shifting dumka, vehicle transport dumka, car carrier dumka, car relocation dumka">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport dumka, car shifting dumka, vehicle transport dumka, car carrier dumka, car relocation dumka">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

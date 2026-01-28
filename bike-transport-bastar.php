@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Bastar. Safe, insured door-to-door bike shifting to and from Bastar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport bastar, bike shifting bastar, two wheeler transport bastar, bike courier service bastar, bike relocation bastar, motorcycle transport bastar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport bastar, bike shifting bastar, two wheeler transport bastar, bike courier service bastar, bike relocation bastar, motorcycle transport bastar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

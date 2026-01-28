@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kishanganj. Safe, insured door-to-door bike shifting to and from Kishanganj to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kishanganj, bike shifting kishanganj, two wheeler transport kishanganj, bike courier service kishanganj, bike relocation kishanganj, motorcycle transport kishanganj">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kishanganj, bike shifting kishanganj, two wheeler transport kishanganj, bike courier service kishanganj, bike relocation kishanganj, motorcycle transport kishanganj">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

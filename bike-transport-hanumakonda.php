@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Hanumakonda. Safe, insured door-to-door bike shifting to and from Hanumakonda to anywhere in India.">
     <meta name="keywords"
-        content="bike transport hanumakonda, bike shifting hanumakonda, two wheeler transport hanumakonda, bike courier service hanumakonda, bike relocation hanumakonda, motorcycle transport hanumakonda">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport hanumakonda, bike shifting hanumakonda, two wheeler transport hanumakonda, bike courier service hanumakonda, bike relocation hanumakonda, motorcycle transport hanumakonda">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

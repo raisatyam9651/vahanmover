@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Nandurbar. Safe, insured door-to-door bike shifting to and from Nandurbar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport nandurbar, bike shifting nandurbar, two wheeler transport nandurbar, bike courier service nandurbar, bike relocation nandurbar, motorcycle transport nandurbar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport nandurbar, bike shifting nandurbar, two wheeler transport nandurbar, bike courier service nandurbar, bike relocation nandurbar, motorcycle transport nandurbar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

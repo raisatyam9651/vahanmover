@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Wardha. Safe, insured door-to-door bike shifting to and from Wardha to anywhere in India.">
     <meta name="keywords"
-        content="bike transport wardha, bike shifting wardha, two wheeler transport wardha, bike courier service wardha, bike relocation wardha, motorcycle transport wardha">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport wardha, bike shifting wardha, two wheeler transport wardha, bike courier service wardha, bike relocation wardha, motorcycle transport wardha">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

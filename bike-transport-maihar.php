@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Maihar. Safe, insured door-to-door bike shifting to and from Maihar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport maihar, bike shifting maihar, two wheeler transport maihar, bike courier service maihar, bike relocation maihar, motorcycle transport maihar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport maihar, bike shifting maihar, two wheeler transport maihar, bike courier service maihar, bike relocation maihar, motorcycle transport maihar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

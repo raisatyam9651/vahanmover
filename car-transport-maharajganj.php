@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Maharajganj | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Maharajganj. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport maharajganj, car shifting maharajganj, vehicle transport maharajganj, car carrier maharajganj, car relocation maharajganj">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport maharajganj, car shifting maharajganj, vehicle transport maharajganj, car carrier maharajganj, car relocation maharajganj">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

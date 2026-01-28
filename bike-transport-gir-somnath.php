@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Gir Somnath. Safe, insured door-to-door bike shifting to and from Gir Somnath to anywhere in India.">
     <meta name="keywords"
-        content="bike transport gir-somnath, bike shifting gir-somnath, two wheeler transport gir-somnath, bike courier service gir-somnath, bike relocation gir-somnath, motorcycle transport gir-somnath">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport gir-somnath, bike shifting gir-somnath, two wheeler transport gir-somnath, bike courier service gir-somnath, bike relocation gir-somnath, motorcycle transport gir-somnath">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

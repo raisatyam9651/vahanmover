@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Nagaur | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Nagaur. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport nagaur, car shifting nagaur, vehicle transport nagaur, car carrier nagaur, car relocation nagaur">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport nagaur, car shifting nagaur, vehicle transport nagaur, car carrier nagaur, car relocation nagaur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

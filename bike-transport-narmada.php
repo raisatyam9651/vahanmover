@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Narmada. Safe, insured door-to-door bike shifting to and from Narmada to anywhere in India.">
     <meta name="keywords"
-        content="bike transport narmada, bike shifting narmada, two wheeler transport narmada, bike courier service narmada, bike relocation narmada, motorcycle transport narmada">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport narmada, bike shifting narmada, two wheeler transport narmada, bike courier service narmada, bike relocation narmada, motorcycle transport narmada">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

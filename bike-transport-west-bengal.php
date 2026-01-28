@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in West Bengal covering Kolkata, Siliguri, Durgapur, Asansol, and all districts. Safe, insured door-to-door bike shifting.">
     <meta name="keywords"
-        content="bike transport west bengal, bike shifting kolkata, two wheeler transport siliguri, bike courier durgapur, bike relocation asansol, motorcycle transport west bengal">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport west bengal, bike shifting kolkata, two wheeler transport siliguri, bike courier durgapur, bike relocation asansol, motorcycle transport west bengal">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

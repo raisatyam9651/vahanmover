@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Tamil Nadu covering Chennai, Coimbatore, Madurai, Tiruchirappalli, and all districts. Safe, insured door-to-door bike shifting.">
     <meta name="keywords"
-        content="bike transport tamil nadu, bike shifting chennai, two wheeler transport coimbatore, bike courier madurai, bike relocation trichy, motorcycle transport tamil nadu">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport tamil nadu, bike shifting chennai, two wheeler transport coimbatore, bike courier madurai, bike relocation trichy, motorcycle transport tamil nadu">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

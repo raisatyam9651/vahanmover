@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Sheohar | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Sheohar. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport sheohar, car shifting sheohar, vehicle transport sheohar, car carrier sheohar, car relocation sheohar">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport sheohar, car shifting sheohar, vehicle transport sheohar, car carrier sheohar, car relocation sheohar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

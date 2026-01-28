@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Narayanpur. Safe, insured door-to-door bike shifting to and from Narayanpur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport narayanpur, bike shifting narayanpur, two wheeler transport narayanpur, bike courier service narayanpur, bike relocation narayanpur, motorcycle transport narayanpur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport narayanpur, bike shifting narayanpur, two wheeler transport narayanpur, bike courier service narayanpur, bike relocation narayanpur, motorcycle transport narayanpur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

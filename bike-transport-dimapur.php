@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Dimapur. Safe, insured door-to-door bike shifting to and from Dimapur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport dimapur, bike shifting dimapur, two wheeler transport dimapur, bike courier service dimapur, bike relocation dimapur, motorcycle transport dimapur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport dimapur, bike shifting dimapur, two wheeler transport dimapur, bike courier service dimapur, bike relocation dimapur, motorcycle transport dimapur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

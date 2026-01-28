@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Jharkhand covering Ranchi, Jamshedpur, Dhanbad, Bokaro, and all districts. Safe, insured door-to-door bike shifting.">
     <meta name="keywords"
-        content="bike transport jharkhand, bike shifting ranchi, two wheeler transport jamshedpur, bike courier dhanbad, bike relocation bokaro, motorcycle transport jharkhand">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport jharkhand, bike shifting ranchi, two wheeler transport jamshedpur, bike courier dhanbad, bike relocation bokaro, motorcycle transport jharkhand">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

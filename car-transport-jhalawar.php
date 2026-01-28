@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Jhalawar | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Jhalawar. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport jhalawar, car shifting jhalawar, vehicle transport jhalawar, car carrier jhalawar, car relocation jhalawar">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport jhalawar, car shifting jhalawar, vehicle transport jhalawar, car carrier jhalawar, car relocation jhalawar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

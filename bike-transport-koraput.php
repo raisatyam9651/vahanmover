@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Koraput. Safe, insured door-to-door bike shifting to and from Koraput to anywhere in India.">
     <meta name="keywords"
-        content="bike transport koraput, bike shifting koraput, two wheeler transport koraput, bike courier service koraput, bike relocation koraput, motorcycle transport koraput">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport koraput, bike shifting koraput, two wheeler transport koraput, bike courier service koraput, bike relocation koraput, motorcycle transport koraput">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

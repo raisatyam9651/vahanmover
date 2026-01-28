@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Cuddalore. Safe, insured door-to-door bike shifting to and from Cuddalore to anywhere in India.">
     <meta name="keywords"
-        content="bike transport cuddalore, bike shifting cuddalore, two wheeler transport cuddalore, bike courier service cuddalore, bike relocation cuddalore, motorcycle transport cuddalore">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport cuddalore, bike shifting cuddalore, two wheeler transport cuddalore, bike courier service cuddalore, bike relocation cuddalore, motorcycle transport cuddalore">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

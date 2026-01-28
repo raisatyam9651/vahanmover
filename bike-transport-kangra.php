@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kangra. Safe, insured door-to-door bike shifting to and from Kangra to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kangra, bike shifting kangra, two wheeler transport kangra, bike courier service kangra, bike relocation kangra, motorcycle transport kangra">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kangra, bike shifting kangra, two wheeler transport kangra, bike courier service kangra, bike relocation kangra, motorcycle transport kangra">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

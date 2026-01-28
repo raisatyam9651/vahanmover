@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Sirsa. Safe, insured door-to-door bike shifting to and from Sirsa to anywhere in India.">
     <meta name="keywords"
-        content="bike transport sirsa, bike shifting sirsa, two wheeler transport sirsa, bike courier service sirsa, bike relocation sirsa, motorcycle transport sirsa">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport sirsa, bike shifting sirsa, two wheeler transport sirsa, bike courier service sirsa, bike relocation sirsa, motorcycle transport sirsa">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Madhubani | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Madhubani. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport madhubani, car shifting madhubani, vehicle transport madhubani, car carrier madhubani, car relocation madhubani">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport madhubani, car shifting madhubani, vehicle transport madhubani, car carrier madhubani, car relocation madhubani">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

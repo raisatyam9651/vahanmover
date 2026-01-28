@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Tenkasi | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Tenkasi. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport tenkasi, car shifting tenkasi, vehicle transport tenkasi, car carrier tenkasi, car relocation tenkasi">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport tenkasi, car shifting tenkasi, vehicle transport tenkasi, car carrier tenkasi, car relocation tenkasi">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Jaipur. Safe, insured door-to-door bike shifting to and from Jaipur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport jaipur, bike shifting jaipur, two wheeler transport jaipur, bike courier service jaipur, bike relocation jaipur, motorcycle transport jaipur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport jaipur, bike shifting jaipur, two wheeler transport jaipur, bike courier service jaipur, bike relocation jaipur, motorcycle transport jaipur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

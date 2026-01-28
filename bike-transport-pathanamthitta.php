@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Pathanamthitta. Safe, insured door-to-door bike shifting to and from Pathanamthitta to anywhere in India.">
     <meta name="keywords"
-        content="bike transport pathanamthitta, bike shifting pathanamthitta, two wheeler transport pathanamthitta, bike courier service pathanamthitta, bike relocation pathanamthitta, motorcycle transport pathanamthitta">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport pathanamthitta, bike shifting pathanamthitta, two wheeler transport pathanamthitta, bike courier service pathanamthitta, bike relocation pathanamthitta, motorcycle transport pathanamthitta">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

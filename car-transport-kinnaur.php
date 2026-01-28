@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Kinnaur | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Kinnaur. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport kinnaur, car shifting kinnaur, vehicle transport kinnaur, car carrier kinnaur, car relocation kinnaur">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport kinnaur, car shifting kinnaur, vehicle transport kinnaur, car carrier kinnaur, car relocation kinnaur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Alappuzha | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Alappuzha. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport alappuzha, car shifting alappuzha, vehicle transport alappuzha, car carrier alappuzha, car relocation alappuzha">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport alappuzha, car shifting alappuzha, vehicle transport alappuzha, car carrier alappuzha, car relocation alappuzha">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

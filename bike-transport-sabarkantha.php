@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Sabarkantha. Safe, insured door-to-door bike shifting to and from Sabarkantha to anywhere in India.">
     <meta name="keywords"
-        content="bike transport sabarkantha, bike shifting sabarkantha, two wheeler transport sabarkantha, bike courier service sabarkantha, bike relocation sabarkantha, motorcycle transport sabarkantha">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport sabarkantha, bike shifting sabarkantha, two wheeler transport sabarkantha, bike courier service sabarkantha, bike relocation sabarkantha, motorcycle transport sabarkantha">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Ratnagiri. Safe, insured door-to-door bike shifting to and from Ratnagiri to anywhere in India.">
     <meta name="keywords"
-        content="bike transport ratnagiri, bike shifting ratnagiri, two wheeler transport ratnagiri, bike courier service ratnagiri, bike relocation ratnagiri, motorcycle transport ratnagiri">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport ratnagiri, bike shifting ratnagiri, two wheeler transport ratnagiri, bike courier service ratnagiri, bike relocation ratnagiri, motorcycle transport ratnagiri">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

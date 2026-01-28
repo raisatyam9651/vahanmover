@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Jehanabad. Safe, insured door-to-door bike shifting to and from Jehanabad to anywhere in India.">
     <meta name="keywords"
-        content="bike transport jehanabad, bike shifting jehanabad, two wheeler transport jehanabad, bike courier service jehanabad, bike relocation jehanabad, motorcycle transport jehanabad">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport jehanabad, bike shifting jehanabad, two wheeler transport jehanabad, bike courier service jehanabad, bike relocation jehanabad, motorcycle transport jehanabad">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

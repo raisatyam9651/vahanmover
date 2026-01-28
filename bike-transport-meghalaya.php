@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Meghalaya covering Shillong, Tura, Jowai, Nongpoh, and all districts. Safe, insured door-to-door bike shifting.">
     <meta name="keywords"
-        content="bike transport meghalaya, bike shifting shillong, two wheeler transport tura, bike courier jowai, bike relocation nongpoh, motorcycle transport meghalaya">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport meghalaya, bike shifting shillong, two wheeler transport tura, bike courier jowai, bike relocation nongpoh, motorcycle transport meghalaya">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

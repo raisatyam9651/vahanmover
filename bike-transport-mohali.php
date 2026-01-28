@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Mohali. Safe, insured door-to-door bike shifting to and from Mohali to anywhere in India.">
     <meta name="keywords"
-        content="bike transport mohali, bike shifting mohali, two wheeler transport mohali, bike courier service mohali, bike relocation mohali, motorcycle transport mohali">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport mohali, bike shifting mohali, two wheeler transport mohali, bike courier service mohali, bike relocation mohali, motorcycle transport mohali">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

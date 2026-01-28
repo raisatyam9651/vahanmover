@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Baloda Bazar. Safe, insured door-to-door bike shifting to and from Baloda Bazar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport baloda-bazar, bike shifting baloda-bazar, two wheeler transport baloda-bazar, bike courier service baloda-bazar, bike relocation baloda-bazar, motorcycle transport baloda-bazar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport baloda-bazar, bike shifting baloda-bazar, two wheeler transport baloda-bazar, bike courier service baloda-bazar, bike relocation baloda-bazar, motorcycle transport baloda-bazar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Tonk | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Tonk. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport tonk, car shifting tonk, vehicle transport tonk, car carrier tonk, car relocation tonk">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport tonk, car shifting tonk, vehicle transport tonk, car carrier tonk, car relocation tonk">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Angul. Safe, insured door-to-door bike shifting to and from Angul to anywhere in India.">
     <meta name="keywords"
-        content="bike transport angul, bike shifting angul, two wheeler transport angul, bike courier service angul, bike relocation angul, motorcycle transport angul">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport angul, bike shifting angul, two wheeler transport angul, bike courier service angul, bike relocation angul, motorcycle transport angul">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

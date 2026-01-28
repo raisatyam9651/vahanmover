@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Bhandara. Safe, insured door-to-door bike shifting to and from Bhandara to anywhere in India.">
     <meta name="keywords"
-        content="bike transport bhandara, bike shifting bhandara, two wheeler transport bhandara, bike courier service bhandara, bike relocation bhandara, motorcycle transport bhandara">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport bhandara, bike shifting bhandara, two wheeler transport bhandara, bike courier service bhandara, bike relocation bhandara, motorcycle transport bhandara">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

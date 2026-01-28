@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Karauli. Safe, insured door-to-door bike shifting to and from Karauli to anywhere in India.">
     <meta name="keywords"
-        content="bike transport karauli, bike shifting karauli, two wheeler transport karauli, bike courier service karauli, bike relocation karauli, motorcycle transport karauli">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport karauli, bike shifting karauli, two wheeler transport karauli, bike courier service karauli, bike relocation karauli, motorcycle transport karauli">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Bagalkot. Safe, insured door-to-door bike shifting to and from Bagalkot to anywhere in India.">
     <meta name="keywords"
-        content="bike transport bagalkot, bike shifting bagalkot, two wheeler transport bagalkot, bike courier service bagalkot, bike relocation bagalkot, motorcycle transport bagalkot">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport bagalkot, bike shifting bagalkot, two wheeler transport bagalkot, bike courier service bagalkot, bike relocation bagalkot, motorcycle transport bagalkot">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

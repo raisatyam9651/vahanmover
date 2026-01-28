@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Saitual. Safe, insured door-to-door bike shifting to and from Saitual to anywhere in India.">
     <meta name="keywords"
-        content="bike transport saitual, bike shifting saitual, two wheeler transport saitual, bike courier service saitual, bike relocation saitual, motorcycle transport saitual">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport saitual, bike shifting saitual, two wheeler transport saitual, bike courier service saitual, bike relocation saitual, motorcycle transport saitual">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

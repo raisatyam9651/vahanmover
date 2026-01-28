@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Tehri Garhwal. Safe, insured door-to-door bike shifting to and from Tehri Garhwal to anywhere in India.">
     <meta name="keywords"
-        content="bike transport tehri-garhwal, bike shifting tehri-garhwal, two wheeler transport tehri-garhwal, bike courier service tehri-garhwal, bike relocation tehri-garhwal, motorcycle transport tehri-garhwal">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport tehri-garhwal, bike shifting tehri-garhwal, two wheeler transport tehri-garhwal, bike courier service tehri-garhwal, bike relocation tehri-garhwal, motorcycle transport tehri-garhwal">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

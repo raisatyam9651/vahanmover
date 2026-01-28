@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Dakshina Kannada | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Dakshina Kannada. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport dakshina kannada, car shifting dakshina kannada, vehicle transport dakshina kannada, car carrier dakshina kannada, car relocation dakshina kannada">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport dakshina kannada, car shifting dakshina kannada, vehicle transport dakshina kannada, car carrier dakshina kannada, car relocation dakshina kannada">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

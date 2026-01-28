@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Khordha. Safe, insured door-to-door bike shifting to and from Khordha to anywhere in India.">
     <meta name="keywords"
-        content="bike transport khordha, bike shifting khordha, two wheeler transport khordha, bike courier service khordha, bike relocation khordha, motorcycle transport khordha">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport khordha, bike shifting khordha, two wheeler transport khordha, bike courier service khordha, bike relocation khordha, motorcycle transport khordha">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

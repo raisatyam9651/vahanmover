@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Fatehabad | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Fatehabad. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport fatehabad, car shifting fatehabad, vehicle transport fatehabad, car carrier fatehabad, car relocation fatehabad">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport fatehabad, car shifting fatehabad, vehicle transport fatehabad, car carrier fatehabad, car relocation fatehabad">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

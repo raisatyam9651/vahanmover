@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Ludhiana. Safe, insured door-to-door bike shifting to and from Ludhiana to anywhere in India.">
     <meta name="keywords"
-        content="bike transport ludhiana, bike shifting ludhiana, two wheeler transport ludhiana, bike courier service ludhiana, bike relocation ludhiana, motorcycle transport ludhiana">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport ludhiana, bike shifting ludhiana, two wheeler transport ludhiana, bike courier service ludhiana, bike relocation ludhiana, motorcycle transport ludhiana">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

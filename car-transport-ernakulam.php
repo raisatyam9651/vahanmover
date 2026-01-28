@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Ernakulam | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Ernakulam. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport ernakulam, car shifting ernakulam, vehicle transport ernakulam, car carrier ernakulam, car relocation ernakulam">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport ernakulam, car shifting ernakulam, vehicle transport ernakulam, car carrier ernakulam, car relocation ernakulam">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

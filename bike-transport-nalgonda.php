@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Nalgonda. Safe, insured door-to-door bike shifting to and from Nalgonda to anywhere in India.">
     <meta name="keywords"
-        content="bike transport nalgonda, bike shifting nalgonda, two wheeler transport nalgonda, bike courier service nalgonda, bike relocation nalgonda, motorcycle transport nalgonda">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport nalgonda, bike shifting nalgonda, two wheeler transport nalgonda, bike courier service nalgonda, bike relocation nalgonda, motorcycle transport nalgonda">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

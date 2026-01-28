@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Gaurela-Pendra-Marwahi. Safe, insured door-to-door bike shifting to and from Gaurela-Pendra-Marwahi to anywhere in India.">
     <meta name="keywords"
-        content="bike transport gaurela-pendra-marwahi, bike shifting gaurela-pendra-marwahi, two wheeler transport gaurela-pendra-marwahi, bike courier service gaurela-pendra-marwahi, bike relocation gaurela-pendra-marwahi, motorcycle transport gaurela-pendra-marwahi">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport gaurela-pendra-marwahi, bike shifting gaurela-pendra-marwahi, two wheeler transport gaurela-pendra-marwahi, bike courier service gaurela-pendra-marwahi, bike relocation gaurela-pendra-marwahi, motorcycle transport gaurela-pendra-marwahi">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

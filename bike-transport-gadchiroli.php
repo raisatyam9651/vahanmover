@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Gadchiroli. Safe, insured door-to-door bike shifting to and from Gadchiroli to anywhere in India.">
     <meta name="keywords"
-        content="bike transport gadchiroli, bike shifting gadchiroli, two wheeler transport gadchiroli, bike courier service gadchiroli, bike relocation gadchiroli, motorcycle transport gadchiroli">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport gadchiroli, bike shifting gadchiroli, two wheeler transport gadchiroli, bike courier service gadchiroli, bike relocation gadchiroli, motorcycle transport gadchiroli">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

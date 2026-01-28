@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Raichur. Safe, insured door-to-door bike shifting to and from Raichur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport raichur, bike shifting raichur, two wheeler transport raichur, bike courier service raichur, bike relocation raichur, motorcycle transport raichur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport raichur, bike shifting raichur, two wheeler transport raichur, bike courier service raichur, bike relocation raichur, motorcycle transport raichur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

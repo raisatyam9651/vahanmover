@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Panchmahal. Safe, insured door-to-door bike shifting to and from Panchmahal to anywhere in India.">
     <meta name="keywords"
-        content="bike transport panchmahal, bike shifting panchmahal, two wheeler transport panchmahal, bike courier service panchmahal, bike relocation panchmahal, motorcycle transport panchmahal">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport panchmahal, bike shifting panchmahal, two wheeler transport panchmahal, bike courier service panchmahal, bike relocation panchmahal, motorcycle transport panchmahal">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

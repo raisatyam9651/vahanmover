@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Sultanpur. Safe, insured door-to-door bike shifting to and from Sultanpur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport sultanpur, bike shifting sultanpur, two wheeler transport sultanpur, bike courier service sultanpur, bike relocation sultanpur, motorcycle transport sultanpur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport sultanpur, bike shifting sultanpur, two wheeler transport sultanpur, bike courier service sultanpur, bike relocation sultanpur, motorcycle transport sultanpur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

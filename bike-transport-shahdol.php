@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Shahdol. Safe, insured door-to-door bike shifting to and from Shahdol to anywhere in India.">
     <meta name="keywords"
-        content="bike transport shahdol, bike shifting shahdol, two wheeler transport shahdol, bike courier service shahdol, bike relocation shahdol, motorcycle transport shahdol">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport shahdol, bike shifting shahdol, two wheeler transport shahdol, bike courier service shahdol, bike relocation shahdol, motorcycle transport shahdol">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

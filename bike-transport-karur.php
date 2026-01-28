@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Karur. Safe, insured door-to-door bike shifting to and from Karur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport karur, bike shifting karur, two wheeler transport karur, bike courier service karur, bike relocation karur, motorcycle transport karur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport karur, bike shifting karur, two wheeler transport karur, bike courier service karur, bike relocation karur, motorcycle transport karur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

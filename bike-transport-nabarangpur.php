@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Nabarangpur. Safe, insured door-to-door bike shifting to and from Nabarangpur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport nabarangpur, bike shifting nabarangpur, two wheeler transport nabarangpur, bike courier service nabarangpur, bike relocation nabarangpur, motorcycle transport nabarangpur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport nabarangpur, bike shifting nabarangpur, two wheeler transport nabarangpur, bike courier service nabarangpur, bike relocation nabarangpur, motorcycle transport nabarangpur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

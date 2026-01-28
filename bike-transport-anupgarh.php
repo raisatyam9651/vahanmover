@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Anupgarh. Safe, insured door-to-door bike shifting to and from Anupgarh to anywhere in India.">
     <meta name="keywords"
-        content="bike transport anupgarh, bike shifting anupgarh, two wheeler transport anupgarh, bike courier service anupgarh, bike relocation anupgarh, motorcycle transport anupgarh">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport anupgarh, bike shifting anupgarh, two wheeler transport anupgarh, bike courier service anupgarh, bike relocation anupgarh, motorcycle transport anupgarh">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

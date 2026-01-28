@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Jamnagar | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Jamnagar. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport jamnagar, car shifting jamnagar, vehicle transport jamnagar, car carrier jamnagar, car relocation jamnagar">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport jamnagar, car shifting jamnagar, vehicle transport jamnagar, car carrier jamnagar, car relocation jamnagar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kalahandi. Safe, insured door-to-door bike shifting to and from Kalahandi to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kalahandi, bike shifting kalahandi, two wheeler transport kalahandi, bike courier service kalahandi, bike relocation kalahandi, motorcycle transport kalahandi">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kalahandi, bike shifting kalahandi, two wheeler transport kalahandi, bike courier service kalahandi, bike relocation kalahandi, motorcycle transport kalahandi">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

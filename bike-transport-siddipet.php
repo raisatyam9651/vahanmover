@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Siddipet. Safe, insured door-to-door bike shifting to and from Siddipet to anywhere in India.">
     <meta name="keywords"
-        content="bike transport siddipet, bike shifting siddipet, two wheeler transport siddipet, bike courier service siddipet, bike relocation siddipet, motorcycle transport siddipet">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport siddipet, bike shifting siddipet, two wheeler transport siddipet, bike courier service siddipet, bike relocation siddipet, motorcycle transport siddipet">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

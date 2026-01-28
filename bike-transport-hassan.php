@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Hassan. Safe, insured door-to-door bike shifting to and from Hassan to anywhere in India.">
     <meta name="keywords"
-        content="bike transport hassan, bike shifting hassan, two wheeler transport hassan, bike courier service hassan, bike relocation hassan, motorcycle transport hassan">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport hassan, bike shifting hassan, two wheeler transport hassan, bike courier service hassan, bike relocation hassan, motorcycle transport hassan">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

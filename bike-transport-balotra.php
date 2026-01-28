@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Balotra. Safe, insured door-to-door bike shifting to and from Balotra to anywhere in India.">
     <meta name="keywords"
-        content="bike transport balotra, bike shifting balotra, two wheeler transport balotra, bike courier service balotra, bike relocation balotra, motorcycle transport balotra">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport balotra, bike shifting balotra, two wheeler transport balotra, bike courier service balotra, bike relocation balotra, motorcycle transport balotra">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

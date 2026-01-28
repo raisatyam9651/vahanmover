@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Haveri. Safe, insured door-to-door bike shifting to and from Haveri to anywhere in India.">
     <meta name="keywords"
-        content="bike transport haveri, bike shifting haveri, two wheeler transport haveri, bike courier service haveri, bike relocation haveri, motorcycle transport haveri">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport haveri, bike shifting haveri, two wheeler transport haveri, bike courier service haveri, bike relocation haveri, motorcycle transport haveri">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

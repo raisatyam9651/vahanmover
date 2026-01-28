@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in West Champaran. Safe, insured door-to-door bike shifting to and from West Champaran to anywhere in India.">
     <meta name="keywords"
-        content="bike transport west-champaran, bike shifting west-champaran, two wheeler transport west-champaran, bike courier service west-champaran, bike relocation west-champaran, motorcycle transport west-champaran">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport west-champaran, bike shifting west-champaran, two wheeler transport west-champaran, bike courier service west-champaran, bike relocation west-champaran, motorcycle transport west-champaran">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

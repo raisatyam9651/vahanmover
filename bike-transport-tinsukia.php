@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Tinsukia. Safe, insured door-to-door bike shifting to and from Tinsukia to anywhere in India.">
     <meta name="keywords"
-        content="bike transport tinsukia, bike shifting tinsukia, two wheeler transport tinsukia, bike courier service tinsukia, bike relocation tinsukia, motorcycle transport tinsukia">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport tinsukia, bike shifting tinsukia, two wheeler transport tinsukia, bike courier service tinsukia, bike relocation tinsukia, motorcycle transport tinsukia">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

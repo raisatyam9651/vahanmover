@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Champawat | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Champawat. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport champawat, car shifting champawat, vehicle transport champawat, car carrier champawat, car relocation champawat">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport champawat, car shifting champawat, vehicle transport champawat, car carrier champawat, car relocation champawat">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

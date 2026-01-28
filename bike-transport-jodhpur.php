@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Jodhpur. Safe, insured door-to-door bike shifting to and from Jodhpur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport jodhpur, bike shifting jodhpur, two wheeler transport jodhpur, bike courier service jodhpur, bike relocation jodhpur, motorcycle transport jodhpur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport jodhpur, bike shifting jodhpur, two wheeler transport jodhpur, bike courier service jodhpur, bike relocation jodhpur, motorcycle transport jodhpur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Bajali. Safe, insured door-to-door bike shifting to and from Bajali to anywhere in India.">
     <meta name="keywords"
-        content="bike transport bajali, bike shifting bajali, two wheeler transport bajali, bike courier service bajali, bike relocation bajali, motorcycle transport bajali">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport bajali, bike shifting bajali, two wheeler transport bajali, bike courier service bajali, bike relocation bajali, motorcycle transport bajali">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

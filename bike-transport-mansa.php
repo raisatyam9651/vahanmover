@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Mansa. Safe, insured door-to-door bike shifting to and from Mansa to anywhere in India.">
     <meta name="keywords"
-        content="bike transport mansa, bike shifting mansa, two wheeler transport mansa, bike courier service mansa, bike relocation mansa, motorcycle transport mansa">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport mansa, bike shifting mansa, two wheeler transport mansa, bike courier service mansa, bike relocation mansa, motorcycle transport mansa">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kakching. Safe, insured door-to-door bike shifting to and from Kakching to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kakching, bike shifting kakching, two wheeler transport kakching, bike courier service kakching, bike relocation kakching, motorcycle transport kakching">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kakching, bike shifting kakching, two wheeler transport kakching, bike courier service kakching, bike relocation kakching, motorcycle transport kakching">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

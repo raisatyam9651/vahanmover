@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Dr. B. R. Ambedkar Konaseema. Safe, insured door-to-door bike shifting to and from Dr. B. R. Ambedkar Konaseema to anywhere in India.">
     <meta name="keywords"
-        content="bike transport anakapalli, bike shifting anakapalli, two wheeler transport anakapalli, bike courier service anakapalli, bike relocation anakapalli, motorcycle transport anakapalli">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport anakapalli, bike shifting anakapalli, two wheeler transport anakapalli, bike courier service anakapalli, bike relocation anakapalli, motorcycle transport anakapalli">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

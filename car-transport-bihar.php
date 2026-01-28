@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional car transport service in Bihar covering Patna, Gaya, Bhagalpur, Muzaffarpur, Darbhanga, and all districts. Safe, insured door-to-door car shifting.">
     <meta name="keywords"
-        content="car transport bihar, car shifting patna, vehicle transport gaya, car carrier bhagalpur, car relocation muzaffarpur, auto transport bihar">    <?php include 'includes/header-link.php'; ?>
+        content="car transport bihar, car shifting patna, vehicle transport gaya, car carrier bhagalpur, car relocation muzaffarpur, auto transport bihar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

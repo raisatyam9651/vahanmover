@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Chamoli. Safe, insured door-to-door bike shifting to and from Chamoli to anywhere in India.">
     <meta name="keywords"
-        content="bike transport chamoli, bike shifting chamoli, two wheeler transport chamoli, bike courier service chamoli, bike relocation chamoli, motorcycle transport chamoli">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport chamoli, bike shifting chamoli, two wheeler transport chamoli, bike courier service chamoli, bike relocation chamoli, motorcycle transport chamoli">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

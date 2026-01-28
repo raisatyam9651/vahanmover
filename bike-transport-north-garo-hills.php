@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in North Garo Hills. Safe, insured door-to-door bike shifting to and from North Garo Hills to anywhere in India.">
     <meta name="keywords"
-        content="bike transport north-garo-hills, bike shifting north-garo-hills, two wheeler transport north-garo-hills, bike courier service north-garo-hills, bike relocation north-garo-hills, motorcycle transport north-garo-hills">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport north-garo-hills, bike shifting north-garo-hills, two wheeler transport north-garo-hills, bike courier service north-garo-hills, bike relocation north-garo-hills, motorcycle transport north-garo-hills">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

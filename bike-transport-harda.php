@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Harda. Safe, insured door-to-door bike shifting to and from Harda to anywhere in India.">
     <meta name="keywords"
-        content="bike transport harda, bike shifting harda, two wheeler transport harda, bike courier service harda, bike relocation harda, motorcycle transport harda">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport harda, bike shifting harda, two wheeler transport harda, bike courier service harda, bike relocation harda, motorcycle transport harda">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Uttarkashi. Safe, insured door-to-door bike shifting to and from Uttarkashi to anywhere in India.">
     <meta name="keywords"
-        content="bike transport uttarkashi, bike shifting uttarkashi, two wheeler transport uttarkashi, bike courier service uttarkashi, bike relocation uttarkashi, motorcycle transport uttarkashi">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport uttarkashi, bike shifting uttarkashi, two wheeler transport uttarkashi, bike courier service uttarkashi, bike relocation uttarkashi, motorcycle transport uttarkashi">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

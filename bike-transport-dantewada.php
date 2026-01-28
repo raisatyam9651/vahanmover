@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Dantewada. Safe, insured door-to-door bike shifting to and from Dantewada to anywhere in India.">
     <meta name="keywords"
-        content="bike transport dantewada, bike shifting dantewada, two wheeler transport dantewada, bike courier service dantewada, bike relocation dantewada, motorcycle transport dantewada">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport dantewada, bike shifting dantewada, two wheeler transport dantewada, bike courier service dantewada, bike relocation dantewada, motorcycle transport dantewada">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

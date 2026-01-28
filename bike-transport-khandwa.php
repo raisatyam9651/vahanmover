@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Khandwa. Safe, insured door-to-door bike shifting to and from Khandwa to anywhere in India.">
     <meta name="keywords"
-        content="bike transport khandwa, bike shifting khandwa, two wheeler transport khandwa, bike courier service khandwa, bike relocation khandwa, motorcycle transport khandwa">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport khandwa, bike shifting khandwa, two wheeler transport khandwa, bike courier service khandwa, bike relocation khandwa, motorcycle transport khandwa">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

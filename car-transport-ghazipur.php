@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Ghazipur | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Ghazipur. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport ghazipur, car shifting ghazipur, vehicle transport ghazipur, car carrier ghazipur, car relocation ghazipur">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport ghazipur, car shifting ghazipur, vehicle transport ghazipur, car carrier ghazipur, car relocation ghazipur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

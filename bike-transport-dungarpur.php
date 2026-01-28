@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Dungarpur. Safe, insured door-to-door bike shifting to and from Dungarpur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport dungarpur, bike shifting dungarpur, two wheeler transport dungarpur, bike courier service dungarpur, bike relocation dungarpur, motorcycle transport dungarpur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport dungarpur, bike shifting dungarpur, two wheeler transport dungarpur, bike courier service dungarpur, bike relocation dungarpur, motorcycle transport dungarpur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

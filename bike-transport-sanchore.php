@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Sanchore. Safe, insured door-to-door bike shifting to and from Sanchore to anywhere in India.">
     <meta name="keywords"
-        content="bike transport sanchore, bike shifting sanchore, two wheeler transport sanchore, bike courier service sanchore, bike relocation sanchore, motorcycle transport sanchore">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport sanchore, bike shifting sanchore, two wheeler transport sanchore, bike courier service sanchore, bike relocation sanchore, motorcycle transport sanchore">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

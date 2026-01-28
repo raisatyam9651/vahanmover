@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Longleng. Safe, insured door-to-door bike shifting to and from Longleng to anywhere in India.">
     <meta name="keywords"
-        content="bike transport longleng, bike shifting longleng, two wheeler transport longleng, bike courier service longleng, bike relocation longleng, motorcycle transport longleng">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport longleng, bike shifting longleng, two wheeler transport longleng, bike courier service longleng, bike relocation longleng, motorcycle transport longleng">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

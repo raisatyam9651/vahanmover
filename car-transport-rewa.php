@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Rewa | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Rewa. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport rewa, car shifting rewa, vehicle transport rewa, car carrier rewa, car relocation rewa">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport rewa, car shifting rewa, vehicle transport rewa, car carrier rewa, car relocation rewa">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

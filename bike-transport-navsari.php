@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Navsari. Safe, insured door-to-door bike shifting to and from Navsari to anywhere in India.">
     <meta name="keywords"
-        content="bike transport navsari, bike shifting navsari, two wheeler transport navsari, bike courier service navsari, bike relocation navsari, motorcycle transport navsari">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport navsari, bike shifting navsari, two wheeler transport navsari, bike courier service navsari, bike relocation navsari, motorcycle transport navsari">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

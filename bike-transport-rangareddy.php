@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Rangareddy. Safe, insured door-to-door bike shifting to and from Rangareddy to anywhere in India.">
     <meta name="keywords"
-        content="bike transport rangareddy, bike shifting rangareddy, two wheeler transport rangareddy, bike courier service rangareddy, bike relocation rangareddy, motorcycle transport rangareddy">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport rangareddy, bike shifting rangareddy, two wheeler transport rangareddy, bike courier service rangareddy, bike relocation rangareddy, motorcycle transport rangareddy">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

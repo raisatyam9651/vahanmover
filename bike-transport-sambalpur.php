@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Sambalpur. Safe, insured door-to-door bike shifting to and from Sambalpur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport sambalpur, bike shifting sambalpur, two wheeler transport sambalpur, bike courier service sambalpur, bike relocation sambalpur, motorcycle transport sambalpur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport sambalpur, bike shifting sambalpur, two wheeler transport sambalpur, bike courier service sambalpur, bike relocation sambalpur, motorcycle transport sambalpur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

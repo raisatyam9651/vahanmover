@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Shimla | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Shimla. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport shimla, car shifting shimla, vehicle transport shimla, car carrier shimla, car relocation shimla">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport shimla, car shifting shimla, vehicle transport shimla, car carrier shimla, car relocation shimla">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Bulandshahr. Safe, insured door-to-door bike shifting to and from Bulandshahr to anywhere in India.">
     <meta name="keywords"
-        content="bike transport bulandshahr, bike shifting bulandshahr, two wheeler transport bulandshahr, bike courier service bulandshahr, bike relocation bulandshahr, motorcycle transport bulandshahr">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport bulandshahr, bike shifting bulandshahr, two wheeler transport bulandshahr, bike courier service bulandshahr, bike relocation bulandshahr, motorcycle transport bulandshahr">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

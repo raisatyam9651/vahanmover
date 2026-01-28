@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Mayiladuthurai. Safe, insured door-to-door bike shifting to and from Mayiladuthurai to anywhere in India.">
     <meta name="keywords"
-        content="bike transport mayiladuthurai, bike shifting mayiladuthurai, two wheeler transport mayiladuthurai, bike courier service mayiladuthurai, bike relocation mayiladuthurai, motorcycle transport mayiladuthurai">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport mayiladuthurai, bike shifting mayiladuthurai, two wheeler transport mayiladuthurai, bike courier service mayiladuthurai, bike relocation mayiladuthurai, motorcycle transport mayiladuthurai">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

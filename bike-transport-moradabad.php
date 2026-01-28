@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Moradabad. Safe, insured door-to-door bike shifting to and from Moradabad to anywhere in India.">
     <meta name="keywords"
-        content="bike transport moradabad, bike shifting moradabad, two wheeler transport moradabad, bike courier service moradabad, bike relocation moradabad, motorcycle transport moradabad">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport moradabad, bike shifting moradabad, two wheeler transport moradabad, bike courier service moradabad, bike relocation moradabad, motorcycle transport moradabad">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

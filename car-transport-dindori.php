@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Dindori | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Dindori. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport dindori, car shifting dindori, vehicle transport dindori, car carrier dindori, car relocation dindori">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport dindori, car shifting dindori, vehicle transport dindori, car carrier dindori, car relocation dindori">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

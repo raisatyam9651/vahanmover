@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Punjab covering Ludhiana, Amritsar, Jalandhar, Patiala, and all districts. Safe, insured door-to-door bike shifting.">
     <meta name="keywords"
-        content="bike transport punjab, bike shifting ludhiana, two wheeler transport amritsar, bike courier jalandhar, bike relocation patiala, motorcycle transport punjab">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport punjab, bike shifting ludhiana, two wheeler transport amritsar, bike courier jalandhar, bike relocation patiala, motorcycle transport punjab">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

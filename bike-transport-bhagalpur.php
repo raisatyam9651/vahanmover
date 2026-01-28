@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Bhagalpur. Safe, insured door-to-door bike shifting to and from Bhagalpur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport bhagalpur, bike shifting bhagalpur, two wheeler transport bhagalpur, bike courier service bhagalpur, bike relocation bhagalpur, motorcycle transport bhagalpur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport bhagalpur, bike shifting bhagalpur, two wheeler transport bhagalpur, bike courier service bhagalpur, bike relocation bhagalpur, motorcycle transport bhagalpur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Faridkot. Safe, insured door-to-door bike shifting to and from Faridkot to anywhere in India.">
     <meta name="keywords"
-        content="bike transport faridkot, bike shifting faridkot, two wheeler transport faridkot, bike courier service faridkot, bike relocation faridkot, motorcycle transport faridkot">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport faridkot, bike shifting faridkot, two wheeler transport faridkot, bike courier service faridkot, bike relocation faridkot, motorcycle transport faridkot">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

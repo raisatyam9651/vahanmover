@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Jhansi. Safe, insured door-to-door bike shifting to and from Jhansi to anywhere in India.">
     <meta name="keywords"
-        content="bike transport jhansi, bike shifting jhansi, two wheeler transport jhansi, bike courier service jhansi, bike relocation jhansi, motorcycle transport jhansi">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport jhansi, bike shifting jhansi, two wheeler transport jhansi, bike courier service jhansi, bike relocation jhansi, motorcycle transport jhansi">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

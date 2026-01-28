@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Unakoti. Safe, insured door-to-door bike shifting to and from Unakoti to anywhere in India.">
     <meta name="keywords"
-        content="bike transport unakoti, bike shifting unakoti, two wheeler transport unakoti, bike courier service unakoti, bike relocation unakoti, motorcycle transport unakoti">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport unakoti, bike shifting unakoti, two wheeler transport unakoti, bike courier service unakoti, bike relocation unakoti, motorcycle transport unakoti">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Chhota Udaipur. Safe, insured door-to-door bike shifting to and from Chhota Udaipur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport chhota-udaipur, bike shifting chhota-udaipur, two wheeler transport chhota-udaipur, bike courier service chhota-udaipur, bike relocation chhota-udaipur, motorcycle transport chhota-udaipur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport chhota-udaipur, bike shifting chhota-udaipur, two wheeler transport chhota-udaipur, bike courier service chhota-udaipur, bike relocation chhota-udaipur, motorcycle transport chhota-udaipur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

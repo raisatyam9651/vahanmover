@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Arwal | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Arwal. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport arwal, car shifting arwal, vehicle transport arwal, car carrier arwal, car relocation arwal">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport arwal, car shifting arwal, vehicle transport arwal, car carrier arwal, car relocation arwal">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Ballia. Safe, insured door-to-door bike shifting to and from Ballia to anywhere in India.">
     <meta name="keywords"
-        content="bike transport ballia, bike shifting ballia, two wheeler transport ballia, bike courier service ballia, bike relocation ballia, motorcycle transport ballia">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport ballia, bike shifting ballia, two wheeler transport ballia, bike courier service ballia, bike relocation ballia, motorcycle transport ballia">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

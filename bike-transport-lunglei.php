@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Lunglei. Safe, insured door-to-door bike shifting to and from Lunglei to anywhere in India.">
     <meta name="keywords"
-        content="bike transport lunglei, bike shifting lunglei, two wheeler transport lunglei, bike courier service lunglei, bike relocation lunglei, motorcycle transport lunglei">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport lunglei, bike shifting lunglei, two wheeler transport lunglei, bike courier service lunglei, bike relocation lunglei, motorcycle transport lunglei">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

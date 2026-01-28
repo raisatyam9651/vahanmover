@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Satara. Safe, insured door-to-door bike shifting to and from Satara to anywhere in India.">
     <meta name="keywords"
-        content="bike transport satara, bike shifting satara, two wheeler transport satara, bike courier service satara, bike relocation satara, motorcycle transport satara">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport satara, bike shifting satara, two wheeler transport satara, bike courier service satara, bike relocation satara, motorcycle transport satara">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

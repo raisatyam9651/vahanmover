@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Balasore. Safe, insured door-to-door bike shifting to and from Balasore to anywhere in India.">
     <meta name="keywords"
-        content="bike transport balasore, bike shifting balasore, two wheeler transport balasore, bike courier service balasore, bike relocation balasore, motorcycle transport balasore">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport balasore, bike shifting balasore, two wheeler transport balasore, bike courier service balasore, bike relocation balasore, motorcycle transport balasore">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

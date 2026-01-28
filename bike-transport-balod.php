@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Balod. Safe, insured door-to-door bike shifting to and from Balod to anywhere in India.">
     <meta name="keywords"
-        content="bike transport balod, bike shifting balod, two wheeler transport balod, bike courier service balod, bike relocation balod, motorcycle transport balod">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport balod, bike shifting balod, two wheeler transport balod, bike courier service balod, bike relocation balod, motorcycle transport balod">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

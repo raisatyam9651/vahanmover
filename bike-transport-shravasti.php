@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Shravasti. Safe, insured door-to-door bike shifting to and from Shravasti to anywhere in India.">
     <meta name="keywords"
-        content="bike transport shravasti, bike shifting shravasti, two wheeler transport shravasti, bike courier service shravasti, bike relocation shravasti, motorcycle transport shravasti">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport shravasti, bike shifting shravasti, two wheeler transport shravasti, bike courier service shravasti, bike relocation shravasti, motorcycle transport shravasti">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Balangir. Safe, insured door-to-door bike shifting to and from Balangir to anywhere in India.">
     <meta name="keywords"
-        content="bike transport balangir, bike shifting balangir, two wheeler transport balangir, bike courier service balangir, bike relocation balangir, motorcycle transport balangir">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport balangir, bike shifting balangir, two wheeler transport balangir, bike courier service balangir, bike relocation balangir, motorcycle transport balangir">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

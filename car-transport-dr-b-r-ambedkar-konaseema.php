@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Dr. B. R. Ambedkar Konaseema | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Dr. B. R. Ambedkar Konaseema. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport dr. b. r. ambedkar konaseema, car shifting dr. b. r. ambedkar konaseema, vehicle transport dr. b. r. ambedkar konaseema, car carrier dr. b. r. ambedkar konaseema, car relocation dr. b. r. ambedkar konaseema">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport dr. b. r. ambedkar konaseema, car shifting dr. b. r. ambedkar konaseema, vehicle transport dr. b. r. ambedkar konaseema, car carrier dr. b. r. ambedkar konaseema, car relocation dr. b. r. ambedkar konaseema">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

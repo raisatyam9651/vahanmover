@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Chumoukedima. Safe, insured door-to-door bike shifting to and from Chumoukedima to anywhere in India.">
     <meta name="keywords"
-        content="bike transport chumoukedima, bike shifting chumoukedima, two wheeler transport chumoukedima, bike courier service chumoukedima, bike relocation chumoukedima, motorcycle transport chumoukedima">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport chumoukedima, bike shifting chumoukedima, two wheeler transport chumoukedima, bike courier service chumoukedima, bike relocation chumoukedima, motorcycle transport chumoukedima">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

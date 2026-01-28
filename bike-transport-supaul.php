@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Supaul. Safe, insured door-to-door bike shifting to and from Supaul to anywhere in India.">
     <meta name="keywords"
-        content="bike transport supaul, bike shifting supaul, two wheeler transport supaul, bike courier service supaul, bike relocation supaul, motorcycle transport supaul">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport supaul, bike shifting supaul, two wheeler transport supaul, bike courier service supaul, bike relocation supaul, motorcycle transport supaul">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Jaunpur. Safe, insured door-to-door bike shifting to and from Jaunpur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport jaunpur, bike shifting jaunpur, two wheeler transport jaunpur, bike courier service jaunpur, bike relocation jaunpur, motorcycle transport jaunpur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport jaunpur, bike shifting jaunpur, two wheeler transport jaunpur, bike courier service jaunpur, bike relocation jaunpur, motorcycle transport jaunpur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

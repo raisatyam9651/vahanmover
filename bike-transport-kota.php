@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kota. Safe, insured door-to-door bike shifting to and from Kota to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kota, bike shifting kota, two wheeler transport kota, bike courier service kota, bike relocation kota, motorcycle transport kota">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kota, bike shifting kota, two wheeler transport kota, bike courier service kota, bike relocation kota, motorcycle transport kota">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Rajgarh. Safe, insured door-to-door bike shifting to and from Rajgarh to anywhere in India.">
     <meta name="keywords"
-        content="bike transport rajgarh, bike shifting rajgarh, two wheeler transport rajgarh, bike courier service rajgarh, bike relocation rajgarh, motorcycle transport rajgarh">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport rajgarh, bike shifting rajgarh, two wheeler transport rajgarh, bike courier service rajgarh, bike relocation rajgarh, motorcycle transport rajgarh">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

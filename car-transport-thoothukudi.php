@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Thoothukudi | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Thoothukudi. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport thoothukudi, car shifting thoothukudi, vehicle transport thoothukudi, car carrier thoothukudi, car relocation thoothukudi">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport thoothukudi, car shifting thoothukudi, vehicle transport thoothukudi, car carrier thoothukudi, car relocation thoothukudi">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

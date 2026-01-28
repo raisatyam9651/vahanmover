@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Senapati. Safe, insured door-to-door bike shifting to and from Senapati to anywhere in India.">
     <meta name="keywords"
-        content="bike transport senapati, bike shifting senapati, two wheeler transport senapati, bike courier service senapati, bike relocation senapati, motorcycle transport senapati">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport senapati, bike shifting senapati, two wheeler transport senapati, bike courier service senapati, bike relocation senapati, motorcycle transport senapati">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

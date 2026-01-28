@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in YSR Kadapa | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in YSR Kadapa. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport ysr kadapa, car shifting ysr kadapa, vehicle transport ysr kadapa, car carrier ysr kadapa, car relocation ysr kadapa">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport ysr kadapa, car shifting ysr kadapa, vehicle transport ysr kadapa, car carrier ysr kadapa, car relocation ysr kadapa">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

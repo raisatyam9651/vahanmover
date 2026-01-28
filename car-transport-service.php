@@ -9,7 +9,9 @@
     <meta name="description"
         content="Looking for a reliable car transport service in India? We offer safe, enclosed car carriers, door-to-door car shifting, and vehicle relocation services across all major cities.">
     <meta name="keywords"
-        content="car transport service in india, car carriers india, auto transportation india, car shipping services, vehicle relocation, enclosed car transport, car moving services, door-to-door car transport">    <?php include 'includes/header-link.php'; ?>
+        content="car transport service in india, car carriers india, auto transportation india, car shipping services, vehicle relocation, enclosed car transport, car moving services, door-to-door car transport">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Lucknow. Safe, insured door-to-door bike shifting to and from Lucknow to anywhere in India.">
     <meta name="keywords"
-        content="bike transport lucknow, bike shifting lucknow, two wheeler transport lucknow, bike courier service lucknow, bike relocation lucknow, motorcycle transport lucknow">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport lucknow, bike shifting lucknow, two wheeler transport lucknow, bike courier service lucknow, bike relocation lucknow, motorcycle transport lucknow">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Lakhisarai. Safe, insured door-to-door bike shifting to and from Lakhisarai to anywhere in India.">
     <meta name="keywords"
-        content="bike transport lakhisarai, bike shifting lakhisarai, two wheeler transport lakhisarai, bike courier service lakhisarai, bike relocation lakhisarai, motorcycle transport lakhisarai">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport lakhisarai, bike shifting lakhisarai, two wheeler transport lakhisarai, bike courier service lakhisarai, bike relocation lakhisarai, motorcycle transport lakhisarai">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

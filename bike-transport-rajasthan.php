@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Rajasthan covering Jaipur, Jodhpur, Udaipur, Kota, and all districts. Safe, insured door-to-door bike shifting.">
     <meta name="keywords"
-        content="bike transport rajasthan, bike shifting jaipur, two wheeler transport jodhpur, bike courier udaipur, bike relocation kota, motorcycle transport rajasthan">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport rajasthan, bike shifting jaipur, two wheeler transport jodhpur, bike courier udaipur, bike relocation kota, motorcycle transport rajasthan">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

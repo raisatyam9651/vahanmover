@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional car transport service in Himachal Pradesh covering Shimla, Dharamshala, Kullu, Manali, Solan, and all districts. Safe, insured door-to-door car shifting.">
     <meta name="keywords"
-        content="car transport himachal pradesh, car shifting shimla, vehicle transport dharamshala, car carrier kullu, car relocation manali, auto transport himachal pradesh">    <?php include 'includes/header-link.php'; ?>
+        content="car transport himachal pradesh, car shifting shimla, vehicle transport dharamshala, car carrier kullu, car relocation manali, auto transport himachal pradesh">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

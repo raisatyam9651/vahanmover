@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Farrukhabad. Safe, insured door-to-door bike shifting to and from Farrukhabad to anywhere in India.">
     <meta name="keywords"
-        content="bike transport farrukhabad, bike shifting farrukhabad, two wheeler transport farrukhabad, bike courier service farrukhabad, bike relocation farrukhabad, motorcycle transport farrukhabad">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport farrukhabad, bike shifting farrukhabad, two wheeler transport farrukhabad, bike courier service farrukhabad, bike relocation farrukhabad, motorcycle transport farrukhabad">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

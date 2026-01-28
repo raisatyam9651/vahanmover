@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional car transport service in Jharkhand covering Ranchi, Jamshedpur, Dhanbad, Bokaro, Deoghar, and all districts. Safe, insured door-to-door car shifting.">
     <meta name="keywords"
-        content="car transport jharkhand, car shifting ranchi, vehicle transport jamshedpur, car carrier dhanbad, car relocation bokaro, auto transport jharkhand">    <?php include 'includes/header-link.php'; ?>
+        content="car transport jharkhand, car shifting ranchi, vehicle transport jamshedpur, car carrier dhanbad, car relocation bokaro, auto transport jharkhand">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

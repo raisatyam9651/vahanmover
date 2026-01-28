@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Lalitpur | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Lalitpur. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport lalitpur, car shifting lalitpur, vehicle transport lalitpur, car carrier lalitpur, car relocation lalitpur">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport lalitpur, car shifting lalitpur, vehicle transport lalitpur, car carrier lalitpur, car relocation lalitpur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

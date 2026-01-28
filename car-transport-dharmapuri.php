@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Dharmapuri | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Dharmapuri. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport dharmapuri, car shifting dharmapuri, vehicle transport dharmapuri, car carrier dharmapuri, car relocation dharmapuri">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport dharmapuri, car shifting dharmapuri, vehicle transport dharmapuri, car carrier dharmapuri, car relocation dharmapuri">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

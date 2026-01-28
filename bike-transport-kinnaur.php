@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kinnaur. Safe, insured door-to-door bike shifting to and from Kinnaur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kinnaur, bike shifting kinnaur, two wheeler transport kinnaur, bike courier service kinnaur, bike relocation kinnaur, motorcycle transport kinnaur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kinnaur, bike shifting kinnaur, two wheeler transport kinnaur, bike courier service kinnaur, bike relocation kinnaur, motorcycle transport kinnaur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

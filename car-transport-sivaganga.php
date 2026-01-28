@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Sivaganga | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Sivaganga. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport sivaganga, car shifting sivaganga, vehicle transport sivaganga, car carrier sivaganga, car relocation sivaganga">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport sivaganga, car shifting sivaganga, vehicle transport sivaganga, car carrier sivaganga, car relocation sivaganga">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

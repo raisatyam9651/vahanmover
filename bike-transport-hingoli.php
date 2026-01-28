@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Hingoli. Safe, insured door-to-door bike shifting to and from Hingoli to anywhere in India.">
     <meta name="keywords"
-        content="bike transport hingoli, bike shifting hingoli, two wheeler transport hingoli, bike courier service hingoli, bike relocation hingoli, motorcycle transport hingoli">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport hingoli, bike shifting hingoli, two wheeler transport hingoli, bike courier service hingoli, bike relocation hingoli, motorcycle transport hingoli">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

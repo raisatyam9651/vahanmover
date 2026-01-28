@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Jhunjhunu. Safe, insured door-to-door bike shifting to and from Jhunjhunu to anywhere in India.">
     <meta name="keywords"
-        content="bike transport jhunjhunu, bike shifting jhunjhunu, two wheeler transport jhunjhunu, bike courier service jhunjhunu, bike relocation jhunjhunu, motorcycle transport jhunjhunu">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport jhunjhunu, bike shifting jhunjhunu, two wheeler transport jhunjhunu, bike courier service jhunjhunu, bike relocation jhunjhunu, motorcycle transport jhunjhunu">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

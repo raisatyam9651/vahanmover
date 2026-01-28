@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Panna | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Panna. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport panna, car shifting panna, vehicle transport panna, car carrier panna, car relocation panna">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport panna, car shifting panna, vehicle transport panna, car carrier panna, car relocation panna">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

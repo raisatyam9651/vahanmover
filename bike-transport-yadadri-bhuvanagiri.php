@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Yadadri Bhuvanagiri. Safe, insured door-to-door bike shifting to and from Yadadri Bhuvanagiri to anywhere in India.">
     <meta name="keywords"
-        content="bike transport yadadri-bhuvanagiri, bike shifting yadadri-bhuvanagiri, two wheeler transport yadadri-bhuvanagiri, bike courier service yadadri-bhuvanagiri, bike relocation yadadri-bhuvanagiri, motorcycle transport yadadri-bhuvanagiri">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport yadadri-bhuvanagiri, bike shifting yadadri-bhuvanagiri, two wheeler transport yadadri-bhuvanagiri, bike courier service yadadri-bhuvanagiri, bike relocation yadadri-bhuvanagiri, motorcycle transport yadadri-bhuvanagiri">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

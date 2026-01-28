@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Lakhimpur Kheri. Safe, insured door-to-door bike shifting to and from Lakhimpur Kheri to anywhere in India.">
     <meta name="keywords"
-        content="bike transport lakhimpur-kheri, bike shifting lakhimpur-kheri, two wheeler transport lakhimpur-kheri, bike courier service lakhimpur-kheri, bike relocation lakhimpur-kheri, motorcycle transport lakhimpur-kheri">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport lakhimpur-kheri, bike shifting lakhimpur-kheri, two wheeler transport lakhimpur-kheri, bike courier service lakhimpur-kheri, bike relocation lakhimpur-kheri, motorcycle transport lakhimpur-kheri">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

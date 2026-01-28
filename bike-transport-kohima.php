@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kohima. Safe, insured door-to-door bike shifting to and from Kohima to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kohima, bike shifting kohima, two wheeler transport kohima, bike courier service kohima, bike relocation kohima, motorcycle transport kohima">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kohima, bike shifting kohima, two wheeler transport kohima, bike courier service kohima, bike relocation kohima, motorcycle transport kohima">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

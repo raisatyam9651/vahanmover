@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Mungeli. Safe, insured door-to-door bike shifting to and from Mungeli to anywhere in India.">
     <meta name="keywords"
-        content="bike transport mungeli, bike shifting mungeli, two wheeler transport mungeli, bike courier service mungeli, bike relocation mungeli, motorcycle transport mungeli">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport mungeli, bike shifting mungeli, two wheeler transport mungeli, bike courier service mungeli, bike relocation mungeli, motorcycle transport mungeli">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

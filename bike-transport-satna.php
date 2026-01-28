@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Satna. Safe, insured door-to-door bike shifting to and from Satna to anywhere in India.">
     <meta name="keywords"
-        content="bike transport satna, bike shifting satna, two wheeler transport satna, bike courier service satna, bike relocation satna, motorcycle transport satna">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport satna, bike shifting satna, two wheeler transport satna, bike courier service satna, bike relocation satna, motorcycle transport satna">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

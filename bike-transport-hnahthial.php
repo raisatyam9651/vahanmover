@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Hnahthial. Safe, insured door-to-door bike shifting to and from Hnahthial to anywhere in India.">
     <meta name="keywords"
-        content="bike transport hnahthial, bike shifting hnahthial, two wheeler transport hnahthial, bike courier service hnahthial, bike relocation hnahthial, motorcycle transport hnahthial">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport hnahthial, bike shifting hnahthial, two wheeler transport hnahthial, bike courier service hnahthial, bike relocation hnahthial, motorcycle transport hnahthial">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

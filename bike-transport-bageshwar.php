@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Bageshwar. Safe, insured door-to-door bike shifting to and from Bageshwar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport bageshwar, bike shifting bageshwar, two wheeler transport bageshwar, bike courier service bageshwar, bike relocation bageshwar, motorcycle transport bageshwar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport bageshwar, bike shifting bageshwar, two wheeler transport bageshwar, bike courier service bageshwar, bike relocation bageshwar, motorcycle transport bageshwar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Tiruchirappalli. Safe, insured door-to-door bike shifting to and from Tiruchirappalli to anywhere in India.">
     <meta name="keywords"
-        content="bike transport tiruchirappalli, bike shifting tiruchirappalli, two wheeler transport tiruchirappalli, bike courier service tiruchirappalli, bike relocation tiruchirappalli, motorcycle transport tiruchirappalli">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport tiruchirappalli, bike shifting tiruchirappalli, two wheeler transport tiruchirappalli, bike courier service tiruchirappalli, bike relocation tiruchirappalli, motorcycle transport tiruchirappalli">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

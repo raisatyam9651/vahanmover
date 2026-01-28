@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Jalore. Safe, insured door-to-door bike shifting to and from Jalore to anywhere in India.">
     <meta name="keywords"
-        content="bike transport jalore, bike shifting jalore, two wheeler transport jalore, bike courier service jalore, bike relocation jalore, motorcycle transport jalore">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport jalore, bike shifting jalore, two wheeler transport jalore, bike courier service jalore, bike relocation jalore, motorcycle transport jalore">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

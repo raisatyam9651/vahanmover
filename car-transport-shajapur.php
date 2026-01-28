@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Shajapur | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Shajapur. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport shajapur, car shifting shajapur, vehicle transport shajapur, car carrier shajapur, car relocation shajapur">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport shajapur, car shifting shajapur, vehicle transport shajapur, car carrier shajapur, car relocation shajapur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

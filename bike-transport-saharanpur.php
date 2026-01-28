@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Saharanpur. Safe, insured door-to-door bike shifting to and from Saharanpur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport saharanpur, bike shifting saharanpur, two wheeler transport saharanpur, bike courier service saharanpur, bike relocation saharanpur, motorcycle transport saharanpur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport saharanpur, bike shifting saharanpur, two wheeler transport saharanpur, bike courier service saharanpur, bike relocation saharanpur, motorcycle transport saharanpur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Lakhimpur. Safe, insured door-to-door bike shifting to and from Lakhimpur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport lakhimpur, bike shifting lakhimpur, two wheeler transport lakhimpur, bike courier service lakhimpur, bike relocation lakhimpur, motorcycle transport lakhimpur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport lakhimpur, bike shifting lakhimpur, two wheeler transport lakhimpur, bike courier service lakhimpur, bike relocation lakhimpur, motorcycle transport lakhimpur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

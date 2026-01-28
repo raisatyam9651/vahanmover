@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Saran. Safe, insured door-to-door bike shifting to and from Saran to anywhere in India.">
     <meta name="keywords"
-        content="bike transport saran, bike shifting saran, two wheeler transport saran, bike courier service saran, bike relocation saran, motorcycle transport saran">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport saran, bike shifting saran, two wheeler transport saran, bike courier service saran, bike relocation saran, motorcycle transport saran">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

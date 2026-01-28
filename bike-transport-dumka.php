@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Dumka. Safe, insured door-to-door bike shifting to and from Dumka to anywhere in India.">
     <meta name="keywords"
-        content="bike transport dumka, bike shifting dumka, two wheeler transport dumka, bike courier service dumka, bike relocation dumka, motorcycle transport dumka">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport dumka, bike shifting dumka, two wheeler transport dumka, bike courier service dumka, bike relocation dumka, motorcycle transport dumka">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

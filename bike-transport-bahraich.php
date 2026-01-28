@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Bahraich. Safe, insured door-to-door bike shifting to and from Bahraich to anywhere in India.">
     <meta name="keywords"
-        content="bike transport bahraich, bike shifting bahraich, two wheeler transport bahraich, bike courier service bahraich, bike relocation bahraich, motorcycle transport bahraich">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport bahraich, bike shifting bahraich, two wheeler transport bahraich, bike courier service bahraich, bike relocation bahraich, motorcycle transport bahraich">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

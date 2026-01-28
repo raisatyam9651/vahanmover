@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Bargarh. Safe, insured door-to-door bike shifting to and from Bargarh to anywhere in India.">
     <meta name="keywords"
-        content="bike transport bargarh, bike shifting bargarh, two wheeler transport bargarh, bike courier service bargarh, bike relocation bargarh, motorcycle transport bargarh">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport bargarh, bike shifting bargarh, two wheeler transport bargarh, bike courier service bargarh, bike relocation bargarh, motorcycle transport bargarh">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

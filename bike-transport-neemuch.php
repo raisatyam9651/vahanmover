@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Neemuch. Safe, insured door-to-door bike shifting to and from Neemuch to anywhere in India.">
     <meta name="keywords"
-        content="bike transport neemuch, bike shifting neemuch, two wheeler transport neemuch, bike courier service neemuch, bike relocation neemuch, motorcycle transport neemuch">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport neemuch, bike shifting neemuch, two wheeler transport neemuch, bike courier service neemuch, bike relocation neemuch, motorcycle transport neemuch">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

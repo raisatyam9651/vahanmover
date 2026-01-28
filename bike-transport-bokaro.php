@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Bokaro. Safe, insured door-to-door bike shifting to and from Bokaro to anywhere in India.">
     <meta name="keywords"
-        content="bike transport bokaro, bike shifting bokaro, two wheeler transport bokaro, bike courier service bokaro, bike relocation bokaro, motorcycle transport bokaro">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport bokaro, bike shifting bokaro, two wheeler transport bokaro, bike courier service bokaro, bike relocation bokaro, motorcycle transport bokaro">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

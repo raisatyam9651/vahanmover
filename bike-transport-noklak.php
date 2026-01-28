@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Noklak. Safe, insured door-to-door bike shifting to and from Noklak to anywhere in India.">
     <meta name="keywords"
-        content="bike transport noklak, bike shifting noklak, two wheeler transport noklak, bike courier service noklak, bike relocation noklak, motorcycle transport noklak">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport noklak, bike shifting noklak, two wheeler transport noklak, bike courier service noklak, bike relocation noklak, motorcycle transport noklak">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

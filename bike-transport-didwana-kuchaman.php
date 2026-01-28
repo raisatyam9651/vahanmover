@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Didwana-Kuchaman. Safe, insured door-to-door bike shifting to and from Didwana-Kuchaman to anywhere in India.">
     <meta name="keywords"
-        content="bike transport didwana-kuchaman, bike shifting didwana-kuchaman, two wheeler transport didwana-kuchaman, bike courier service didwana-kuchaman, bike relocation didwana-kuchaman, motorcycle transport didwana-kuchaman">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport didwana-kuchaman, bike shifting didwana-kuchaman, two wheeler transport didwana-kuchaman, bike courier service didwana-kuchaman, bike relocation didwana-kuchaman, motorcycle transport didwana-kuchaman">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

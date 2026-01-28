@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kodagu. Safe, insured door-to-door bike shifting to and from Kodagu to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kodagu, bike shifting kodagu, two wheeler transport kodagu, bike courier service kodagu, bike relocation kodagu, motorcycle transport kodagu">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kodagu, bike shifting kodagu, two wheeler transport kodagu, bike courier service kodagu, bike relocation kodagu, motorcycle transport kodagu">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

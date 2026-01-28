@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Tikamgarh. Safe, insured door-to-door bike shifting to and from Tikamgarh to anywhere in India.">
     <meta name="keywords"
-        content="bike transport tikamgarh, bike shifting tikamgarh, two wheeler transport tikamgarh, bike courier service tikamgarh, bike relocation tikamgarh, motorcycle transport tikamgarh">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport tikamgarh, bike shifting tikamgarh, two wheeler transport tikamgarh, bike courier service tikamgarh, bike relocation tikamgarh, motorcycle transport tikamgarh">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

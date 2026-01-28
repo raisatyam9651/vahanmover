@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Raipur. Safe, insured door-to-door bike shifting to and from Raipur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport raipur, bike shifting raipur, two wheeler transport raipur, bike courier service raipur, bike relocation raipur, motorcycle transport raipur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport raipur, bike shifting raipur, two wheeler transport raipur, bike courier service raipur, bike relocation raipur, motorcycle transport raipur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Nawanshahr. Safe, insured door-to-door bike shifting to and from Nawanshahr to anywhere in India.">
     <meta name="keywords"
-        content="bike transport nawanshahr, bike shifting nawanshahr, two wheeler transport nawanshahr, bike courier service nawanshahr, bike relocation nawanshahr, motorcycle transport nawanshahr">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport nawanshahr, bike shifting nawanshahr, two wheeler transport nawanshahr, bike courier service nawanshahr, bike relocation nawanshahr, motorcycle transport nawanshahr">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Anjaw. Safe, insured door-to-door bike shifting to and from Anjaw to anywhere in India.">
     <meta name="keywords"
-        content="bike transport anjaw, bike shifting anjaw, two wheeler transport anjaw, bike courier service anjaw, bike relocation anjaw, motorcycle transport anjaw">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport anjaw, bike shifting anjaw, two wheeler transport anjaw, bike courier service anjaw, bike relocation anjaw, motorcycle transport anjaw">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

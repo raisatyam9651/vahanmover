@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Sheopur. Safe, insured door-to-door bike shifting to and from Sheopur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport sheopur, bike shifting sheopur, two wheeler transport sheopur, bike courier service sheopur, bike relocation sheopur, motorcycle transport sheopur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport sheopur, bike shifting sheopur, two wheeler transport sheopur, bike courier service sheopur, bike relocation sheopur, motorcycle transport sheopur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

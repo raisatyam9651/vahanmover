@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Agra. Safe, insured door-to-door bike shifting to and from Agra to anywhere in India.">
     <meta name="keywords"
-        content="bike transport agra, bike shifting agra, two wheeler transport agra, bike courier service agra, bike relocation agra, motorcycle transport agra">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport agra, bike shifting agra, two wheeler transport agra, bike courier service agra, bike relocation agra, motorcycle transport agra">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

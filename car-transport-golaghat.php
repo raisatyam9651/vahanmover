@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Golaghat | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Golaghat. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport golaghat, car shifting golaghat, vehicle transport golaghat, car carrier golaghat, car relocation golaghat">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport golaghat, car shifting golaghat, vehicle transport golaghat, car carrier golaghat, car relocation golaghat">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Korba. Safe, insured door-to-door bike shifting to and from Korba to anywhere in India.">
     <meta name="keywords"
-        content="bike transport korba, bike shifting korba, two wheeler transport korba, bike courier service korba, bike relocation korba, motorcycle transport korba">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport korba, bike shifting korba, two wheeler transport korba, bike courier service korba, bike relocation korba, motorcycle transport korba">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

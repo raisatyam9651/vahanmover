@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kokrajhar. Safe, insured door-to-door bike shifting to and from Kokrajhar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kokrajhar, bike shifting kokrajhar, two wheeler transport kokrajhar, bike courier service kokrajhar, bike relocation kokrajhar, motorcycle transport kokrajhar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kokrajhar, bike shifting kokrajhar, two wheeler transport kokrajhar, bike courier service kokrajhar, bike relocation kokrajhar, motorcycle transport kokrajhar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in West Singhbhum | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in West Singhbhum. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport west singhbhum, car shifting west singhbhum, vehicle transport west singhbhum, car carrier west singhbhum, car relocation west singhbhum">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport west singhbhum, car shifting west singhbhum, vehicle transport west singhbhum, car carrier west singhbhum, car relocation west singhbhum">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

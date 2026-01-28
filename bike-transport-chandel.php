@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Chandel. Safe, insured door-to-door bike shifting to and from Chandel to anywhere in India.">
     <meta name="keywords"
-        content="bike transport chandel, bike shifting chandel, two wheeler transport chandel, bike courier service chandel, bike relocation chandel, motorcycle transport chandel">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport chandel, bike shifting chandel, two wheeler transport chandel, bike courier service chandel, bike relocation chandel, motorcycle transport chandel">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

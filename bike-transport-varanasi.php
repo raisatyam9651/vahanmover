@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Varanasi. Safe, insured door-to-door bike shifting to and from Varanasi to anywhere in India.">
     <meta name="keywords"
-        content="bike transport varanasi, bike shifting varanasi, two wheeler transport varanasi, bike courier service varanasi, bike relocation varanasi, motorcycle transport varanasi">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport varanasi, bike shifting varanasi, two wheeler transport varanasi, bike courier service varanasi, bike relocation varanasi, motorcycle transport varanasi">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

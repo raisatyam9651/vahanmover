@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Vijayanagara. Safe, insured door-to-door bike shifting to and from Vijayanagara to anywhere in India.">
     <meta name="keywords"
-        content="bike transport vijayanagara, bike shifting vijayanagara, two wheeler transport vijayanagara, bike courier service vijayanagara, bike relocation vijayanagara, motorcycle transport vijayanagara">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport vijayanagara, bike shifting vijayanagara, two wheeler transport vijayanagara, bike courier service vijayanagara, bike relocation vijayanagara, motorcycle transport vijayanagara">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

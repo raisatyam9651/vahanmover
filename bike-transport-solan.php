@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Solan. Safe, insured door-to-door bike shifting to and from Solan to anywhere in India.">
     <meta name="keywords"
-        content="bike transport solan, bike shifting solan, two wheeler transport solan, bike courier service solan, bike relocation solan, motorcycle transport solan">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport solan, bike shifting solan, two wheeler transport solan, bike courier service solan, bike relocation solan, motorcycle transport solan">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

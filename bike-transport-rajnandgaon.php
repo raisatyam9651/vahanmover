@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Rajnandgaon. Safe, insured door-to-door bike shifting to and from Rajnandgaon to anywhere in India.">
     <meta name="keywords"
-        content="bike transport rajnandgaon, bike shifting rajnandgaon, two wheeler transport rajnandgaon, bike courier service rajnandgaon, bike relocation rajnandgaon, motorcycle transport rajnandgaon">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport rajnandgaon, bike shifting rajnandgaon, two wheeler transport rajnandgaon, bike courier service rajnandgaon, bike relocation rajnandgaon, motorcycle transport rajnandgaon">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

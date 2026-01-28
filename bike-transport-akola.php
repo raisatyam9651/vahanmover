@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Akola. Safe, insured door-to-door bike shifting to and from Akola to anywhere in India.">
     <meta name="keywords"
-        content="bike transport akola, bike shifting akola, two wheeler transport akola, bike courier service akola, bike relocation akola, motorcycle transport akola">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport akola, bike shifting akola, two wheeler transport akola, bike courier service akola, bike relocation akola, motorcycle transport akola">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

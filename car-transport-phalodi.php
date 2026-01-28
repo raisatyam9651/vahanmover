@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Phalodi | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Phalodi. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport phalodi, car shifting phalodi, vehicle transport phalodi, car carrier phalodi, car relocation phalodi">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport phalodi, car shifting phalodi, vehicle transport phalodi, car carrier phalodi, car relocation phalodi">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Vadodara | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Vadodara. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport vadodara, car shifting vadodara, vehicle transport vadodara, car carrier vadodara, car relocation vadodara">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport vadodara, car shifting vadodara, vehicle transport vadodara, car carrier vadodara, car relocation vadodara">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

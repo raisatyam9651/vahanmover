@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Sirohi. Safe, insured door-to-door bike shifting to and from Sirohi to anywhere in India.">
     <meta name="keywords"
-        content="bike transport sirohi, bike shifting sirohi, two wheeler transport sirohi, bike courier service sirohi, bike relocation sirohi, motorcycle transport sirohi">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport sirohi, bike shifting sirohi, two wheeler transport sirohi, bike courier service sirohi, bike relocation sirohi, motorcycle transport sirohi">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

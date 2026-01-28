@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kiphire. Safe, insured door-to-door bike shifting to and from Kiphire to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kiphire, bike shifting kiphire, two wheeler transport kiphire, bike courier service kiphire, bike relocation kiphire, motorcycle transport kiphire">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kiphire, bike shifting kiphire, two wheeler transport kiphire, bike courier service kiphire, bike relocation kiphire, motorcycle transport kiphire">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

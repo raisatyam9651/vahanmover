@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Rewari. Safe, insured door-to-door bike shifting to and from Rewari to anywhere in India.">
     <meta name="keywords"
-        content="bike transport rewari, bike shifting rewari, two wheeler transport rewari, bike courier service rewari, bike relocation rewari, motorcycle transport rewari">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport rewari, bike shifting rewari, two wheeler transport rewari, bike courier service rewari, bike relocation rewari, motorcycle transport rewari">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

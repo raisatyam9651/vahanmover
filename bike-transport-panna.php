@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Panna. Safe, insured door-to-door bike shifting to and from Panna to anywhere in India.">
     <meta name="keywords"
-        content="bike transport panna, bike shifting panna, two wheeler transport panna, bike courier service panna, bike relocation panna, motorcycle transport panna">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport panna, bike shifting panna, two wheeler transport panna, bike courier service panna, bike relocation panna, motorcycle transport panna">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

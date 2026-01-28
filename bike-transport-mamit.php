@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Mamit. Safe, insured door-to-door bike shifting to and from Mamit to anywhere in India.">
     <meta name="keywords"
-        content="bike transport mamit, bike shifting mamit, two wheeler transport mamit, bike courier service mamit, bike relocation mamit, motorcycle transport mamit">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport mamit, bike shifting mamit, two wheeler transport mamit, bike courier service mamit, bike relocation mamit, motorcycle transport mamit">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

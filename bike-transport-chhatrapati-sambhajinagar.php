@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Chhatrapati Sambhajinagar. Safe, insured door-to-door bike shifting to and from Chhatrapati Sambhajinagar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport chhatrapati-sambhajinagar, bike shifting chhatrapati-sambhajinagar, two wheeler transport chhatrapati-sambhajinagar, bike courier service chhatrapati-sambhajinagar, bike relocation chhatrapati-sambhajinagar, motorcycle transport chhatrapati-sambhajinagar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport chhatrapati-sambhajinagar, bike shifting chhatrapati-sambhajinagar, two wheeler transport chhatrapati-sambhajinagar, bike courier service chhatrapati-sambhajinagar, bike relocation chhatrapati-sambhajinagar, motorcycle transport chhatrapati-sambhajinagar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

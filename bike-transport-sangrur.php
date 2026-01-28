@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Sangrur. Safe, insured door-to-door bike shifting to and from Sangrur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport sangrur, bike shifting sangrur, two wheeler transport sangrur, bike courier service sangrur, bike relocation sangrur, motorcycle transport sangrur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport sangrur, bike shifting sangrur, two wheeler transport sangrur, bike courier service sangrur, bike relocation sangrur, motorcycle transport sangrur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

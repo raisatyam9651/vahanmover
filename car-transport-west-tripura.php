@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in West Tripura | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in West Tripura. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport west tripura, car shifting west tripura, vehicle transport west tripura, car carrier west tripura, car relocation west tripura">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport west tripura, car shifting west tripura, vehicle transport west tripura, car carrier west tripura, car relocation west tripura">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

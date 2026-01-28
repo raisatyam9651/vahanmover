@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Bhadradri Kothagudem. Safe, insured door-to-door bike shifting to and from Bhadradri Kothagudem to anywhere in India.">
     <meta name="keywords"
-        content="bike transport bhadradri-kothagudem, bike shifting bhadradri-kothagudem, two wheeler transport bhadradri-kothagudem, bike courier service bhadradri-kothagudem, bike relocation bhadradri-kothagudem, motorcycle transport bhadradri-kothagudem">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport bhadradri-kothagudem, bike shifting bhadradri-kothagudem, two wheeler transport bhadradri-kothagudem, bike courier service bhadradri-kothagudem, bike relocation bhadradri-kothagudem, motorcycle transport bhadradri-kothagudem">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

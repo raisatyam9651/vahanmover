@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Ghazipur. Safe, insured door-to-door bike shifting to and from Ghazipur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport ghazipur, bike shifting ghazipur, two wheeler transport ghazipur, bike courier service ghazipur, bike relocation ghazipur, motorcycle transport ghazipur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport ghazipur, bike shifting ghazipur, two wheeler transport ghazipur, bike courier service ghazipur, bike relocation ghazipur, motorcycle transport ghazipur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

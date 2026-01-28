@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Jamtara. Safe, insured door-to-door bike shifting to and from Jamtara to anywhere in India.">
     <meta name="keywords"
-        content="bike transport jamtara, bike shifting jamtara, two wheeler transport jamtara, bike courier service jamtara, bike relocation jamtara, motorcycle transport jamtara">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport jamtara, bike shifting jamtara, two wheeler transport jamtara, bike courier service jamtara, bike relocation jamtara, motorcycle transport jamtara">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

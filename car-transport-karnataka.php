@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional car transport service in Karnataka covering Bengaluru, Mysuru, Mangaluru, Hubli, Belagavi, and all districts. Safe, insured door-to-door car shifting.">
     <meta name="keywords"
-        content="car transport karnataka, car shifting bengaluru, vehicle transport mysuru, car carrier mangaluru, car relocation hubli, auto transport karnataka">    <?php include 'includes/header-link.php'; ?>
+        content="car transport karnataka, car shifting bengaluru, vehicle transport mysuru, car carrier mangaluru, car relocation hubli, auto transport karnataka">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

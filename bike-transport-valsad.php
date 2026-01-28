@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Valsad. Safe, insured door-to-door bike shifting to and from Valsad to anywhere in India.">
     <meta name="keywords"
-        content="bike transport valsad, bike shifting valsad, two wheeler transport valsad, bike courier service valsad, bike relocation valsad, motorcycle transport valsad">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport valsad, bike shifting valsad, two wheeler transport valsad, bike courier service valsad, bike relocation valsad, motorcycle transport valsad">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

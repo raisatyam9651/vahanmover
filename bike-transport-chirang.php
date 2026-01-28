@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Chirang. Safe, insured door-to-door bike shifting to and from Chirang to anywhere in India.">
     <meta name="keywords"
-        content="bike transport chirang, bike shifting chirang, two wheeler transport chirang, bike courier service chirang, bike relocation chirang, motorcycle transport chirang">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport chirang, bike shifting chirang, two wheeler transport chirang, bike courier service chirang, bike relocation chirang, motorcycle transport chirang">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

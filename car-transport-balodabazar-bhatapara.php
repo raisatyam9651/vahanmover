@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Balodabazar-Bhatapara | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Balodabazar-Bhatapara. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport balodabazar-bhatapara, car shifting balodabazar-bhatapara, vehicle transport balodabazar-bhatapara, car carrier balodabazar-bhatapara, car relocation balodabazar-bhatapara">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport balodabazar-bhatapara, car shifting balodabazar-bhatapara, vehicle transport balodabazar-bhatapara, car carrier balodabazar-bhatapara, car relocation balodabazar-bhatapara">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

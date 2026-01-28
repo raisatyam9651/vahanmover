@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Hamirpur. Safe, insured door-to-door bike shifting to and from Hamirpur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport hamirpur, bike shifting hamirpur, two wheeler transport hamirpur, bike courier service hamirpur, bike relocation hamirpur, motorcycle transport hamirpur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport hamirpur, bike shifting hamirpur, two wheeler transport hamirpur, bike courier service hamirpur, bike relocation hamirpur, motorcycle transport hamirpur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

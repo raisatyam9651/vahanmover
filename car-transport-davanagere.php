@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Davanagere | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Davanagere. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport davanagere, car shifting davanagere, vehicle transport davanagere, car carrier davanagere, car relocation davanagere">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport davanagere, car shifting davanagere, vehicle transport davanagere, car carrier davanagere, car relocation davanagere">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

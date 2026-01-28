@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Mau | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Mau. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport mau, car shifting mau, vehicle transport mau, car carrier mau, car relocation mau">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport mau, car shifting mau, vehicle transport mau, car carrier mau, car relocation mau">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

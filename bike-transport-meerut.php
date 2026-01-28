@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Meerut. Safe, insured door-to-door bike shifting to and from Meerut to anywhere in India.">
     <meta name="keywords"
-        content="bike transport meerut, bike shifting meerut, two wheeler transport meerut, bike courier service meerut, bike relocation meerut, motorcycle transport meerut">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport meerut, bike shifting meerut, two wheeler transport meerut, bike courier service meerut, bike relocation meerut, motorcycle transport meerut">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Viluppuram. Safe, insured door-to-door bike shifting to and from Viluppuram to anywhere in India.">
     <meta name="keywords"
-        content="bike transport viluppuram, bike shifting viluppuram, two wheeler transport viluppuram, bike courier service viluppuram, bike relocation viluppuram, motorcycle transport viluppuram">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport viluppuram, bike shifting viluppuram, two wheeler transport viluppuram, bike courier service viluppuram, bike relocation viluppuram, motorcycle transport viluppuram">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

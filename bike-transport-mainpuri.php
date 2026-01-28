@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Mainpuri. Safe, insured door-to-door bike shifting to and from Mainpuri to anywhere in India.">
     <meta name="keywords"
-        content="bike transport mainpuri, bike shifting mainpuri, two wheeler transport mainpuri, bike courier service mainpuri, bike relocation mainpuri, motorcycle transport mainpuri">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport mainpuri, bike shifting mainpuri, two wheeler transport mainpuri, bike courier service mainpuri, bike relocation mainpuri, motorcycle transport mainpuri">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

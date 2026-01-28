@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kanker. Safe, insured door-to-door bike shifting to and from Kanker to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kanker, bike shifting kanker, two wheeler transport kanker, bike courier service kanker, bike relocation kanker, motorcycle transport kanker">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kanker, bike shifting kanker, two wheeler transport kanker, bike courier service kanker, bike relocation kanker, motorcycle transport kanker">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

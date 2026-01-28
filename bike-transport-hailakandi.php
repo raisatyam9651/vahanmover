@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Hailakandi. Safe, insured door-to-door bike shifting to and from Hailakandi to anywhere in India.">
     <meta name="keywords"
-        content="bike transport hailakandi, bike shifting hailakandi, two wheeler transport hailakandi, bike courier service hailakandi, bike relocation hailakandi, motorcycle transport hailakandi">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport hailakandi, bike shifting hailakandi, two wheeler transport hailakandi, bike courier service hailakandi, bike relocation hailakandi, motorcycle transport hailakandi">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

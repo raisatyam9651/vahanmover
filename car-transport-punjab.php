@@ -8,7 +8,9 @@
     <title>Car Transport in Punjab | Safe Vehicle Shifting Services</title>
     <meta name="description"
         content="Professional car transport service in Punjab covering Ludhiana, Amritsar, Jalandhar, Patiala, Bathinda, and all districts. Safe, insured door-to-door car shifting.">
-    <meta name="keywords" content="car transport punjab, car transport amritsar, car transport barnala, car transport bathinda, car transport faridkot, car transport fatehgarh sahib, car transport fazilka, car transport ferozepur, car transport gurdaspur, car transport hoshiarpur, car transport jalandhar, car transport kapurthala, car transport ludhiana, car transport malerkotla, car transport mansa, car transport moga, car transport mohali, car transport muktsar, car transport nawanshahr, car transport pathankot, car transport patiala, car transport rupnagar, car transport sangrur, car transport tarn taran, car shifting punjab, vehicle transport punjab, car carrier ludhiana, car relocation amritsar">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport punjab, car transport amritsar, car transport barnala, car transport bathinda, car transport faridkot, car transport fatehgarh sahib, car transport fazilka, car transport ferozepur, car transport gurdaspur, car transport hoshiarpur, car transport jalandhar, car transport kapurthala, car transport ludhiana, car transport malerkotla, car transport mansa, car transport moga, car transport mohali, car transport muktsar, car transport nawanshahr, car transport pathankot, car transport patiala, car transport rupnagar, car transport sangrur, car transport tarn taran, car shifting punjab, vehicle transport punjab, car carrier ludhiana, car relocation amritsar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

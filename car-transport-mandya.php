@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Mandya | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Mandya. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport mandya, car shifting mandya, vehicle transport mandya, car carrier mandya, car relocation mandya">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport mandya, car shifting mandya, vehicle transport mandya, car carrier mandya, car relocation mandya">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

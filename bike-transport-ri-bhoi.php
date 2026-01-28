@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Ri Bhoi. Safe, insured door-to-door bike shifting to and from Ri Bhoi to anywhere in India.">
     <meta name="keywords"
-        content="bike transport ri-bhoi, bike shifting ri-bhoi, two wheeler transport ri-bhoi, bike courier service ri-bhoi, bike relocation ri-bhoi, motorcycle transport ri-bhoi">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport ri-bhoi, bike shifting ri-bhoi, two wheeler transport ri-bhoi, bike courier service ri-bhoi, bike relocation ri-bhoi, motorcycle transport ri-bhoi">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Washim. Safe, insured door-to-door bike shifting to and from Washim to anywhere in India.">
     <meta name="keywords"
-        content="bike transport washim, bike shifting washim, two wheeler transport washim, bike courier service washim, bike relocation washim, motorcycle transport washim">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport washim, bike shifting washim, two wheeler transport washim, bike courier service washim, bike relocation washim, motorcycle transport washim">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

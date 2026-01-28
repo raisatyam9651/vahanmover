@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Jabalpur. Safe, insured door-to-door bike shifting to and from Jabalpur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport jabalpur, bike shifting jabalpur, two wheeler transport jabalpur, bike courier service jabalpur, bike relocation jabalpur, motorcycle transport jabalpur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport jabalpur, bike shifting jabalpur, two wheeler transport jabalpur, bike courier service jabalpur, bike relocation jabalpur, motorcycle transport jabalpur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional car transport service in Andhra Pradesh covering Visakhapatnam, Vijayawada, Tirupati, Guntur, and all districts. Safe, insured door-to-door car shifting.">
     <meta name="keywords"
-        content="car transport andhra pradesh, car shifting visakhapatnam, vehicle transport vijayawada, car carrier tirupati, car relocation guntur, auto transport andhra pradesh">    <?php include 'includes/header-link.php'; ?>
+        content="car transport andhra pradesh, car shifting visakhapatnam, vehicle transport vijayawada, car carrier tirupati, car relocation guntur, auto transport andhra pradesh">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

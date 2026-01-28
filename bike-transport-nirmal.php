@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Nirmal. Safe, insured door-to-door bike shifting to and from Nirmal to anywhere in India.">
     <meta name="keywords"
-        content="bike transport nirmal, bike shifting nirmal, two wheeler transport nirmal, bike courier service nirmal, bike relocation nirmal, motorcycle transport nirmal">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport nirmal, bike shifting nirmal, two wheeler transport nirmal, bike courier service nirmal, bike relocation nirmal, motorcycle transport nirmal">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

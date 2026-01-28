@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Vellore. Safe, insured door-to-door bike shifting to and from Vellore to anywhere in India.">
     <meta name="keywords"
-        content="bike transport vellore, bike shifting vellore, two wheeler transport vellore, bike courier service vellore, bike relocation vellore, motorcycle transport vellore">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport vellore, bike shifting vellore, two wheeler transport vellore, bike courier service vellore, bike relocation vellore, motorcycle transport vellore">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

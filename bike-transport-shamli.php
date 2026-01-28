@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Shamli. Safe, insured door-to-door bike shifting to and from Shamli to anywhere in India.">
     <meta name="keywords"
-        content="bike transport shamli, bike shifting shamli, two wheeler transport shamli, bike courier service shamli, bike relocation shamli, motorcycle transport shamli">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport shamli, bike shifting shamli, two wheeler transport shamli, bike courier service shamli, bike relocation shamli, motorcycle transport shamli">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

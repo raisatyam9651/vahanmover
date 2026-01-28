@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Nayagarh. Safe, insured door-to-door bike shifting to and from Nayagarh to anywhere in India.">
     <meta name="keywords"
-        content="bike transport nayagarh, bike shifting nayagarh, two wheeler transport nayagarh, bike courier service nayagarh, bike relocation nayagarh, motorcycle transport nayagarh">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport nayagarh, bike shifting nayagarh, two wheeler transport nayagarh, bike courier service nayagarh, bike relocation nayagarh, motorcycle transport nayagarh">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

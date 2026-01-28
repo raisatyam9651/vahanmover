@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Jorhat. Safe, insured door-to-door bike shifting to and from Jorhat to anywhere in India.">
     <meta name="keywords"
-        content="bike transport jorhat, bike shifting jorhat, two wheeler transport jorhat, bike courier service jorhat, bike relocation jorhat, motorcycle transport jorhat">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport jorhat, bike shifting jorhat, two wheeler transport jorhat, bike courier service jorhat, bike relocation jorhat, motorcycle transport jorhat">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

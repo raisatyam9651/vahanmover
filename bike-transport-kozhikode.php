@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kozhikode. Safe, insured door-to-door bike shifting to and from Kozhikode to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kozhikode, bike shifting kozhikode, two wheeler transport kozhikode, bike courier service kozhikode, bike relocation kozhikode, motorcycle transport kozhikode">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kozhikode, bike shifting kozhikode, two wheeler transport kozhikode, bike courier service kozhikode, bike relocation kozhikode, motorcycle transport kozhikode">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

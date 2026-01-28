@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Shamator. Safe, insured door-to-door bike shifting to and from Shamator to anywhere in India.">
     <meta name="keywords"
-        content="bike transport shamator, bike shifting shamator, two wheeler transport shamator, bike courier service shamator, bike relocation shamator, motorcycle transport shamator">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport shamator, bike shifting shamator, two wheeler transport shamator, bike courier service shamator, bike relocation shamator, motorcycle transport shamator">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Barabanki. Safe, insured door-to-door bike shifting to and from Barabanki to anywhere in India.">
     <meta name="keywords"
-        content="bike transport barabanki, bike shifting barabanki, two wheeler transport barabanki, bike courier service barabanki, bike relocation barabanki, motorcycle transport barabanki">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport barabanki, bike shifting barabanki, two wheeler transport barabanki, bike courier service barabanki, bike relocation barabanki, motorcycle transport barabanki">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

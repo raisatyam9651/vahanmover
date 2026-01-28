@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Nuh. Safe, insured door-to-door bike shifting to and from Nuh to anywhere in India.">
     <meta name="keywords"
-        content="bike transport nuh, bike shifting nuh, two wheeler transport nuh, bike courier service nuh, bike relocation nuh, motorcycle transport nuh">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport nuh, bike shifting nuh, two wheeler transport nuh, bike courier service nuh, bike relocation nuh, motorcycle transport nuh">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

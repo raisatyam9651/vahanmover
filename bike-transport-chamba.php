@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Chamba. Safe, insured door-to-door bike shifting to and from Chamba to anywhere in India.">
     <meta name="keywords"
-        content="bike transport chamba, bike shifting chamba, two wheeler transport chamba, bike courier service chamba, bike relocation chamba, motorcycle transport chamba">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport chamba, bike shifting chamba, two wheeler transport chamba, bike courier service chamba, bike relocation chamba, motorcycle transport chamba">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

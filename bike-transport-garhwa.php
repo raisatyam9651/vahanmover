@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Garhwa. Safe, insured door-to-door bike shifting to and from Garhwa to anywhere in India.">
     <meta name="keywords"
-        content="bike transport garhwa, bike shifting garhwa, two wheeler transport garhwa, bike courier service garhwa, bike relocation garhwa, motorcycle transport garhwa">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport garhwa, bike shifting garhwa, two wheeler transport garhwa, bike courier service garhwa, bike relocation garhwa, motorcycle transport garhwa">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

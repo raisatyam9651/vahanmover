@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Mandsaur. Safe, insured door-to-door bike shifting to and from Mandsaur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport mandsaur, bike shifting mandsaur, two wheeler transport mandsaur, bike courier service mandsaur, bike relocation mandsaur, motorcycle transport mandsaur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport mandsaur, bike shifting mandsaur, two wheeler transport mandsaur, bike courier service mandsaur, bike relocation mandsaur, motorcycle transport mandsaur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

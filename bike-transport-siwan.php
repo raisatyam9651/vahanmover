@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Siwan. Safe, insured door-to-door bike shifting to and from Siwan to anywhere in India.">
     <meta name="keywords"
-        content="bike transport siwan, bike shifting siwan, two wheeler transport siwan, bike courier service siwan, bike relocation siwan, motorcycle transport siwan">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport siwan, bike shifting siwan, two wheeler transport siwan, bike courier service siwan, bike relocation siwan, motorcycle transport siwan">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

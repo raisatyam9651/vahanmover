@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Sambhal | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Sambhal. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport sambhal, car shifting sambhal, vehicle transport sambhal, car carrier sambhal, car relocation sambhal">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport sambhal, car shifting sambhal, vehicle transport sambhal, car carrier sambhal, car relocation sambhal">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

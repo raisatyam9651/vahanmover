@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Jalna. Safe, insured door-to-door bike shifting to and from Jalna to anywhere in India.">
     <meta name="keywords"
-        content="bike transport jalna, bike shifting jalna, two wheeler transport jalna, bike courier service jalna, bike relocation jalna, motorcycle transport jalna">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport jalna, bike shifting jalna, two wheeler transport jalna, bike courier service jalna, bike relocation jalna, motorcycle transport jalna">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

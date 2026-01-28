@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Bidar. Safe, insured door-to-door bike shifting to and from Bidar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport bidar, bike shifting bidar, two wheeler transport bidar, bike courier service bidar, bike relocation bidar, motorcycle transport bidar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport bidar, bike shifting bidar, two wheeler transport bidar, bike courier service bidar, bike relocation bidar, motorcycle transport bidar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

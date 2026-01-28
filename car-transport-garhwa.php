@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Garhwa | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Garhwa. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport garhwa, car shifting garhwa, vehicle transport garhwa, car carrier garhwa, car relocation garhwa">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport garhwa, car shifting garhwa, vehicle transport garhwa, car carrier garhwa, car relocation garhwa">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

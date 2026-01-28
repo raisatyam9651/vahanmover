@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Lawngtlai. Safe, insured door-to-door bike shifting to and from Lawngtlai to anywhere in India.">
     <meta name="keywords"
-        content="bike transport lawngtlai, bike shifting lawngtlai, two wheeler transport lawngtlai, bike courier service lawngtlai, bike relocation lawngtlai, motorcycle transport lawngtlai">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport lawngtlai, bike shifting lawngtlai, two wheeler transport lawngtlai, bike courier service lawngtlai, bike relocation lawngtlai, motorcycle transport lawngtlai">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

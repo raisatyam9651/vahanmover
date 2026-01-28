@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Udham Singh Nagar. Safe, insured door-to-door bike shifting to and from Udham Singh Nagar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport udham-singh-nagar, bike shifting udham-singh-nagar, two wheeler transport udham-singh-nagar, bike courier service udham-singh-nagar, bike relocation udham-singh-nagar, motorcycle transport udham-singh-nagar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport udham-singh-nagar, bike shifting udham-singh-nagar, two wheeler transport udham-singh-nagar, bike courier service udham-singh-nagar, bike relocation udham-singh-nagar, motorcycle transport udham-singh-nagar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

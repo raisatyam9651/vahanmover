@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Karnal. Safe, insured door-to-door bike shifting to and from Karnal to anywhere in India.">
     <meta name="keywords"
-        content="bike transport karnal, bike shifting karnal, two wheeler transport karnal, bike courier service karnal, bike relocation karnal, motorcycle transport karnal">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport karnal, bike shifting karnal, two wheeler transport karnal, bike courier service karnal, bike relocation karnal, motorcycle transport karnal">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

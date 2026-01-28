@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Sitapur. Safe, insured door-to-door bike shifting to and from Sitapur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport sitapur, bike shifting sitapur, two wheeler transport sitapur, bike courier service sitapur, bike relocation sitapur, motorcycle transport sitapur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport sitapur, bike shifting sitapur, two wheeler transport sitapur, bike courier service sitapur, bike relocation sitapur, motorcycle transport sitapur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

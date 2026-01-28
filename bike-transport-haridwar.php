@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Haridwar. Safe, insured door-to-door bike shifting to and from Haridwar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport haridwar, bike shifting haridwar, two wheeler transport haridwar, bike courier service haridwar, bike relocation haridwar, motorcycle transport haridwar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport haridwar, bike shifting haridwar, two wheeler transport haridwar, bike courier service haridwar, bike relocation haridwar, motorcycle transport haridwar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

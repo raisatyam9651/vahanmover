@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Belagavi. Safe, insured door-to-door bike shifting to and from Belagavi to anywhere in India.">
     <meta name="keywords"
-        content="bike transport belagavi, bike shifting belagavi, two wheeler transport belagavi, bike courier service belagavi, bike relocation belagavi, motorcycle transport belagavi">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport belagavi, bike shifting belagavi, two wheeler transport belagavi, bike courier service belagavi, bike relocation belagavi, motorcycle transport belagavi">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Annamayya. Safe, insured door-to-door bike shifting to and from Annamayya to anywhere in India.">
     <meta name="keywords"
-        content="bike transport annamayya, bike shifting annamayya, two wheeler transport annamayya, bike courier service annamayya, bike relocation annamayya, motorcycle transport annamayya">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport annamayya, bike shifting annamayya, two wheeler transport annamayya, bike courier service annamayya, bike relocation annamayya, motorcycle transport annamayya">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

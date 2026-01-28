@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Sitamarhi. Safe, insured door-to-door bike shifting to and from Sitamarhi to anywhere in India.">
     <meta name="keywords"
-        content="bike transport sitamarhi, bike shifting sitamarhi, two wheeler transport sitamarhi, bike courier service sitamarhi, bike relocation sitamarhi, motorcycle transport sitamarhi">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport sitamarhi, bike shifting sitamarhi, two wheeler transport sitamarhi, bike courier service sitamarhi, bike relocation sitamarhi, motorcycle transport sitamarhi">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Simdega. Safe, insured door-to-door bike shifting to and from Simdega to anywhere in India.">
     <meta name="keywords"
-        content="bike transport simdega, bike shifting simdega, two wheeler transport simdega, bike courier service simdega, bike relocation simdega, motorcycle transport simdega">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport simdega, bike shifting simdega, two wheeler transport simdega, bike courier service simdega, bike relocation simdega, motorcycle transport simdega">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

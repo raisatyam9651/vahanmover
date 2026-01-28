@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Patiala. Safe, insured door-to-door bike shifting to and from Patiala to anywhere in India.">
     <meta name="keywords"
-        content="bike transport patiala, bike shifting patiala, two wheeler transport patiala, bike courier service patiala, bike relocation patiala, motorcycle transport patiala">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport patiala, bike shifting patiala, two wheeler transport patiala, bike courier service patiala, bike relocation patiala, motorcycle transport patiala">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

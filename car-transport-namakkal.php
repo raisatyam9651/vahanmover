@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Namakkal | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Namakkal. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport namakkal, car shifting namakkal, vehicle transport namakkal, car carrier namakkal, car relocation namakkal">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport namakkal, car shifting namakkal, vehicle transport namakkal, car carrier namakkal, car relocation namakkal">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

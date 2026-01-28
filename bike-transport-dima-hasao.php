@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Dima Hasao. Safe, insured door-to-door bike shifting to and from Dima Hasao to anywhere in India.">
     <meta name="keywords"
-        content="bike transport dima-hasao, bike shifting dima-hasao, two wheeler transport dima-hasao, bike courier service dima-hasao, bike relocation dima-hasao, motorcycle transport dima-hasao">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport dima-hasao, bike shifting dima-hasao, two wheeler transport dima-hasao, bike courier service dima-hasao, bike relocation dima-hasao, motorcycle transport dima-hasao">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

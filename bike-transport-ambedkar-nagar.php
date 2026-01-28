@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Ambedkar Nagar. Safe, insured door-to-door bike shifting to and from Ambedkar Nagar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport ambedkar-nagar, bike shifting ambedkar-nagar, two wheeler transport ambedkar-nagar, bike courier service ambedkar-nagar, bike relocation ambedkar-nagar, motorcycle transport ambedkar-nagar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport ambedkar-nagar, bike shifting ambedkar-nagar, two wheeler transport ambedkar-nagar, bike courier service ambedkar-nagar, bike relocation ambedkar-nagar, motorcycle transport ambedkar-nagar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

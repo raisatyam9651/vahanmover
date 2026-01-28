@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Khairthal-Tijara. Safe, insured door-to-door bike shifting to and from Khairthal-Tijara to anywhere in India.">
     <meta name="keywords"
-        content="bike transport khairthal-tijara, bike shifting khairthal-tijara, two wheeler transport khairthal-tijara, bike courier service khairthal-tijara, bike relocation khairthal-tijara, motorcycle transport khairthal-tijara">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport khairthal-tijara, bike shifting khairthal-tijara, two wheeler transport khairthal-tijara, bike courier service khairthal-tijara, bike relocation khairthal-tijara, motorcycle transport khairthal-tijara">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

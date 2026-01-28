@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Burhanpur. Safe, insured door-to-door bike shifting to and from Burhanpur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport burhanpur, bike shifting burhanpur, two wheeler transport burhanpur, bike courier service burhanpur, bike relocation burhanpur, motorcycle transport burhanpur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport burhanpur, bike shifting burhanpur, two wheeler transport burhanpur, bike courier service burhanpur, bike relocation burhanpur, motorcycle transport burhanpur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

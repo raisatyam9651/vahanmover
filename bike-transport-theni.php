@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Theni. Safe, insured door-to-door bike shifting to and from Theni to anywhere in India.">
     <meta name="keywords"
-        content="bike transport theni, bike shifting theni, two wheeler transport theni, bike courier service theni, bike relocation theni, motorcycle transport theni">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport theni, bike shifting theni, two wheeler transport theni, bike courier service theni, bike relocation theni, motorcycle transport theni">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kekri. Safe, insured door-to-door bike shifting to and from Kekri to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kekri, bike shifting kekri, two wheeler transport kekri, bike courier service kekri, bike relocation kekri, motorcycle transport kekri">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kekri, bike shifting kekri, two wheeler transport kekri, bike courier service kekri, bike relocation kekri, motorcycle transport kekri">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

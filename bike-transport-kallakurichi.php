@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kallakurichi. Safe, insured door-to-door bike shifting to and from Kallakurichi to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kallakurichi, bike shifting kallakurichi, two wheeler transport kallakurichi, bike courier service kallakurichi, bike relocation kallakurichi, motorcycle transport kallakurichi">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kallakurichi, bike shifting kallakurichi, two wheeler transport kallakurichi, bike courier service kallakurichi, bike relocation kallakurichi, motorcycle transport kallakurichi">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

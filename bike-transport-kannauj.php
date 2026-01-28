@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kannauj. Safe, insured door-to-door bike shifting to and from Kannauj to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kannauj, bike shifting kannauj, two wheeler transport kannauj, bike courier service kannauj, bike relocation kannauj, motorcycle transport kannauj">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kannauj, bike shifting kannauj, two wheeler transport kannauj, bike courier service kannauj, bike relocation kannauj, motorcycle transport kannauj">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

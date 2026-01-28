@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Yadgir. Safe, insured door-to-door bike shifting to and from Yadgir to anywhere in India.">
     <meta name="keywords"
-        content="bike transport yadgir, bike shifting yadgir, two wheeler transport yadgir, bike courier service yadgir, bike relocation yadgir, motorcycle transport yadgir">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport yadgir, bike shifting yadgir, two wheeler transport yadgir, bike courier service yadgir, bike relocation yadgir, motorcycle transport yadgir">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

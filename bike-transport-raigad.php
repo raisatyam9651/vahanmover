@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Raigad. Safe, insured door-to-door bike shifting to and from Raigad to anywhere in India.">
     <meta name="keywords"
-        content="bike transport raigad, bike shifting raigad, two wheeler transport raigad, bike courier service raigad, bike relocation raigad, motorcycle transport raigad">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport raigad, bike shifting raigad, two wheeler transport raigad, bike courier service raigad, bike relocation raigad, motorcycle transport raigad">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

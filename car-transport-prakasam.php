@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Prakasam | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Prakasam. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport prakasam, car shifting prakasam, vehicle transport prakasam, car carrier prakasam, car relocation prakasam">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport prakasam, car shifting prakasam, vehicle transport prakasam, car carrier prakasam, car relocation prakasam">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

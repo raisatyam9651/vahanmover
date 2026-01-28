@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Gajapati. Safe, insured door-to-door bike shifting to and from Gajapati to anywhere in India.">
     <meta name="keywords"
-        content="bike transport gajapati, bike shifting gajapati, two wheeler transport gajapati, bike courier service gajapati, bike relocation gajapati, motorcycle transport gajapati">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport gajapati, bike shifting gajapati, two wheeler transport gajapati, bike courier service gajapati, bike relocation gajapati, motorcycle transport gajapati">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

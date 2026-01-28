@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Tengnoupal. Safe, insured door-to-door bike shifting to and from Tengnoupal to anywhere in India.">
     <meta name="keywords"
-        content="bike transport tengnoupal, bike shifting tengnoupal, two wheeler transport tengnoupal, bike courier service tengnoupal, bike relocation tengnoupal, motorcycle transport tengnoupal">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport tengnoupal, bike shifting tengnoupal, two wheeler transport tengnoupal, bike courier service tengnoupal, bike relocation tengnoupal, motorcycle transport tengnoupal">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

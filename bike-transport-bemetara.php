@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Bemetara. Safe, insured door-to-door bike shifting to and from Bemetara to anywhere in India.">
     <meta name="keywords"
-        content="bike transport bemetara, bike shifting bemetara, two wheeler transport bemetara, bike courier service bemetara, bike relocation bemetara, motorcycle transport bemetara">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport bemetara, bike shifting bemetara, two wheeler transport bemetara, bike courier service bemetara, bike relocation bemetara, motorcycle transport bemetara">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

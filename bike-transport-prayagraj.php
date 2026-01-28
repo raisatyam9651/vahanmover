@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Prayagraj. Safe, insured door-to-door bike shifting to and from Prayagraj to anywhere in India.">
     <meta name="keywords"
-        content="bike transport prayagraj, bike shifting prayagraj, two wheeler transport prayagraj, bike courier service prayagraj, bike relocation prayagraj, motorcycle transport prayagraj">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport prayagraj, bike shifting prayagraj, two wheeler transport prayagraj, bike courier service prayagraj, bike relocation prayagraj, motorcycle transport prayagraj">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

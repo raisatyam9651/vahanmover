@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in South Goa. Safe, insured door-to-door bike shifting to and from South Goa to anywhere in India.">
     <meta name="keywords"
-        content="bike transport south-goa, bike shifting south-goa, two wheeler transport south-goa, bike courier service south-goa, bike relocation south-goa, motorcycle transport south-goa">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport south-goa, bike shifting south-goa, two wheeler transport south-goa, bike courier service south-goa, bike relocation south-goa, motorcycle transport south-goa">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

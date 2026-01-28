@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kangpokpi. Safe, insured door-to-door bike shifting to and from Kangpokpi to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kangpokpi, bike shifting kangpokpi, two wheeler transport kangpokpi, bike courier service kangpokpi, bike relocation kangpokpi, motorcycle transport kangpokpi">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kangpokpi, bike shifting kangpokpi, two wheeler transport kangpokpi, bike courier service kangpokpi, bike relocation kangpokpi, motorcycle transport kangpokpi">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

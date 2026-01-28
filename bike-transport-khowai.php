@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Khowai. Safe, insured door-to-door bike shifting to and from Khowai to anywhere in India.">
     <meta name="keywords"
-        content="bike transport khowai, bike shifting khowai, two wheeler transport khowai, bike courier service khowai, bike relocation khowai, motorcycle transport khowai">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport khowai, bike shifting khowai, two wheeler transport khowai, bike courier service khowai, bike relocation khowai, motorcycle transport khowai">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

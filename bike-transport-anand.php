@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Anand. Safe, insured door-to-door bike shifting to and from Anand to anywhere in India.">
     <meta name="keywords"
-        content="bike transport anand, bike shifting anand, two wheeler transport anand, bike courier service anand, bike relocation anand, motorcycle transport anand">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport anand, bike shifting anand, two wheeler transport anand, bike courier service anand, bike relocation anand, motorcycle transport anand">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

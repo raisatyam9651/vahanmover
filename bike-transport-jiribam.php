@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Jiribam. Safe, insured door-to-door bike shifting to and from Jiribam to anywhere in India.">
     <meta name="keywords"
-        content="bike transport jiribam, bike shifting jiribam, two wheeler transport jiribam, bike courier service jiribam, bike relocation jiribam, motorcycle transport jiribam">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport jiribam, bike shifting jiribam, two wheeler transport jiribam, bike courier service jiribam, bike relocation jiribam, motorcycle transport jiribam">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

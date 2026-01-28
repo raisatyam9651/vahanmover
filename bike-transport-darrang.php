@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Darrang. Safe, insured door-to-door bike shifting to and from Darrang to anywhere in India.">
     <meta name="keywords"
-        content="bike transport darrang, bike shifting darrang, two wheeler transport darrang, bike courier service darrang, bike relocation darrang, motorcycle transport darrang">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport darrang, bike shifting darrang, two wheeler transport darrang, bike courier service darrang, bike relocation darrang, motorcycle transport darrang">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

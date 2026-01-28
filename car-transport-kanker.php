@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Kanker | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Kanker. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport kanker, car shifting kanker, vehicle transport kanker, car carrier kanker, car relocation kanker">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport kanker, car shifting kanker, vehicle transport kanker, car carrier kanker, car relocation kanker">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

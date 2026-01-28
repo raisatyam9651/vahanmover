@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Virudhunagar. Safe, insured door-to-door bike shifting to and from Virudhunagar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport virudhunagar, bike shifting virudhunagar, two wheeler transport virudhunagar, bike courier service virudhunagar, bike relocation virudhunagar, motorcycle transport virudhunagar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport virudhunagar, bike shifting virudhunagar, two wheeler transport virudhunagar, bike courier service virudhunagar, bike relocation virudhunagar, motorcycle transport virudhunagar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

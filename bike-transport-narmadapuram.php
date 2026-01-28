@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Narmadapuram. Safe, insured door-to-door bike shifting to and from Narmadapuram to anywhere in India.">
     <meta name="keywords"
-        content="bike transport narmadapuram, bike shifting narmadapuram, two wheeler transport narmadapuram, bike courier service narmadapuram, bike relocation narmadapuram, motorcycle transport narmadapuram">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport narmadapuram, bike shifting narmadapuram, two wheeler transport narmadapuram, bike courier service narmadapuram, bike relocation narmadapuram, motorcycle transport narmadapuram">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

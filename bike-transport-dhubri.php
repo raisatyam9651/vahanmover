@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Dhubri. Safe, insured door-to-door bike shifting to and from Dhubri to anywhere in India.">
     <meta name="keywords"
-        content="bike transport dhubri, bike shifting dhubri, two wheeler transport dhubri, bike courier service dhubri, bike relocation dhubri, motorcycle transport dhubri">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport dhubri, bike shifting dhubri, two wheeler transport dhubri, bike courier service dhubri, bike relocation dhubri, motorcycle transport dhubri">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

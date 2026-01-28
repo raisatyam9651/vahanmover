@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kandhamal. Safe, insured door-to-door bike shifting to and from Kandhamal to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kandhamal, bike shifting kandhamal, two wheeler transport kandhamal, bike courier service kandhamal, bike relocation kandhamal, motorcycle transport kandhamal">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kandhamal, bike shifting kandhamal, two wheeler transport kandhamal, bike courier service kandhamal, bike relocation kandhamal, motorcycle transport kandhamal">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Panchkula. Safe, insured door-to-door bike shifting to and from Panchkula to anywhere in India.">
     <meta name="keywords"
-        content="bike transport panchkula, bike shifting panchkula, two wheeler transport panchkula, bike courier service panchkula, bike relocation panchkula, motorcycle transport panchkula">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport panchkula, bike shifting panchkula, two wheeler transport panchkula, bike courier service panchkula, bike relocation panchkula, motorcycle transport panchkula">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

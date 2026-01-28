@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kabirdham. Safe, insured door-to-door bike shifting to and from Kabirdham to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kabirdham, bike shifting kabirdham, two wheeler transport kabirdham, bike courier service kabirdham, bike relocation kabirdham, motorcycle transport kabirdham">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kabirdham, bike shifting kabirdham, two wheeler transport kabirdham, bike courier service kabirdham, bike relocation kabirdham, motorcycle transport kabirdham">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

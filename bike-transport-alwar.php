@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Alwar. Safe, insured door-to-door bike shifting to and from Alwar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport alwar, bike shifting alwar, two wheeler transport alwar, bike courier service alwar, bike relocation alwar, motorcycle transport alwar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport alwar, bike shifting alwar, two wheeler transport alwar, bike courier service alwar, bike relocation alwar, motorcycle transport alwar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Bathinda. Safe, insured door-to-door bike shifting to and from Bathinda to anywhere in India.">
     <meta name="keywords"
-        content="bike transport bathinda, bike shifting bathinda, two wheeler transport bathinda, bike courier service bathinda, bike relocation bathinda, motorcycle transport bathinda">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport bathinda, bike shifting bathinda, two wheeler transport bathinda, bike courier service bathinda, bike relocation bathinda, motorcycle transport bathinda">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

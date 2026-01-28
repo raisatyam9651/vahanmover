@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Bhilwara. Safe, insured door-to-door bike shifting to and from Bhilwara to anywhere in India.">
     <meta name="keywords"
-        content="bike transport bhilwara, bike shifting bhilwara, two wheeler transport bhilwara, bike courier service bhilwara, bike relocation bhilwara, motorcycle transport bhilwara">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport bhilwara, bike shifting bhilwara, two wheeler transport bhilwara, bike courier service bhilwara, bike relocation bhilwara, motorcycle transport bhilwara">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

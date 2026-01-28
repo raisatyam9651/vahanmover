@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in West Tripura. Safe, insured door-to-door bike shifting to and from West Tripura to anywhere in India.">
     <meta name="keywords"
-        content="bike transport west-tripura, bike shifting west-tripura, two wheeler transport west-tripura, bike courier service west-tripura, bike relocation west-tripura, motorcycle transport west-tripura">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport west-tripura, bike shifting west-tripura, two wheeler transport west-tripura, bike courier service west-tripura, bike relocation west-tripura, motorcycle transport west-tripura">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

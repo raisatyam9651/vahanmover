@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in North Tripura | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in North Tripura. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport north tripura, car shifting north tripura, vehicle transport north tripura, car carrier north tripura, car relocation north tripura">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport north tripura, car shifting north tripura, vehicle transport north tripura, car carrier north tripura, car relocation north tripura">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

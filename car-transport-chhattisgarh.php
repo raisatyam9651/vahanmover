@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional car transport service in Chhattisgarh covering Raipur, Bilaspur, Durg, Bhilai, Korba, and all districts. Safe, insured door-to-door car shifting.">
     <meta name="keywords"
-        content="car transport chhattisgarh, car shifting raipur, vehicle transport bilaspur, car carrier durg, car relocation bhilai, auto transport chhattisgarh">    <?php include 'includes/header-link.php'; ?>
+        content="car transport chhattisgarh, car shifting raipur, vehicle transport bilaspur, car carrier durg, car relocation bhilai, auto transport chhattisgarh">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

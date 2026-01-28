@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Fatehpur | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Fatehpur. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport fatehpur, car shifting fatehpur, vehicle transport fatehpur, car carrier fatehpur, car relocation fatehpur">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport fatehpur, car shifting fatehpur, vehicle transport fatehpur, car carrier fatehpur, car relocation fatehpur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Coimbatore. Safe, insured door-to-door bike shifting to and from Coimbatore to anywhere in India.">
     <meta name="keywords"
-        content="bike transport coimbatore, bike shifting coimbatore, two wheeler transport coimbatore, bike courier service coimbatore, bike relocation coimbatore, motorcycle transport coimbatore">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport coimbatore, bike shifting coimbatore, two wheeler transport coimbatore, bike courier service coimbatore, bike relocation coimbatore, motorcycle transport coimbatore">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

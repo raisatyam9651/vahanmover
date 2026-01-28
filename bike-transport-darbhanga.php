@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Darbhanga. Safe, insured door-to-door bike shifting to and from Darbhanga to anywhere in India.">
     <meta name="keywords"
-        content="bike transport darbhanga, bike shifting darbhanga, two wheeler transport darbhanga, bike courier service darbhanga, bike relocation darbhanga, motorcycle transport darbhanga">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport darbhanga, bike shifting darbhanga, two wheeler transport darbhanga, bike courier service darbhanga, bike relocation darbhanga, motorcycle transport darbhanga">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

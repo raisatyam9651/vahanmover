@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kasaragod. Safe, insured door-to-door bike shifting to and from Kasaragod to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kasaragod, bike shifting kasaragod, two wheeler transport kasaragod, bike courier service kasaragod, bike relocation kasaragod, motorcycle transport kasaragod">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kasaragod, bike shifting kasaragod, two wheeler transport kasaragod, bike courier service kasaragod, bike relocation kasaragod, motorcycle transport kasaragod">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Seoni. Safe, insured door-to-door bike shifting to and from Seoni to anywhere in India.">
     <meta name="keywords"
-        content="bike transport seoni, bike shifting seoni, two wheeler transport seoni, bike courier service seoni, bike relocation seoni, motorcycle transport seoni">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport seoni, bike shifting seoni, two wheeler transport seoni, bike courier service seoni, bike relocation seoni, motorcycle transport seoni">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

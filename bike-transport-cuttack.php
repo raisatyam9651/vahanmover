@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Cuttack. Safe, insured door-to-door bike shifting to and from Cuttack to anywhere in India.">
     <meta name="keywords"
-        content="bike transport cuttack, bike shifting cuttack, two wheeler transport cuttack, bike courier service cuttack, bike relocation cuttack, motorcycle transport cuttack">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport cuttack, bike shifting cuttack, two wheeler transport cuttack, bike courier service cuttack, bike relocation cuttack, motorcycle transport cuttack">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

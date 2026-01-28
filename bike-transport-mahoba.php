@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Mahoba. Safe, insured door-to-door bike shifting to and from Mahoba to anywhere in India.">
     <meta name="keywords"
-        content="bike transport mahoba, bike shifting mahoba, two wheeler transport mahoba, bike courier service mahoba, bike relocation mahoba, motorcycle transport mahoba">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport mahoba, bike shifting mahoba, two wheeler transport mahoba, bike courier service mahoba, bike relocation mahoba, motorcycle transport mahoba">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

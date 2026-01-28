@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Fazilka. Safe, insured door-to-door bike shifting to and from Fazilka to anywhere in India.">
     <meta name="keywords"
-        content="bike transport fazilka, bike shifting fazilka, two wheeler transport fazilka, bike courier service fazilka, bike relocation fazilka, motorcycle transport fazilka">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport fazilka, bike shifting fazilka, two wheeler transport fazilka, bike courier service fazilka, bike relocation fazilka, motorcycle transport fazilka">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

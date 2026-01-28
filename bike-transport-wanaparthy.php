@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Wanaparthy. Safe, insured door-to-door bike shifting to and from Wanaparthy to anywhere in India.">
     <meta name="keywords"
-        content="bike transport wanaparthy, bike shifting wanaparthy, two wheeler transport wanaparthy, bike courier service wanaparthy, bike relocation wanaparthy, motorcycle transport wanaparthy">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport wanaparthy, bike shifting wanaparthy, two wheeler transport wanaparthy, bike courier service wanaparthy, bike relocation wanaparthy, motorcycle transport wanaparthy">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Baghpat. Safe, insured door-to-door bike shifting to and from Baghpat to anywhere in India.">
     <meta name="keywords"
-        content="bike transport baghpat, bike shifting baghpat, two wheeler transport baghpat, bike courier service baghpat, bike relocation baghpat, motorcycle transport baghpat">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport baghpat, bike shifting baghpat, two wheeler transport baghpat, bike courier service baghpat, bike relocation baghpat, motorcycle transport baghpat">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

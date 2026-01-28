@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Baksa. Safe, insured door-to-door bike shifting to and from Baksa to anywhere in India.">
     <meta name="keywords"
-        content="bike transport baksa, bike shifting baksa, two wheeler transport baksa, bike courier service baksa, bike relocation baksa, motorcycle transport baksa">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport baksa, bike shifting baksa, two wheeler transport baksa, bike courier service baksa, bike relocation baksa, motorcycle transport baksa">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

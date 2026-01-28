@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Nagaland covering Kohima, Dimapur, Mokokchung, Tuensang, and all districts. Safe, insured door-to-door bike shifting.">
     <meta name="keywords"
-        content="bike transport nagaland, bike shifting kohima, two wheeler transport dimapur, bike courier mokokchung, bike relocation tuensang, motorcycle transport nagaland">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport nagaland, bike shifting kohima, two wheeler transport dimapur, bike courier mokokchung, bike relocation tuensang, motorcycle transport nagaland">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

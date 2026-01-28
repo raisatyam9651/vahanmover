@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional car transport service in Maharashtra covering Mumbai, Pune, Nagpur, Nashik, Thane, and all districts. Safe, insured door-to-door car shifting.">
     <meta name="keywords"
-        content="car transport maharashtra, car shifting mumbai, vehicle transport pune, car carrier nagpur, car relocation nashik, auto transport maharashtra">    <?php include 'includes/header-link.php'; ?>
+        content="car transport maharashtra, car shifting mumbai, vehicle transport pune, car carrier nagpur, car relocation nashik, auto transport maharashtra">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

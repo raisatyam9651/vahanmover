@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Suryapet | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Suryapet. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport suryapet, car shifting suryapet, vehicle transport suryapet, car carrier suryapet, car relocation suryapet">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport suryapet, car shifting suryapet, vehicle transport suryapet, car carrier suryapet, car relocation suryapet">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

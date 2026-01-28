@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kannur. Safe, insured door-to-door bike shifting to and from Kannur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kannur, bike shifting kannur, two wheeler transport kannur, bike courier service kannur, bike relocation kannur, motorcycle transport kannur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kannur, bike shifting kannur, two wheeler transport kannur, bike courier service kannur, bike relocation kannur, motorcycle transport kannur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Kapurthala | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Kapurthala. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport kapurthala, car shifting kapurthala, vehicle transport kapurthala, car carrier kapurthala, car relocation kapurthala">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport kapurthala, car shifting kapurthala, vehicle transport kapurthala, car carrier kapurthala, car relocation kapurthala">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

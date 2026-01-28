@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kanpur Dehat. Safe, insured door-to-door bike shifting to and from Kanpur Dehat to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kanpur-dehat, bike shifting kanpur-dehat, two wheeler transport kanpur-dehat, bike courier service kanpur-dehat, bike relocation kanpur-dehat, motorcycle transport kanpur-dehat">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kanpur-dehat, bike shifting kanpur-dehat, two wheeler transport kanpur-dehat, bike courier service kanpur-dehat, bike relocation kanpur-dehat, motorcycle transport kanpur-dehat">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -8,7 +8,9 @@
     <title>Car Transport in Mizoram | Safe Vehicle Shifting Services</title>
     <meta name="description"
         content="Professional car transport service in Mizoram covering Aizawl, Lunglei, Champhai, Kolasib, Serchhip, and all districts. Safe, insured door-to-door car shifting.">
-    <meta name="keywords" content="car transport mizoram, car transport aizawl, car transport champhai, car transport hnahthial, car transport khawzawl, car transport kolasib, car transport lawngtlai, car transport lunglei, car transport mamit, car transport saiha, car transport saitual, car transport serchhip, car shifting mizoram, vehicle transport mizoram">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport mizoram, car transport aizawl, car transport champhai, car transport hnahthial, car transport khawzawl, car transport kolasib, car transport lawngtlai, car transport lunglei, car transport mamit, car transport saiha, car transport saitual, car transport serchhip, car shifting mizoram, vehicle transport mizoram">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

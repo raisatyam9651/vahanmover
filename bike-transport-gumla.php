@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Gumla. Safe, insured door-to-door bike shifting to and from Gumla to anywhere in India.">
     <meta name="keywords"
-        content="bike transport gumla, bike shifting gumla, two wheeler transport gumla, bike courier service gumla, bike relocation gumla, motorcycle transport gumla">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport gumla, bike shifting gumla, two wheeler transport gumla, bike courier service gumla, bike relocation gumla, motorcycle transport gumla">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

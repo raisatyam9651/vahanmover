@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Narsinghpur. Safe, insured door-to-door bike shifting to and from Narsinghpur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport narsinghpur, bike shifting narsinghpur, two wheeler transport narsinghpur, bike courier service narsinghpur, bike relocation narsinghpur, motorcycle transport narsinghpur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport narsinghpur, bike shifting narsinghpur, two wheeler transport narsinghpur, bike courier service narsinghpur, bike relocation narsinghpur, motorcycle transport narsinghpur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

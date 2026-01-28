@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Ranchi. Safe, insured door-to-door bike shifting to and from Ranchi to anywhere in India.">
     <meta name="keywords"
-        content="bike transport ranchi, bike shifting ranchi, two wheeler transport ranchi, bike courier service ranchi, bike relocation ranchi, motorcycle transport ranchi">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport ranchi, bike shifting ranchi, two wheeler transport ranchi, bike courier service ranchi, bike relocation ranchi, motorcycle transport ranchi">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

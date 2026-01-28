@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kamjong. Safe, insured door-to-door bike shifting to and from Kamjong to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kamjong, bike shifting kamjong, two wheeler transport kamjong, bike courier service kamjong, bike relocation kamjong, motorcycle transport kamjong">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kamjong, bike shifting kamjong, two wheeler transport kamjong, bike courier service kamjong, bike relocation kamjong, motorcycle transport kamjong">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

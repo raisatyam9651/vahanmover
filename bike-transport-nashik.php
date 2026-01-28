@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Nashik. Safe, insured door-to-door bike shifting to and from Nashik to anywhere in India.">
     <meta name="keywords"
-        content="bike transport nashik, bike shifting nashik, two wheeler transport nashik, bike courier service nashik, bike relocation nashik, motorcycle transport nashik">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport nashik, bike shifting nashik, two wheeler transport nashik, bike courier service nashik, bike relocation nashik, motorcycle transport nashik">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

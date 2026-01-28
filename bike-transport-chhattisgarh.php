@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Chhattisgarh covering Raipur, Bilaspur, Durg, Bhilai, and all districts. Safe, insured door-to-door bike shifting.">
     <meta name="keywords"
-        content="bike transport chhattisgarh, bike shifting raipur, two wheeler transport bilaspur, bike courier durg, bike relocation bhilai, motorcycle transport chhattisgarh">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport chhattisgarh, bike shifting raipur, two wheeler transport bilaspur, bike courier durg, bike relocation bhilai, motorcycle transport chhattisgarh">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

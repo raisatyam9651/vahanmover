@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Munger. Safe, insured door-to-door bike shifting to and from Munger to anywhere in India.">
     <meta name="keywords"
-        content="bike transport munger, bike shifting munger, two wheeler transport munger, bike courier service munger, bike relocation munger, motorcycle transport munger">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport munger, bike shifting munger, two wheeler transport munger, bike courier service munger, bike relocation munger, motorcycle transport munger">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

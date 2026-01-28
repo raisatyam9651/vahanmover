@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Patna. Safe, insured door-to-door bike shifting to and from Patna to anywhere in India.">
     <meta name="keywords"
-        content="bike transport patna, bike shifting patna, two wheeler transport patna, bike courier service patna, bike relocation patna, motorcycle transport patna">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport patna, bike shifting patna, two wheeler transport patna, bike courier service patna, bike relocation patna, motorcycle transport patna">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Rewa. Safe, insured door-to-door bike shifting to and from Rewa to anywhere in India.">
     <meta name="keywords"
-        content="bike transport rewa, bike shifting rewa, two wheeler transport rewa, bike courier service rewa, bike relocation rewa, motorcycle transport rewa">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport rewa, bike shifting rewa, two wheeler transport rewa, bike courier service rewa, bike relocation rewa, motorcycle transport rewa">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

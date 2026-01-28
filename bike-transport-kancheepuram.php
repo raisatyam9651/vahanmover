@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kancheepuram. Safe, insured door-to-door bike shifting to and from Kancheepuram to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kancheepuram, bike shifting kancheepuram, two wheeler transport kancheepuram, bike courier service kancheepuram, bike relocation kancheepuram, motorcycle transport kancheepuram">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kancheepuram, bike shifting kancheepuram, two wheeler transport kancheepuram, bike courier service kancheepuram, bike relocation kancheepuram, motorcycle transport kancheepuram">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

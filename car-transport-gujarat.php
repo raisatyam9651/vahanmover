@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional car transport service in Gujarat covering Ahmedabad, Surat, Vadodara, Rajkot, Gandhinagar, and all districts. Safe, insured door-to-door car shifting.">
     <meta name="keywords"
-        content="car transport gujarat, car shifting ahmedabad, vehicle transport surat, car carrier vadodara, car relocation rajkot, auto transport gujarat">    <?php include 'includes/header-link.php'; ?>
+        content="car transport gujarat, car shifting ahmedabad, vehicle transport surat, car carrier vadodara, car relocation rajkot, auto transport gujarat">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in South Salmara-Mankachar. Safe, insured door-to-door bike shifting to and from South Salmara-Mankachar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport south-salmara-mankachar, bike shifting south-salmara-mankachar, two wheeler transport south-salmara-mankachar, bike courier service south-salmara-mankachar, bike relocation south-salmara-mankachar, motorcycle transport south-salmara-mankachar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport south-salmara-mankachar, bike shifting south-salmara-mankachar, two wheeler transport south-salmara-mankachar, bike courier service south-salmara-mankachar, bike relocation south-salmara-mankachar, motorcycle transport south-salmara-mankachar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

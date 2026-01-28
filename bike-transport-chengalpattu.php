@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Chengalpattu. Safe, insured door-to-door bike shifting to and from Chengalpattu to anywhere in India.">
     <meta name="keywords"
-        content="bike transport chengalpattu, bike shifting chengalpattu, two wheeler transport chengalpattu, bike courier service chengalpattu, bike relocation chengalpattu, motorcycle transport chengalpattu">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport chengalpattu, bike shifting chengalpattu, two wheeler transport chengalpattu, bike courier service chengalpattu, bike relocation chengalpattu, motorcycle transport chengalpattu">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

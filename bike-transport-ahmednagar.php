@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Ahmednagar. Safe, insured door-to-door bike shifting to and from Ahmednagar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport ahmednagar, bike shifting ahmednagar, two wheeler transport ahmednagar, bike courier service ahmednagar, bike relocation ahmednagar, motorcycle transport ahmednagar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport ahmednagar, bike shifting ahmednagar, two wheeler transport ahmednagar, bike courier service ahmednagar, bike relocation ahmednagar, motorcycle transport ahmednagar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

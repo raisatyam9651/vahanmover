@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Uttar Pradesh covering Lucknow, Kanpur, Agra, Varanasi, and all districts. Safe, insured door-to-door bike shifting.">
     <meta name="keywords"
-        content="bike transport uttar pradesh, bike shifting lucknow, two wheeler transport kanpur, bike courier agra, bike relocation varanasi, motorcycle transport uttar pradesh">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport uttar pradesh, bike shifting lucknow, two wheeler transport kanpur, bike courier agra, bike relocation varanasi, motorcycle transport uttar pradesh">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

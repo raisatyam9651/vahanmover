@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Peddapalli. Safe, insured door-to-door bike shifting to and from Peddapalli to anywhere in India.">
     <meta name="keywords"
-        content="bike transport peddapalli, bike shifting peddapalli, two wheeler transport peddapalli, bike courier service peddapalli, bike relocation peddapalli, motorcycle transport peddapalli">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport peddapalli, bike shifting peddapalli, two wheeler transport peddapalli, bike courier service peddapalli, bike relocation peddapalli, motorcycle transport peddapalli">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

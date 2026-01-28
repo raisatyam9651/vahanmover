@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Saiha. Safe, insured door-to-door bike shifting to and from Saiha to anywhere in India.">
     <meta name="keywords"
-        content="bike transport saiha, bike shifting saiha, two wheeler transport saiha, bike courier service saiha, bike relocation saiha, motorcycle transport saiha">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport saiha, bike shifting saiha, two wheeler transport saiha, bike courier service saiha, bike relocation saiha, motorcycle transport saiha">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

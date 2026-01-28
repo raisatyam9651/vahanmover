@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kottayam. Safe, insured door-to-door bike shifting to and from Kottayam to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kottayam, bike shifting kottayam, two wheeler transport kottayam, bike courier service kottayam, bike relocation kottayam, motorcycle transport kottayam">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kottayam, bike shifting kottayam, two wheeler transport kottayam, bike courier service kottayam, bike relocation kottayam, motorcycle transport kottayam">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

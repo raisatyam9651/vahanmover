@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Kurukshetra | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Kurukshetra. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport kurukshetra, car shifting kurukshetra, vehicle transport kurukshetra, car carrier kurukshetra, car relocation kurukshetra">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport kurukshetra, car shifting kurukshetra, vehicle transport kurukshetra, car carrier kurukshetra, car relocation kurukshetra">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

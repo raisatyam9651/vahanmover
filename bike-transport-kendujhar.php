@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kendujhar. Safe, insured door-to-door bike shifting to and from Kendujhar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kendujhar, bike shifting kendujhar, two wheeler transport kendujhar, bike courier service kendujhar, bike relocation kendujhar, motorcycle transport kendujhar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kendujhar, bike shifting kendujhar, two wheeler transport kendujhar, bike courier service kendujhar, bike relocation kendujhar, motorcycle transport kendujhar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

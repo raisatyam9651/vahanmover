@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Sangli. Safe, insured door-to-door bike shifting to and from Sangli to anywhere in India.">
     <meta name="keywords"
-        content="bike transport sangli, bike shifting sangli, two wheeler transport sangli, bike courier service sangli, bike relocation sangli, motorcycle transport sangli">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport sangli, bike shifting sangli, two wheeler transport sangli, bike courier service sangli, bike relocation sangli, motorcycle transport sangli">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Wayanad | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Wayanad. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport wayanad, car shifting wayanad, vehicle transport wayanad, car carrier wayanad, car relocation wayanad">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport wayanad, car shifting wayanad, vehicle transport wayanad, car carrier wayanad, car relocation wayanad">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

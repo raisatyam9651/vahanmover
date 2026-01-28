@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Uttara Kannada. Safe, insured door-to-door bike shifting to and from Uttara Kannada to anywhere in India.">
     <meta name="keywords"
-        content="bike transport uttara-kannada, bike shifting uttara-kannada, two wheeler transport uttara-kannada, bike courier service uttara-kannada, bike relocation uttara-kannada, motorcycle transport uttara-kannada">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport uttara-kannada, bike shifting uttara-kannada, two wheeler transport uttara-kannada, bike courier service uttara-kannada, bike relocation uttara-kannada, motorcycle transport uttara-kannada">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

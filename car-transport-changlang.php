@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Changlang | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Changlang. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport changlang, car shifting changlang, vehicle transport changlang, car carrier changlang, car relocation changlang">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport changlang, car shifting changlang, vehicle transport changlang, car carrier changlang, car relocation changlang">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

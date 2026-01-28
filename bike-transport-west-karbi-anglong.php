@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in West Karbi Anglong. Safe, insured door-to-door bike shifting to and from West Karbi Anglong to anywhere in India.">
     <meta name="keywords"
-        content="bike transport west-karbi-anglong, bike shifting west-karbi-anglong, two wheeler transport west-karbi-anglong, bike courier service west-karbi-anglong, bike relocation west-karbi-anglong, motorcycle transport west-karbi-anglong">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport west-karbi-anglong, bike shifting west-karbi-anglong, two wheeler transport west-karbi-anglong, bike courier service west-karbi-anglong, bike relocation west-karbi-anglong, motorcycle transport west-karbi-anglong">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

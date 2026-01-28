@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Khagaria. Safe, insured door-to-door bike shifting to and from Khagaria to anywhere in India.">
     <meta name="keywords"
-        content="bike transport khagaria, bike shifting khagaria, two wheeler transport khagaria, bike courier service khagaria, bike relocation khagaria, motorcycle transport khagaria">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport khagaria, bike shifting khagaria, two wheeler transport khagaria, bike courier service khagaria, bike relocation khagaria, motorcycle transport khagaria">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

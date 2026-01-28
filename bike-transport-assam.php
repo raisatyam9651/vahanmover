@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Assam covering Guwahati, Dibrugarh, Silchar, Jorhat, and all districts. Safe, insured door-to-door bike shifting.">
     <meta name="keywords"
-        content="bike transport assam, bike shifting guwahati, two wheeler transport dibrugarh, bike courier silchar, bike relocation jorhat, motorcycle transport assam">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport assam, bike shifting guwahati, two wheeler transport dibrugarh, bike courier silchar, bike relocation jorhat, motorcycle transport assam">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

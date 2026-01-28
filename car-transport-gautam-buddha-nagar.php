@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Gautam Buddha Nagar | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Gautam Buddha Nagar. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport gautam buddha nagar, car shifting gautam buddha nagar, vehicle transport gautam buddha nagar, car carrier gautam buddha nagar, car relocation gautam buddha nagar">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport gautam buddha nagar, car shifting gautam buddha nagar, vehicle transport gautam buddha nagar, car carrier gautam buddha nagar, car relocation gautam buddha nagar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

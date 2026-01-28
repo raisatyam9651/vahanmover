@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Mirzapur | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Mirzapur. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport mirzapur, car shifting mirzapur, vehicle transport mirzapur, car carrier mirzapur, car relocation mirzapur">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport mirzapur, car shifting mirzapur, vehicle transport mirzapur, car carrier mirzapur, car relocation mirzapur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

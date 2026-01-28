@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Baran. Safe, insured door-to-door bike shifting to and from Baran to anywhere in India.">
     <meta name="keywords"
-        content="bike transport baran, bike shifting baran, two wheeler transport baran, bike courier service baran, bike relocation baran, motorcycle transport baran">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport baran, bike shifting baran, two wheeler transport baran, bike courier service baran, bike relocation baran, motorcycle transport baran">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

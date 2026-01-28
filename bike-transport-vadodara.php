@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Vadodara. Safe, insured door-to-door bike shifting to and from Vadodara to anywhere in India.">
     <meta name="keywords"
-        content="bike transport vadodara, bike shifting vadodara, two wheeler transport vadodara, bike courier service vadodara, bike relocation vadodara, motorcycle transport vadodara">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport vadodara, bike shifting vadodara, two wheeler transport vadodara, bike courier service vadodara, bike relocation vadodara, motorcycle transport vadodara">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

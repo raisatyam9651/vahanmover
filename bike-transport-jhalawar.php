@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Jhalawar. Safe, insured door-to-door bike shifting to and from Jhalawar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport jhalawar, bike shifting jhalawar, two wheeler transport jhalawar, bike courier service jhalawar, bike relocation jhalawar, motorcycle transport jhalawar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport jhalawar, bike shifting jhalawar, two wheeler transport jhalawar, bike courier service jhalawar, bike relocation jhalawar, motorcycle transport jhalawar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

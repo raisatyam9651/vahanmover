@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Charaideo. Safe, insured door-to-door bike shifting to and from Charaideo to anywhere in India.">
     <meta name="keywords"
-        content="bike transport charaideo, bike shifting charaideo, two wheeler transport charaideo, bike courier service charaideo, bike relocation charaideo, motorcycle transport charaideo">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport charaideo, bike shifting charaideo, two wheeler transport charaideo, bike courier service charaideo, bike relocation charaideo, motorcycle transport charaideo">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

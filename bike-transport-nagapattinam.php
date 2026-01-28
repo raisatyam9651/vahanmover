@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Nagapattinam. Safe, insured door-to-door bike shifting to and from Nagapattinam to anywhere in India.">
     <meta name="keywords"
-        content="bike transport nagapattinam, bike shifting nagapattinam, two wheeler transport nagapattinam, bike courier service nagapattinam, bike relocation nagapattinam, motorcycle transport nagapattinam">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport nagapattinam, bike shifting nagapattinam, two wheeler transport nagapattinam, bike courier service nagapattinam, bike relocation nagapattinam, motorcycle transport nagapattinam">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

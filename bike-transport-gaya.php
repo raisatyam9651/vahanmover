@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Gaya. Safe, insured door-to-door bike shifting to and from Gaya to anywhere in India.">
     <meta name="keywords"
-        content="bike transport gaya, bike shifting gaya, two wheeler transport gaya, bike courier service gaya, bike relocation gaya, motorcycle transport gaya">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport gaya, bike shifting gaya, two wheeler transport gaya, bike courier service gaya, bike relocation gaya, motorcycle transport gaya">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

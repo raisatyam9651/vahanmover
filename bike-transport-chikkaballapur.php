@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Chikkaballapur. Safe, insured door-to-door bike shifting to and from Chikkaballapur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport chikkaballapur, bike shifting chikkaballapur, two wheeler transport chikkaballapur, bike courier service chikkaballapur, bike relocation chikkaballapur, motorcycle transport chikkaballapur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport chikkaballapur, bike shifting chikkaballapur, two wheeler transport chikkaballapur, bike courier service chikkaballapur, bike relocation chikkaballapur, motorcycle transport chikkaballapur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

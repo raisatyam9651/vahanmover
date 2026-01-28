@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Khunti | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Khunti. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport khunti, car shifting khunti, vehicle transport khunti, car carrier khunti, car relocation khunti">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport khunti, car shifting khunti, vehicle transport khunti, car carrier khunti, car relocation khunti">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

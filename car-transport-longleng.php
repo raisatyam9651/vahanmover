@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Longleng | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Longleng. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport longleng, car shifting longleng, vehicle transport longleng, car carrier longleng, car relocation longleng">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport longleng, car shifting longleng, vehicle transport longleng, car carrier longleng, car relocation longleng">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Dhar. Safe, insured door-to-door bike shifting to and from Dhar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport dhar, bike shifting dhar, two wheeler transport dhar, bike courier service dhar, bike relocation dhar, motorcycle transport dhar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport dhar, bike shifting dhar, two wheeler transport dhar, bike courier service dhar, bike relocation dhar, motorcycle transport dhar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

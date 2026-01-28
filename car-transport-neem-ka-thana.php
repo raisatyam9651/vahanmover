@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Neem Ka Thana | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Neem Ka Thana. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport neem ka thana, car shifting neem ka thana, vehicle transport neem ka thana, car carrier neem ka thana, car relocation neem ka thana">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport neem ka thana, car shifting neem ka thana, vehicle transport neem ka thana, car carrier neem ka thana, car relocation neem ka thana">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

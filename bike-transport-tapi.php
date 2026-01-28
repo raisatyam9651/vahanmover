@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Tapi. Safe, insured door-to-door bike shifting to and from Tapi to anywhere in India.">
     <meta name="keywords"
-        content="bike transport tapi, bike shifting tapi, two wheeler transport tapi, bike courier service tapi, bike relocation tapi, motorcycle transport tapi">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport tapi, bike shifting tapi, two wheeler transport tapi, bike courier service tapi, bike relocation tapi, motorcycle transport tapi">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

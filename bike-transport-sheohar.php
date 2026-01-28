@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Sheohar. Safe, insured door-to-door bike shifting to and from Sheohar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport sheohar, bike shifting sheohar, two wheeler transport sheohar, bike courier service sheohar, bike relocation sheohar, motorcycle transport sheohar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport sheohar, bike shifting sheohar, two wheeler transport sheohar, bike courier service sheohar, bike relocation sheohar, motorcycle transport sheohar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

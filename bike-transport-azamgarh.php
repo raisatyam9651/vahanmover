@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Azamgarh. Safe, insured door-to-door bike shifting to and from Azamgarh to anywhere in India.">
     <meta name="keywords"
-        content="bike transport azamgarh, bike shifting azamgarh, two wheeler transport azamgarh, bike courier service azamgarh, bike relocation azamgarh, motorcycle transport azamgarh">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport azamgarh, bike shifting azamgarh, two wheeler transport azamgarh, bike courier service azamgarh, bike relocation azamgarh, motorcycle transport azamgarh">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

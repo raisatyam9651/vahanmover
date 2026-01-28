@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Tonk. Safe, insured door-to-door bike shifting to and from Tonk to anywhere in India.">
     <meta name="keywords"
-        content="bike transport tonk, bike shifting tonk, two wheeler transport tonk, bike courier service tonk, bike relocation tonk, motorcycle transport tonk">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport tonk, bike shifting tonk, two wheeler transport tonk, bike courier service tonk, bike relocation tonk, motorcycle transport tonk">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

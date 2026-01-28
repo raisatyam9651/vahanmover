@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Rayagada. Safe, insured door-to-door bike shifting to and from Rayagada to anywhere in India.">
     <meta name="keywords"
-        content="bike transport rayagada, bike shifting rayagada, two wheeler transport rayagada, bike courier service rayagada, bike relocation rayagada, motorcycle transport rayagada">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport rayagada, bike shifting rayagada, two wheeler transport rayagada, bike courier service rayagada, bike relocation rayagada, motorcycle transport rayagada">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

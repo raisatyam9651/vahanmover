@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Rajanna Sircilla. Safe, insured door-to-door bike shifting to and from Rajanna Sircilla to anywhere in India.">
     <meta name="keywords"
-        content="bike transport rajanna-sircilla, bike shifting rajanna-sircilla, two wheeler transport rajanna-sircilla, bike courier service rajanna-sircilla, bike relocation rajanna-sircilla, motorcycle transport rajanna-sircilla">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport rajanna-sircilla, bike shifting rajanna-sircilla, two wheeler transport rajanna-sircilla, bike courier service rajanna-sircilla, bike relocation rajanna-sircilla, motorcycle transport rajanna-sircilla">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

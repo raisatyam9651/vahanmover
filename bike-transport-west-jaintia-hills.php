@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in West Jaintia Hills. Safe, insured door-to-door bike shifting to and from West Jaintia Hills to anywhere in India.">
     <meta name="keywords"
-        content="bike transport west-jaintia-hills, bike shifting west-jaintia-hills, two wheeler transport west-jaintia-hills, bike courier service west-jaintia-hills, bike relocation west-jaintia-hills, motorcycle transport west-jaintia-hills">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport west-jaintia-hills, bike shifting west-jaintia-hills, two wheeler transport west-jaintia-hills, bike courier service west-jaintia-hills, bike relocation west-jaintia-hills, motorcycle transport west-jaintia-hills">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

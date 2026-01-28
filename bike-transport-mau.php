@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Mau. Safe, insured door-to-door bike shifting to and from Mau to anywhere in India.">
     <meta name="keywords"
-        content="bike transport mau, bike shifting mau, two wheeler transport mau, bike courier service mau, bike relocation mau, motorcycle transport mau">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport mau, bike shifting mau, two wheeler transport mau, bike courier service mau, bike relocation mau, motorcycle transport mau">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

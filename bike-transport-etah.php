@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Etah. Safe, insured door-to-door bike shifting to and from Etah to anywhere in India.">
     <meta name="keywords"
-        content="bike transport etah, bike shifting etah, two wheeler transport etah, bike courier service etah, bike relocation etah, motorcycle transport etah">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport etah, bike shifting etah, two wheeler transport etah, bike courier service etah, bike relocation etah, motorcycle transport etah">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Hyderabad. Safe, insured door-to-door bike shifting to and from Hyderabad to anywhere in India.">
     <meta name="keywords"
-        content="bike transport hyderabad, bike shifting hyderabad, two wheeler transport hyderabad, bike courier service hyderabad, bike relocation hyderabad, motorcycle transport hyderabad">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport hyderabad, bike shifting hyderabad, two wheeler transport hyderabad, bike courier service hyderabad, bike relocation hyderabad, motorcycle transport hyderabad">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

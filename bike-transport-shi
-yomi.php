@@ -18,7 +18,9 @@
 -yomi, bike courier service shi
 -yomi, bike relocation shi
 -yomi, motorcycle transport shi
--yomi">    <?php include 'includes/header-link.php'; ?>
+-yomi">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

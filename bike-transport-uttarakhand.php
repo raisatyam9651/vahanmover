@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Uttarakhand covering Dehradun, Haridwar, Rishikesh, Nainital, and all districts. Safe, insured door-to-door bike shifting.">
     <meta name="keywords"
-        content="bike transport uttarakhand, bike shifting dehradun, two wheeler transport haridwar, bike courier rishikesh, bike relocation nainital, motorcycle transport uttarakhand">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport uttarakhand, bike shifting dehradun, two wheeler transport haridwar, bike courier rishikesh, bike relocation nainital, motorcycle transport uttarakhand">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

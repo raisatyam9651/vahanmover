@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Mehsana. Safe, insured door-to-door bike shifting to and from Mehsana to anywhere in India.">
     <meta name="keywords"
-        content="bike transport mehsana, bike shifting mehsana, two wheeler transport mehsana, bike courier service mehsana, bike relocation mehsana, motorcycle transport mehsana">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport mehsana, bike shifting mehsana, two wheeler transport mehsana, bike courier service mehsana, bike relocation mehsana, motorcycle transport mehsana">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

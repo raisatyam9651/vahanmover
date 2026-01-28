@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Koriya. Safe, insured door-to-door bike shifting to and from Koriya to anywhere in India.">
     <meta name="keywords"
-        content="bike transport koriya, bike shifting koriya, two wheeler transport koriya, bike courier service koriya, bike relocation koriya, motorcycle transport koriya">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport koriya, bike shifting koriya, two wheeler transport koriya, bike courier service koriya, bike relocation koriya, motorcycle transport koriya">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

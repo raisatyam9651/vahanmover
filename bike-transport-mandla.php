@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Mandla. Safe, insured door-to-door bike shifting to and from Mandla to anywhere in India.">
     <meta name="keywords"
-        content="bike transport mandla, bike shifting mandla, two wheeler transport mandla, bike courier service mandla, bike relocation mandla, motorcycle transport mandla">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport mandla, bike shifting mandla, two wheeler transport mandla, bike courier service mandla, bike relocation mandla, motorcycle transport mandla">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Warangal. Safe, insured door-to-door bike shifting to and from Warangal to anywhere in India.">
     <meta name="keywords"
-        content="bike transport warangal, bike shifting warangal, two wheeler transport warangal, bike courier service warangal, bike relocation warangal, motorcycle transport warangal">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport warangal, bike shifting warangal, two wheeler transport warangal, bike courier service warangal, bike relocation warangal, motorcycle transport warangal">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

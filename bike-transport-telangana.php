@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Telangana covering Hyderabad, Warangal, Nizamabad, Karimnagar, and all districts. Safe, insured door-to-door bike shifting.">
     <meta name="keywords"
-        content="bike transport telangana, bike shifting hyderabad, two wheeler transport warangal, bike courier nizamabad, bike relocation karimnagar, motorcycle transport telangana">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport telangana, bike shifting hyderabad, two wheeler transport warangal, bike courier nizamabad, bike relocation karimnagar, motorcycle transport telangana">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

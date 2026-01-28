@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Muzaffarnagar | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Muzaffarnagar. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport muzaffarnagar, car shifting muzaffarnagar, vehicle transport muzaffarnagar, car carrier muzaffarnagar, car relocation muzaffarnagar">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport muzaffarnagar, car shifting muzaffarnagar, vehicle transport muzaffarnagar, car carrier muzaffarnagar, car relocation muzaffarnagar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

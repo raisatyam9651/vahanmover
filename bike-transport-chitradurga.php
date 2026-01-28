@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Chitradurga. Safe, insured door-to-door bike shifting to and from Chitradurga to anywhere in India.">
     <meta name="keywords"
-        content="bike transport chitradurga, bike shifting chitradurga, two wheeler transport chitradurga, bike courier service chitradurga, bike relocation chitradurga, motorcycle transport chitradurga">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport chitradurga, bike shifting chitradurga, two wheeler transport chitradurga, bike courier service chitradurga, bike relocation chitradurga, motorcycle transport chitradurga">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in East Garo Hills. Safe, insured door-to-door bike shifting to and from East Garo Hills to anywhere in India.">
     <meta name="keywords"
-        content="bike transport east-garo-hills, bike shifting east-garo-hills, two wheeler transport east-garo-hills, bike courier service east-garo-hills, bike relocation east-garo-hills, motorcycle transport east-garo-hills">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport east-garo-hills, bike shifting east-garo-hills, two wheeler transport east-garo-hills, bike courier service east-garo-hills, bike relocation east-garo-hills, motorcycle transport east-garo-hills">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

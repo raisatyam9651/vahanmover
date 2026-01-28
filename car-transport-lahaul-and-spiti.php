@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Lahaul and Spiti | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Lahaul and Spiti. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport lahaul and spiti, car shifting lahaul and spiti, vehicle transport lahaul and spiti, car carrier lahaul and spiti, car relocation lahaul and spiti">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport lahaul and spiti, car shifting lahaul and spiti, vehicle transport lahaul and spiti, car carrier lahaul and spiti, car relocation lahaul and spiti">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

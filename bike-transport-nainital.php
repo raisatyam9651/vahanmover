@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Nainital. Safe, insured door-to-door bike shifting to and from Nainital to anywhere in India.">
     <meta name="keywords"
-        content="bike transport nainital, bike shifting nainital, two wheeler transport nainital, bike courier service nainital, bike relocation nainital, motorcycle transport nainital">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport nainital, bike shifting nainital, two wheeler transport nainital, bike courier service nainital, bike relocation nainital, motorcycle transport nainital">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

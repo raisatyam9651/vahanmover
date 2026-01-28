@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Raigarh. Safe, insured door-to-door bike shifting to and from Raigarh to anywhere in India.">
     <meta name="keywords"
-        content="bike transport raigarh, bike shifting raigarh, two wheeler transport raigarh, bike courier service raigarh, bike relocation raigarh, motorcycle transport raigarh">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport raigarh, bike shifting raigarh, two wheeler transport raigarh, bike courier service raigarh, bike relocation raigarh, motorcycle transport raigarh">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

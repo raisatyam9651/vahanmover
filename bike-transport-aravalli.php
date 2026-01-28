@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Aravalli. Safe, insured door-to-door bike shifting to and from Aravalli to anywhere in India.">
     <meta name="keywords"
-        content="bike transport aravalli, bike shifting aravalli, two wheeler transport aravalli, bike courier service aravalli, bike relocation aravalli, motorcycle transport aravalli">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport aravalli, bike shifting aravalli, two wheeler transport aravalli, bike courier service aravalli, bike relocation aravalli, motorcycle transport aravalli">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

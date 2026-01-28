@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Gadag. Safe, insured door-to-door bike shifting to and from Gadag to anywhere in India.">
     <meta name="keywords"
-        content="bike transport gadag, bike shifting gadag, two wheeler transport gadag, bike courier service gadag, bike relocation gadag, motorcycle transport gadag">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport gadag, bike shifting gadag, two wheeler transport gadag, bike courier service gadag, bike relocation gadag, motorcycle transport gadag">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

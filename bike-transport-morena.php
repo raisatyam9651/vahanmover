@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Morena. Safe, insured door-to-door bike shifting to and from Morena to anywhere in India.">
     <meta name="keywords"
-        content="bike transport morena, bike shifting morena, two wheeler transport morena, bike courier service morena, bike relocation morena, motorcycle transport morena">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport morena, bike shifting morena, two wheeler transport morena, bike courier service morena, bike relocation morena, motorcycle transport morena">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

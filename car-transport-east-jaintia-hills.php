@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in East Jaintia Hills | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in East Jaintia Hills. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport east jaintia hills, car shifting east jaintia hills, vehicle transport east jaintia hills, car carrier east jaintia hills, car relocation east jaintia hills">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport east jaintia hills, car shifting east jaintia hills, vehicle transport east jaintia hills, car carrier east jaintia hills, car relocation east jaintia hills">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

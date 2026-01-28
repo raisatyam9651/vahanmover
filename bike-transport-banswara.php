@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Banswara. Safe, insured door-to-door bike shifting to and from Banswara to anywhere in India.">
     <meta name="keywords"
-        content="bike transport banswara, bike shifting banswara, two wheeler transport banswara, bike courier service banswara, bike relocation banswara, motorcycle transport banswara">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport banswara, bike shifting banswara, two wheeler transport banswara, bike courier service banswara, bike relocation banswara, motorcycle transport banswara">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

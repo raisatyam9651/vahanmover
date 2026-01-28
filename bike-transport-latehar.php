@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Latehar. Safe, insured door-to-door bike shifting to and from Latehar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport latehar, bike shifting latehar, two wheeler transport latehar, bike courier service latehar, bike relocation latehar, motorcycle transport latehar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport latehar, bike shifting latehar, two wheeler transport latehar, bike courier service latehar, bike relocation latehar, motorcycle transport latehar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

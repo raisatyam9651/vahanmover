@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Pithoragarh. Safe, insured door-to-door bike shifting to and from Pithoragarh to anywhere in India.">
     <meta name="keywords"
-        content="bike transport pithoragarh, bike shifting pithoragarh, two wheeler transport pithoragarh, bike courier service pithoragarh, bike relocation pithoragarh, motorcycle transport pithoragarh">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport pithoragarh, bike shifting pithoragarh, two wheeler transport pithoragarh, bike courier service pithoragarh, bike relocation pithoragarh, motorcycle transport pithoragarh">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

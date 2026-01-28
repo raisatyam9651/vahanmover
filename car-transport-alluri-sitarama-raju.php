@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Alluri Sitarama Raju | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Alluri Sitarama Raju. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport alluri sitarama raju, car shifting alluri sitarama raju, vehicle transport alluri sitarama raju, car carrier alluri sitarama raju, car relocation alluri sitarama raju">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport alluri sitarama raju, car shifting alluri sitarama raju, vehicle transport alluri sitarama raju, car carrier alluri sitarama raju, car relocation alluri sitarama raju">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Lohardaga. Safe, insured door-to-door bike shifting to and from Lohardaga to anywhere in India.">
     <meta name="keywords"
-        content="bike transport lohardaga, bike shifting lohardaga, two wheeler transport lohardaga, bike courier service lohardaga, bike relocation lohardaga, motorcycle transport lohardaga">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport lohardaga, bike shifting lohardaga, two wheeler transport lohardaga, bike courier service lohardaga, bike relocation lohardaga, motorcycle transport lohardaga">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

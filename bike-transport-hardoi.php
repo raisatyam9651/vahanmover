@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Hardoi. Safe, insured door-to-door bike shifting to and from Hardoi to anywhere in India.">
     <meta name="keywords"
-        content="bike transport hardoi, bike shifting hardoi, two wheeler transport hardoi, bike courier service hardoi, bike relocation hardoi, motorcycle transport hardoi">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport hardoi, bike shifting hardoi, two wheeler transport hardoi, bike courier service hardoi, bike relocation hardoi, motorcycle transport hardoi">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

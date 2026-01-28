@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Dausa. Safe, insured door-to-door bike shifting to and from Dausa to anywhere in India.">
     <meta name="keywords"
-        content="bike transport dausa, bike shifting dausa, two wheeler transport dausa, bike courier service dausa, bike relocation dausa, motorcycle transport dausa">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport dausa, bike shifting dausa, two wheeler transport dausa, bike courier service dausa, bike relocation dausa, motorcycle transport dausa">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

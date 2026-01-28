@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Dudu. Safe, insured door-to-door bike shifting to and from Dudu to anywhere in India.">
     <meta name="keywords"
-        content="bike transport dudu, bike shifting dudu, two wheeler transport dudu, bike courier service dudu, bike relocation dudu, motorcycle transport dudu">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport dudu, bike shifting dudu, two wheeler transport dudu, bike courier service dudu, bike relocation dudu, motorcycle transport dudu">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

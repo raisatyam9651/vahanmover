@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Paschim Bardhaman | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Paschim Bardhaman. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport paschim bardhaman, car shifting paschim bardhaman, vehicle transport paschim bardhaman, car carrier paschim bardhaman, car relocation paschim bardhaman">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport paschim bardhaman, car shifting paschim bardhaman, vehicle transport paschim bardhaman, car carrier paschim bardhaman, car relocation paschim bardhaman">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

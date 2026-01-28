@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Puri. Safe, insured door-to-door bike shifting to and from Puri to anywhere in India.">
     <meta name="keywords"
-        content="bike transport puri, bike shifting puri, two wheeler transport puri, bike courier service puri, bike relocation puri, motorcycle transport puri">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport puri, bike shifting puri, two wheeler transport puri, bike courier service puri, bike relocation puri, motorcycle transport puri">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

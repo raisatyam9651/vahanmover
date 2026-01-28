@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Araria. Safe, insured door-to-door bike shifting to and from Araria to anywhere in India.">
     <meta name="keywords"
-        content="bike transport araria, bike shifting araria, two wheeler transport araria, bike courier service araria, bike relocation araria, motorcycle transport araria">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport araria, bike shifting araria, two wheeler transport araria, bike courier service araria, bike relocation araria, motorcycle transport araria">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

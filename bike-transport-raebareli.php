@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Raebareli. Safe, insured door-to-door bike shifting to and from Raebareli to anywhere in India.">
     <meta name="keywords"
-        content="bike transport raebareli, bike shifting raebareli, two wheeler transport raebareli, bike courier service raebareli, bike relocation raebareli, motorcycle transport raebareli">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport raebareli, bike shifting raebareli, two wheeler transport raebareli, bike courier service raebareli, bike relocation raebareli, motorcycle transport raebareli">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

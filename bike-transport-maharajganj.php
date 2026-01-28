@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Maharajganj. Safe, insured door-to-door bike shifting to and from Maharajganj to anywhere in India.">
     <meta name="keywords"
-        content="bike transport maharajganj, bike shifting maharajganj, two wheeler transport maharajganj, bike courier service maharajganj, bike relocation maharajganj, motorcycle transport maharajganj">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport maharajganj, bike shifting maharajganj, two wheeler transport maharajganj, bike courier service maharajganj, bike relocation maharajganj, motorcycle transport maharajganj">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

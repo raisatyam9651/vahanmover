@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Mon. Safe, insured door-to-door bike shifting to and from Mon to anywhere in India.">
     <meta name="keywords"
-        content="bike transport mon, bike shifting mon, two wheeler transport mon, bike courier service mon, bike relocation mon, motorcycle transport mon">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport mon, bike shifting mon, two wheeler transport mon, bike courier service mon, bike relocation mon, motorcycle transport mon">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

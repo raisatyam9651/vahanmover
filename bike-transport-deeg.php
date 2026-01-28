@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Deeg. Safe, insured door-to-door bike shifting to and from Deeg to anywhere in India.">
     <meta name="keywords"
-        content="bike transport deeg, bike shifting deeg, two wheeler transport deeg, bike courier service deeg, bike relocation deeg, motorcycle transport deeg">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport deeg, bike shifting deeg, two wheeler transport deeg, bike courier service deeg, bike relocation deeg, motorcycle transport deeg">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

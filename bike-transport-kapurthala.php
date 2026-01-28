@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kapurthala. Safe, insured door-to-door bike shifting to and from Kapurthala to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kapurthala, bike shifting kapurthala, two wheeler transport kapurthala, bike courier service kapurthala, bike relocation kapurthala, motorcycle transport kapurthala">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kapurthala, bike shifting kapurthala, two wheeler transport kapurthala, bike courier service kapurthala, bike relocation kapurthala, motorcycle transport kapurthala">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

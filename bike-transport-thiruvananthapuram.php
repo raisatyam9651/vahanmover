@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Thiruvananthapuram. Safe, insured door-to-door bike shifting to and from Thiruvananthapuram to anywhere in India.">
     <meta name="keywords"
-        content="bike transport thiruvananthapuram, bike shifting thiruvananthapuram, two wheeler transport thiruvananthapuram, bike courier service thiruvananthapuram, bike relocation thiruvananthapuram, motorcycle transport thiruvananthapuram">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport thiruvananthapuram, bike shifting thiruvananthapuram, two wheeler transport thiruvananthapuram, bike courier service thiruvananthapuram, bike relocation thiruvananthapuram, motorcycle transport thiruvananthapuram">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

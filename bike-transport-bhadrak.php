@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Bhadrak. Safe, insured door-to-door bike shifting to and from Bhadrak to anywhere in India.">
     <meta name="keywords"
-        content="bike transport bhadrak, bike shifting bhadrak, two wheeler transport bhadrak, bike courier service bhadrak, bike relocation bhadrak, motorcycle transport bhadrak">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport bhadrak, bike shifting bhadrak, two wheeler transport bhadrak, bike courier service bhadrak, bike relocation bhadrak, motorcycle transport bhadrak">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

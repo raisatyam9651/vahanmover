@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Surendranagar. Safe, insured door-to-door bike shifting to and from Surendranagar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport surendranagar, bike shifting surendranagar, two wheeler transport surendranagar, bike courier service surendranagar, bike relocation surendranagar, motorcycle transport surendranagar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport surendranagar, bike shifting surendranagar, two wheeler transport surendranagar, bike courier service surendranagar, bike relocation surendranagar, motorcycle transport surendranagar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

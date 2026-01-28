@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Raichur | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Raichur. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport raichur, car shifting raichur, vehicle transport raichur, car carrier raichur, car relocation raichur">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport raichur, car shifting raichur, vehicle transport raichur, car carrier raichur, car relocation raichur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

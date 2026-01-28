@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Tapi | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Tapi. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport tapi, car shifting tapi, vehicle transport tapi, car carrier tapi, car relocation tapi">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport tapi, car shifting tapi, vehicle transport tapi, car carrier tapi, car relocation tapi">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Simdega | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Simdega. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport simdega, car shifting simdega, vehicle transport simdega, car carrier simdega, car relocation simdega">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport simdega, car shifting simdega, vehicle transport simdega, car carrier simdega, car relocation simdega">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

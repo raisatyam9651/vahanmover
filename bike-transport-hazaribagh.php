@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Hazaribagh. Safe, insured door-to-door bike shifting to and from Hazaribagh to anywhere in India.">
     <meta name="keywords"
-        content="bike transport hazaribagh, bike shifting hazaribagh, two wheeler transport hazaribagh, bike courier service hazaribagh, bike relocation hazaribagh, motorcycle transport hazaribagh">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport hazaribagh, bike shifting hazaribagh, two wheeler transport hazaribagh, bike courier service hazaribagh, bike relocation hazaribagh, motorcycle transport hazaribagh">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

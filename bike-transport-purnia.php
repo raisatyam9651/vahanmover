@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Purnia. Safe, insured door-to-door bike shifting to and from Purnia to anywhere in India.">
     <meta name="keywords"
-        content="bike transport purnia, bike shifting purnia, two wheeler transport purnia, bike courier service purnia, bike relocation purnia, motorcycle transport purnia">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport purnia, bike shifting purnia, two wheeler transport purnia, bike courier service purnia, bike relocation purnia, motorcycle transport purnia">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

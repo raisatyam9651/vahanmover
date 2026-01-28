@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Gariaband. Safe, insured door-to-door bike shifting to and from Gariaband to anywhere in India.">
     <meta name="keywords"
-        content="bike transport gariaband, bike shifting gariaband, two wheeler transport gariaband, bike courier service gariaband, bike relocation gariaband, motorcycle transport gariaband">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport gariaband, bike shifting gariaband, two wheeler transport gariaband, bike courier service gariaband, bike relocation gariaband, motorcycle transport gariaband">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

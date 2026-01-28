@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Yavatmal. Safe, insured door-to-door bike shifting to and from Yavatmal to anywhere in India.">
     <meta name="keywords"
-        content="bike transport yavatmal, bike shifting yavatmal, two wheeler transport yavatmal, bike courier service yavatmal, bike relocation yavatmal, motorcycle transport yavatmal">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport yavatmal, bike shifting yavatmal, two wheeler transport yavatmal, bike courier service yavatmal, bike relocation yavatmal, motorcycle transport yavatmal">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

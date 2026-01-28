@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Ramanagara. Safe, insured door-to-door bike shifting to and from Ramanagara to anywhere in India.">
     <meta name="keywords"
-        content="bike transport ramanagara, bike shifting ramanagara, two wheeler transport ramanagara, bike courier service ramanagara, bike relocation ramanagara, motorcycle transport ramanagara">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport ramanagara, bike shifting ramanagara, two wheeler transport ramanagara, bike courier service ramanagara, bike relocation ramanagara, motorcycle transport ramanagara">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

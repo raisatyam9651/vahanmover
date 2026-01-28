@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Ashoknagar. Safe, insured door-to-door bike shifting to and from Ashoknagar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport ashoknagar, bike shifting ashoknagar, two wheeler transport ashoknagar, bike courier service ashoknagar, bike relocation ashoknagar, motorcycle transport ashoknagar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport ashoknagar, bike shifting ashoknagar, two wheeler transport ashoknagar, bike courier service ashoknagar, bike relocation ashoknagar, motorcycle transport ashoknagar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Chikkamagaluru. Safe, insured door-to-door bike shifting to and from Chikkamagaluru to anywhere in India.">
     <meta name="keywords"
-        content="bike transport chikkamagaluru, bike shifting chikkamagaluru, two wheeler transport chikkamagaluru, bike courier service chikkamagaluru, bike relocation chikkamagaluru, motorcycle transport chikkamagaluru">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport chikkamagaluru, bike shifting chikkamagaluru, two wheeler transport chikkamagaluru, bike courier service chikkamagaluru, bike relocation chikkamagaluru, motorcycle transport chikkamagaluru">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

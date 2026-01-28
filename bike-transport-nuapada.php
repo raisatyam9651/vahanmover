@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Nuapada. Safe, insured door-to-door bike shifting to and from Nuapada to anywhere in India.">
     <meta name="keywords"
-        content="bike transport nuapada, bike shifting nuapada, two wheeler transport nuapada, bike courier service nuapada, bike relocation nuapada, motorcycle transport nuapada">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport nuapada, bike shifting nuapada, two wheeler transport nuapada, bike courier service nuapada, bike relocation nuapada, motorcycle transport nuapada">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

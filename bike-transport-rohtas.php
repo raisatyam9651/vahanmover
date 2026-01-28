@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Rohtas. Safe, insured door-to-door bike shifting to and from Rohtas to anywhere in India.">
     <meta name="keywords"
-        content="bike transport rohtas, bike shifting rohtas, two wheeler transport rohtas, bike courier service rohtas, bike relocation rohtas, motorcycle transport rohtas">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport rohtas, bike shifting rohtas, two wheeler transport rohtas, bike courier service rohtas, bike relocation rohtas, motorcycle transport rohtas">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

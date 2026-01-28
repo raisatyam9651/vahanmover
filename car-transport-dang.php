@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Dang | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Dang. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport dang, car shifting dang, vehicle transport dang, car carrier dang, car relocation dang">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport dang, car shifting dang, vehicle transport dang, car carrier dang, car relocation dang">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

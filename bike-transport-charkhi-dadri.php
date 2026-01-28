@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Charkhi Dadri. Safe, insured door-to-door bike shifting to and from Charkhi Dadri to anywhere in India.">
     <meta name="keywords"
-        content="bike transport charkhi-dadri, bike shifting charkhi-dadri, two wheeler transport charkhi-dadri, bike courier service charkhi-dadri, bike relocation charkhi-dadri, motorcycle transport charkhi-dadri">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport charkhi-dadri, bike shifting charkhi-dadri, two wheeler transport charkhi-dadri, bike courier service charkhi-dadri, bike relocation charkhi-dadri, motorcycle transport charkhi-dadri">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Rampur. Safe, insured door-to-door bike shifting to and from Rampur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport rampur, bike shifting rampur, two wheeler transport rampur, bike courier service rampur, bike relocation rampur, motorcycle transport rampur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport rampur, bike shifting rampur, two wheeler transport rampur, bike courier service rampur, bike relocation rampur, motorcycle transport rampur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

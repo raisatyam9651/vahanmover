@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Buldhana. Safe, insured door-to-door bike shifting to and from Buldhana to anywhere in India.">
     <meta name="keywords"
-        content="bike transport buldhana, bike shifting buldhana, two wheeler transport buldhana, bike courier service buldhana, bike relocation buldhana, motorcycle transport buldhana">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport buldhana, bike shifting buldhana, two wheeler transport buldhana, bike courier service buldhana, bike relocation buldhana, motorcycle transport buldhana">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

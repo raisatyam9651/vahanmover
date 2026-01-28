@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Gurugram. Safe, insured door-to-door bike shifting to and from Gurugram to anywhere in India.">
     <meta name="keywords"
-        content="bike transport gurugram, bike shifting gurugram, two wheeler transport gurugram, bike courier service gurugram, bike relocation gurugram, motorcycle transport gurugram">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport gurugram, bike shifting gurugram, two wheeler transport gurugram, bike courier service gurugram, bike relocation gurugram, motorcycle transport gurugram">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

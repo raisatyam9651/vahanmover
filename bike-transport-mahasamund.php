@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Mahasamund. Safe, insured door-to-door bike shifting to and from Mahasamund to anywhere in India.">
     <meta name="keywords"
-        content="bike transport mahasamund, bike shifting mahasamund, two wheeler transport mahasamund, bike courier service mahasamund, bike relocation mahasamund, motorcycle transport mahasamund">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport mahasamund, bike shifting mahasamund, two wheeler transport mahasamund, bike courier service mahasamund, bike relocation mahasamund, motorcycle transport mahasamund">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

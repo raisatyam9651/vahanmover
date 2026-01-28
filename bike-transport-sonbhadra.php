@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Sonbhadra. Safe, insured door-to-door bike shifting to and from Sonbhadra to anywhere in India.">
     <meta name="keywords"
-        content="bike transport sonbhadra, bike shifting sonbhadra, two wheeler transport sonbhadra, bike courier service sonbhadra, bike relocation sonbhadra, motorcycle transport sonbhadra">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport sonbhadra, bike shifting sonbhadra, two wheeler transport sonbhadra, bike courier service sonbhadra, bike relocation sonbhadra, motorcycle transport sonbhadra">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

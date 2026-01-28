@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Jaipur Rural. Safe, insured door-to-door bike shifting to and from Jaipur Rural to anywhere in India.">
     <meta name="keywords"
-        content="bike transport jaipur-rural, bike shifting jaipur-rural, two wheeler transport jaipur-rural, bike courier service jaipur-rural, bike relocation jaipur-rural, motorcycle transport jaipur-rural">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport jaipur-rural, bike shifting jaipur-rural, two wheeler transport jaipur-rural, bike courier service jaipur-rural, bike relocation jaipur-rural, motorcycle transport jaipur-rural">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

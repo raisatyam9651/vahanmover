@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Biswanath. Safe, insured door-to-door bike shifting to and from Biswanath to anywhere in India.">
     <meta name="keywords"
-        content="bike transport biswanath, bike shifting biswanath, two wheeler transport biswanath, bike courier service biswanath, bike relocation biswanath, motorcycle transport biswanath">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport biswanath, bike shifting biswanath, two wheeler transport biswanath, bike courier service biswanath, bike relocation biswanath, motorcycle transport biswanath">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

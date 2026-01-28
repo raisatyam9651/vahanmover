@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional car transport service in Madhya Pradesh covering Bhopal, Indore, Gwalior, Jabalpur, Ujjain, and all districts. Safe, insured door-to-door car shifting.">
     <meta name="keywords"
-        content="car transport madhya pradesh, car shifting bhopal, vehicle transport indore, car carrier gwalior, car relocation jabalpur, auto transport madhya pradesh">    <?php include 'includes/header-link.php'; ?>
+        content="car transport madhya pradesh, car shifting bhopal, vehicle transport indore, car carrier gwalior, car relocation jabalpur, auto transport madhya pradesh">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

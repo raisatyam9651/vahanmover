@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Kamrup Metropolitan | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Kamrup Metropolitan. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport kamrup metropolitan, car shifting kamrup metropolitan, vehicle transport kamrup metropolitan, car carrier kamrup metropolitan, car relocation kamrup metropolitan">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport kamrup metropolitan, car shifting kamrup metropolitan, vehicle transport kamrup metropolitan, car carrier kamrup metropolitan, car relocation kamrup metropolitan">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Medak. Safe, insured door-to-door bike shifting to and from Medak to anywhere in India.">
     <meta name="keywords"
-        content="bike transport medak, bike shifting medak, two wheeler transport medak, bike courier service medak, bike relocation medak, motorcycle transport medak">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport medak, bike shifting medak, two wheeler transport medak, bike courier service medak, bike relocation medak, motorcycle transport medak">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

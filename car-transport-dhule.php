@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Dhule | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Dhule. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport dhule, car shifting dhule, vehicle transport dhule, car carrier dhule, car relocation dhule">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport dhule, car shifting dhule, vehicle transport dhule, car carrier dhule, car relocation dhule">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Mayurbhanj | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Mayurbhanj. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport mayurbhanj, car shifting mayurbhanj, vehicle transport mayurbhanj, car carrier mayurbhanj, car relocation mayurbhanj">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport mayurbhanj, car shifting mayurbhanj, vehicle transport mayurbhanj, car carrier mayurbhanj, car relocation mayurbhanj">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

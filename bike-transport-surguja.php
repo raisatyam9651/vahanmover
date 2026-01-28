@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Surguja. Safe, insured door-to-door bike shifting to and from Surguja to anywhere in India.">
     <meta name="keywords"
-        content="bike transport surguja, bike shifting surguja, two wheeler transport surguja, bike courier service surguja, bike relocation surguja, motorcycle transport surguja">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport surguja, bike shifting surguja, two wheeler transport surguja, bike courier service surguja, bike relocation surguja, motorcycle transport surguja">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Shivamogga. Safe, insured door-to-door bike shifting to and from Shivamogga to anywhere in India.">
     <meta name="keywords"
-        content="bike transport shivamogga, bike shifting shivamogga, two wheeler transport shivamogga, bike courier service shivamogga, bike relocation shivamogga, motorcycle transport shivamogga">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport shivamogga, bike shifting shivamogga, two wheeler transport shivamogga, bike courier service shivamogga, bike relocation shivamogga, motorcycle transport shivamogga">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

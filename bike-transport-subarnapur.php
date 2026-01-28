@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Subarnapur. Safe, insured door-to-door bike shifting to and from Subarnapur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport subarnapur, bike shifting subarnapur, two wheeler transport subarnapur, bike courier service subarnapur, bike relocation subarnapur, motorcycle transport subarnapur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport subarnapur, bike shifting subarnapur, two wheeler transport subarnapur, bike courier service subarnapur, bike relocation subarnapur, motorcycle transport subarnapur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

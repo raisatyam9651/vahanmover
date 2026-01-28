@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Jalgaon. Safe, insured door-to-door bike shifting to and from Jalgaon to anywhere in India.">
     <meta name="keywords"
-        content="bike transport jalgaon, bike shifting jalgaon, two wheeler transport jalgaon, bike courier service jalgaon, bike relocation jalgaon, motorcycle transport jalgaon">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport jalgaon, bike shifting jalgaon, two wheeler transport jalgaon, bike courier service jalgaon, bike relocation jalgaon, motorcycle transport jalgaon">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

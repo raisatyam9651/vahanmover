@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kamle. Safe, insured door-to-door bike shifting to and from Kamle to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kamle, bike shifting kamle, two wheeler transport kamle, bike courier service kamle, bike relocation kamle, motorcycle transport kamle">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kamle, bike shifting kamle, two wheeler transport kamle, bike courier service kamle, bike relocation kamle, motorcycle transport kamle">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

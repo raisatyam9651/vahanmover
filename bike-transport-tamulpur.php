@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Tamulpur. Safe, insured door-to-door bike shifting to and from Tamulpur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport tamulpur, bike shifting tamulpur, two wheeler transport tamulpur, bike courier service tamulpur, bike relocation tamulpur, motorcycle transport tamulpur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport tamulpur, bike shifting tamulpur, two wheeler transport tamulpur, bike courier service tamulpur, bike relocation tamulpur, motorcycle transport tamulpur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional car transport service in Goa covering Panaji, Margao, Vasco da Gama, Mapusa, Ponda, and all districts. Safe, insured door-to-door car shifting.">
     <meta name="keywords"
-        content="car transport goa, car shifting panaji, vehicle transport margao, car carrier vasco, car relocation mapusa, auto transport goa">    <?php include 'includes/header-link.php'; ?>
+        content="car transport goa, car shifting panaji, vehicle transport margao, car carrier vasco, car relocation mapusa, auto transport goa">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

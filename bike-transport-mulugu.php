@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Mulugu. Safe, insured door-to-door bike shifting to and from Mulugu to anywhere in India.">
     <meta name="keywords"
-        content="bike transport mulugu, bike shifting mulugu, two wheeler transport mulugu, bike courier service mulugu, bike relocation mulugu, motorcycle transport mulugu">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport mulugu, bike shifting mulugu, two wheeler transport mulugu, bike courier service mulugu, bike relocation mulugu, motorcycle transport mulugu">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

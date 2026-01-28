@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kamareddy. Safe, insured door-to-door bike shifting to and from Kamareddy to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kamareddy, bike shifting kamareddy, two wheeler transport kamareddy, bike courier service kamareddy, bike relocation kamareddy, motorcycle transport kamareddy">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kamareddy, bike shifting kamareddy, two wheeler transport kamareddy, bike courier service kamareddy, bike relocation kamareddy, motorcycle transport kamareddy">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

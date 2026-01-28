@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Sahibganj. Safe, insured door-to-door bike shifting to and from Sahibganj to anywhere in India.">
     <meta name="keywords"
-        content="bike transport sahibganj, bike shifting sahibganj, two wheeler transport sahibganj, bike courier service sahibganj, bike relocation sahibganj, motorcycle transport sahibganj">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport sahibganj, bike shifting sahibganj, two wheeler transport sahibganj, bike courier service sahibganj, bike relocation sahibganj, motorcycle transport sahibganj">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Looking for a reliable bike transport service in India? We offer safe, insured, door-to-door bike shifting across all major cities with timely delivery.">
     <meta name="keywords"
-        content="bike transport service in india, bike shifting service, two wheeler transport india, bike courier service, bike relocation service india, motorcycle transport service, bike parcel service">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport service in india, bike shifting service, two wheeler transport india, bike courier service, bike relocation service india, motorcycle transport service, bike parcel service">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

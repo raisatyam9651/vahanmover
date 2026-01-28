@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Tripura covering Agartala, Dharmanagar, Udaipur, Ambassa, and all districts. Safe, insured door-to-door bike shifting.">
     <meta name="keywords"
-        content="bike transport tripura, bike shifting agartala, two wheeler transport dharmanagar, bike courier udaipur, bike relocation ambassa, motorcycle transport tripura">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport tripura, bike shifting agartala, two wheeler transport dharmanagar, bike courier udaipur, bike relocation ambassa, motorcycle transport tripura">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

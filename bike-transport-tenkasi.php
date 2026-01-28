@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Tenkasi. Safe, insured door-to-door bike shifting to and from Tenkasi to anywhere in India.">
     <meta name="keywords"
-        content="bike transport tenkasi, bike shifting tenkasi, two wheeler transport tenkasi, bike courier service tenkasi, bike relocation tenkasi, motorcycle transport tenkasi">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport tenkasi, bike shifting tenkasi, two wheeler transport tenkasi, bike courier service tenkasi, bike relocation tenkasi, motorcycle transport tenkasi">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

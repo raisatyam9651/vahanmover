@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Mangan. Safe, insured door-to-door bike shifting to and from Mangan to anywhere in India.">
     <meta name="keywords"
-        content="bike transport mangan, bike shifting mangan, two wheeler transport mangan, bike courier service mangan, bike relocation mangan, motorcycle transport mangan">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport mangan, bike shifting mangan, two wheeler transport mangan, bike courier service mangan, bike relocation mangan, motorcycle transport mangan">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

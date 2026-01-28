@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Dang. Safe, insured door-to-door bike shifting to and from Dang to anywhere in India.">
     <meta name="keywords"
-        content="bike transport dang, bike shifting dang, two wheeler transport dang, bike courier service dang, bike relocation dang, motorcycle transport dang">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport dang, bike shifting dang, two wheeler transport dang, bike courier service dang, bike relocation dang, motorcycle transport dang">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

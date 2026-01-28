@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Nawada. Safe, insured door-to-door bike shifting to and from Nawada to anywhere in India.">
     <meta name="keywords"
-        content="bike transport nawada, bike shifting nawada, two wheeler transport nawada, bike courier service nawada, bike relocation nawada, motorcycle transport nawada">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport nawada, bike shifting nawada, two wheeler transport nawada, bike courier service nawada, bike relocation nawada, motorcycle transport nawada">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

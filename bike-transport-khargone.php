@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Khargone. Safe, insured door-to-door bike shifting to and from Khargone to anywhere in India.">
     <meta name="keywords"
-        content="bike transport khargone, bike shifting khargone, two wheeler transport khargone, bike courier service khargone, bike relocation khargone, motorcycle transport khargone">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport khargone, bike shifting khargone, two wheeler transport khargone, bike courier service khargone, bike relocation khargone, motorcycle transport khargone">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

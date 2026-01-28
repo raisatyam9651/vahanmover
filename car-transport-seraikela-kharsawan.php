@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Seraikela Kharsawan | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Seraikela Kharsawan. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport seraikela kharsawan, car shifting seraikela kharsawan, vehicle transport seraikela kharsawan, car carrier seraikela kharsawan, car relocation seraikela kharsawan">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport seraikela kharsawan, car shifting seraikela kharsawan, vehicle transport seraikela kharsawan, car carrier seraikela kharsawan, car relocation seraikela kharsawan">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

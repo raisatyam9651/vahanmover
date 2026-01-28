@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Botad. Safe, insured door-to-door bike shifting to and from Botad to anywhere in India.">
     <meta name="keywords"
-        content="bike transport botad, bike shifting botad, two wheeler transport botad, bike courier service botad, bike relocation botad, motorcycle transport botad">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport botad, bike shifting botad, two wheeler transport botad, bike courier service botad, bike relocation botad, motorcycle transport botad">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Lalitpur. Safe, insured door-to-door bike shifting to and from Lalitpur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport lalitpur, bike shifting lalitpur, two wheeler transport lalitpur, bike courier service lalitpur, bike relocation lalitpur, motorcycle transport lalitpur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport lalitpur, bike shifting lalitpur, two wheeler transport lalitpur, bike courier service lalitpur, bike relocation lalitpur, motorcycle transport lalitpur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

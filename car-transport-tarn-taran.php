@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Tarn Taran | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Tarn Taran. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport tarn taran, car shifting tarn taran, vehicle transport tarn taran, car carrier tarn taran, car relocation tarn taran">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport tarn taran, car shifting tarn taran, vehicle transport tarn taran, car carrier tarn taran, car relocation tarn taran">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

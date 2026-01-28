@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Erode. Safe, insured door-to-door bike shifting to and from Erode to anywhere in India.">
     <meta name="keywords"
-        content="bike transport erode, bike shifting erode, two wheeler transport erode, bike courier service erode, bike relocation erode, motorcycle transport erode">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport erode, bike shifting erode, two wheeler transport erode, bike courier service erode, bike relocation erode, motorcycle transport erode">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

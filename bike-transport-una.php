@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Una. Safe, insured door-to-door bike shifting to and from Una to anywhere in India.">
     <meta name="keywords"
-        content="bike transport una, bike shifting una, two wheeler transport una, bike courier service una, bike relocation una, motorcycle transport una">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport una, bike shifting una, two wheeler transport una, bike courier service una, bike relocation una, motorcycle transport una">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Ganjam. Safe, insured door-to-door bike shifting to and from Ganjam to anywhere in India.">
     <meta name="keywords"
-        content="bike transport ganjam, bike shifting ganjam, two wheeler transport ganjam, bike courier service ganjam, bike relocation ganjam, motorcycle transport ganjam">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport ganjam, bike shifting ganjam, two wheeler transport ganjam, bike courier service ganjam, bike relocation ganjam, motorcycle transport ganjam">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

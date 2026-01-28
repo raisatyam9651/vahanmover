@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Mahabubabad. Safe, insured door-to-door bike shifting to and from Mahabubabad to anywhere in India.">
     <meta name="keywords"
-        content="bike transport mahabubabad, bike shifting mahabubabad, two wheeler transport mahabubabad, bike courier service mahabubabad, bike relocation mahabubabad, motorcycle transport mahabubabad">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport mahabubabad, bike shifting mahabubabad, two wheeler transport mahabubabad, bike courier service mahabubabad, bike relocation mahabubabad, motorcycle transport mahabubabad">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Golaghat. Safe, insured door-to-door bike shifting to and from Golaghat to anywhere in India.">
     <meta name="keywords"
-        content="bike transport golaghat, bike shifting golaghat, two wheeler transport golaghat, bike courier service golaghat, bike relocation golaghat, motorcycle transport golaghat">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport golaghat, bike shifting golaghat, two wheeler transport golaghat, bike courier service golaghat, bike relocation golaghat, motorcycle transport golaghat">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Bhind. Safe, insured door-to-door bike shifting to and from Bhind to anywhere in India.">
     <meta name="keywords"
-        content="bike transport bhind, bike shifting bhind, two wheeler transport bhind, bike courier service bhind, bike relocation bhind, motorcycle transport bhind">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport bhind, bike shifting bhind, two wheeler transport bhind, bike courier service bhind, bike relocation bhind, motorcycle transport bhind">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

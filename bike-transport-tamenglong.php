@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Tamenglong. Safe, insured door-to-door bike shifting to and from Tamenglong to anywhere in India.">
     <meta name="keywords"
-        content="bike transport tamenglong, bike shifting tamenglong, two wheeler transport tamenglong, bike courier service tamenglong, bike relocation tamenglong, motorcycle transport tamenglong">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport tamenglong, bike shifting tamenglong, two wheeler transport tamenglong, bike courier service tamenglong, bike relocation tamenglong, motorcycle transport tamenglong">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

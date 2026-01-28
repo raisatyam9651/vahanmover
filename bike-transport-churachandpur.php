@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Churachandpur. Safe, insured door-to-door bike shifting to and from Churachandpur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport churachandpur, bike shifting churachandpur, two wheeler transport churachandpur, bike courier service churachandpur, bike relocation churachandpur, motorcycle transport churachandpur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport churachandpur, bike shifting churachandpur, two wheeler transport churachandpur, bike courier service churachandpur, bike relocation churachandpur, motorcycle transport churachandpur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

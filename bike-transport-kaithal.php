@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kaithal. Safe, insured door-to-door bike shifting to and from Kaithal to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kaithal, bike shifting kaithal, two wheeler transport kaithal, bike courier service kaithal, bike relocation kaithal, motorcycle transport kaithal">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kaithal, bike shifting kaithal, two wheeler transport kaithal, bike courier service kaithal, bike relocation kaithal, motorcycle transport kaithal">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

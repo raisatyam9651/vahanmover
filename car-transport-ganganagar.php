@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Ganganagar | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Ganganagar. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport ganganagar, car shifting ganganagar, vehicle transport ganganagar, car carrier ganganagar, car relocation ganganagar">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport ganganagar, car shifting ganganagar, vehicle transport ganganagar, car carrier ganganagar, car relocation ganganagar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

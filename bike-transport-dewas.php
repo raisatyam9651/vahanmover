@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Dewas. Safe, insured door-to-door bike shifting to and from Dewas to anywhere in India.">
     <meta name="keywords"
-        content="bike transport dewas, bike shifting dewas, two wheeler transport dewas, bike courier service dewas, bike relocation dewas, motorcycle transport dewas">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport dewas, bike shifting dewas, two wheeler transport dewas, bike courier service dewas, bike relocation dewas, motorcycle transport dewas">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

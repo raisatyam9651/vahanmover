@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Vijayapura | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Vijayapura. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport vijayapura, car shifting vijayapura, vehicle transport vijayapura, car carrier vijayapura, car relocation vijayapura">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport vijayapura, car shifting vijayapura, vehicle transport vijayapura, car carrier vijayapura, car relocation vijayapura">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

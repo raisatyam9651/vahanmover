@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Agra | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Agra. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport agra, car shifting agra, vehicle transport agra, car carrier agra, car relocation agra">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport agra, car shifting agra, vehicle transport agra, car carrier agra, car relocation agra">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

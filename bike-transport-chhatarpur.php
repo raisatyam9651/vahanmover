@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Chhatarpur. Safe, insured door-to-door bike shifting to and from Chhatarpur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport chhatarpur, bike shifting chhatarpur, two wheeler transport chhatarpur, bike courier service chhatarpur, bike relocation chhatarpur, motorcycle transport chhatarpur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport chhatarpur, bike shifting chhatarpur, two wheeler transport chhatarpur, bike courier service chhatarpur, bike relocation chhatarpur, motorcycle transport chhatarpur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

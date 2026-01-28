@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Ferozepur. Safe, insured door-to-door bike shifting to and from Ferozepur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport ferozepur, bike shifting ferozepur, two wheeler transport ferozepur, bike courier service ferozepur, bike relocation ferozepur, motorcycle transport ferozepur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport ferozepur, bike shifting ferozepur, two wheeler transport ferozepur, bike courier service ferozepur, bike relocation ferozepur, motorcycle transport ferozepur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

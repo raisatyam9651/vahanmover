@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Jashpur. Safe, insured door-to-door bike shifting to and from Jashpur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport jashpur, bike shifting jashpur, two wheeler transport jashpur, bike courier service jashpur, bike relocation jashpur, motorcycle transport jashpur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport jashpur, bike shifting jashpur, two wheeler transport jashpur, bike courier service jashpur, bike relocation jashpur, motorcycle transport jashpur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

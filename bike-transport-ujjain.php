@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Ujjain. Safe, insured door-to-door bike shifting to and from Ujjain to anywhere in India.">
     <meta name="keywords"
-        content="bike transport ujjain, bike shifting ujjain, two wheeler transport ujjain, bike courier service ujjain, bike relocation ujjain, motorcycle transport ujjain">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport ujjain, bike shifting ujjain, two wheeler transport ujjain, bike courier service ujjain, bike relocation ujjain, motorcycle transport ujjain">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

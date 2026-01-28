@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Barnala. Safe, insured door-to-door bike shifting to and from Barnala to anywhere in India.">
     <meta name="keywords"
-        content="bike transport barnala, bike shifting barnala, two wheeler transport barnala, bike courier service barnala, bike relocation barnala, motorcycle transport barnala">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport barnala, bike shifting barnala, two wheeler transport barnala, bike courier service barnala, bike relocation barnala, motorcycle transport barnala">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

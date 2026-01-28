@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Bhavnagar. Safe, insured door-to-door bike shifting to and from Bhavnagar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport bhavnagar, bike shifting bhavnagar, two wheeler transport bhavnagar, bike courier service bhavnagar, bike relocation bhavnagar, motorcycle transport bhavnagar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport bhavnagar, bike shifting bhavnagar, two wheeler transport bhavnagar, bike courier service bhavnagar, bike relocation bhavnagar, motorcycle transport bhavnagar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

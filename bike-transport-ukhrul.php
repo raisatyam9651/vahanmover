@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Ukhrul. Safe, insured door-to-door bike shifting to and from Ukhrul to anywhere in India.">
     <meta name="keywords"
-        content="bike transport ukhrul, bike shifting ukhrul, two wheeler transport ukhrul, bike courier service ukhrul, bike relocation ukhrul, motorcycle transport ukhrul">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport ukhrul, bike shifting ukhrul, two wheeler transport ukhrul, bike courier service ukhrul, bike relocation ukhrul, motorcycle transport ukhrul">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

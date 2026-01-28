@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kotputli-Behror. Safe, insured door-to-door bike shifting to and from Kotputli-Behror to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kotputli-behror, bike shifting kotputli-behror, two wheeler transport kotputli-behror, bike courier service kotputli-behror, bike relocation kotputli-behror, motorcycle transport kotputli-behror">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kotputli-behror, bike shifting kotputli-behror, two wheeler transport kotputli-behror, bike courier service kotputli-behror, bike relocation kotputli-behror, motorcycle transport kotputli-behror">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

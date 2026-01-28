@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Mancherial. Safe, insured door-to-door bike shifting to and from Mancherial to anywhere in India.">
     <meta name="keywords"
-        content="bike transport mancherial, bike shifting mancherial, two wheeler transport mancherial, bike courier service mancherial, bike relocation mancherial, motorcycle transport mancherial">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport mancherial, bike shifting mancherial, two wheeler transport mancherial, bike courier service mancherial, bike relocation mancherial, motorcycle transport mancherial">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

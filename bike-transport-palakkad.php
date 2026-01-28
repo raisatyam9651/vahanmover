@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Palakkad. Safe, insured door-to-door bike shifting to and from Palakkad to anywhere in India.">
     <meta name="keywords"
-        content="bike transport palakkad, bike shifting palakkad, two wheeler transport palakkad, bike courier service palakkad, bike relocation palakkad, motorcycle transport palakkad">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport palakkad, bike shifting palakkad, two wheeler transport palakkad, bike courier service palakkad, bike relocation palakkad, motorcycle transport palakkad">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

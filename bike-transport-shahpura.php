@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Shahpura. Safe, insured door-to-door bike shifting to and from Shahpura to anywhere in India.">
     <meta name="keywords"
-        content="bike transport shahpura, bike shifting shahpura, two wheeler transport shahpura, bike courier service shahpura, bike relocation shahpura, motorcycle transport shahpura">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport shahpura, bike shifting shahpura, two wheeler transport shahpura, bike courier service shahpura, bike relocation shahpura, motorcycle transport shahpura">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Bongaigaon. Safe, insured door-to-door bike shifting to and from Bongaigaon to anywhere in India.">
     <meta name="keywords"
-        content="bike transport bongaigaon, bike shifting bongaigaon, two wheeler transport bongaigaon, bike courier service bongaigaon, bike relocation bongaigaon, motorcycle transport bongaigaon">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport bongaigaon, bike shifting bongaigaon, two wheeler transport bongaigaon, bike courier service bongaigaon, bike relocation bongaigaon, motorcycle transport bongaigaon">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

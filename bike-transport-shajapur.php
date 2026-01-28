@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Shajapur. Safe, insured door-to-door bike shifting to and from Shajapur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport shajapur, bike shifting shajapur, two wheeler transport shajapur, bike courier service shajapur, bike relocation shajapur, motorcycle transport shajapur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport shajapur, bike shifting shajapur, two wheeler transport shajapur, bike courier service shajapur, bike relocation shajapur, motorcycle transport shajapur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

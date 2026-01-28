@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Khowai | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Khowai. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport khowai, car shifting khowai, vehicle transport khowai, car carrier khowai, car relocation khowai">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport khowai, car shifting khowai, vehicle transport khowai, car carrier khowai, car relocation khowai">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

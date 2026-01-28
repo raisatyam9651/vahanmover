@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Amethi. Safe, insured door-to-door bike shifting to and from Amethi to anywhere in India.">
     <meta name="keywords"
-        content="bike transport amethi, bike shifting amethi, two wheeler transport amethi, bike courier service amethi, bike relocation amethi, motorcycle transport amethi">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport amethi, bike shifting amethi, two wheeler transport amethi, bike courier service amethi, bike relocation amethi, motorcycle transport amethi">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

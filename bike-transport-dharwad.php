@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Dharwad. Safe, insured door-to-door bike shifting to and from Dharwad to anywhere in India.">
     <meta name="keywords"
-        content="bike transport dharwad, bike shifting dharwad, two wheeler transport dharwad, bike courier service dharwad, bike relocation dharwad, motorcycle transport dharwad">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport dharwad, bike shifting dharwad, two wheeler transport dharwad, bike courier service dharwad, bike relocation dharwad, motorcycle transport dharwad">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

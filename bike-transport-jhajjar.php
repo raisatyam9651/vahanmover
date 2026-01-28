@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Jhajjar. Safe, insured door-to-door bike shifting to and from Jhajjar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport jhajjar, bike shifting jhajjar, two wheeler transport jhajjar, bike courier service jhajjar, bike relocation jhajjar, motorcycle transport jhajjar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport jhajjar, bike shifting jhajjar, two wheeler transport jhajjar, bike courier service jhajjar, bike relocation jhajjar, motorcycle transport jhajjar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

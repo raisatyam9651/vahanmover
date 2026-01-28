@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Ajmer. Safe, insured door-to-door bike shifting to and from Ajmer to anywhere in India.">
     <meta name="keywords"
-        content="bike transport ajmer, bike shifting ajmer, two wheeler transport ajmer, bike courier service ajmer, bike relocation ajmer, motorcycle transport ajmer">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport ajmer, bike shifting ajmer, two wheeler transport ajmer, bike courier service ajmer, bike relocation ajmer, motorcycle transport ajmer">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

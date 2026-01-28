@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Etawah. Safe, insured door-to-door bike shifting to and from Etawah to anywhere in India.">
     <meta name="keywords"
-        content="bike transport etawah, bike shifting etawah, two wheeler transport etawah, bike courier service etawah, bike relocation etawah, motorcycle transport etawah">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport etawah, bike shifting etawah, two wheeler transport etawah, bike courier service etawah, bike relocation etawah, motorcycle transport etawah">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Pauri Garhwal. Safe, insured door-to-door bike shifting to and from Pauri Garhwal to anywhere in India.">
     <meta name="keywords"
-        content="bike transport pauri-garhwal, bike shifting pauri-garhwal, two wheeler transport pauri-garhwal, bike courier service pauri-garhwal, bike relocation pauri-garhwal, motorcycle transport pauri-garhwal">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport pauri-garhwal, bike shifting pauri-garhwal, two wheeler transport pauri-garhwal, bike courier service pauri-garhwal, bike relocation pauri-garhwal, motorcycle transport pauri-garhwal">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

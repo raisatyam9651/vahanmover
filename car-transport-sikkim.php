@@ -8,7 +8,9 @@
     <title>Car Transport in Sikkim | Safe Vehicle Shifting Services</title>
     <meta name="description"
         content="Professional car transport service in Sikkim covering Gangtok, Namchi, Gyalshing, Mangan, and all districts. Safe, insured door-to-door car shifting.">
-    <meta name="keywords" content="car transport sikkim, car transport gangtok, car transport gyalshing, car transport mangan, car transport namchi, car transport pakyong, car transport soreng, car shifting sikkim, vehicle transport sikkim, car carrier gangtok, car relocation namchi">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport sikkim, car transport gangtok, car transport gyalshing, car transport mangan, car transport namchi, car transport pakyong, car transport soreng, car shifting sikkim, vehicle transport sikkim, car carrier gangtok, car relocation namchi">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

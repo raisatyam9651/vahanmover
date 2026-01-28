@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Patan. Safe, insured door-to-door bike shifting to and from Patan to anywhere in India.">
     <meta name="keywords"
-        content="bike transport patan, bike shifting patan, two wheeler transport patan, bike courier service patan, bike relocation patan, motorcycle transport patan">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport patan, bike shifting patan, two wheeler transport patan, bike courier service patan, bike relocation patan, motorcycle transport patan">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

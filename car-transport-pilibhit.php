@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Pilibhit | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Pilibhit. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport pilibhit, car shifting pilibhit, vehicle transport pilibhit, car carrier pilibhit, car relocation pilibhit">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport pilibhit, car shifting pilibhit, vehicle transport pilibhit, car carrier pilibhit, car relocation pilibhit">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

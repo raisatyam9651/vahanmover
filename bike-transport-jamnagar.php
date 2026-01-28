@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Jamnagar. Safe, insured door-to-door bike shifting to and from Jamnagar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport jamnagar, bike shifting jamnagar, two wheeler transport jamnagar, bike courier service jamnagar, bike relocation jamnagar, motorcycle transport jamnagar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport jamnagar, bike shifting jamnagar, two wheeler transport jamnagar, bike courier service jamnagar, bike relocation jamnagar, motorcycle transport jamnagar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

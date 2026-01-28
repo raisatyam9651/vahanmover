@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Mandi. Safe, insured door-to-door bike shifting to and from Mandi to anywhere in India.">
     <meta name="keywords"
-        content="bike transport mandi, bike shifting mandi, two wheeler transport mandi, bike courier service mandi, bike relocation mandi, motorcycle transport mandi">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport mandi, bike shifting mandi, two wheeler transport mandi, bike courier service mandi, bike relocation mandi, motorcycle transport mandi">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

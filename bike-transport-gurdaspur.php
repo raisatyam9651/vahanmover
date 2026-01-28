@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Gurdaspur. Safe, insured door-to-door bike shifting to and from Gurdaspur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport gurdaspur, bike shifting gurdaspur, two wheeler transport gurdaspur, bike courier service gurdaspur, bike relocation gurdaspur, motorcycle transport gurdaspur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport gurdaspur, bike shifting gurdaspur, two wheeler transport gurdaspur, bike courier service gurdaspur, bike relocation gurdaspur, motorcycle transport gurdaspur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

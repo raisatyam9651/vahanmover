@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Koppal. Safe, insured door-to-door bike shifting to and from Koppal to anywhere in India.">
     <meta name="keywords"
-        content="bike transport koppal, bike shifting koppal, two wheeler transport koppal, bike courier service koppal, bike relocation koppal, motorcycle transport koppal">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport koppal, bike shifting koppal, two wheeler transport koppal, bike courier service koppal, bike relocation koppal, motorcycle transport koppal">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

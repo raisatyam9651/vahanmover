@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Jhajjar | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Jhajjar. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport jhajjar, car shifting jhajjar, vehicle transport jhajjar, car carrier jhajjar, car relocation jhajjar">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport jhajjar, car shifting jhajjar, vehicle transport jhajjar, car carrier jhajjar, car relocation jhajjar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Jalandhar. Safe, insured door-to-door bike shifting to and from Jalandhar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport jalandhar, bike shifting jalandhar, two wheeler transport jalandhar, bike courier service jalandhar, bike relocation jalandhar, motorcycle transport jalandhar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport jalandhar, bike shifting jalandhar, two wheeler transport jalandhar, bike courier service jalandhar, bike relocation jalandhar, motorcycle transport jalandhar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

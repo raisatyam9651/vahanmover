@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Samastipur. Safe, insured door-to-door bike shifting to and from Samastipur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport samastipur, bike shifting samastipur, two wheeler transport samastipur, bike courier service samastipur, bike relocation samastipur, motorcycle transport samastipur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport samastipur, bike shifting samastipur, two wheeler transport samastipur, bike courier service samastipur, bike relocation samastipur, motorcycle transport samastipur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

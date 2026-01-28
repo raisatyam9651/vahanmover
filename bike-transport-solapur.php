@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Solapur. Safe, insured door-to-door bike shifting to and from Solapur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport solapur, bike shifting solapur, two wheeler transport solapur, bike courier service solapur, bike relocation solapur, motorcycle transport solapur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport solapur, bike shifting solapur, two wheeler transport solapur, bike courier service solapur, bike relocation solapur, motorcycle transport solapur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Sindhudurg | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Sindhudurg. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport sindhudurg, car shifting sindhudurg, vehicle transport sindhudurg, car carrier sindhudurg, car relocation sindhudurg">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport sindhudurg, car shifting sindhudurg, vehicle transport sindhudurg, car carrier sindhudurg, car relocation sindhudurg">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

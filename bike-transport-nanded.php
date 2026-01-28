@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Nanded. Safe, insured door-to-door bike shifting to and from Nanded to anywhere in India.">
     <meta name="keywords"
-        content="bike transport nanded, bike shifting nanded, two wheeler transport nanded, bike courier service nanded, bike relocation nanded, motorcycle transport nanded">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport nanded, bike shifting nanded, two wheeler transport nanded, bike courier service nanded, bike relocation nanded, motorcycle transport nanded">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

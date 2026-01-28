@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Ratlam. Safe, insured door-to-door bike shifting to and from Ratlam to anywhere in India.">
     <meta name="keywords"
-        content="bike transport ratlam, bike shifting ratlam, two wheeler transport ratlam, bike courier service ratlam, bike relocation ratlam, motorcycle transport ratlam">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport ratlam, bike shifting ratlam, two wheeler transport ratlam, bike courier service ratlam, bike relocation ratlam, motorcycle transport ratlam">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

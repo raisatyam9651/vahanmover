@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Guna. Safe, insured door-to-door bike shifting to and from Guna to anywhere in India.">
     <meta name="keywords"
-        content="bike transport guna, bike shifting guna, two wheeler transport guna, bike courier service guna, bike relocation guna, motorcycle transport guna">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport guna, bike shifting guna, two wheeler transport guna, bike courier service guna, bike relocation guna, motorcycle transport guna">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

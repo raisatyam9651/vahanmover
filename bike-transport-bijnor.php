@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Bijnor. Safe, insured door-to-door bike shifting to and from Bijnor to anywhere in India.">
     <meta name="keywords"
-        content="bike transport bijnor, bike shifting bijnor, two wheeler transport bijnor, bike courier service bijnor, bike relocation bijnor, motorcycle transport bijnor">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport bijnor, bike shifting bijnor, two wheeler transport bijnor, bike courier service bijnor, bike relocation bijnor, motorcycle transport bijnor">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

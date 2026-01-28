@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Agar Malwa. Safe, insured door-to-door bike shifting to and from Agar Malwa to anywhere in India.">
     <meta name="keywords"
-        content="bike transport agar-malwa, bike shifting agar-malwa, two wheeler transport agar-malwa, bike courier service agar-malwa, bike relocation agar-malwa, motorcycle transport agar-malwa">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport agar-malwa, bike shifting agar-malwa, two wheeler transport agar-malwa, bike courier service agar-malwa, bike relocation agar-malwa, motorcycle transport agar-malwa">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Ariyalur. Safe, insured door-to-door bike shifting to and from Ariyalur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport ariyalur, bike shifting ariyalur, two wheeler transport ariyalur, bike courier service ariyalur, bike relocation ariyalur, motorcycle transport ariyalur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport ariyalur, bike shifting ariyalur, two wheeler transport ariyalur, bike courier service ariyalur, bike relocation ariyalur, motorcycle transport ariyalur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

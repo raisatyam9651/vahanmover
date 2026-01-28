@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Thanjavur. Safe, insured door-to-door bike shifting to and from Thanjavur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport thanjavur, bike shifting thanjavur, two wheeler transport thanjavur, bike courier service thanjavur, bike relocation thanjavur, motorcycle transport thanjavur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport thanjavur, bike shifting thanjavur, two wheeler transport thanjavur, bike courier service thanjavur, bike relocation thanjavur, motorcycle transport thanjavur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

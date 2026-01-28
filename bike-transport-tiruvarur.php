@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Tiruvarur. Safe, insured door-to-door bike shifting to and from Tiruvarur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport tiruvarur, bike shifting tiruvarur, two wheeler transport tiruvarur, bike courier service tiruvarur, bike relocation tiruvarur, motorcycle transport tiruvarur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport tiruvarur, bike shifting tiruvarur, two wheeler transport tiruvarur, bike courier service tiruvarur, bike relocation tiruvarur, motorcycle transport tiruvarur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

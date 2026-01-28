@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Malkangiri. Safe, insured door-to-door bike shifting to and from Malkangiri to anywhere in India.">
     <meta name="keywords"
-        content="bike transport malkangiri, bike shifting malkangiri, two wheeler transport malkangiri, bike courier service malkangiri, bike relocation malkangiri, motorcycle transport malkangiri">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport malkangiri, bike shifting malkangiri, two wheeler transport malkangiri, bike courier service malkangiri, bike relocation malkangiri, motorcycle transport malkangiri">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Banaskantha | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Banaskantha. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport banaskantha, car shifting banaskantha, vehicle transport banaskantha, car carrier banaskantha, car relocation banaskantha">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport banaskantha, car shifting banaskantha, vehicle transport banaskantha, car carrier banaskantha, car relocation banaskantha">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

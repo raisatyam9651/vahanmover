@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Sirmaur. Safe, insured door-to-door bike shifting to and from Sirmaur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport sirmaur, bike shifting sirmaur, two wheeler transport sirmaur, bike courier service sirmaur, bike relocation sirmaur, motorcycle transport sirmaur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport sirmaur, bike shifting sirmaur, two wheeler transport sirmaur, bike courier service sirmaur, bike relocation sirmaur, motorcycle transport sirmaur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

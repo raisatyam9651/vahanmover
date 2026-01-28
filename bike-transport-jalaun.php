@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Jalaun. Safe, insured door-to-door bike shifting to and from Jalaun to anywhere in India.">
     <meta name="keywords"
-        content="bike transport jalaun, bike shifting jalaun, two wheeler transport jalaun, bike courier service jalaun, bike relocation jalaun, motorcycle transport jalaun">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport jalaun, bike shifting jalaun, two wheeler transport jalaun, bike courier service jalaun, bike relocation jalaun, motorcycle transport jalaun">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

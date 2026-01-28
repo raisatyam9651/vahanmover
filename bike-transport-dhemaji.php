@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Dhemaji. Safe, insured door-to-door bike shifting to and from Dhemaji to anywhere in India.">
     <meta name="keywords"
-        content="bike transport dhemaji, bike shifting dhemaji, two wheeler transport dhemaji, bike courier service dhemaji, bike relocation dhemaji, motorcycle transport dhemaji">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport dhemaji, bike shifting dhemaji, two wheeler transport dhemaji, bike courier service dhemaji, bike relocation dhemaji, motorcycle transport dhemaji">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

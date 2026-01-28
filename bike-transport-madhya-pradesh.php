@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Madhya Pradesh covering Bhopal, Indore, Jabalpur, Gwalior, and all districts. Safe, insured door-to-door bike shifting.">
     <meta name="keywords"
-        content="bike transport madhya pradesh, bike shifting bhopal, two wheeler transport indore, bike courier jabalpur, bike relocation gwalior, motorcycle transport madhya pradesh">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport madhya pradesh, bike shifting bhopal, two wheeler transport indore, bike courier jabalpur, bike relocation gwalior, motorcycle transport madhya pradesh">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

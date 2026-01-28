@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Nizamabad. Safe, insured door-to-door bike shifting to and from Nizamabad to anywhere in India.">
     <meta name="keywords"
-        content="bike transport nizamabad, bike shifting nizamabad, two wheeler transport nizamabad, bike courier service nizamabad, bike relocation nizamabad, motorcycle transport nizamabad">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport nizamabad, bike shifting nizamabad, two wheeler transport nizamabad, bike courier service nizamabad, bike relocation nizamabad, motorcycle transport nizamabad">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

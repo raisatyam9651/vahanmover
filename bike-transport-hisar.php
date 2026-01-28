@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Hisar. Safe, insured door-to-door bike shifting to and from Hisar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport hisar, bike shifting hisar, two wheeler transport hisar, bike courier service hisar, bike relocation hisar, motorcycle transport hisar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport hisar, bike shifting hisar, two wheeler transport hisar, bike courier service hisar, bike relocation hisar, motorcycle transport hisar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Mumbai City. Safe, insured door-to-door bike shifting to and from Mumbai City to anywhere in India.">
     <meta name="keywords"
-        content="bike transport mumbai-city, bike shifting mumbai-city, two wheeler transport mumbai-city, bike courier service mumbai-city, bike relocation mumbai-city, motorcycle transport mumbai-city">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport mumbai-city, bike shifting mumbai-city, two wheeler transport mumbai-city, bike courier service mumbai-city, bike relocation mumbai-city, motorcycle transport mumbai-city">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

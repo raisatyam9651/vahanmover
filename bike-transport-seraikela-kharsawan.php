@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Seraikela Kharsawan. Safe, insured door-to-door bike shifting to and from Seraikela Kharsawan to anywhere in India.">
     <meta name="keywords"
-        content="bike transport seraikela-kharsawan, bike shifting seraikela-kharsawan, two wheeler transport seraikela-kharsawan, bike courier service seraikela-kharsawan, bike relocation seraikela-kharsawan, motorcycle transport seraikela-kharsawan">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport seraikela-kharsawan, bike shifting seraikela-kharsawan, two wheeler transport seraikela-kharsawan, bike courier service seraikela-kharsawan, bike relocation seraikela-kharsawan, motorcycle transport seraikela-kharsawan">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

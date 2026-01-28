@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Amreli. Safe, insured door-to-door bike shifting to and from Amreli to anywhere in India.">
     <meta name="keywords"
-        content="bike transport amreli, bike shifting amreli, two wheeler transport amreli, bike courier service amreli, bike relocation amreli, motorcycle transport amreli">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport amreli, bike shifting amreli, two wheeler transport amreli, bike courier service amreli, bike relocation amreli, motorcycle transport amreli">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

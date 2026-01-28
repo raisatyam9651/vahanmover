@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Pudukkottai. Safe, insured door-to-door bike shifting to and from Pudukkottai to anywhere in India.">
     <meta name="keywords"
-        content="bike transport pudukkottai, bike shifting pudukkottai, two wheeler transport pudukkottai, bike courier service pudukkottai, bike relocation pudukkottai, motorcycle transport pudukkottai">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport pudukkottai, bike shifting pudukkottai, two wheeler transport pudukkottai, bike courier service pudukkottai, bike relocation pudukkottai, motorcycle transport pudukkottai">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

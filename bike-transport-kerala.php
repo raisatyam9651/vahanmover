@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kerala covering Thiruvananthapuram, Kochi, Kozhikode, Thrissur, and all districts. Safe, insured door-to-door bike shifting.">
     <meta name="keywords"
-        content="bike transport kerala, bike shifting thiruvananthapuram, two wheeler transport kochi, bike courier kozhikode, bike relocation thrissur, motorcycle transport kerala">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kerala, bike shifting thiruvananthapuram, two wheeler transport kochi, bike courier kozhikode, bike relocation thrissur, motorcycle transport kerala">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

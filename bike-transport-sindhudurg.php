@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Sindhudurg. Safe, insured door-to-door bike shifting to and from Sindhudurg to anywhere in India.">
     <meta name="keywords"
-        content="bike transport sindhudurg, bike shifting sindhudurg, two wheeler transport sindhudurg, bike courier service sindhudurg, bike relocation sindhudurg, motorcycle transport sindhudurg">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport sindhudurg, bike shifting sindhudurg, two wheeler transport sindhudurg, bike courier service sindhudurg, bike relocation sindhudurg, motorcycle transport sindhudurg">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

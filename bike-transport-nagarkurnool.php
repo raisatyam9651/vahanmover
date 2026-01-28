@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Nagarkurnool. Safe, insured door-to-door bike shifting to and from Nagarkurnool to anywhere in India.">
     <meta name="keywords"
-        content="bike transport nagarkurnool, bike shifting nagarkurnool, two wheeler transport nagarkurnool, bike courier service nagarkurnool, bike relocation nagarkurnool, motorcycle transport nagarkurnool">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport nagarkurnool, bike shifting nagarkurnool, two wheeler transport nagarkurnool, bike courier service nagarkurnool, bike relocation nagarkurnool, motorcycle transport nagarkurnool">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

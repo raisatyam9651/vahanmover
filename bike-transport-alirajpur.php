@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Alirajpur. Safe, insured door-to-door bike shifting to and from Alirajpur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport alirajpur, bike shifting alirajpur, two wheeler transport alirajpur, bike courier service alirajpur, bike relocation alirajpur, motorcycle transport alirajpur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport alirajpur, bike shifting alirajpur, two wheeler transport alirajpur, bike courier service alirajpur, bike relocation alirajpur, motorcycle transport alirajpur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

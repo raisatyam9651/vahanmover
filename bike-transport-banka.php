@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Banka. Safe, insured door-to-door bike shifting to and from Banka to anywhere in India.">
     <meta name="keywords"
-        content="bike transport banka, bike shifting banka, two wheeler transport banka, bike courier service banka, bike relocation banka, motorcycle transport banka">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport banka, bike shifting banka, two wheeler transport banka, bike courier service banka, bike relocation banka, motorcycle transport banka">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

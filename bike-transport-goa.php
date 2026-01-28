@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Goa covering Panaji, Margao, Vasco da Gama, Mapusa, and all areas. Safe, insured door-to-door bike shifting.">
     <meta name="keywords"
-        content="bike transport goa, bike shifting panaji, two wheeler transport margao, bike courier vasco da gama, bike relocation mapusa, motorcycle transport goa">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport goa, bike shifting panaji, two wheeler transport margao, bike courier vasco da gama, bike relocation mapusa, motorcycle transport goa">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

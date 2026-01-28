@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Sonipat. Safe, insured door-to-door bike shifting to and from Sonipat to anywhere in India.">
     <meta name="keywords"
-        content="bike transport sonipat, bike shifting sonipat, two wheeler transport sonipat, bike courier service sonipat, bike relocation sonipat, motorcycle transport sonipat">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport sonipat, bike shifting sonipat, two wheeler transport sonipat, bike courier service sonipat, bike relocation sonipat, motorcycle transport sonipat">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

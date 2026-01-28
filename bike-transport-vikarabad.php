@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Vikarabad. Safe, insured door-to-door bike shifting to and from Vikarabad to anywhere in India.">
     <meta name="keywords"
-        content="bike transport vikarabad, bike shifting vikarabad, two wheeler transport vikarabad, bike courier service vikarabad, bike relocation vikarabad, motorcycle transport vikarabad">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport vikarabad, bike shifting vikarabad, two wheeler transport vikarabad, bike courier service vikarabad, bike relocation vikarabad, motorcycle transport vikarabad">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

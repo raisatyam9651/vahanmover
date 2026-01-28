@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Tamenglong | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Tamenglong. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport tamenglong, car shifting tamenglong, vehicle transport tamenglong, car carrier tamenglong, car relocation tamenglong">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport tamenglong, car shifting tamenglong, vehicle transport tamenglong, car carrier tamenglong, car relocation tamenglong">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

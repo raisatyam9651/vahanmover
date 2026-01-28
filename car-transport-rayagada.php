@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Rayagada | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Rayagada. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport rayagada, car shifting rayagada, vehicle transport rayagada, car carrier rayagada, car relocation rayagada">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport rayagada, car shifting rayagada, vehicle transport rayagada, car carrier rayagada, car relocation rayagada">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

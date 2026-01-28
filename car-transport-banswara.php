@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Banswara | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Banswara. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport banswara, car shifting banswara, vehicle transport banswara, car carrier banswara, car relocation banswara">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport banswara, car shifting banswara, vehicle transport banswara, car carrier banswara, car relocation banswara">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Damoh. Safe, insured door-to-door bike shifting to and from Damoh to anywhere in India.">
     <meta name="keywords"
-        content="bike transport damoh, bike shifting damoh, two wheeler transport damoh, bike courier service damoh, bike relocation damoh, motorcycle transport damoh">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport damoh, bike shifting damoh, two wheeler transport damoh, bike courier service damoh, bike relocation damoh, motorcycle transport damoh">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

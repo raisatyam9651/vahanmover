@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Shimla. Safe, insured door-to-door bike shifting to and from Shimla to anywhere in India.">
     <meta name="keywords"
-        content="bike transport shimla, bike shifting shimla, two wheeler transport shimla, bike courier service shimla, bike relocation shimla, motorcycle transport shimla">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport shimla, bike shifting shimla, two wheeler transport shimla, bike courier service shimla, bike relocation shimla, motorcycle transport shimla">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

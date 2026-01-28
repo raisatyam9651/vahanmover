@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Ranipet. Safe, insured door-to-door bike shifting to and from Ranipet to anywhere in India.">
     <meta name="keywords"
-        content="bike transport ranipet, bike shifting ranipet, two wheeler transport ranipet, bike courier service ranipet, bike relocation ranipet, motorcycle transport ranipet">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport ranipet, bike shifting ranipet, two wheeler transport ranipet, bike courier service ranipet, bike relocation ranipet, motorcycle transport ranipet">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

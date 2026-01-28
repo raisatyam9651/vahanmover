@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Gwalior. Safe, insured door-to-door bike shifting to and from Gwalior to anywhere in India.">
     <meta name="keywords"
-        content="bike transport gwalior, bike shifting gwalior, two wheeler transport gwalior, bike courier service gwalior, bike relocation gwalior, motorcycle transport gwalior">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport gwalior, bike shifting gwalior, two wheeler transport gwalior, bike courier service gwalior, bike relocation gwalior, motorcycle transport gwalior">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

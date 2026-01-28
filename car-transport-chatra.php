@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Chatra | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Chatra. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport chatra, car shifting chatra, vehicle transport chatra, car carrier chatra, car relocation chatra">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport chatra, car shifting chatra, vehicle transport chatra, car carrier chatra, car relocation chatra">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

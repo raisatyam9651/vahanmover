@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Junagadh. Safe, insured door-to-door bike shifting to and from Junagadh to anywhere in India.">
     <meta name="keywords"
-        content="bike transport junagadh, bike shifting junagadh, two wheeler transport junagadh, bike courier service junagadh, bike relocation junagadh, motorcycle transport junagadh">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport junagadh, bike shifting junagadh, two wheeler transport junagadh, bike courier service junagadh, bike relocation junagadh, motorcycle transport junagadh">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

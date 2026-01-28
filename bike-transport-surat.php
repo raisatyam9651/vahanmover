@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Surat. Safe, insured door-to-door bike shifting to and from Surat to anywhere in India.">
     <meta name="keywords"
-        content="bike transport surat, bike shifting surat, two wheeler transport surat, bike courier service surat, bike relocation surat, motorcycle transport surat">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport surat, bike shifting surat, two wheeler transport surat, bike courier service surat, bike relocation surat, motorcycle transport surat">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Dhanbad. Safe, insured door-to-door bike shifting to and from Dhanbad to anywhere in India.">
     <meta name="keywords"
-        content="bike transport dhanbad, bike shifting dhanbad, two wheeler transport dhanbad, bike courier service dhanbad, bike relocation dhanbad, motorcycle transport dhanbad">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport dhanbad, bike shifting dhanbad, two wheeler transport dhanbad, bike courier service dhanbad, bike relocation dhanbad, motorcycle transport dhanbad">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Bhojpur. Safe, insured door-to-door bike shifting to and from Bhojpur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport bhojpur, bike shifting bhojpur, two wheeler transport bhojpur, bike courier service bhojpur, bike relocation bhojpur, motorcycle transport bhojpur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport bhojpur, bike shifting bhojpur, two wheeler transport bhojpur, bike courier service bhojpur, bike relocation bhojpur, motorcycle transport bhojpur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

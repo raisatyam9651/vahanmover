@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Ri Bhoi | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Ri Bhoi. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport ri bhoi, car shifting ri bhoi, vehicle transport ri bhoi, car carrier ri bhoi, car relocation ri bhoi">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport ri bhoi, car shifting ri bhoi, vehicle transport ri bhoi, car carrier ri bhoi, car relocation ri bhoi">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

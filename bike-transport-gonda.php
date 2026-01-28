@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Gonda. Safe, insured door-to-door bike shifting to and from Gonda to anywhere in India.">
     <meta name="keywords"
-        content="bike transport gonda, bike shifting gonda, two wheeler transport gonda, bike courier service gonda, bike relocation gonda, motorcycle transport gonda">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport gonda, bike shifting gonda, two wheeler transport gonda, bike courier service gonda, bike relocation gonda, motorcycle transport gonda">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

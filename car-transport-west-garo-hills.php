@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in West Garo Hills | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in West Garo Hills. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport west garo hills, car shifting west garo hills, vehicle transport west garo hills, car carrier west garo hills, car relocation west garo hills">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport west garo hills, car shifting west garo hills, vehicle transport west garo hills, car carrier west garo hills, car relocation west garo hills">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Dharmapuri. Safe, insured door-to-door bike shifting to and from Dharmapuri to anywhere in India.">
     <meta name="keywords"
-        content="bike transport dharmapuri, bike shifting dharmapuri, two wheeler transport dharmapuri, bike courier service dharmapuri, bike relocation dharmapuri, motorcycle transport dharmapuri">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport dharmapuri, bike shifting dharmapuri, two wheeler transport dharmapuri, bike courier service dharmapuri, bike relocation dharmapuri, motorcycle transport dharmapuri">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

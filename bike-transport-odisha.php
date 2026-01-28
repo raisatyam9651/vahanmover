@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Odisha covering Bhubaneswar, Cuttack, Rourkela, Berhampur, and all districts. Safe, insured door-to-door bike shifting.">
     <meta name="keywords"
-        content="bike transport odisha, bike shifting bhubaneswar, two wheeler transport cuttack, bike courier rourkela, bike relocation berhampur, motorcycle transport odisha">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport odisha, bike shifting bhubaneswar, two wheeler transport cuttack, bike courier rourkela, bike relocation berhampur, motorcycle transport odisha">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

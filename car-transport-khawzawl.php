@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Khawzawl | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Khawzawl. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport khawzawl, car shifting khawzawl, vehicle transport khawzawl, car carrier khawzawl, car relocation khawzawl">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport khawzawl, car shifting khawzawl, vehicle transport khawzawl, car carrier khawzawl, car relocation khawzawl">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

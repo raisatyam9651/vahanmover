@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Churu. Safe, insured door-to-door bike shifting to and from Churu to anywhere in India.">
     <meta name="keywords"
-        content="bike transport churu, bike shifting churu, two wheeler transport churu, bike courier service churu, bike relocation churu, motorcycle transport churu">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport churu, bike shifting churu, two wheeler transport churu, bike courier service churu, bike relocation churu, motorcycle transport churu">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

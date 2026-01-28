@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Koderma. Safe, insured door-to-door bike shifting to and from Koderma to anywhere in India.">
     <meta name="keywords"
-        content="bike transport koderma, bike shifting koderma, two wheeler transport koderma, bike courier service koderma, bike relocation koderma, motorcycle transport koderma">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport koderma, bike shifting koderma, two wheeler transport koderma, bike courier service koderma, bike relocation koderma, motorcycle transport koderma">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

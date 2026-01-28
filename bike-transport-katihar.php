@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Katihar. Safe, insured door-to-door bike shifting to and from Katihar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport katihar, bike shifting katihar, two wheeler transport katihar, bike courier service katihar, bike relocation katihar, motorcycle transport katihar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport katihar, bike shifting katihar, two wheeler transport katihar, bike courier service katihar, bike relocation katihar, motorcycle transport katihar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

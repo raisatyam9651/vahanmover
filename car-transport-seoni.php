@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Seoni | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Seoni. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport seoni, car shifting seoni, vehicle transport seoni, car carrier seoni, car relocation seoni">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport seoni, car shifting seoni, vehicle transport seoni, car carrier seoni, car relocation seoni">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

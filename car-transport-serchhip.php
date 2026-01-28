@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Serchhip | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Serchhip. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport serchhip, car shifting serchhip, vehicle transport serchhip, car carrier serchhip, car relocation serchhip">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport serchhip, car shifting serchhip, vehicle transport serchhip, car carrier serchhip, car relocation serchhip">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

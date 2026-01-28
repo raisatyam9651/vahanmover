@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Jogulamba Gadwal. Safe, insured door-to-door bike shifting to and from Jogulamba Gadwal to anywhere in India.">
     <meta name="keywords"
-        content="bike transport jogulamba-gadwal, bike shifting jogulamba-gadwal, two wheeler transport jogulamba-gadwal, bike courier service jogulamba-gadwal, bike relocation jogulamba-gadwal, motorcycle transport jogulamba-gadwal">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport jogulamba-gadwal, bike shifting jogulamba-gadwal, two wheeler transport jogulamba-gadwal, bike courier service jogulamba-gadwal, bike relocation jogulamba-gadwal, motorcycle transport jogulamba-gadwal">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

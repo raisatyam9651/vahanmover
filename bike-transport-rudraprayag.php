@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Rudraprayag. Safe, insured door-to-door bike shifting to and from Rudraprayag to anywhere in India.">
     <meta name="keywords"
-        content="bike transport rudraprayag, bike shifting rudraprayag, two wheeler transport rudraprayag, bike courier service rudraprayag, bike relocation rudraprayag, motorcycle transport rudraprayag">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport rudraprayag, bike shifting rudraprayag, two wheeler transport rudraprayag, bike courier service rudraprayag, bike relocation rudraprayag, motorcycle transport rudraprayag">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

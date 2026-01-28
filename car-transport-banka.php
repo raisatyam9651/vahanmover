@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Banka | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Banka. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport banka, car shifting banka, vehicle transport banka, car carrier banka, car relocation banka">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport banka, car shifting banka, vehicle transport banka, car carrier banka, car relocation banka">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

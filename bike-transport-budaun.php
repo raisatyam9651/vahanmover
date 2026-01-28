@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Budaun. Safe, insured door-to-door bike shifting to and from Budaun to anywhere in India.">
     <meta name="keywords"
-        content="bike transport budaun, bike shifting budaun, two wheeler transport budaun, bike courier service budaun, bike relocation budaun, motorcycle transport budaun">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport budaun, bike shifting budaun, two wheeler transport budaun, bike courier service budaun, bike relocation budaun, motorcycle transport budaun">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

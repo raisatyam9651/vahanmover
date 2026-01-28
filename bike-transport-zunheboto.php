@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Zunheboto. Safe, insured door-to-door bike shifting to and from Zunheboto to anywhere in India.">
     <meta name="keywords"
-        content="bike transport zunheboto, bike shifting zunheboto, two wheeler transport zunheboto, bike courier service zunheboto, bike relocation zunheboto, motorcycle transport zunheboto">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport zunheboto, bike shifting zunheboto, two wheeler transport zunheboto, bike courier service zunheboto, bike relocation zunheboto, motorcycle transport zunheboto">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

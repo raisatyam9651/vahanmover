@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Lohit. Safe, insured door-to-door bike shifting to and from Lohit to anywhere in India.">
     <meta name="keywords"
-        content="bike transport lohit, bike shifting lohit, two wheeler transport lohit, bike courier service lohit, bike relocation lohit, motorcycle transport lohit">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport lohit, bike shifting lohit, two wheeler transport lohit, bike courier service lohit, bike relocation lohit, motorcycle transport lohit">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

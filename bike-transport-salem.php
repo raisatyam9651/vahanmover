@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Salem. Safe, insured door-to-door bike shifting to and from Salem to anywhere in India.">
     <meta name="keywords"
-        content="bike transport salem, bike shifting salem, two wheeler transport salem, bike courier service salem, bike relocation salem, motorcycle transport salem">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport salem, bike shifting salem, two wheeler transport salem, bike courier service salem, bike relocation salem, motorcycle transport salem">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

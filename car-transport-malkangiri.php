@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Malkangiri | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Malkangiri. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport malkangiri, car shifting malkangiri, vehicle transport malkangiri, car carrier malkangiri, car relocation malkangiri">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport malkangiri, car shifting malkangiri, vehicle transport malkangiri, car carrier malkangiri, car relocation malkangiri">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

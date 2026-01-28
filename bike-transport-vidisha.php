@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Vidisha. Safe, insured door-to-door bike shifting to and from Vidisha to anywhere in India.">
     <meta name="keywords"
-        content="bike transport vidisha, bike shifting vidisha, two wheeler transport vidisha, bike courier service vidisha, bike relocation vidisha, motorcycle transport vidisha">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport vidisha, bike shifting vidisha, two wheeler transport vidisha, bike courier service vidisha, bike relocation vidisha, motorcycle transport vidisha">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

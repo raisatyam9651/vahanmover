@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Gautam Buddha Nagar. Safe, insured door-to-door bike shifting to and from Gautam Buddha Nagar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport gautam-buddha-nagar, bike shifting gautam-buddha-nagar, two wheeler transport gautam-buddha-nagar, bike courier service gautam-buddha-nagar, bike relocation gautam-buddha-nagar, motorcycle transport gautam-buddha-nagar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport gautam-buddha-nagar, bike shifting gautam-buddha-nagar, two wheeler transport gautam-buddha-nagar, bike courier service gautam-buddha-nagar, bike relocation gautam-buddha-nagar, motorcycle transport gautam-buddha-nagar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Kangra | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Kangra. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport kangra, car shifting kangra, vehicle transport kangra, car carrier kangra, car relocation kangra">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport kangra, car shifting kangra, vehicle transport kangra, car carrier kangra, car relocation kangra">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

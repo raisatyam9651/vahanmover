@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Davanagere. Safe, insured door-to-door bike shifting to and from Davanagere to anywhere in India.">
     <meta name="keywords"
-        content="bike transport davanagere, bike shifting davanagere, two wheeler transport davanagere, bike courier service davanagere, bike relocation davanagere, motorcycle transport davanagere">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport davanagere, bike shifting davanagere, two wheeler transport davanagere, bike courier service davanagere, bike relocation davanagere, motorcycle transport davanagere">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

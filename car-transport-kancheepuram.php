@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Kancheepuram | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Kancheepuram. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport kancheepuram, car shifting kancheepuram, vehicle transport kancheepuram, car carrier kancheepuram, car relocation kancheepuram">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport kancheepuram, car shifting kancheepuram, vehicle transport kancheepuram, car carrier kancheepuram, car relocation kancheepuram">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

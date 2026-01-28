@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Fatehpur. Safe, insured door-to-door bike shifting to and from Fatehpur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport fatehpur, bike shifting fatehpur, two wheeler transport fatehpur, bike courier service fatehpur, bike relocation fatehpur, motorcycle transport fatehpur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport fatehpur, bike shifting fatehpur, two wheeler transport fatehpur, bike courier service fatehpur, bike relocation fatehpur, motorcycle transport fatehpur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

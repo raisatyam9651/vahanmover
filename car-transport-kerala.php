@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional car transport service in Kerala covering Kochi, Thiruvananthapuram, Kozhikode, Thrissur, Kollam, and all districts. Safe, insured door-to-door car shifting.">
     <meta name="keywords"
-        content="car transport kerala, car shifting kochi, vehicle transport thiruvananthapuram, car carrier kozhikode, car relocation thrissur, auto transport kerala">    <?php include 'includes/header-link.php'; ?>
+        content="car transport kerala, car shifting kochi, vehicle transport thiruvananthapuram, car carrier kozhikode, car relocation thrissur, auto transport kerala">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

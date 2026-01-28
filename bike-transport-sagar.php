@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Sagar. Safe, insured door-to-door bike shifting to and from Sagar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport sagar, bike shifting sagar, two wheeler transport sagar, bike courier service sagar, bike relocation sagar, motorcycle transport sagar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport sagar, bike shifting sagar, two wheeler transport sagar, bike courier service sagar, bike relocation sagar, motorcycle transport sagar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

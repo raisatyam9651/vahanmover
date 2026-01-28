@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Janjgir-Champa. Safe, insured door-to-door bike shifting to and from Janjgir-Champa to anywhere in India.">
     <meta name="keywords"
-        content="bike transport janjgir-champa, bike shifting janjgir-champa, two wheeler transport janjgir-champa, bike courier service janjgir-champa, bike relocation janjgir-champa, motorcycle transport janjgir-champa">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport janjgir-champa, bike shifting janjgir-champa, two wheeler transport janjgir-champa, bike courier service janjgir-champa, bike relocation janjgir-champa, motorcycle transport janjgir-champa">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

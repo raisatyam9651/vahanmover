@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Chitrakoot. Safe, insured door-to-door bike shifting to and from Chitrakoot to anywhere in India.">
     <meta name="keywords"
-        content="bike transport chitrakoot, bike shifting chitrakoot, two wheeler transport chitrakoot, bike courier service chitrakoot, bike relocation chitrakoot, motorcycle transport chitrakoot">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport chitrakoot, bike shifting chitrakoot, two wheeler transport chitrakoot, bike courier service chitrakoot, bike relocation chitrakoot, motorcycle transport chitrakoot">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

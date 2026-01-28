@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Sivasagar. Safe, insured door-to-door bike shifting to and from Sivasagar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport sivasagar, bike shifting sivasagar, two wheeler transport sivasagar, bike courier service sivasagar, bike relocation sivasagar, motorcycle transport sivasagar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport sivasagar, bike shifting sivasagar, two wheeler transport sivasagar, bike courier service sivasagar, bike relocation sivasagar, motorcycle transport sivasagar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Morigaon. Safe, insured door-to-door bike shifting to and from Morigaon to anywhere in India.">
     <meta name="keywords"
-        content="bike transport morigaon, bike shifting morigaon, two wheeler transport morigaon, bike courier service morigaon, bike relocation morigaon, motorcycle transport morigaon">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport morigaon, bike shifting morigaon, two wheeler transport morigaon, bike courier service morigaon, bike relocation morigaon, motorcycle transport morigaon">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

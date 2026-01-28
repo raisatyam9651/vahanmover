@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Malerkotla. Safe, insured door-to-door bike shifting to and from Malerkotla to anywhere in India.">
     <meta name="keywords"
-        content="bike transport malerkotla, bike shifting malerkotla, two wheeler transport malerkotla, bike courier service malerkotla, bike relocation malerkotla, motorcycle transport malerkotla">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport malerkotla, bike shifting malerkotla, two wheeler transport malerkotla, bike courier service malerkotla, bike relocation malerkotla, motorcycle transport malerkotla">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

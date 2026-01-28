@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Jogulamba Gadwal | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Jogulamba Gadwal. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport jogulamba gadwal, car shifting jogulamba gadwal, vehicle transport jogulamba gadwal, car carrier jogulamba gadwal, car relocation jogulamba gadwal">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport jogulamba gadwal, car shifting jogulamba gadwal, vehicle transport jogulamba gadwal, car carrier jogulamba gadwal, car relocation jogulamba gadwal">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

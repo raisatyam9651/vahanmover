@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Thane. Safe, insured door-to-door bike shifting to and from Thane to anywhere in India.">
     <meta name="keywords"
-        content="bike transport thane, bike shifting thane, two wheeler transport thane, bike courier service thane, bike relocation thane, motorcycle transport thane">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport thane, bike shifting thane, two wheeler transport thane, bike courier service thane, bike relocation thane, motorcycle transport thane">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

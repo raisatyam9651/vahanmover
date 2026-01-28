@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kanpur Nagar. Safe, insured door-to-door bike shifting to and from Kanpur Nagar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kanpur-nagar, bike shifting kanpur-nagar, two wheeler transport kanpur-nagar, bike courier service kanpur-nagar, bike relocation kanpur-nagar, motorcycle transport kanpur-nagar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kanpur-nagar, bike shifting kanpur-nagar, two wheeler transport kanpur-nagar, bike courier service kanpur-nagar, bike relocation kanpur-nagar, motorcycle transport kanpur-nagar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

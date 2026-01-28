@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Sarangarh-Bilaigarh. Safe, insured door-to-door bike shifting to and from Sarangarh-Bilaigarh to anywhere in India.">
     <meta name="keywords"
-        content="bike transport sarangarh-bilaigarh, bike shifting sarangarh-bilaigarh, two wheeler transport sarangarh-bilaigarh, bike courier service sarangarh-bilaigarh, bike relocation sarangarh-bilaigarh, motorcycle transport sarangarh-bilaigarh">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport sarangarh-bilaigarh, bike shifting sarangarh-bilaigarh, two wheeler transport sarangarh-bilaigarh, bike courier service sarangarh-bilaigarh, bike relocation sarangarh-bilaigarh, motorcycle transport sarangarh-bilaigarh">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

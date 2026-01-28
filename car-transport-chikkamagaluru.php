@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Chikkamagaluru | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Chikkamagaluru. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport chikkamagaluru, car shifting chikkamagaluru, vehicle transport chikkamagaluru, car carrier chikkamagaluru, car relocation chikkamagaluru">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport chikkamagaluru, car shifting chikkamagaluru, vehicle transport chikkamagaluru, car carrier chikkamagaluru, car relocation chikkamagaluru">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

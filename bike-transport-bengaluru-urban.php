@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Bengaluru Urban. Safe, insured door-to-door bike shifting to and from Bengaluru Urban to anywhere in India.">
     <meta name="keywords"
-        content="bike transport bengaluru-urban, bike shifting bengaluru-urban, two wheeler transport bengaluru-urban, bike courier service bengaluru-urban, bike relocation bengaluru-urban, motorcycle transport bengaluru-urban">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport bengaluru-urban, bike shifting bengaluru-urban, two wheeler transport bengaluru-urban, bike courier service bengaluru-urban, bike relocation bengaluru-urban, motorcycle transport bengaluru-urban">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

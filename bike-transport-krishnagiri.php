@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Krishnagiri. Safe, insured door-to-door bike shifting to and from Krishnagiri to anywhere in India.">
     <meta name="keywords"
-        content="bike transport krishnagiri, bike shifting krishnagiri, two wheeler transport krishnagiri, bike courier service krishnagiri, bike relocation krishnagiri, motorcycle transport krishnagiri">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport krishnagiri, bike shifting krishnagiri, two wheeler transport krishnagiri, bike courier service krishnagiri, bike relocation krishnagiri, motorcycle transport krishnagiri">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

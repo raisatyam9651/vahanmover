@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Namakkal. Safe, insured door-to-door bike shifting to and from Namakkal to anywhere in India.">
     <meta name="keywords"
-        content="bike transport namakkal, bike shifting namakkal, two wheeler transport namakkal, bike courier service namakkal, bike relocation namakkal, motorcycle transport namakkal">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport namakkal, bike shifting namakkal, two wheeler transport namakkal, bike courier service namakkal, bike relocation namakkal, motorcycle transport namakkal">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

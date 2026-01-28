@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Tirunelveli. Safe, insured door-to-door bike shifting to and from Tirunelveli to anywhere in India.">
     <meta name="keywords"
-        content="bike transport tirunelveli, bike shifting tirunelveli, two wheeler transport tirunelveli, bike courier service tirunelveli, bike relocation tirunelveli, motorcycle transport tirunelveli">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport tirunelveli, bike shifting tirunelveli, two wheeler transport tirunelveli, bike courier service tirunelveli, bike relocation tirunelveli, motorcycle transport tirunelveli">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

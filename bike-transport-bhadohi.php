@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Bhadohi. Safe, insured door-to-door bike shifting to and from Bhadohi to anywhere in India.">
     <meta name="keywords"
-        content="bike transport bhadohi, bike shifting bhadohi, two wheeler transport bhadohi, bike courier service bhadohi, bike relocation bhadohi, motorcycle transport bhadohi">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport bhadohi, bike shifting bhadohi, two wheeler transport bhadohi, bike courier service bhadohi, bike relocation bhadohi, motorcycle transport bhadohi">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

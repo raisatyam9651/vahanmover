@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Mathura. Safe, insured door-to-door bike shifting to and from Mathura to anywhere in India.">
     <meta name="keywords"
-        content="bike transport mathura, bike shifting mathura, two wheeler transport mathura, bike courier service mathura, bike relocation mathura, motorcycle transport mathura">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport mathura, bike shifting mathura, two wheeler transport mathura, bike courier service mathura, bike relocation mathura, motorcycle transport mathura">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

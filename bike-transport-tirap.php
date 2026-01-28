@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Tirap. Safe, insured door-to-door bike shifting to and from Tirap to anywhere in India.">
     <meta name="keywords"
-        content="bike transport tirap, bike shifting tirap, two wheeler transport tirap, bike courier service tirap, bike relocation tirap, motorcycle transport tirap">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport tirap, bike shifting tirap, two wheeler transport tirap, bike courier service tirap, bike relocation tirap, motorcycle transport tirap">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

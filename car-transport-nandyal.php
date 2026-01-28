@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Nandyal | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Nandyal. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport nandyal, car shifting nandyal, vehicle transport nandyal, car carrier nandyal, car relocation nandyal">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport nandyal, car shifting nandyal, vehicle transport nandyal, car carrier nandyal, car relocation nandyal">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

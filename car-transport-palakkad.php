@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Palakkad | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Palakkad. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport palakkad, car shifting palakkad, vehicle transport palakkad, car carrier palakkad, car relocation palakkad">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport palakkad, car shifting palakkad, vehicle transport palakkad, car carrier palakkad, car relocation palakkad">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

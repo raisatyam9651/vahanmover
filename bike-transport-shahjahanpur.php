@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Shahjahanpur. Safe, insured door-to-door bike shifting to and from Shahjahanpur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport shahjahanpur, bike shifting shahjahanpur, two wheeler transport shahjahanpur, bike courier service shahjahanpur, bike relocation shahjahanpur, motorcycle transport shahjahanpur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport shahjahanpur, bike shifting shahjahanpur, two wheeler transport shahjahanpur, bike courier service shahjahanpur, bike relocation shahjahanpur, motorcycle transport shahjahanpur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

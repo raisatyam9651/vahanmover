@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Deoria. Safe, insured door-to-door bike shifting to and from Deoria to anywhere in India.">
     <meta name="keywords"
-        content="bike transport deoria, bike shifting deoria, two wheeler transport deoria, bike courier service deoria, bike relocation deoria, motorcycle transport deoria">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport deoria, bike shifting deoria, two wheeler transport deoria, bike courier service deoria, bike relocation deoria, motorcycle transport deoria">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

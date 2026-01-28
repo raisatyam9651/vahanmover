@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Ayodhya. Safe, insured door-to-door bike shifting to and from Ayodhya to anywhere in India.">
     <meta name="keywords"
-        content="bike transport ayodhya, bike shifting ayodhya, two wheeler transport ayodhya, bike courier service ayodhya, bike relocation ayodhya, motorcycle transport ayodhya">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport ayodhya, bike shifting ayodhya, two wheeler transport ayodhya, bike courier service ayodhya, bike relocation ayodhya, motorcycle transport ayodhya">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

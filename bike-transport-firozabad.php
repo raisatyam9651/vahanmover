@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Firozabad. Safe, insured door-to-door bike shifting to and from Firozabad to anywhere in India.">
     <meta name="keywords"
-        content="bike transport firozabad, bike shifting firozabad, two wheeler transport firozabad, bike courier service firozabad, bike relocation firozabad, motorcycle transport firozabad">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport firozabad, bike shifting firozabad, two wheeler transport firozabad, bike courier service firozabad, bike relocation firozabad, motorcycle transport firozabad">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

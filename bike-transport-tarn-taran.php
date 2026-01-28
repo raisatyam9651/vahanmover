@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Tarn Taran. Safe, insured door-to-door bike shifting to and from Tarn Taran to anywhere in India.">
     <meta name="keywords"
-        content="bike transport tarn-taran, bike shifting tarn-taran, two wheeler transport tarn-taran, bike courier service tarn-taran, bike relocation tarn-taran, motorcycle transport tarn-taran">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport tarn-taran, bike shifting tarn-taran, two wheeler transport tarn-taran, bike courier service tarn-taran, bike relocation tarn-taran, motorcycle transport tarn-taran">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

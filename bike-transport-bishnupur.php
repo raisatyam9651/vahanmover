@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Bishnupur. Safe, insured door-to-door bike shifting to and from Bishnupur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport bishnupur, bike shifting bishnupur, two wheeler transport bishnupur, bike courier service bishnupur, bike relocation bishnupur, motorcycle transport bishnupur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport bishnupur, bike shifting bishnupur, two wheeler transport bishnupur, bike courier service bishnupur, bike relocation bishnupur, motorcycle transport bishnupur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

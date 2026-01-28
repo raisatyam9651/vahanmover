@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional car transport service in Haryana covering Gurugram, Faridabad, Panipat, Ambala, Karnal, and all districts. Safe, insured door-to-door car shifting.">
     <meta name="keywords"
-        content="car transport haryana, car shifting gurugram, vehicle transport faridabad, car carrier panipat, car relocation ambala, auto transport haryana">    <?php include 'includes/header-link.php'; ?>
+        content="car transport haryana, car shifting gurugram, vehicle transport faridabad, car carrier panipat, car relocation ambala, auto transport haryana">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

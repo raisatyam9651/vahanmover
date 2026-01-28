@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Saharsa. Safe, insured door-to-door bike shifting to and from Saharsa to anywhere in India.">
     <meta name="keywords"
-        content="bike transport saharsa, bike shifting saharsa, two wheeler transport saharsa, bike courier service saharsa, bike relocation saharsa, motorcycle transport saharsa">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport saharsa, bike shifting saharsa, two wheeler transport saharsa, bike courier service saharsa, bike relocation saharsa, motorcycle transport saharsa">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

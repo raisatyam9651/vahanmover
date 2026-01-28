@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Cachar. Safe, insured door-to-door bike shifting to and from Cachar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport cachar, bike shifting cachar, two wheeler transport cachar, bike courier service cachar, bike relocation cachar, motorcycle transport cachar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport cachar, bike shifting cachar, two wheeler transport cachar, bike courier service cachar, bike relocation cachar, motorcycle transport cachar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

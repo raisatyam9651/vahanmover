@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Sivaganga. Safe, insured door-to-door bike shifting to and from Sivaganga to anywhere in India.">
     <meta name="keywords"
-        content="bike transport sivaganga, bike shifting sivaganga, two wheeler transport sivaganga, bike courier service sivaganga, bike relocation sivaganga, motorcycle transport sivaganga">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport sivaganga, bike shifting sivaganga, two wheeler transport sivaganga, bike courier service sivaganga, bike relocation sivaganga, motorcycle transport sivaganga">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

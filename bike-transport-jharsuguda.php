@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Jharsuguda. Safe, insured door-to-door bike shifting to and from Jharsuguda to anywhere in India.">
     <meta name="keywords"
-        content="bike transport jharsuguda, bike shifting jharsuguda, two wheeler transport jharsuguda, bike courier service jharsuguda, bike relocation jharsuguda, motorcycle transport jharsuguda">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport jharsuguda, bike shifting jharsuguda, two wheeler transport jharsuguda, bike courier service jharsuguda, bike relocation jharsuguda, motorcycle transport jharsuguda">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

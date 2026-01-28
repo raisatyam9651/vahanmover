@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Mumbai Suburban. Safe, insured door-to-door bike shifting to and from Mumbai Suburban to anywhere in India.">
     <meta name="keywords"
-        content="bike transport mumbai-suburban, bike shifting mumbai-suburban, two wheeler transport mumbai-suburban, bike courier service mumbai-suburban, bike relocation mumbai-suburban, motorcycle transport mumbai-suburban">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport mumbai-suburban, bike shifting mumbai-suburban, two wheeler transport mumbai-suburban, bike courier service mumbai-suburban, bike relocation mumbai-suburban, motorcycle transport mumbai-suburban">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

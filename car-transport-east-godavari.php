@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in East Godavari | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in East Godavari. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport east godavari, car shifting east godavari, vehicle transport east godavari, car carrier east godavari, car relocation east godavari">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport east godavari, car shifting east godavari, vehicle transport east godavari, car carrier east godavari, car relocation east godavari">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

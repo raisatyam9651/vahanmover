@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Banaskantha. Safe, insured door-to-door bike shifting to and from Banaskantha to anywhere in India.">
     <meta name="keywords"
-        content="bike transport banaskantha, bike shifting banaskantha, two wheeler transport banaskantha, bike courier service banaskantha, bike relocation banaskantha, motorcycle transport banaskantha">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport banaskantha, bike shifting banaskantha, two wheeler transport banaskantha, bike courier service banaskantha, bike relocation banaskantha, motorcycle transport banaskantha">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Bikaner. Safe, insured door-to-door bike shifting to and from Bikaner to anywhere in India.">
     <meta name="keywords"
-        content="bike transport bikaner, bike shifting bikaner, two wheeler transport bikaner, bike courier service bikaner, bike relocation bikaner, motorcycle transport bikaner">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport bikaner, bike shifting bikaner, two wheeler transport bikaner, bike courier service bikaner, bike relocation bikaner, motorcycle transport bikaner">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

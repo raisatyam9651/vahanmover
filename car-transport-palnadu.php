@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Palnadu | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Palnadu. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport palnadu, car shifting palnadu, vehicle transport palnadu, car carrier palnadu, car relocation palnadu">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport palnadu, car shifting palnadu, vehicle transport palnadu, car carrier palnadu, car relocation palnadu">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

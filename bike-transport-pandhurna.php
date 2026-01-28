@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Pandhurna. Safe, insured door-to-door bike shifting to and from Pandhurna to anywhere in India.">
     <meta name="keywords"
-        content="bike transport pandhurna, bike shifting pandhurna, two wheeler transport pandhurna, bike courier service pandhurna, bike relocation pandhurna, motorcycle transport pandhurna">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport pandhurna, bike shifting pandhurna, two wheeler transport pandhurna, bike courier service pandhurna, bike relocation pandhurna, motorcycle transport pandhurna">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

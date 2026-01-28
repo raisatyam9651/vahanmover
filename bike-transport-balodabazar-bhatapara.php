@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Balodabazar-Bhatapara. Safe, insured door-to-door bike shifting to and from Balodabazar-Bhatapara to anywhere in India.">
     <meta name="keywords"
-        content="bike transport balodabazar-bhatapara, bike shifting balodabazar-bhatapara, two wheeler transport balodabazar-bhatapara, bike courier service balodabazar-bhatapara, bike relocation balodabazar-bhatapara, motorcycle transport balodabazar-bhatapara">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport balodabazar-bhatapara, bike shifting balodabazar-bhatapara, two wheeler transport balodabazar-bhatapara, bike courier service balodabazar-bhatapara, bike relocation balodabazar-bhatapara, motorcycle transport balodabazar-bhatapara">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

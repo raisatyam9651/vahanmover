@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Balaghat. Safe, insured door-to-door bike shifting to and from Balaghat to anywhere in India.">
     <meta name="keywords"
-        content="bike transport balaghat, bike shifting balaghat, two wheeler transport balaghat, bike courier service balaghat, bike relocation balaghat, motorcycle transport balaghat">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport balaghat, bike shifting balaghat, two wheeler transport balaghat, bike courier service balaghat, bike relocation balaghat, motorcycle transport balaghat">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

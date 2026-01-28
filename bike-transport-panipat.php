@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Panipat. Safe, insured door-to-door bike shifting to and from Panipat to anywhere in India.">
     <meta name="keywords"
-        content="bike transport panipat, bike shifting panipat, two wheeler transport panipat, bike courier service panipat, bike relocation panipat, motorcycle transport panipat">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport panipat, bike shifting panipat, two wheeler transport panipat, bike courier service panipat, bike relocation panipat, motorcycle transport panipat">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

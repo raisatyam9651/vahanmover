@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Nalbari. Safe, insured door-to-door bike shifting to and from Nalbari to anywhere in India.">
     <meta name="keywords"
-        content="bike transport nalbari, bike shifting nalbari, two wheeler transport nalbari, bike courier service nalbari, bike relocation nalbari, motorcycle transport nalbari">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport nalbari, bike shifting nalbari, two wheeler transport nalbari, bike courier service nalbari, bike relocation nalbari, motorcycle transport nalbari">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

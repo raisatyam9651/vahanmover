@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Warangal | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Warangal. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport warangal, car shifting warangal, vehicle transport warangal, car carrier warangal, car relocation warangal">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport warangal, car shifting warangal, vehicle transport warangal, car carrier warangal, car relocation warangal">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

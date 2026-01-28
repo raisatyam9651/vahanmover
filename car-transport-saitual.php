@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Saitual | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Saitual. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport saitual, car shifting saitual, vehicle transport saitual, car carrier saitual, car relocation saitual">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport saitual, car shifting saitual, vehicle transport saitual, car carrier saitual, car relocation saitual">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

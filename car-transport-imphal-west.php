@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Imphal West | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Imphal West. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport imphal west, car shifting imphal west, vehicle transport imphal west, car carrier imphal west, car relocation imphal west">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport imphal west, car shifting imphal west, vehicle transport imphal west, car carrier imphal west, car relocation imphal west">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

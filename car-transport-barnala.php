@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Barnala | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Barnala. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport barnala, car shifting barnala, vehicle transport barnala, car carrier barnala, car relocation barnala">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport barnala, car shifting barnala, vehicle transport barnala, car carrier barnala, car relocation barnala">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

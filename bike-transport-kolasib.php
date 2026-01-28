@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Kolasib. Safe, insured door-to-door bike shifting to and from Kolasib to anywhere in India.">
     <meta name="keywords"
-        content="bike transport kolasib, bike shifting kolasib, two wheeler transport kolasib, bike courier service kolasib, bike relocation kolasib, motorcycle transport kolasib">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport kolasib, bike shifting kolasib, two wheeler transport kolasib, bike courier service kolasib, bike relocation kolasib, motorcycle transport kolasib">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Raisen. Safe, insured door-to-door bike shifting to and from Raisen to anywhere in India.">
     <meta name="keywords"
-        content="bike transport raisen, bike shifting raisen, two wheeler transport raisen, bike courier service raisen, bike relocation raisen, motorcycle transport raisen">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport raisen, bike shifting raisen, two wheeler transport raisen, bike courier service raisen, bike relocation raisen, motorcycle transport raisen">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

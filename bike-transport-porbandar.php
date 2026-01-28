@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Porbandar. Safe, insured door-to-door bike shifting to and from Porbandar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport porbandar, bike shifting porbandar, two wheeler transport porbandar, bike courier service porbandar, bike relocation porbandar, motorcycle transport porbandar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport porbandar, bike shifting porbandar, two wheeler transport porbandar, bike courier service porbandar, bike relocation porbandar, motorcycle transport porbandar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

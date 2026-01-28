@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Majuli. Safe, insured door-to-door bike shifting to and from Majuli to anywhere in India.">
     <meta name="keywords"
-        content="bike transport majuli, bike shifting majuli, two wheeler transport majuli, bike courier service majuli, bike relocation majuli, motorcycle transport majuli">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport majuli, bike shifting majuli, two wheeler transport majuli, bike courier service majuli, bike relocation majuli, motorcycle transport majuli">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

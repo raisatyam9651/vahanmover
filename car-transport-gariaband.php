@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Gariaband | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Gariaband. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport gariaband, car shifting gariaband, vehicle transport gariaband, car carrier gariaband, car relocation gariaband">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport gariaband, car shifting gariaband, vehicle transport gariaband, car carrier gariaband, car relocation gariaband">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Sawai Madhopur. Safe, insured door-to-door bike shifting to and from Sawai Madhopur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport sawai-madhopur, bike shifting sawai-madhopur, two wheeler transport sawai-madhopur, bike courier service sawai-madhopur, bike relocation sawai-madhopur, motorcycle transport sawai-madhopur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport sawai-madhopur, bike shifting sawai-madhopur, two wheeler transport sawai-madhopur, bike courier service sawai-madhopur, bike relocation sawai-madhopur, motorcycle transport sawai-madhopur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

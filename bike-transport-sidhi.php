@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Sidhi. Safe, insured door-to-door bike shifting to and from Sidhi to anywhere in India.">
     <meta name="keywords"
-        content="bike transport sidhi, bike shifting sidhi, two wheeler transport sidhi, bike courier service sidhi, bike relocation sidhi, motorcycle transport sidhi">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport sidhi, bike shifting sidhi, two wheeler transport sidhi, bike courier service sidhi, bike relocation sidhi, motorcycle transport sidhi">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

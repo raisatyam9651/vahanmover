@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Amritsar. Safe, insured door-to-door bike shifting to and from Amritsar to anywhere in India.">
     <meta name="keywords"
-        content="bike transport amritsar, bike shifting amritsar, two wheeler transport amritsar, bike courier service amritsar, bike relocation amritsar, motorcycle transport amritsar">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport amritsar, bike shifting amritsar, two wheeler transport amritsar, bike courier service amritsar, bike relocation amritsar, motorcycle transport amritsar">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

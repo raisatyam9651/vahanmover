@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Adilabad | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Adilabad. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport adilabad, car shifting adilabad, vehicle transport adilabad, car carrier adilabad, car relocation adilabad">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport adilabad, car shifting adilabad, vehicle transport adilabad, car carrier adilabad, car relocation adilabad">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

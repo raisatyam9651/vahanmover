@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in South West Khasi Hills. Safe, insured door-to-door bike shifting to and from South West Khasi Hills to anywhere in India.">
     <meta name="keywords"
-        content="bike transport south-west-khasi-hills, bike shifting south-west-khasi-hills, two wheeler transport south-west-khasi-hills, bike courier service south-west-khasi-hills, bike relocation south-west-khasi-hills, motorcycle transport south-west-khasi-hills">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport south-west-khasi-hills, bike shifting south-west-khasi-hills, two wheeler transport south-west-khasi-hills, bike courier service south-west-khasi-hills, bike relocation south-west-khasi-hills, motorcycle transport south-west-khasi-hills">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

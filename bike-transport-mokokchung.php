@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Mokokchung. Safe, insured door-to-door bike shifting to and from Mokokchung to anywhere in India.">
     <meta name="keywords"
-        content="bike transport mokokchung, bike shifting mokokchung, two wheeler transport mokokchung, bike courier service mokokchung, bike relocation mokokchung, motorcycle transport mokokchung">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport mokokchung, bike shifting mokokchung, two wheeler transport mokokchung, bike courier service mokokchung, bike relocation mokokchung, motorcycle transport mokokchung">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

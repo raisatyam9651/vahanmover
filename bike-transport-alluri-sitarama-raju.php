@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Alluri Sitarama Raju. Safe, insured door-to-door bike shifting to and from Alluri Sitarama Raju to anywhere in India.">
     <meta name="keywords"
-        content="bike transport alluri sitarama raju, bike shifting alluri sitarama raju, two wheeler transport alluri sitarama raju, bike courier service alluri sitarama raju, bike relocation alluri sitarama raju, motorcycle transport alluri sitarama raju">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport alluri sitarama raju, bike shifting alluri sitarama raju, two wheeler transport alluri sitarama raju, bike courier service alluri sitarama raju, bike relocation alluri sitarama raju, motorcycle transport alluri sitarama raju">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

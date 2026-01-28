@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Hailakandi | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Hailakandi. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport hailakandi, car shifting hailakandi, vehicle transport hailakandi, car carrier hailakandi, car relocation hailakandi">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport hailakandi, car shifting hailakandi, vehicle transport hailakandi, car carrier hailakandi, car relocation hailakandi">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

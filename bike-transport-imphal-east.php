@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Imphal East. Safe, insured door-to-door bike shifting to and from Imphal East to anywhere in India.">
     <meta name="keywords"
-        content="bike transport imphal-east, bike shifting imphal-east, two wheeler transport imphal-east, bike courier service imphal-east, bike relocation imphal-east, motorcycle transport imphal-east">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport imphal-east, bike shifting imphal-east, two wheeler transport imphal-east, bike courier service imphal-east, bike relocation imphal-east, motorcycle transport imphal-east">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

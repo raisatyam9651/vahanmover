@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Neem Ka Thana. Safe, insured door-to-door bike shifting to and from Neem Ka Thana to anywhere in India.">
     <meta name="keywords"
-        content="bike transport neem-ka-thana, bike shifting neem-ka-thana, two wheeler transport neem-ka-thana, bike courier service neem-ka-thana, bike relocation neem-ka-thana, motorcycle transport neem-ka-thana">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport neem-ka-thana, bike shifting neem-ka-thana, two wheeler transport neem-ka-thana, bike courier service neem-ka-thana, bike relocation neem-ka-thana, motorcycle transport neem-ka-thana">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

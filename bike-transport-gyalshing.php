@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Gyalshing. Safe, insured door-to-door bike shifting to and from Gyalshing to anywhere in India.">
     <meta name="keywords"
-        content="bike transport gyalshing, bike shifting gyalshing, two wheeler transport gyalshing, bike courier service gyalshing, bike relocation gyalshing, motorcycle transport gyalshing">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport gyalshing, bike shifting gyalshing, two wheeler transport gyalshing, bike courier service gyalshing, bike relocation gyalshing, motorcycle transport gyalshing">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

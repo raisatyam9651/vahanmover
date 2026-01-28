@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Hamirpur | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Hamirpur. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport hamirpur, car shifting hamirpur, vehicle transport hamirpur, car carrier hamirpur, car relocation hamirpur">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport hamirpur, car shifting hamirpur, vehicle transport hamirpur, car carrier hamirpur, car relocation hamirpur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

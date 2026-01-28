@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Giridih. Safe, insured door-to-door bike shifting to and from Giridih to anywhere in India.">
     <meta name="keywords"
-        content="bike transport giridih, bike shifting giridih, two wheeler transport giridih, bike courier service giridih, bike relocation giridih, motorcycle transport giridih">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport giridih, bike shifting giridih, two wheeler transport giridih, bike courier service giridih, bike relocation giridih, motorcycle transport giridih">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

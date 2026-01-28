@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in East Champaran | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in East Champaran. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport east champaran, car shifting east champaran, vehicle transport east champaran, car carrier east champaran, car relocation east champaran">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport east champaran, car shifting east champaran, vehicle transport east champaran, car carrier east champaran, car relocation east champaran">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

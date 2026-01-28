@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Tiruppur. Safe, insured door-to-door bike shifting to and from Tiruppur to anywhere in India.">
     <meta name="keywords"
-        content="bike transport tiruppur, bike shifting tiruppur, two wheeler transport tiruppur, bike courier service tiruppur, bike relocation tiruppur, motorcycle transport tiruppur">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport tiruppur, bike shifting tiruppur, two wheeler transport tiruppur, bike courier service tiruppur, bike relocation tiruppur, motorcycle transport tiruppur">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -9,7 +9,9 @@
     <meta name="description"
         content="Professional bike transport service in Indore. Safe, insured door-to-door bike shifting to and from Indore to anywhere in India.">
     <meta name="keywords"
-        content="bike transport indore, bike shifting indore, two wheeler transport indore, bike courier service indore, bike relocation indore, motorcycle transport indore">    <?php include 'includes/header-link.php'; ?>
+        content="bike transport indore, bike shifting indore, two wheeler transport indore, bike courier service indore, bike relocation indore, motorcycle transport indore">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

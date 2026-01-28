@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Yavatmal | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Yavatmal. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport yavatmal, car shifting yavatmal, vehicle transport yavatmal, car carrier yavatmal, car relocation yavatmal">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport yavatmal, car shifting yavatmal, vehicle transport yavatmal, car carrier yavatmal, car relocation yavatmal">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

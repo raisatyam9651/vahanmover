@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Gopalganj | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Gopalganj. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport gopalganj, car shifting gopalganj, vehicle transport gopalganj, car carrier gopalganj, car relocation gopalganj">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport gopalganj, car shifting gopalganj, vehicle transport gopalganj, car carrier gopalganj, car relocation gopalganj">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Barmer | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Barmer. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport barmer, car shifting barmer, vehicle transport barmer, car carrier barmer, car relocation barmer">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport barmer, car shifting barmer, vehicle transport barmer, car carrier barmer, car relocation barmer">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>

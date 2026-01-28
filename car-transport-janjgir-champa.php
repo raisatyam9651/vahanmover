@@ -7,7 +7,9 @@
     <!-- SEO Meta Tags -->
     <title>Car Transport in Janjgir-Champa | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Janjgir-Champa. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport janjgir-champa, car shifting janjgir-champa, vehicle transport janjgir-champa, car carrier janjgir-champa, car relocation janjgir-champa">    <?php include 'includes/header-link.php'; ?>
+    <meta name="keywords" content="car transport janjgir-champa, car shifting janjgir-champa, vehicle transport janjgir-champa, car carrier janjgir-champa, car relocation janjgir-champa">
+    
+    <?php include 'includes/header-link.php'; ?>
 </head>
 
 <body>
