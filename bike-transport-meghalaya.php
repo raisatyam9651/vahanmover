@@ -46,7 +46,7 @@
                     Looking for reliable <strong>bike transport in Meghalaya</strong>? We provide professional two-wheeler shifting services across all districts including Shillong, Tura, Jowai, Nongpoh, Williamnagar, and more. Our <strong>bike shifting service in Meghalaya</strong> offers complete door-to-door solutions with trained professionals, comprehensive insurance coverage, secure packing, and real-time tracking for your peace of mind.
                 </p>
                 <div class="cta-container" style="display: flex; gap: 20px;">
-                    <a href="contact/" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
+                    <a href="contact" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
                     <a href="tel:+919876543210" class="btn btn-secondary"><i class="fa-solid fa-phone"></i> Call Now</a>
                 </div>
             </div>
@@ -584,15 +584,15 @@
                     <ul style="list-style: none; padding: 0;">
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-east-garo-hills/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in East Garo Hills</a>
+                            <a href="bike-transport-east-garo-hills" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in East Garo Hills</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-east-jaintia-hills/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in East Jaintia Hills</a>
+                            <a href="bike-transport-east-jaintia-hills" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in East Jaintia Hills</a>
                         </li>
                         <li style="padding: 10px 0; display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-east-khasi-hills/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in East Khasi Hills</a>
+                            <a href="bike-transport-east-khasi-hills" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in East Khasi Hills</a>
                         </li>
                     </ul>
 
@@ -600,15 +600,15 @@
                     <ul style="list-style: none; padding: 0;">
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-eastern-west-khasi-hills/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Eastern West Khasi Hills</a>
+                            <a href="bike-transport-eastern-west-khasi-hills" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Eastern West Khasi Hills</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-north-garo-hills/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in North Garo Hills</a>
+                            <a href="bike-transport-north-garo-hills" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in North Garo Hills</a>
                         </li>
                         <li style="padding: 10px 0; display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-ri-bhoi/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Ri Bhoi</a>
+                            <a href="bike-transport-ri-bhoi" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Ri Bhoi</a>
                         </li>
                     </ul>
 
@@ -616,15 +616,15 @@
                     <ul style="list-style: none; padding: 0;">
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-south-garo-hills/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in South Garo Hills</a>
+                            <a href="bike-transport-south-garo-hills" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in South Garo Hills</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-south-west-garo-hills/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in South West Garo Hills</a>
+                            <a href="bike-transport-south-west-garo-hills" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in South West Garo Hills</a>
                         </li>
                         <li style="padding: 10px 0; display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-south-west-khasi-hills/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in South West Khasi Hills</a>
+                            <a href="bike-transport-south-west-khasi-hills" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in South West Khasi Hills</a>
                         </li>
                     </ul>
 
@@ -632,15 +632,15 @@
                     <ul style="list-style: none; padding: 0;">
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-west-garo-hills/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in West Garo Hills</a>
+                            <a href="bike-transport-west-garo-hills" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in West Garo Hills</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-west-jaintia-hills/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in West Jaintia Hills</a>
+                            <a href="bike-transport-west-jaintia-hills" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in West Jaintia Hills</a>
                         </li>
                         <li style="padding: 10px 0; display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-west-khasi-hills/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in West Khasi Hills</a>
+                            <a href="bike-transport-west-khasi-hills" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in West Khasi Hills</a>
                         </li>
                     </ul>
 

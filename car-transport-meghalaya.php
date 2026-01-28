@@ -51,7 +51,7 @@
                     carriers, and real-time tracking for your peace of mind.
                 </p>
                 <div class="cta-container" style="display: flex; gap: 20px;">
-                    <a href="contact/" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
+                    <a href="contact" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
                     <a href="tel:+919876543210" class="btn btn-secondary"><i class="fa-solid fa-phone"></i> Call Now</a>
                 </div>
             </div>
@@ -532,15 +532,15 @@
                     <ul style="list-style: none; padding: 0;">
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-east-garo-hills/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in East Garo Hills</a>
+                            <a href="car-transport-east-garo-hills" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in East Garo Hills</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-east-jaintia-hills/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in East Jaintia Hills</a>
+                            <a href="car-transport-east-jaintia-hills" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in East Jaintia Hills</a>
                         </li>
                         <li style="padding: 10px 0; display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-east-khasi-hills/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in East Khasi Hills</a>
+                            <a href="car-transport-east-khasi-hills" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in East Khasi Hills</a>
                         </li>
                     </ul>
 
@@ -548,15 +548,15 @@
                     <ul style="list-style: none; padding: 0;">
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-eastern-west-khasi-hills/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Eastern West Khasi Hills</a>
+                            <a href="car-transport-eastern-west-khasi-hills" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Eastern West Khasi Hills</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-north-garo-hills/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in North Garo Hills</a>
+                            <a href="car-transport-north-garo-hills" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in North Garo Hills</a>
                         </li>
                         <li style="padding: 10px 0; display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-ri-bhoi/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Ri Bhoi</a>
+                            <a href="car-transport-ri-bhoi" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Ri Bhoi</a>
                         </li>
                     </ul>
 
@@ -564,15 +564,15 @@
                     <ul style="list-style: none; padding: 0;">
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-south-garo-hills/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in South Garo Hills</a>
+                            <a href="car-transport-south-garo-hills" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in South Garo Hills</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-south-west-garo-hills/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in South West Garo Hills</a>
+                            <a href="car-transport-south-west-garo-hills" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in South West Garo Hills</a>
                         </li>
                         <li style="padding: 10px 0; display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-south-west-khasi-hills/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in South West Khasi Hills</a>
+                            <a href="car-transport-south-west-khasi-hills" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in South West Khasi Hills</a>
                         </li>
                     </ul>
 
@@ -580,15 +580,15 @@
                     <ul style="list-style: none; padding: 0;">
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-west-garo-hills/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in West Garo Hills</a>
+                            <a href="car-transport-west-garo-hills" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in West Garo Hills</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-west-jaintia-hills/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in West Jaintia Hills</a>
+                            <a href="car-transport-west-jaintia-hills" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in West Jaintia Hills</a>
                         </li>
                         <li style="padding: 10px 0; display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-west-khasi-hills/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in West Khasi Hills</a>
+                            <a href="car-transport-west-khasi-hills" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in West Khasi Hills</a>
                         </li>
                     </ul>
 

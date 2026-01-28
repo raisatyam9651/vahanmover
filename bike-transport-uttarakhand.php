@@ -46,7 +46,7 @@
                     Looking for reliable <strong>bike transport in Uttarakhand</strong>? We provide professional two-wheeler shifting services across all districts including Dehradun, Haridwar, Rishikesh, Nainital, Haldwani, and more. Our <strong>bike shifting service in Uttarakhand</strong> offers complete door-to-door solutions with trained professionals, comprehensive insurance coverage, secure packing, and real-time tracking for your peace of mind.
                 </p>
                 <div class="cta-container" style="display: flex; gap: 20px;">
-                    <a href="contact/" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
+                    <a href="contact" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
                     <a href="tel:+919876543210" class="btn btn-secondary"><i class="fa-solid fa-phone"></i> Call Now</a>
                 </div>
             </div>
@@ -584,19 +584,19 @@
                     <ul style="list-style: none; padding: 0;">
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-almora/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Almora</a>
+                            <a href="bike-transport-almora" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Almora</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-bageshwar/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Bageshwar</a>
+                            <a href="bike-transport-bageshwar" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Bageshwar</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-chamoli/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Chamoli</a>
+                            <a href="bike-transport-chamoli" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Chamoli</a>
                         </li>
                         <li style="padding: 10px 0; display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-champawat/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Champawat</a>
+                            <a href="bike-transport-champawat" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Champawat</a>
                         </li>
                     </ul>
 
@@ -604,19 +604,19 @@
                     <ul style="list-style: none; padding: 0;">
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-dehradun/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Dehradun</a>
+                            <a href="bike-transport-dehradun" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Dehradun</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-haridwar/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Haridwar</a>
+                            <a href="bike-transport-haridwar" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Haridwar</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-nainital/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Nainital</a>
+                            <a href="bike-transport-nainital" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Nainital</a>
                         </li>
                         <li style="padding: 10px 0; display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-pauri-garhwal/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Pauri Garhwal</a>
+                            <a href="bike-transport-pauri-garhwal" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Pauri Garhwal</a>
                         </li>
                     </ul>
 
@@ -624,19 +624,19 @@
                     <ul style="list-style: none; padding: 0;">
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-pithoragarh/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Pithoragarh</a>
+                            <a href="bike-transport-pithoragarh" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Pithoragarh</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-rudraprayag/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Rudraprayag</a>
+                            <a href="bike-transport-rudraprayag" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Rudraprayag</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-tehri-garhwal/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Tehri Garhwal</a>
+                            <a href="bike-transport-tehri-garhwal" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Tehri Garhwal</a>
                         </li>
                         <li style="padding: 10px 0; display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-udham-singh-nagar/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Udham Singh Nagar</a>
+                            <a href="bike-transport-udham-singh-nagar" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Udham Singh Nagar</a>
                         </li>
                     </ul>
 
@@ -644,7 +644,7 @@
                     <ul style="list-style: none; padding: 0;">
                         <li style="padding: 10px 0; display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-uttarkashi/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Uttarkashi</a>
+                            <a href="bike-transport-uttarkashi" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Uttarkashi</a>
                         </li>
                     </ul>
 

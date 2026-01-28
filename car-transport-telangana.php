@@ -50,7 +50,7 @@
                     carriers, and real-time tracking for your peace of mind.
                 </p>
                 <div class="cta-container" style="display: flex; gap: 20px;">
-                    <a href="contact/" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
+                    <a href="contact" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
                     <a href="tel:+919876543210" class="btn btn-secondary"><i class="fa-solid fa-phone"></i> Call Now</a>
                 </div>
             </div>
@@ -531,39 +531,39 @@
                     <ul style="list-style: none; padding: 0;">
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-adilabad/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Adilabad</a>
+                            <a href="car-transport-adilabad" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Adilabad</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-bhadradri-kothagudem/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Bhadradri Kothagudem</a>
+                            <a href="car-transport-bhadradri-kothagudem" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Bhadradri Kothagudem</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-hanumakonda/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Hanumakonda</a>
+                            <a href="car-transport-hanumakonda" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Hanumakonda</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-hyderabad/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Hyderabad</a>
+                            <a href="car-transport-hyderabad" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Hyderabad</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-jagtial/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Jagtial</a>
+                            <a href="car-transport-jagtial" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Jagtial</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-jangaon/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Jangaon</a>
+                            <a href="car-transport-jangaon" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Jangaon</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-jayashankar-bhupalpally/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Jayashankar Bhupalpally</a>
+                            <a href="car-transport-jayashankar-bhupalpally" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Jayashankar Bhupalpally</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-jogulamba-gadwal/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Jogulamba Gadwal</a>
+                            <a href="car-transport-jogulamba-gadwal" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Jogulamba Gadwal</a>
                         </li>
                         <li style="padding: 10px 0; display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-kamareddy/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Kamareddy</a>
+                            <a href="car-transport-kamareddy" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Kamareddy</a>
                         </li>
                     </ul>
 
@@ -571,39 +571,39 @@
                     <ul style="list-style: none; padding: 0;">
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-karimnagar/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Karimnagar</a>
+                            <a href="car-transport-karimnagar" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Karimnagar</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-khammam/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Khammam</a>
+                            <a href="car-transport-khammam" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Khammam</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-komaram-bheem-asifabad/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Komaram Bheem Asifabad</a>
+                            <a href="car-transport-komaram-bheem-asifabad" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Komaram Bheem Asifabad</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-mahabubabad/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Mahabubabad</a>
+                            <a href="car-transport-mahabubabad" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Mahabubabad</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-mahabubnagar/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Mahabubnagar</a>
+                            <a href="car-transport-mahabubnagar" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Mahabubnagar</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-mancherial/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Mancherial</a>
+                            <a href="car-transport-mancherial" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Mancherial</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-medak/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Medak</a>
+                            <a href="car-transport-medak" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Medak</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-medchal-malkajgiri/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Medchal-Malkajgiri</a>
+                            <a href="car-transport-medchal-malkajgiri" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Medchal-Malkajgiri</a>
                         </li>
                         <li style="padding: 10px 0; display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-mulugu/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Mulugu</a>
+                            <a href="car-transport-mulugu" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Mulugu</a>
                         </li>
                     </ul>
 
@@ -611,39 +611,39 @@
                     <ul style="list-style: none; padding: 0;">
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-nagarkurnool/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Nagarkurnool</a>
+                            <a href="car-transport-nagarkurnool" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Nagarkurnool</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-nalgonda/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Nalgonda</a>
+                            <a href="car-transport-nalgonda" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Nalgonda</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-narayanpet/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Narayanpet</a>
+                            <a href="car-transport-narayanpet" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Narayanpet</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-nirmal/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Nirmal</a>
+                            <a href="car-transport-nirmal" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Nirmal</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-nizamabad/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Nizamabad</a>
+                            <a href="car-transport-nizamabad" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Nizamabad</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-peddapalli/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Peddapalli</a>
+                            <a href="car-transport-peddapalli" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Peddapalli</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-rajanna-sircilla/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Rajanna Sircilla</a>
+                            <a href="car-transport-rajanna-sircilla" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Rajanna Sircilla</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-rangareddy/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Rangareddy</a>
+                            <a href="car-transport-rangareddy" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Rangareddy</a>
                         </li>
                         <li style="padding: 10px 0; display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-sangareddy/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Sangareddy</a>
+                            <a href="car-transport-sangareddy" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Sangareddy</a>
                         </li>
                     </ul>
 
@@ -651,27 +651,27 @@
                     <ul style="list-style: none; padding: 0;">
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-siddipet/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Siddipet</a>
+                            <a href="car-transport-siddipet" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Siddipet</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-suryapet/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Suryapet</a>
+                            <a href="car-transport-suryapet" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Suryapet</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-vikarabad/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Vikarabad</a>
+                            <a href="car-transport-vikarabad" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Vikarabad</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-wanaparthy/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Wanaparthy</a>
+                            <a href="car-transport-wanaparthy" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Wanaparthy</a>
                         </li>
                         <li style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-warangal/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Warangal</a>
+                            <a href="car-transport-warangal" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Warangal</a>
                         </li>
                         <li style="padding: 10px 0; display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check" style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="car-transport-yadadri-bhuvanagiri/" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Yadadri Bhuvanagiri</a>
+                            <a href="car-transport-yadadri-bhuvanagiri" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Car transport in Yadadri Bhuvanagiri</a>
                         </li>
                     </ul>
 

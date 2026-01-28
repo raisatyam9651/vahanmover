@@ -16,17 +16,18 @@ RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
 
 # Remove .php extension from URLs
 RewriteCond %{THE_REQUEST} ^GET.*\.php [NC]
-RewriteRule ^(.*)\.php$ /$1/ [R=301,L]
+RewriteRule ^(.*)\.php$ /$1 [R=301,L]
 
-# Add trailing slash if not present (except for files)
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_URI} !(.*)/$
-RewriteRule ^(.*)$ /$1/ [R=301,L]
+# Remove trailing slash from URLs
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} (.+)/$
+RewriteRule ^(.*)\/$ /$1 [R=301,L]
 
-# Internally rewrite URLs with trailing slash to .php files
+# Internally rewrite clean URLs to .php files
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^(.+)/$ $1.php [L]
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.+)$ $1.php [L]
 
 
 # Prevent directory browsing

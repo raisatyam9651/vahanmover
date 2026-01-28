@@ -30,16 +30,16 @@
             <div style="flex: 1; min-width: 200px;">
                 <h4 style="font-size: 1.1rem; margin-bottom: 20px; font-weight: 600;">Quick Links</h4>
                 <ul style="list-style: none;">
-                    <li style="margin-bottom: 12px;"><a href="index/"
+                    <li style="margin-bottom: 12px;"><a href="index"
                             style="color: var(--color-text-dim); text-decoration: none; transition: 0.3s;">Home</a>
                     </li>
-                    <li style="margin-bottom: 12px;"><a href="bike-transport-service/"
+                    <li style="margin-bottom: 12px;"><a href="bike-transport-service"
                             style="color: var(--color-text-dim); text-decoration: none; transition: 0.3s;">Bike
                             Transport</a></li>
-                    <li style="margin-bottom: 12px;"><a href="car-transport-service/"
+                    <li style="margin-bottom: 12px;"><a href="car-transport-service"
                             style="color: var(--color-text-dim); text-decoration: none; transition: 0.3s;">Car
                             Transport</a></li>
-                    <li style="margin-bottom: 12px;"><a href="contact/"
+                    <li style="margin-bottom: 12px;"><a href="contact"
                             style="color: var(--color-text-dim); text-decoration: none; transition: 0.3s;">Contact</a>
                     </li>
                 </ul>
