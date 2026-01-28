@@ -1,6 +1,6 @@
 <?php
 // CRITICAL: Replace this with your full Google Apps Script Web App URL
-$url = "PASTE_YOUR_WEB_APP_URL_HERE";
+$url = "https://script.google.com/macros/s/AKfycbzuaGjxHT9QpPz9TgICU9kUecbIwL1yHVn-rIItqaauUywAjSFX8dJ9BPsCyXJ3MR8x-w/exec";
 // Example format: https://script.google.com/macros/s/AKfyc.../exec
 
 $data = [
