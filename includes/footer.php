@@ -54,7 +54,7 @@
                         62, Noida, India</li>
                     <li style="margin-bottom: 15px; color: var(--color-text-dim); display: flex; gap: 10px;"><i
                             class="fa-solid fa-phone" style="color: var(--color-primary); margin-top: 5px;"></i> +91
-                        98765 43210</li>
+                        63887 17912</li>
                     <li style="margin-bottom: 15px; color: var(--color-text-dim); display: flex; gap: 10px;"><i
                             class="fa-solid fa-envelope" style="color: var(--color-primary); margin-top: 5px;"></i>
                         support@vahanmover.com</li>

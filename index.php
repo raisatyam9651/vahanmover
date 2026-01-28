@@ -51,7 +51,7 @@
                 </p>
                 <div class="cta-container" style="display: flex; gap: 20px;">
                     <a href="contact" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
-                    <a href="tel:+919876543210" class="btn btn-secondary"><i class="fa-solid fa-phone"></i> Call Now</a>
+                    <a href="tel:+916388717912" class="btn btn-secondary"><i class="fa-solid fa-phone"></i> Call Now</a>
                 </div>
 
                 <div

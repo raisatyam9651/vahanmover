@@ -59,9 +59,9 @@
                     <h3 style="font-size: 1.3rem; margin-bottom: 10px;">Call or WhatsApp</h3>
                     <p style="color: var(--color-text-dim); margin-bottom: 15px; font-size: 0.95rem;">Instant assistance
                         available</p>
-                    <a href="tel:+919876543210"
+                    <a href="tel:+916388717912"
                         style="color: var(--color-primary); font-weight: 600; font-size: 1.1rem; text-decoration: none;">+91
-                        98765 43210</a>
+                        63887 17912</a>
                 </div>
 
                 <!-- Email Card -->
