@@ -40,9 +40,14 @@
                         & Bike</span> Shifting Services
                 </h1>
                 <p
-                    style="font-size: 1.25rem; color: var(--color-text-dim); margin-bottom: 40px; max-width: 500px; line-height: 1.6;">
-                    Safe, fast, and reliable vehicle transportation across India with professional handling and complete
-                    care.
+                    style="font-size: 1.25rem; color: var(--color-text-dim); margin-bottom: 40px; max-width: 600px; line-height: 1.7;">
+                    Experience safe, fast, and reliable vehicle transportation across India with our professional
+                    handling,
+                    comprehensive insurance coverage, and complete care. We ensure door-to-door delivery with real-time
+                    tracking,
+                    trained professionals, and secure packing for your peace of mind. Trusted by thousands of customers
+                    nationwide
+                    for hassle-free car and bike shifting services.
                 </p>
                 <div class="cta-container" style="display: flex; gap: 20px;">
                     <a href="#" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
