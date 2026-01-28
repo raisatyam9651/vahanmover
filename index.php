@@ -154,7 +154,7 @@
     </section>
 
     <!-- Services Section -->
-    <section class="services" style="padding: 100px 0; position: relative;">
+    <section class="services" style="padding: 70px 0; position: relative;">
         <div class="container">
             <div style="text-align: center; margin-bottom: 60px;">
                 <h2 style="font-size: 3rem; margin-bottom: 15px; font-weight: 700;">Our <span
@@ -215,7 +215,7 @@
     </section>
 
     <!-- Pan India Coverage Section -->
-    <section style="padding: 80px 0; position: relative;">
+    <section style="padding: 70px 0; position: relative;">
         <div class="container">
             <div style="text-align: center; margin-bottom: 60px;">
                 <h2 style="font-size: 3rem; margin-bottom: 15px; font-weight: 700;">Pan India <span
@@ -265,7 +265,7 @@
     </section>
 
     <!-- FAQ Section -->
-    <section class="faq" style="padding: 100px 0; position: relative;">
+    <section class="faq" style="padding: 70px 0; position: relative;">
         <!-- Background Bloom -->
         <div
             style="position: absolute; top: 20%; left: -10%; width: 500px; height: 500px; background: var(--color-secondary); filter: blur(200px); opacity: 0.1; z-index: 0;">
@@ -351,6 +351,106 @@
                         process hassle-free.
                     </p>
                 </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Form Section -->
+    <section style="padding: 60px 0 100px; position: relative;">
+        <div class="container">
+            <div style="text-align: center; margin-bottom: 60px;">
+                <h2 style="font-size: 3rem; margin-bottom: 15px; font-weight: 700;">Request a <span
+                        style="color: var(--color-primary);">Free Quote</span></h2>
+                <p style="color: var(--color-text-dim); font-size: 1.1rem; max-width: 600px; margin: 0 auto;">Fill out
+                    the form below and our team will get back to you within 24 hours.</p>
+            </div>
+
+            <div class="glass-card floating" style="max-width: 800px; margin: 0 auto; padding: 50px;">
+                <form id="contactForm" style="display: grid; gap: 25px;">
+
+                    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 25px;">
+                        <div>
+                            <label
+                                style="display: block; margin-bottom: 8px; color: var(--color-text-white); font-weight: 500;">Full
+                                Name *</label>
+                            <input type="text" required
+                                style="width: 100%; padding: 14px 18px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 12px; color: var(--color-text-white); font-size: 1rem; transition: all 0.3s;"
+                                placeholder="Enter your name">
+                        </div>
+                        <div>
+                            <label
+                                style="display: block; margin-bottom: 8px; color: var(--color-text-white); font-weight: 500;">Phone
+                                Number *</label>
+                            <input type="tel" required
+                                style="width: 100%; padding: 14px 18px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 12px; color: var(--color-text-white); font-size: 1rem; transition: all 0.3s;"
+                                placeholder="Enter phone number">
+                        </div>
+                    </div>
+
+                    <div>
+                        <label
+                            style="display: block; margin-bottom: 8px; color: var(--color-text-white); font-weight: 500;">Email
+                            Address *</label>
+                        <input type="email" required
+                            style="width: 100%; padding: 14px 18px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 12px; color: var(--color-text-white); font-size: 1rem; transition: all 0.3s;"
+                            placeholder="Enter your email">
+                    </div>
+
+                    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 25px;">
+                        <div>
+                            <label
+                                style="display: block; margin-bottom: 8px; color: var(--color-text-white); font-weight: 500;">Pickup
+                                City *</label>
+                            <input type="text" required
+                                style="width: 100%; padding: 14px 18px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 12px; color: var(--color-text-white); font-size: 1rem; transition: all 0.3s;"
+                                placeholder="From city">
+                        </div>
+                        <div>
+                            <label
+                                style="display: block; margin-bottom: 8px; color: var(--color-text-white); font-weight: 500;">Drop
+                                City *</label>
+                            <input type="text" required
+                                style="width: 100%; padding: 14px 18px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 12px; color: var(--color-text-white); font-size: 1rem; transition: all 0.3s;"
+                                placeholder="To city">
+                        </div>
+                    </div>
+
+                    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 25px;">
+                        <div>
+                            <label
+                                style="display: block; margin-bottom: 8px; color: var(--color-text-white); font-weight: 500;">Vehicle
+                                Type *</label>
+                            <select required
+                                style="width: 100%; padding: 14px 18px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 12px; color: var(--color-text-white); font-size: 1rem; transition: all 0.3s;">
+                                <option value="" style="background: var(--color-bg-dark);">Select vehicle type</option>
+                                <option value="car" style="background: var(--color-bg-dark);">Car</option>
+                                <option value="bike" style="background: var(--color-bg-dark);">Bike</option>
+                            </select>
+                        </div>
+                        <div>
+                            <label
+                                style="display: block; margin-bottom: 8px; color: var(--color-text-white); font-weight: 500;">Preferred
+                                Date</label>
+                            <input type="date"
+                                style="width: 100%; padding: 14px 18px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 12px; color: var(--color-text-white); font-size: 1rem; transition: all 0.3s;">
+                        </div>
+                    </div>
+
+                    <div>
+                        <label
+                            style="display: block; margin-bottom: 8px; color: var(--color-text-white); font-weight: 500;">Message
+                            / Special Instructions</label>
+                        <textarea rows="4"
+                            style="width: 100%; padding: 14px 18px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 12px; color: var(--color-text-white); font-size: 1rem; resize: vertical; transition: all 0.3s;"
+                            placeholder="Any special requirements or questions..."></textarea>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary"
+                        style="width: 100%; padding: 16px; font-size: 1.1rem; margin-top: 10px;">
+                        <i class="fa-solid fa-paper-plane"></i> Get Free Quote
+                    </button>
+
+                </form>
             </div>
         </div>
     </section>
