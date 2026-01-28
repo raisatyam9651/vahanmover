@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Shifter | Pan-India Car & Bike Transport</title>
+    <title>Vahan Mover | Pan-India Car & Bike Transport</title>
     <meta name="description"
         content="Professional Car & Bike Shifting Services across India. Safe, fast, and reliable vehicle transportation. Get a free quote today!">
     <link rel="stylesheet" href="style.css">

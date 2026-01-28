@@ -4,9 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact Us | Shifter - Pan-India Car & Bike Transport</title>
+    <title>Contact Us | Vahan Mover - Pan-India Car & Bike Transport</title>
     <meta name="description"
-        content="Get in touch with Shifter for reliable car and bike shifting services across India. Request a free quote or call us for instant assistance.">
+        content="Get in touch with Vahan Mover for reliable car and bike shifting services across India. Request a free quote or call us for instant assistance.">
     <link rel="stylesheet" href="style.css">
     <!-- Font Awesome for Icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -75,8 +75,8 @@
                     <h3 style="font-size: 1.3rem; margin-bottom: 10px;">Email Us</h3>
                     <p style="color: var(--color-text-dim); margin-bottom: 15px; font-size: 0.95rem;">Send your
                         requirements</p>
-                    <a href="mailto:support@shifter.com"
-                        style="color: var(--color-primary); font-weight: 600; font-size: 1.1rem; text-decoration: none;">support@shifter.com</a>
+                    <a href="mailto:support@vahanmover.com"
+                        style="color: var(--color-primary); font-weight: 600; font-size: 1.1rem; text-decoration: none;">support@vahanmover.com</a>
                 </div>
 
                 <!-- Service Area Card -->
@@ -252,7 +252,7 @@
         <div class="container">
             <div style="text-align: center; margin-bottom: 60px;">
                 <h2 style="font-size: 2.5rem; margin-bottom: 15px; font-weight: 700;">Why Choose <span
-                        style="color: var(--color-primary);">Shifter</span>?</h2>
+                        style="color: var(--color-primary);">Vahan Mover</span>?</h2>
             </div>
 
             <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 30px;">

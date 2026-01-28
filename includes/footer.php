@@ -7,7 +7,7 @@
                 <div style="flex: 1; min-width: 250px;">
                     <div
                         style="font-size: 1.8rem; font-weight: 800; color: var(--color-primary); letter-spacing: -1px; margin-bottom: 20px;">
-                        SHIFTER<span style="color: var(--color-text-white);">.</span>
+                        VAHAN MOVER<span style="color: var(--color-text-white);">.</span>
                     </div>
                     <p style="color: var(--color-text-dim); line-height: 1.6; margin-bottom: 20px;">
                         Trusted partner for safe and reliable vehicle transportation across India. Book your move today
@@ -59,14 +59,14 @@
                             98765 43210</li>
                         <li style="margin-bottom: 15px; color: var(--color-text-dim); display: flex; gap: 10px;"><i
                                 class="fa-solid fa-envelope" style="color: var(--color-primary); margin-top: 5px;"></i>
-                            support@shifter.com</li>
+                            support@vahanmover.com</li>
                     </ul>
                 </div>
             </div>
 
             <div
                 style="border-top: 1px solid rgba(255,255,255,0.05); padding-top: 20px; text-align: center; color: var(--color-text-dim); font-size: 0.9rem;">
-                &copy; 2026 Shifter Logistics. All rights reserved.
+                &copy; 2026 Vahan Mover Logistics. All rights reserved.
             </div>
         </div>
     </footer>
