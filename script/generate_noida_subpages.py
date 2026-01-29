@@ -99,6 +99,17 @@ def generate_subpages(service_type, template_file, locations):
         # Breadcrumbs or text content could also be updated
         new_content = new_content.replace("Home </a>&nbsp; / &nbsp; Noida", f"Home </a>&nbsp; / &nbsp; <a href=\"{service_type}-transport-noida.php\">Noida</a> &nbsp; / &nbsp; {full_location_name}")
         
+        # Intro paragraph content replacements
+        # "Looking for reliable bike transport in Noida?" -> "...in Sector 18 Noida?"
+        new_content = new_content.replace(f"reliable <strong>{service_type} transport in Noida</strong>", f"reliable <strong>{service_type} transport in {full_location_name}</strong>")
+        new_content = new_content.replace(f"<strong>{service_type} shifting service in Noida</strong>", f"<strong>{service_type} shifting service in {full_location_name}</strong>")
+        
+        # FAQ replacements (generic check)
+        new_content = new_content.replace(f"transport service in Noida?", f"transport service in {full_location_name}?")
+        new_content = new_content.replace(f"shifting from Noida?", f"shifting from {full_location_name}?")
+        new_content = new_content.replace(f"delivery available in Noida?", f"delivery available in {full_location_name}?")
+        new_content = new_content.replace(f"home in Noida", f"home in {full_location_name}")
+        
         
         # Write the new file
         output_path = os.path.join(os.path.dirname(template_file), filename)
