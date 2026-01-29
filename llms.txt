@@ -1,0 +1,12 @@
+# Vahan Mover - Pan-India Vehicle Transport
+
+> Vahan Mover provides professional Car & Bike Shifting Services across India. Safe, fast, and reliable vehicle transportation with door-to-door delivery.
+
+## Core Pages
+- [Home](index.php)
+- [Calculater](contact.php)
+- [Bike Transport](bike-transport-service.php)
+- [Car Transport](car-transport-service.php)
+
+## Resources
+- [Sitemap](sitemap.xml)
