@@ -9,7 +9,7 @@
     <meta name="description"
         content="Professional bike transport service in Sector 57 Noida. Safe, insured door-to-door bike shifting to and from Noida to anywhere in India.">
     <meta name="keywords"
-        content="bike transport delhi, bike shifting delhi, two wheeler transport delhi, bike courier service delhi, bike relocation delhi, motorcycle transport delhi, bike transport connaught place, bike transport dwarka, bike transport rohini, bike transport south delhi">
+        content="bike transport sector 57 noida, bike shifting sector 57 noida, bike movers sector 57 noida, bike carrier sector 57 noida, bike relocation sector 57 noida, best bike transport sector 57 noida, professional bike shifting sector 57 noida">
 
     <?php include 'includes/header-link.php'; ?>
 </head>
@@ -584,10 +584,10 @@
 
             <div class="glass-card" style="padding: 50px; max-width: 1200px; margin: 0 auto;">
                 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 30px;">
-                    
 
-<!-- Column 1 -->
-<ul style="list-style: none; padding: 0;">
+
+                    <!-- Column 1 -->
+                    <ul style="list-style: none; padding: 0;">
                         <li
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
@@ -772,10 +772,10 @@
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
                                 transport in Sector 27 Noida</a>
                         </li>
-</ul>
+                    </ul>
 
-<!-- Column 2 -->
-<ul style="list-style: none; padding: 0;">
+                    <!-- Column 2 -->
+                    <ul style="list-style: none; padding: 0;">
                         <li
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
@@ -960,10 +960,10 @@
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
                                 transport in Sector 52 Noida</a>
                         </li>
-</ul>
+                    </ul>
 
-<!-- Column 3 -->
-<ul style="list-style: none; padding: 0;">
+                    <!-- Column 3 -->
+                    <ul style="list-style: none; padding: 0;">
                         <li
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
@@ -1148,10 +1148,10 @@
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
                                 transport in Sector 78 Noida</a>
                         </li>
-</ul>
+                    </ul>
 
-<!-- Column 4 -->
-<ul style="list-style: none; padding: 0;">
+                    <!-- Column 4 -->
+                    <ul style="list-style: none; padding: 0;">
                         <li
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
@@ -1320,7 +1320,7 @@
                                 style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
                                 transport in Gaur City Noida</a>
                         </li>
-</ul>
+                    </ul>
 
                 </div>
             </div>

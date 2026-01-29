@@ -65,10 +65,28 @@ def generate_subpages(service_type, template_file, locations):
         replace_desc = f"transport service in {full_location_name}. Safe"
         new_content = new_content.replace(search_desc, replace_desc)
         
-        # Keywords
-        search_kw = f"{service_type} transport noida, {service_type} shifting noida"
-        replace_kw = f"{service_type} transport {full_location_name.lower()}, {service_type} shifting {full_location_name.lower()}"
-        new_content = new_content.replace(search_kw, replace_kw)
+        # Keywords - Generate a specific list
+        loc_lower = full_location_name.lower()
+        new_keywords = f"{service_type} transport {loc_lower}, {service_type} shifting {loc_lower}, {service_type} movers {loc_lower}, {service_type} carrier {loc_lower}, {service_type} relocation {loc_lower}, best {service_type} transport {loc_lower}, professional {service_type} shifting {loc_lower}"
+        
+        # We need to find the existing meta keywords line and replace the content.
+        # Since we know the template structure, we can try to replace the content attribute value if we can match it.
+        # But a regex replacement might be safer or just targeting the line if we assume consistent formatting.
+        # The template has: <meta name="keywords" content="...">
+        
+        # Let's try replacing the known content string from the template.
+        # For Bike: "bike transport noida, bike shifting noida, ..."
+        # For Car: "car transport noida, car shifting noida, ..."
+        
+        search_kw_bike = 'content="bike transport noida, bike shifting noida, two wheeler transport noida, bike courier service noida, bike relocation noida, motorcycle transport noida, bike transport greater noida, bike transport noida extension"'
+        search_kw_car = 'content="car transport noida, car shifting noida, vehicle transport noida, car carrier noida, car relocation noida"'
+        
+        replace_kw_attr = f'content="{new_keywords}"'
+        
+        if service_type == "bike":
+             new_content = new_content.replace(search_kw_bike, replace_kw_attr)
+        else:
+             new_content = new_content.replace(search_kw_car, replace_kw_attr)
         
         # H1
         # H1 replacement
