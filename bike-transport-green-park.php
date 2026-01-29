@@ -5,11 +5,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- SEO Meta Tags -->
-    <title>Car Transport in Delhi | Safe Vehicle Shifting Services</title>
+    <title>Bike Transport in Green Park, Delhi | Safe Two-Wheeler Shifting Services</title>
     <meta name="description"
-        content="Professional car transport service in Delhi. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
+        content="Professional bike transport service in Green Park, Delhi. Safe, insured door-to-door bike shifting to and from Green Park, Delhi to anywhere in India.">
     <meta name="keywords"
-        content="car transport delhi, car shifting delhi, vehicle transport delhi, car carrier delhi, car relocation delhi">
+        content="bike transport delhi, bike shifting delhi, two wheeler transport delhi, bike courier service delhi, bike relocation delhi, motorcycle transport delhi">
 
     <?php include 'includes/header-link.php'; ?>
 </head>
@@ -35,17 +35,17 @@
             <div class="hero-content">
                 <div
                     style="display: inline-block; padding: 8px 16px; background: rgba(6, 182, 212, 0.1); border: 1px solid rgba(6, 182, 212, 0.3); border-radius: 30px; margin-bottom: 20px; color: var(--color-primary); font-weight: 600; font-size: 0.9rem;">
-                    <i class="fa-solid fa-car"></i> Vehicle Transport Experts
+                    <i class="fa-solid fa-motorcycle"></i> Two-Wheeler Transport Experts
                 </div>
                 <h1 style="font-size: 3.5rem; line-height: 1.1; margin-bottom: 24px; font-weight: 800;">
-                    Car Transport in <span
-                        style="background: linear-gradient(to right, var(--color-primary), var(--color-secondary)); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent;">Delhi</span>
+                    Bike Transport in <span
+                        style="background: linear-gradient(to right, var(--color-primary), var(--color-secondary)); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent;">Green Park, Delhi</span>
                 </h1>
                 <p
                     style="font-size: 1.1rem; color: var(--color-text-dim); margin-bottom: 40px; max-width: 650px; line-height: 1.7;">
-                    Looking for reliable <strong>car transport in Delhi</strong>? We provide professional
-                    car shifting services to and from Delhi to all major cities across India. Our
-                    <strong>car shifting service in Delhi</strong> offers
+                    Looking for reliable <strong>bike transport in Green Park, Delhi</strong>? We provide professional
+                    two-wheeler shifting services to and from Green Park, Delhi to all major cities across India. Our
+                    <strong>bike shifting service in Green Park, Delhi</strong> offers
                     complete door-to-door solutions with trained professionals, comprehensive insurance coverage, secure
                     packing, and real-time tracking for your peace of mind.
                 </p>
@@ -61,15 +61,15 @@
                 <div class="glass-card floating"
                     style="padding: 60px 40px; position: relative; z-index: 2; width: 100%; max-width: 500px;">
                     <div style="text-align: center; margin-bottom: 40px;">
-                        <i class="fa-solid fa-car floating-delayed"
+                        <i class="fa-solid fa-motorcycle floating-delayed"
                             style="font-size: 8rem; color: var(--color-primary); filter: drop-shadow(0 0 30px var(--color-primary));"></i>
                     </div>
                     <div style="display: flex; justify-content: space-around; margin-top: 40px;">
                         <div style="text-align: center;">
                             <h3
                                 style="font-size: 2rem; font-weight: 700; color: var(--color-accent); margin-bottom: 8px;">
-                                10k+</h3>
-                            <p style="color: var(--color-text-dim); font-size: 1rem;">Cars Shifted</p>
+                                15k+</h3>
+                            <p style="color: var(--color-text-dim); font-size: 1rem;">Bikes Shifted</p>
                         </div>
                         <div style="text-align: center;">
                             <h3
@@ -88,9 +88,9 @@
         <div class="container">
             <div style="text-align: center; margin-bottom: 60px;">
                 <h2 style="font-size: 3rem; margin-bottom: 15px; font-weight: 700;">Why Choose Our <span
-                        style="color: var(--color-primary);">Car Transport Service</span>?</h2>
+                        style="color: var(--color-primary);">Bike Transport Service</span>?</h2>
                 <p style="color: var(--color-text-dim); font-size: 1.1rem; max-width: 700px; margin: 0 auto;">We provide
-                    reliable car transport service with professional care and complete transparency.</p>
+                    reliable motorcycle transport service with professional care and complete transparency.</p>
             </div>
 
             <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 30px;">
@@ -101,17 +101,17 @@
                         <i class="fa-solid fa-house-circle-check" style="font-size: 1.5rem; color: white;"></i>
                     </div>
                     <h3 style="font-size: 1.3rem; margin-bottom: 12px;">Door-to-Door Service</h3>
-                    <p style="color: var(--color-text-dim); line-height: 1.6;">Complete car pickup and delivery at your
+                    <p style="color: var(--color-text-dim); line-height: 1.6;">Complete bike pickup and delivery at your
                         doorstep across India.</p>
                 </div>
 
                 <div class="glass-card floating-delayed" style="padding: 35px; text-align: center;">
                     <div
                         style="width: 60px; height: 60px; background: linear-gradient(135deg, var(--color-accent), #10b981); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 20px; box-shadow: 0 4px 15px rgba(20, 184, 166, 0.3);">
-                        <i class="fa-solid fa-truck-ramp-box" style="font-size: 1.5rem; color: white;"></i>
+                        <i class="fa-solid fa-box-open" style="font-size: 1.5rem; color: white;"></i>
                     </div>
-                    <h3 style="font-size: 1.3rem; margin-bottom: 12px;">Enclosed Carriers</h3>
-                    <p style="color: var(--color-text-dim); line-height: 1.6;">Quality enclosed carriers ensure
+                    <h3 style="font-size: 1.3rem; margin-bottom: 12px;">Professional Packing</h3>
+                    <p style="color: var(--color-text-dim); line-height: 1.6;">Quality packing materials ensure
                         scratch-free and damage-free transportation.</p>
                 </div>
 
@@ -122,7 +122,7 @@
                     </div>
                     <h3 style="font-size: 1.3rem; margin-bottom: 12px;">Fully Insured</h3>
                     <p style="color: var(--color-text-dim); line-height: 1.6;">Complete insurance coverage protects your
-                        car during transit.</p>
+                        bike during transit.</p>
                 </div>
 
                 <div class="glass-card floating-delayed"
@@ -154,21 +154,21 @@
                     </div>
                     <h3 style="font-size: 1.3rem; margin-bottom: 12px;">Trained Staff</h3>
                     <p style="color: var(--color-text-dim); line-height: 1.6;">Expert team with years of experience in
-                        safe car handling.</p>
+                        safe bike handling.</p>
                 </div>
 
             </div>
         </div>
     </section>
 
-    <!-- Car Shifting Process Section -->
+    <!-- Bike Shifting Process Section -->
     <section style="padding: 80px 0; position: relative;">
         <div class="container">
             <div style="text-align: center; margin-bottom: 60px;">
                 <h2 style="font-size: 3rem; margin-bottom: 15px; font-weight: 700;">Our <span
-                        style="color: var(--color-primary);">Car Shifting Process</span></h2>
+                        style="color: var(--color-primary);">Bike Shifting Process</span></h2>
                 <p style="color: var(--color-text-dim); font-size: 1.1rem; max-width: 700px; margin: 0 auto;">A
-                    systematic approach to ensure safe car transport service from start to finish.</p>
+                    systematic approach to ensure safe motorcycle transport service from start to finish.</p>
             </div>
 
             <div style="max-width: 800px; margin: 0 auto;">
@@ -180,9 +180,9 @@
                         style="min-width: 50px; height: 50px; background: linear-gradient(135deg, var(--color-primary), var(--color-secondary)); border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; font-weight: 700; color: white;">
                         1</div>
                     <div>
-                        <h3 style="font-size: 1.4rem; margin-bottom: 10px;">Car Inspection & Documentation</h3>
+                        <h3 style="font-size: 1.4rem; margin-bottom: 10px;">Bike Inspection & Documentation</h3>
                         <p style="color: var(--color-text-dim); line-height: 1.6;">Our team conducts a thorough
-                            inspection of your car and completes all necessary documentation before pickup.</p>
+                            inspection of your bike and completes all necessary documentation before pickup.</p>
                     </div>
                 </div>
 
@@ -193,9 +193,9 @@
                         style="min-width: 50px; height: 50px; background: linear-gradient(135deg, var(--color-accent), #10b981); border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; font-weight: 700; color: white;">
                         2</div>
                     <div>
-                        <h3 style="font-size: 1.4rem; margin-bottom: 10px;">Safe Loading</h3>
-                        <p style="color: var(--color-text-dim); line-height: 1.6;">We use quality enclosed carriers
-                            including specialized car carriers to ensure complete safety.</p>
+                        <h3 style="font-size: 1.4rem; margin-bottom: 10px;">Secure Packing</h3>
+                        <p style="color: var(--color-text-dim); line-height: 1.6;">We use quality packing materials
+                            including bubble wrap, foam, and protective covers to ensure complete safety.</p>
                     </div>
                 </div>
 
@@ -206,9 +206,9 @@
                         style="min-width: 50px; height: 50px; background: linear-gradient(135deg, #8b5cf6, #d946ef); border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; font-weight: 700; color: white;">
                         3</div>
                     <div>
-                        <h3 style="font-size: 1.4rem; margin-bottom: 10px;">Safe Loading</h3>
+                        <h3 style="font-size: 1.4rem; margin-bottom: 10px;">Professional Loading</h3>
                         <p style="color: var(--color-text-dim); line-height: 1.6;">Trained professionals carefully load
-                            your car onto specialized carriers designed for car transport.</p>
+                            your bike onto specialized carriers designed for two-wheeler transport.</p>
                     </div>
                 </div>
 
@@ -220,7 +220,7 @@
                         4</div>
                     <div>
                         <h3 style="font-size: 1.4rem; margin-bottom: 10px;">Safe Transportation</h3>
-                        <p style="color: var(--color-text-dim); line-height: 1.6;">Your car is transported using secure
+                        <p style="color: var(--color-text-dim); line-height: 1.6;">Your bike is transported using secure
                             carriers with GPS tracking, ensuring safe transit across India.</p>
                     </div>
                 </div>
@@ -233,7 +233,7 @@
                         5</div>
                     <div>
                         <h3 style="font-size: 1.4rem; margin-bottom: 10px;">On-Time Delivery</h3>
-                        <p style="color: var(--color-text-dim); line-height: 1.6;">We deliver your car at the
+                        <p style="color: var(--color-text-dim); line-height: 1.6;">We deliver your bike at the
                             destination address on time, with final inspection and handover documentation.</p>
                     </div>
                 </div>
@@ -242,24 +242,24 @@
         </div>
     </section>
 
-    <!-- Types of Cars Section -->
+    <!-- Types of Bikes Section -->
     <section style="padding: 80px 0; background: rgba(255,255,255,0.02); position: relative;">
         <div class="container">
             <div style="text-align: center; margin-bottom: 60px;">
-                <h2 style="font-size: 3rem; margin-bottom: 15px; font-weight: 700;">Types of Cars <span
+                <h2 style="font-size: 3rem; margin-bottom: 15px; font-weight: 700;">Types of Bikes <span
                         style="color: var(--color-primary);">We Transport</span></h2>
-                <p style="color: var(--color-text-dim); font-size: 1.1rem; max-width: 700px; margin: 0 auto;">Our car
-                    courier service handles all types of cars with equal care and professionalism.</p>
+                <p style="color: var(--color-text-dim); font-size: 1.1rem; max-width: 700px; margin: 0 auto;">Our bike
+                    courier service handles all types of two-wheelers with equal care and professionalism.</p>
             </div>
 
             <div
                 style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 25px; max-width: 1000px; margin: 0 auto;">
 
                 <div class="glass-card floating" style="padding: 30px; text-align: center;">
-                    <i class="fa-solid fa-car"
+                    <i class="fa-solid fa-motorcycle"
                         style="font-size: 3rem; color: var(--color-primary); margin-bottom: 15px;"></i>
-                    <h3 style="font-size: 1.2rem; margin-bottom: 8px;">Standard Cars</h3>
-                    <p style="color: var(--color-text-dim); font-size: 0.95rem;">Commuter cars, cruisers, and standard
+                    <h3 style="font-size: 1.2rem; margin-bottom: 8px;">Standard Motorcycles</h3>
+                    <p style="color: var(--color-text-dim); font-size: 0.95rem;">Commuter bikes, cruisers, and standard
                         models</p>
                 </div>
 
@@ -267,22 +267,22 @@
                 <div class="glass-card floating" style="padding: 30px; text-align: center; animation-delay: 1s;">
                     <i class="fa-solid fa-gauge-high"
                         style="font-size: 3rem; color: var(--color-secondary); margin-bottom: 15px;"></i>
-                    <h3 style="font-size: 1.2rem; margin-bottom: 8px;">Sports Cars</h3>
-                    <p style="color: var(--color-text-dim); font-size: 0.95rem;">High-performance and racing cars
+                    <h3 style="font-size: 1.2rem; margin-bottom: 8px;">Sports Bikes</h3>
+                    <p style="color: var(--color-text-dim); font-size: 0.95rem;">High-performance and racing motorcycles
                     </p>
                 </div>
 
                 <div class="glass-card floating-delayed"
                     style="padding: 30px; text-align: center; animation-delay: 0.5s;">
                     <i class="fa-solid fa-crown" style="font-size: 3rem; color: #f59e0b; margin-bottom: 15px;"></i>
-                    <h3 style="font-size: 1.2rem; margin-bottom: 8px;">Premium Cars</h3>
-                    <p style="color: var(--color-text-dim); font-size: 0.95rem;">Luxury and high-value cars</p>
+                    <h3 style="font-size: 1.2rem; margin-bottom: 8px;">Premium Bikes</h3>
+                    <p style="color: var(--color-text-dim); font-size: 0.95rem;">Luxury and high-value motorcycles</p>
                 </div>
 
                 <div class="glass-card floating" style="padding: 30px; text-align: center; animation-delay: 1.5s;">
                     <i class="fa-solid fa-bolt" style="font-size: 3rem; color: #14b8a6; margin-bottom: 15px;"></i>
                     <h3 style="font-size: 1.2rem; margin-bottom: 8px;">Electric Two-Wheelers</h3>
-                    <p style="color: var(--color-text-dim); font-size: 0.95rem;">Electric cars and scooters with
+                    <p style="color: var(--color-text-dim); font-size: 0.95rem;">Electric bikes and scooters with
                         battery care</p>
                 </div>
 
@@ -295,16 +295,16 @@
         <div class="container">
             <div style="text-align: center; margin-bottom: 60px;">
                 <h2 style="font-size: 3rem; margin-bottom: 15px; font-weight: 700;">Pan India <span
-                        style="color: var(--color-primary);">Car Transport Coverage</span></h2>
-                <p style="color: var(--color-text-dim); font-size: 1.1rem; max-width: 800px; margin: 0 auto;">Our car
+                        style="color: var(--color-primary);">Bike Transport Coverage</span></h2>
+                <p style="color: var(--color-text-dim); font-size: 1.1rem; max-width: 800px; margin: 0 auto;">Our bike
                     parcel service operates across all major metro cities, tier-2, and tier-3 towns throughout India,
-                    ensuring your car reaches any destination safely.</p>
+                    ensuring your two-wheeler reaches any destination safely.</p>
             </div>
 
             <div
                 style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; max-width: 1000px; margin: 0 auto 40px;">
                 <span
-                    style="padding: 12px 24px; background: rgba(6, 182, 212, 0.1); border: 1px solid rgba(6, 182, 212, 0.3); border-radius: 30px; color: var(--color-primary); font-weight: 500;">Delhi
+                    style="padding: 12px 24px; background: rgba(6, 182, 212, 0.1); border: 1px solid rgba(6, 182, 212, 0.3); border-radius: 30px; color: var(--color-primary); font-weight: 500;">Green Park, Delhi
                     NCR</span>
                 <span
                     style="padding: 12px 24px; background: rgba(6, 182, 212, 0.1); border: 1px solid rgba(6, 182, 212, 0.3); border-radius: 30px; color: var(--color-primary); font-weight: 500;">Mumbai</span>
@@ -333,90 +333,6 @@
                     450+ More Cities</span>
             </div>
 
-            <!-- Delhi Localities Links -->
-            <div style="text-align: center; margin-bottom: 40px;">
-                <h3 style="font-size: 1.8rem; margin-bottom: 25px; font-weight: 600;">Serving Key Localities in <span
-                        style="color: var(--color-primary);">Delhi</span></h3>
-                <div
-                    style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 1000px; margin: 0 auto;">
-                    <a href="car-transport-connaught-place"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Connaught
-                        Place</a>
-                    <a href="car-transport-karol-bagh"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Karol
-                        Bagh</a>
-                    <a href="car-transport-south-extension"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">South
-                        Extension</a>
-                    <a href="car-transport-greater-kailash"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Greater
-                        Kailash</a>
-                    <a href="car-transport-lajpat-nagar"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Lajpat
-                        Nagar</a>
-                    <a href="car-transport-defence-colony"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Defence
-                        Colony</a>
-                    <a href="car-transport-hauz-khas"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Hauz
-                        Khas</a>
-                    <a href="car-transport-saket"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Saket</a>
-                    <a href="car-transport-green-park"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Green
-                        Park</a>
-                    <a href="car-transport-vasant-kunj"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Vasant
-                        Kunj</a>
-                    <a href="car-transport-vasant-vihar"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Vasant
-                        Vihar</a>
-                    <a href="car-transport-malviya-nagar"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Malviya
-                        Nagar</a>
-                    <a href="car-transport-dwarka"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Dwarka</a>
-                    <a href="car-transport-janakpuri"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Janakpuri</a>
-                    <a href="car-transport-rajouri-garden"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Rajouri
-                        Garden</a>
-                    <a href="car-transport-punjabi-bagh"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Punjabi
-                        Bagh</a>
-                    <a href="car-transport-paschim-vihar"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Paschim
-                        Vihar</a>
-                    <a href="car-transport-rohini"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Rohini</a>
-                    <a href="car-transport-pitampura"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Pitampura</a>
-                    <a href="car-transport-ashok-vihar"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Ashok
-                        Vihar</a>
-                    <a href="car-transport-civil-lines"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Civil
-                        Lines</a>
-                    <a href="car-transport-preet-vihar"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Preet
-                        Vihar</a>
-                    <a href="car-transport-laxmi-nagar"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Laxmi
-                        Nagar</a>
-                    <a href="car-transport-mayur-vihar"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Mayur
-                        Vihar</a>
-                    <a href="car-transport-anand-vihar"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Anand
-                        Vihar</a>
-                    <a href="car-transport-nehru-place"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Nehru
-                        Place</a>
-                    <a href="car-transport-okhla"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Okhla</a>
-                </div>
-            </div>
-
             <div style="text-align: center;">
                 <i class="fa-solid fa-map-location-dot floating"
                     style="font-size: 6rem; color: var(--color-primary); opacity: 0.2;"></i>
@@ -431,7 +347,7 @@
                 <h2 style="font-size: 3rem; margin-bottom: 15px; font-weight: 700;">Safety & <span
                         style="color: var(--color-primary);">Insurance</span></h2>
                 <p style="color: var(--color-text-dim); font-size: 1.1rem; max-width: 700px; margin: 0 auto;">Your
-                    car's safety is our top priority with comprehensive protection at every step.</p>
+                    bike's safety is our top priority with comprehensive protection at every step.</p>
             </div>
 
             <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 30px;">
@@ -448,7 +364,7 @@
                     <i class="fa-solid fa-user-shield"
                         style="font-size: 3rem; color: var(--color-accent); margin-bottom: 20px;"></i>
                     <h3 style="font-size: 1.3rem; margin-bottom: 12px;">Trained Handling</h3>
-                    <p style="color: var(--color-text-dim); line-height: 1.6;">Expert staff trained in safe car
+                    <p style="color: var(--color-text-dim); line-height: 1.6;">Expert staff trained in safe bike
                         handling and transportation techniques.</p>
                 </div>
 
@@ -457,7 +373,7 @@
                         style="font-size: 3rem; color: var(--color-secondary); margin-bottom: 20px;"></i>
                     <h3 style="font-size: 1.3rem; margin-bottom: 12px;">Secure Carriers</h3>
                     <p style="color: var(--color-text-dim); line-height: 1.6;">Specialized carriers designed
-                        specifically for safe car transport.</p>
+                        specifically for safe two-wheeler transport.</p>
                 </div>
 
                 <div class="glass-card floating-delayed"
@@ -484,7 +400,7 @@
                 <h2 style="font-size: 3rem; margin-bottom: 15px; font-weight: 700;">Frequently Asked <span
                         style="color: var(--color-primary);">Questions</span></h2>
                 <p style="color: var(--color-text-dim); font-size: 1.1rem; max-width: 600px; margin: 0 auto;">Common
-                    questions about our car transport service in Delhi.</p>
+                    questions about our bike transport service in Green Park, Delhi.</p>
             </div>
 
             <div class="faq-grid">
@@ -493,11 +409,11 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">01.</span>
-                        How safe is car transport service in Delhi?
+                        How safe is bike transport service in Green Park, Delhi?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Our car transport service is completely safe with professional packing, trained handling staff,
-                        secure carriers, and comprehensive insurance coverage protecting your car throughout the
+                        Our bike transport service is completely safe with professional packing, trained handling staff,
+                        secure carriers, and comprehensive insurance coverage protecting your bike throughout the
                         journey.
                     </p>
                 </div>
@@ -506,10 +422,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">02.</span>
-                        Do you provide insurance for car shifting from Delhi?
+                        Do you provide insurance for bike shifting from Green Park, Delhi?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Yes, we provide complete insurance coverage for all car shifting services to protect against
+                        Yes, we provide complete insurance coverage for all bike shifting services to protect against
                         any unforeseen damages or risks during transportation.
                     </p>
                 </div>
@@ -518,7 +434,7 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">03.</span>
-                        How long does car transportation take?
+                        How long does bike transportation take?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
                         Delivery time depends on the distance and route. Typically, transport takes 3-7
@@ -530,10 +446,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">04.</span>
-                        What documents are required for car transport?
+                        What documents are required for bike transport?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        You need to provide car RC (Registration Certificate), valid ID proof, and insurance papers.
+                        You need to provide bike RC (Registration Certificate), valid ID proof, and insurance papers.
                         Our team will assist with all documentation during pickup.
                     </p>
                 </div>
@@ -542,11 +458,11 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">05.</span>
-                        Is door-to-door car delivery available in Delhi?
+                        Is door-to-door bike delivery available in Green Park, Delhi?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Yes, we provide complete door-to-door car transport service, picking up from your
-                        home in Delhi and delivering directly to the destination address.
+                        Yes, we provide complete door-to-door bike transport service, picking up from your
+                        home in Green Park, Delhi and delivering directly to the destination address.
                     </p>
                 </div>
 

@@ -9,4 +9,4 @@
 - [Car Transport](car-transport-service.php)
 
 ## Resources
-- [Sitemap](sitemap.xml)
+https://vahanmover.com/sitemap.xml

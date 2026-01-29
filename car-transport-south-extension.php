@@ -5,9 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- SEO Meta Tags -->
-    <title>Car Transport in Delhi | Safe Vehicle Shifting Services</title>
+    <title>Car Transport in South Extension, Delhi | Safe Vehicle Shifting Services</title>
     <meta name="description"
-        content="Professional car transport service in Delhi. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
+        content="Professional car transport service in South Extension, Delhi. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
     <meta name="keywords"
         content="car transport delhi, car shifting delhi, vehicle transport delhi, car carrier delhi, car relocation delhi">
 
@@ -39,13 +39,13 @@
                 </div>
                 <h1 style="font-size: 3.5rem; line-height: 1.1; margin-bottom: 24px; font-weight: 800;">
                     Car Transport in <span
-                        style="background: linear-gradient(to right, var(--color-primary), var(--color-secondary)); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent;">Delhi</span>
+                        style="background: linear-gradient(to right, var(--color-primary), var(--color-secondary)); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent;">South Extension, Delhi</span>
                 </h1>
                 <p
                     style="font-size: 1.1rem; color: var(--color-text-dim); margin-bottom: 40px; max-width: 650px; line-height: 1.7;">
-                    Looking for reliable <strong>car transport in Delhi</strong>? We provide professional
-                    car shifting services to and from Delhi to all major cities across India. Our
-                    <strong>car shifting service in Delhi</strong> offers
+                    Looking for reliable <strong>car transport in South Extension, Delhi</strong>? We provide professional
+                    car shifting services to and from South Extension, Delhi to all major cities across India. Our
+                    <strong>car shifting service in South Extension, Delhi</strong> offers
                     complete door-to-door solutions with trained professionals, comprehensive insurance coverage, secure
                     packing, and real-time tracking for your peace of mind.
                 </p>
@@ -304,7 +304,7 @@
             <div
                 style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; max-width: 1000px; margin: 0 auto 40px;">
                 <span
-                    style="padding: 12px 24px; background: rgba(6, 182, 212, 0.1); border: 1px solid rgba(6, 182, 212, 0.3); border-radius: 30px; color: var(--color-primary); font-weight: 500;">Delhi
+                    style="padding: 12px 24px; background: rgba(6, 182, 212, 0.1); border: 1px solid rgba(6, 182, 212, 0.3); border-radius: 30px; color: var(--color-primary); font-weight: 500;">South Extension, Delhi
                     NCR</span>
                 <span
                     style="padding: 12px 24px; background: rgba(6, 182, 212, 0.1); border: 1px solid rgba(6, 182, 212, 0.3); border-radius: 30px; color: var(--color-primary); font-weight: 500;">Mumbai</span>
@@ -331,90 +331,6 @@
                 <span
                     style="padding: 12px 24px; background: rgba(6, 182, 212, 0.1); border: 1px solid rgba(6, 182, 212, 0.3); border-radius: 30px; color: var(--color-primary); font-weight: 500;">&
                     450+ More Cities</span>
-            </div>
-
-            <!-- Delhi Localities Links -->
-            <div style="text-align: center; margin-bottom: 40px;">
-                <h3 style="font-size: 1.8rem; margin-bottom: 25px; font-weight: 600;">Serving Key Localities in <span
-                        style="color: var(--color-primary);">Delhi</span></h3>
-                <div
-                    style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 1000px; margin: 0 auto;">
-                    <a href="car-transport-connaught-place"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Connaught
-                        Place</a>
-                    <a href="car-transport-karol-bagh"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Karol
-                        Bagh</a>
-                    <a href="car-transport-south-extension"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">South
-                        Extension</a>
-                    <a href="car-transport-greater-kailash"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Greater
-                        Kailash</a>
-                    <a href="car-transport-lajpat-nagar"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Lajpat
-                        Nagar</a>
-                    <a href="car-transport-defence-colony"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Defence
-                        Colony</a>
-                    <a href="car-transport-hauz-khas"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Hauz
-                        Khas</a>
-                    <a href="car-transport-saket"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Saket</a>
-                    <a href="car-transport-green-park"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Green
-                        Park</a>
-                    <a href="car-transport-vasant-kunj"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Vasant
-                        Kunj</a>
-                    <a href="car-transport-vasant-vihar"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Vasant
-                        Vihar</a>
-                    <a href="car-transport-malviya-nagar"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Malviya
-                        Nagar</a>
-                    <a href="car-transport-dwarka"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Dwarka</a>
-                    <a href="car-transport-janakpuri"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Janakpuri</a>
-                    <a href="car-transport-rajouri-garden"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Rajouri
-                        Garden</a>
-                    <a href="car-transport-punjabi-bagh"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Punjabi
-                        Bagh</a>
-                    <a href="car-transport-paschim-vihar"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Paschim
-                        Vihar</a>
-                    <a href="car-transport-rohini"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Rohini</a>
-                    <a href="car-transport-pitampura"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Pitampura</a>
-                    <a href="car-transport-ashok-vihar"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Ashok
-                        Vihar</a>
-                    <a href="car-transport-civil-lines"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Civil
-                        Lines</a>
-                    <a href="car-transport-preet-vihar"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Preet
-                        Vihar</a>
-                    <a href="car-transport-laxmi-nagar"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Laxmi
-                        Nagar</a>
-                    <a href="car-transport-mayur-vihar"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Mayur
-                        Vihar</a>
-                    <a href="car-transport-anand-vihar"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Anand
-                        Vihar</a>
-                    <a href="car-transport-nehru-place"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Nehru
-                        Place</a>
-                    <a href="car-transport-okhla"
-                        style="padding: 8px 16px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; color: var(--color-text-dim); text-decoration: none; font-size: 0.9rem; transition: 0.3s;">Okhla</a>
-                </div>
             </div>
 
             <div style="text-align: center;">
@@ -484,7 +400,7 @@
                 <h2 style="font-size: 3rem; margin-bottom: 15px; font-weight: 700;">Frequently Asked <span
                         style="color: var(--color-primary);">Questions</span></h2>
                 <p style="color: var(--color-text-dim); font-size: 1.1rem; max-width: 600px; margin: 0 auto;">Common
-                    questions about our car transport service in Delhi.</p>
+                    questions about our car transport service in South Extension, Delhi.</p>
             </div>
 
             <div class="faq-grid">
@@ -493,7 +409,7 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">01.</span>
-                        How safe is car transport service in Delhi?
+                        How safe is car transport service in South Extension, Delhi?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
                         Our car transport service is completely safe with professional packing, trained handling staff,
@@ -506,7 +422,7 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">02.</span>
-                        Do you provide insurance for car shifting from Delhi?
+                        Do you provide insurance for car shifting from South Extension, Delhi?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
                         Yes, we provide complete insurance coverage for all car shifting services to protect against
@@ -542,11 +458,11 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">05.</span>
-                        Is door-to-door car delivery available in Delhi?
+                        Is door-to-door car delivery available in South Extension, Delhi?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
                         Yes, we provide complete door-to-door car transport service, picking up from your
-                        home in Delhi and delivering directly to the destination address.
+                        home in South Extension, Delhi and delivering directly to the destination address.
                     </p>
                 </div>
 
