@@ -568,6 +568,11 @@
         </div>
     </section>
 
+        <!-- Google Map Section -->
+    <div style="width: 100%; line-height: 0;">
+        <iframe src="https://maps.google.com/maps?q=Kaithal,India&t=&z=13&ie=UTF8&iwloc=&output=embed" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>
+
     <?php include 'includes/footer.php'; ?>
 
 </body>
