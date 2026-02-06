@@ -101,6 +101,49 @@
             }
         }
     </style>
+    <style>
+        /* Responsive Fixes */
+        .hero-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 50px;
+            align-items: center;
+        }
+
+        @media (max-width: 991px) {
+            .hero-grid {
+                grid-template-columns: 1fr;
+                gap: 40px;
+            }
+
+            .hero {
+                min-height: auto !important;
+                padding-top: 120px !important;
+                padding-bottom: 60px;
+                height: auto !important;
+            }
+
+            .hero h1 {
+                font-size: 2.5rem !important;
+            }
+        }
+
+        @media (max-width: 576px) {
+            .hero h1 {
+                font-size: 2.2rem !important;
+            }
+
+            .cta-container {
+                flex-direction: column;
+            }
+
+            .cta-container .btn {
+                width: 100%;
+                text-align: center;
+                justify-content: center;
+            }
+        }
+    </style>
 </head>
 
 <body>
@@ -120,7 +163,7 @@
         </div>
 
         <div class="container">
-            <div class="row" style="display: grid; grid-template-columns: 1fr 1fr; gap: 50px; align-items: center;">
+            <div class="row hero-grid">
 
                 <!-- Content -->
                 <div>
