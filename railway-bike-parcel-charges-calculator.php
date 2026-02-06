@@ -112,25 +112,50 @@
 
         @media (max-width: 991px) {
             .hero-grid {
-                grid-template-columns: 1fr;
+                grid-template-columns: 1fr !important;
                 gap: 40px;
+                display: block !important;
+                /* Force block to stack naturally */
+            }
+
+            .hero-grid>div {
+                margin-bottom: 40px;
             }
 
             .hero {
                 min-height: auto !important;
-                padding-top: 120px !important;
-                padding-bottom: 60px;
                 height: auto !important;
+                padding-top: 120px !important;
+                padding-bottom: 60px !important;
+                display: block !important;
+                /* Remove flex behavior on mobile */
+                overflow: visible !important;
+                /* Allow content to flow naturally */
+            }
+
+            .container {
+                width: 100% !important;
+                max-width: 100% !important;
+                padding-left: 15px !important;
+                padding-right: 15px !important;
             }
 
             .hero h1 {
                 font-size: 2.5rem !important;
+                word-wrap: break-word;
+                /* Ensure long words break */
             }
         }
 
         @media (max-width: 576px) {
             .hero h1 {
-                font-size: 2.2rem !important;
+                font-size: 2.0rem !important;
+            }
+
+            .calculator-card {
+                padding: 20px !important;
+                /* Reduce padding on small screens */
+                width: 100% !important;
             }
 
             .cta-container {
