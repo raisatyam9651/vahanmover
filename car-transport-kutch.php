@@ -6,9 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- SEO Meta Tags -->
     <title>Car Transport in Kutch | Safe Vehicle Shifting Services</title>
-    <meta name="description" content="Professional car transport service in Kutch. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
-    <meta name="keywords" content="car transport kutch, car shifting kutch, vehicle transport kutch, car carrier kutch, car relocation kutch">
-        <!-- Geo Meta Tags -->
+    <meta name="description"
+        content="Professional car transport service in Kutch. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
+    <meta name="keywords"
+        content="car transport kutch, car shifting kutch, vehicle transport kutch, car carrier kutch, car relocation kutch">
+    <!-- Geo Meta Tags -->
     <meta name="geo.region" content="IN" />
     <meta name="geo.placename" content="Kutch" />
     <?php include 'includes/header-link.php'; ?>
@@ -651,9 +653,10 @@
         </div>
     </section>
 
-        <!-- Google Map Section -->
+    <!-- Google Map Section -->
     <div style="width: 100%; line-height: 0;">
-        <iframe src="https://maps.google.com/maps?q=Kutch,India&t=&z=13&ie=UTF8&iwloc=&output=embed" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        <iframe src="https://maps.google.com/maps?q=Kutch,India&t=&z=13&ie=UTF8&iwloc=&output=embed" width="100%"
+            height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
     </div>
 
     <?php include 'includes/footer.php'; ?>
