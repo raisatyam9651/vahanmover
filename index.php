@@ -9,6 +9,113 @@
         content="Professional Car & Bike Shifting Services across India. Safe, fast, and reliable vehicle transportation. Get a free quote today!">
 
     <?php include 'includes/header-link.php'; ?>
+    <!-- Schema Markup -->
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "Organization",
+            "name": "Vahan Mover",
+            "url": "https://vahanmover.com",
+            "logo": "https://vahanmover.com/assets/img/logo.png",
+            "contactPoint": {
+                "@type": "ContactPoint",
+                "telephone": "+916388717912",
+                "contactType": "customer service",
+                "areaServed": "IN",
+                "availableLanguage": "en"
+            }
+        },
+        {
+            "@type": "WebSite",
+            "name": "Vahan Mover",
+            "url": "https://vahanmover.com",
+            "potentialAction": {
+                "@type": "SearchAction",
+                "target": "https://vahanmover.com/search?q={search_term_string}",
+                "query-input": "required name=search_term_string"
+            }
+        },
+        {
+            "@type": "LocalBusiness",
+            "name": "Vahan Mover",
+            "image": "https://vahanmover.com/assets/img/logo.png",
+            "url": "https://vahanmover.com",
+            "telephone": "+916388717912",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Noida Sector 62",
+                "addressLocality": "Noida",
+                "addressRegion": "Uttar Pradesh",
+                "addressCountry": "IN"
+            },
+            "areaServed": {
+                "@type": "Country",
+                "name": "India"
+            },
+            "sameAs": [
+                "https://www.facebook.com/vahanmover",
+                "https://www.instagram.com/vahanmover"
+            ],
+            "priceRange": "$$"
+        },
+        {
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Do you provide car and bike shifting services across India?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes, we offer pan-India car and bike shifting services, covering all major cities and towns with\n                        safe door-to-door delivery."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How is my car or bike transported safely?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Vehicles are moved using specialized carriers, professional packing, and trained handling,\n                        ensuring complete protection during transit."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Is insurance included in the vehicle shifting service?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes, we provide insurance coverage for your car or bike to protect against any unforeseen\n                        transit risks."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How long does car or bike shifting take?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Delivery time depends on the distance and route, but we always aim for on-time and efficient\n                        delivery with regular updates."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "What information is required to get a price quote?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "You just need to share the pickup location, drop location, vehicle type, and preferred shifting\n                        date to receive a quick quote."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Do you offer door-to-door vehicle pickup and delivery?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Absolutely. We provide complete door-to-door pickup and delivery, making the vehicle shifting\n                        process hassle-free."
+                    }
+                }
+            ]
+        }
+    ]
+}
+    </script>
 </head>
 
 <body>

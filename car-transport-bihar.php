@@ -34,7 +34,7 @@
                 "addressCountry": "IN"
             },
             "areaServed": {
-                "@type": "City",
+                "@type": "AdministrativeArea",
                 "name": "Bihar"
             },
             "aggregateRating": {

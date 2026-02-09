@@ -169,6 +169,80 @@
             }
         }
     </style>
+    <!-- Schema Markup -->
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "WebPage",
+            "name": "IRCTC Bike Parcel Charges Calculator | IRCTC Bike Transport Rate",
+            "url": "https://vahanmover.com/irctc-bike-parcel-charges-calculator.php",
+            "description": "Calculate approximate IRCTC bike parcel charges for 2024. Get instant estimates for bike transport by train including packing and insurance cost."
+        },
+        {
+            "@type": "LocalBusiness",
+            "name": "Vahan Mover",
+            "image": "https://vahanmover.com/assets/img/logo.png",
+            "url": "https://vahanmover.com",
+            "telephone": "+916388717912",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Noida Sector 62",
+                "addressLocality": "Noida",
+                "addressRegion": "Uttar Pradesh",
+                "addressCountry": "IN"
+            },
+            "areaServed": {
+                "@type": "Country",
+                "name": "India"
+            },
+            "sameAs": [
+                "https://www.facebook.com/vahanmover",
+                "https://www.instagram.com/vahanmover"
+            ],
+            "priceRange": "$$"
+        },
+        {
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Is packing mandatory for IRCTC bike transport?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes, proper packing of the headlight,\n                        fuel tank, and mirrors is mandatory to avoid damage and fire hazards. Railways stations have\n                        packing agents, but professional packing is recommended."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Do I need to empty the fuel tank?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Absolutely. As per railway safety rules,\n                        the fuel tank must be completely dry. If fuel is found, you may be fined heavily (approx \u20b91000 -\n                        \u20b95000)."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Can I track my bike parcel?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes, if you book it as a parcel, you will\n                        receive a Railway Receipt (RR) number which can be used to track the status on the Indian\n                        Railways parcel website."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Whats cheaper: Train or Private Transporters?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Trains are generally cheaper for long\n                        distances but require significant effort (booking, loading, unloading). Private transporters\n                        offer door-to-door convenience at a slightly higher premium but save time and hassle."
+                    }
+                }
+            ]
+        }
+    ]
+}
+    </script>
 </head>
 
 <body>

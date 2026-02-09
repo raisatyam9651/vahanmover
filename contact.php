@@ -9,6 +9,43 @@
         content="Get in touch with Vahan Mover for reliable car and bike shifting services across India. Request a free quote or call us for instant assistance.">
 
     <?php include 'includes/header-link.php'; ?>
+    <!-- Schema Markup -->
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "ContactPage",
+            "name": "Contact Vahan Mover",
+            "description": "Get in touch for reliable car and bike shifting services.",
+            "url": "https://vahanmover.com/contact.php"
+        },
+        {
+            "@type": "LocalBusiness",
+            "name": "Vahan Mover",
+            "image": "https://vahanmover.com/assets/img/logo.png",
+            "url": "https://vahanmover.com",
+            "telephone": "+916388717912",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Noida Sector 62",
+                "addressLocality": "Noida",
+                "addressRegion": "Uttar Pradesh",
+                "addressCountry": "IN"
+            },
+            "areaServed": {
+                "@type": "Country",
+                "name": "India"
+            },
+            "sameAs": [
+                "https://www.facebook.com/vahanmover",
+                "https://www.instagram.com/vahanmover"
+            ],
+            "priceRange": "$$"
+        }
+    ]
+}
+    </script>
 </head>
 
 <body>

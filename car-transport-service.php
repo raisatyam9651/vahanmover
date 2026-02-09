@@ -13,34 +13,48 @@
     
         <!-- Geo Meta Tags -->
     <meta name="geo.region" content="IN" />
-    <meta name="geo.placename" content="Service" />
-    <?php include 'includes/header-link.php'; ?>
-    <!-- Schema Markup -->
+    <meta name="geo.placename" content="India" />
+    <?php include 'includes/header-link.php'; ?>    <!-- Schema Markup -->
     <script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@graph": [
         {
+            "@type": "Service",
+            "serviceType": "Car Transport",
+            "provider": {
+                "@type": "LocalBusiness",
+                "name": "Vahan Mover",
+                "image": "https://vahanmover.com/assets/img/logo.png",
+                "telephone": "+916388717912",
+                "priceRange": "$$"
+            },
+            "areaServed": {
+                "@type": "Country",
+                "name": "India"
+            },
+            "url": "https://vahanmover.com/car-transport-service.php",
+            "name": "Car Transport Service in India",
+            "description": "Reliable car transport services across India with door-to-door delivery and insurance coverage."
+        },
+        {
             "@type": "LocalBusiness",
-            "name": "Vahan Mover - Service",
+            "name": "Vahan Mover",
             "image": "https://vahanmover.com/assets/img/logo.png",
             "url": "https://vahanmover.com/car-transport-service.php",
             "telephone": "+916388717912",
             "address": {
                 "@type": "PostalAddress",
-                "addressLocality": "Service",
-                "addressRegion": "India",
+                "streetAddress": "Noida Sector 62",
+                "addressLocality": "Noida",
+                "addressRegion": "Uttar Pradesh",
                 "addressCountry": "IN"
             },
             "areaServed": {
-                "@type": "City",
-                "name": "Service"
+                "@type": "Country",
+                "name": "India"
             },
-            "aggregateRating": {
-                "@type": "AggregateRating",
-                "ratingValue": "4.8",
-                "reviewCount": "450"
-            }
+            "priceRange": "$$"
         },
         {
             "@type": "Organization",
@@ -56,7 +70,8 @@
                     "name": "How safe is car transport service in India?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "Our car relocation service is highly safe. We use specialized car carriers (open or enclosed)\n                        and provide insurance coverage to ensure your vehicle reaches securely."
+                        "text": "Our car relocation service is highly safe. We use specialized car carriers (open or enclosed)
+                        and provide insurance coverage to ensure your vehicle reaches securely."
                     }
                 },
                 {
@@ -64,7 +79,8 @@
                     "name": "What is the cost of car shifting in India?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "The cost depends on the car type, distance, and carrier type (open vs. enclosed). Contact us for\n                        a free, customized quote."
+                        "text": "The cost depends on the car type, distance, and carrier type (open vs. enclosed). Contact us for
+                        a free, customized quote."
                     }
                 },
                 {
@@ -72,7 +88,8 @@
                     "name": "How long does car transportation take?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "Delivery typically takes 3-7 days depending on the distance and route. We provide estimated\n                        delivery dates and tracking."
+                        "text": "Delivery typically takes 3-7 days depending on the distance and route. We provide estimated
+                        delivery dates and tracking."
                     }
                 },
                 {
@@ -80,7 +97,8 @@
                     "name": "Can I put items in my car during transport?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "It is generally recommended not to leave personal items in the car for insurance and safety\n                        reasons. Please consult our team for specific policies."
+                        "text": "It is generally recommended not to leave personal items in the car for insurance and safety
+                        reasons. Please consult our team for specific policies."
                     }
                 },
                 {
@@ -88,7 +106,8 @@
                     "name": "Is door-to-door car delivery available?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "Yes, we offer complete door-to-door car transport service, picking up the vehicle from your home\n                        and delivering it to your new address."
+                        "text": "Yes, we offer complete door-to-door car transport service, picking up the vehicle from your home
+                        and delivering it to your new address."
                     }
                 }
             ]

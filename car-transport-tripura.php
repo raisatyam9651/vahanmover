@@ -31,7 +31,7 @@
                 "addressCountry": "IN"
             },
             "areaServed": {
-                "@type": "City",
+                "@type": "AdministrativeArea",
                 "name": "Tripura"
             },
             "aggregateRating": {

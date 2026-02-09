@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thank You | Vahan Mover</title>
+    <meta name="robots" content="noindex, nofollow">
     <meta name="description" content="Thank you for contacting Vahan Mover. We have received your query.">
 
     <?php include 'includes/header-link.php'; ?>

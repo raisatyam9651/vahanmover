@@ -33,7 +33,7 @@
                 "addressCountry": "IN"
             },
             "areaServed": {
-                "@type": "City",
+                "@type": "AdministrativeArea",
                 "name": "West Bengal"
             },
             "aggregateRating": {

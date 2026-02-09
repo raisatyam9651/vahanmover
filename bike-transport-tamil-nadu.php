@@ -33,7 +33,7 @@
                 "addressCountry": "IN"
             },
             "areaServed": {
-                "@type": "City",
+                "@type": "AdministrativeArea",
                 "name": "Tamil Nadu"
             },
             "aggregateRating": {

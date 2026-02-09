@@ -12,34 +12,48 @@
         content="bike transport service in india, bike shifting service, two wheeler transport india, bike courier service, bike relocation service india, motorcycle transport service, bike parcel service">
         <!-- Geo Meta Tags -->
     <meta name="geo.region" content="IN" />
-    <meta name="geo.placename" content="Service" />
-    <?php include 'includes/header-link.php'; ?>
-    <!-- Schema Markup -->
+    <meta name="geo.placename" content="India" />
+    <?php include 'includes/header-link.php'; ?>    <!-- Schema Markup -->
     <script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@graph": [
         {
+            "@type": "Service",
+            "serviceType": "Bike Transport",
+            "provider": {
+                "@type": "LocalBusiness",
+                "name": "Vahan Mover",
+                "image": "https://vahanmover.com/assets/img/logo.png",
+                "telephone": "+916388717912",
+                "priceRange": "$$"
+            },
+            "areaServed": {
+                "@type": "Country",
+                "name": "India"
+            },
+            "url": "https://vahanmover.com/bike-transport-service.php",
+            "name": "Bike Transport Service in India",
+            "description": "Safe and professional bike shifting services pan-India with packing and insurance."
+        },
+        {
             "@type": "LocalBusiness",
-            "name": "Vahan Mover - Service",
+            "name": "Vahan Mover",
             "image": "https://vahanmover.com/assets/img/logo.png",
             "url": "https://vahanmover.com/bike-transport-service.php",
             "telephone": "+916388717912",
             "address": {
                 "@type": "PostalAddress",
-                "addressLocality": "Service",
-                "addressRegion": "India",
+                "streetAddress": "Noida Sector 62",
+                "addressLocality": "Noida",
+                "addressRegion": "Uttar Pradesh",
                 "addressCountry": "IN"
             },
             "areaServed": {
-                "@type": "City",
-                "name": "Service"
+                "@type": "Country",
+                "name": "India"
             },
-            "aggregateRating": {
-                "@type": "AggregateRating",
-                "ratingValue": "4.8",
-                "reviewCount": "450"
-            }
+            "priceRange": "$$"
         },
         {
             "@type": "Organization",
@@ -55,7 +69,9 @@
                     "name": "How safe is bike transport service in India?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "Our bike transport service is completely safe with professional packing, trained handling staff,\n                        secure carriers, and comprehensive insurance coverage protecting your bike throughout the\n                        journey."
+                        "text": "Our bike transport service is completely safe with professional packing, trained handling staff,
+                        secure carriers, and comprehensive insurance coverage protecting your bike throughout the
+                        journey."
                     }
                 },
                 {
@@ -63,7 +79,8 @@
                     "name": "Do you provide insurance for bike shifting?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "Yes, we provide complete insurance coverage for all bike shifting services to protect against\n                        any unforeseen damages or risks during transportation."
+                        "text": "Yes, we provide complete insurance coverage for all bike shifting services to protect against
+                        any unforeseen damages or risks during transportation."
                     }
                 },
                 {
@@ -71,7 +88,8 @@
                     "name": "How long does bike transportation take?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "Delivery time depends on the distance and route. Typically, metro-to-metro transport takes 3-5\n                        days, while longer distances may take 5-7 days with regular tracking updates."
+                        "text": "Delivery time depends on the distance and route. Typically, metro-to-metro transport takes 3-5
+                        days, while longer distances may take 5-7 days with regular tracking updates."
                     }
                 },
                 {
@@ -79,7 +97,8 @@
                     "name": "What documents are required for bike transport?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "You need to provide bike RC (Registration Certificate), valid ID proof, and insurance papers.\n                        Our team will assist with all documentation during pickup."
+                        "text": "You need to provide bike RC (Registration Certificate), valid ID proof, and insurance papers.
+                        Our team will assist with all documentation during pickup."
                     }
                 },
                 {
@@ -87,7 +106,8 @@
                     "name": "Is door-to-door bike delivery available?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "Yes, we provide complete door-to-door bike transport service across India, picking up from your\n                        location and delivering directly to the destination address."
+                        "text": "Yes, we provide complete door-to-door bike transport service across India, picking up from your
+                        location and delivering directly to the destination address."
                     }
                 }
             ]

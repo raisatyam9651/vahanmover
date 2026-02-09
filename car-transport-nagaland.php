@@ -32,7 +32,7 @@
                 "addressCountry": "IN"
             },
             "areaServed": {
-                "@type": "City",
+                "@type": "AdministrativeArea",
                 "name": "Nagaland"
             },
             "aggregateRating": {
