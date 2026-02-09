@@ -10,7 +10,91 @@
         content="Professional car transport service in Nagaland covering Kohima, Dimapur, Mokokchung, Wokha, Mon, and all districts. Safe, insured door-to-door car shifting.">
     <meta name="keywords" content="car transport nagaland, car transport chumoukedima, car transport dimapur, car transport kiphire, car transport kohima, car transport longleng, car transport mokokchung, car transport mon, car transport niuland, car transport noklak, car transport peren, car transport phek, car transport shamator, car transport tseminyu, car transport tuensang, car transport wokha, car transport zunheboto, car shifting nagaland, vehicle transport nagaland, car carrier kohima, car relocation dimapur">
     
+        <!-- Geo Meta Tags -->
+    <meta name="geo.region" content="IN-NL" />
+    <meta name="geo.placename" content="Nagaland" />
     <?php include 'includes/header-link.php'; ?>
+    <!-- Schema Markup -->
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "LocalBusiness",
+            "name": "Vahan Mover - Nagaland",
+            "image": "https://vahanmover.com/assets/img/logo.png",
+            "url": "https://vahanmover.com/car-transport-nagaland.php",
+            "telephone": "+916388717912",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Nagaland",
+                "addressRegion": "Nagaland",
+                "addressCountry": "IN"
+            },
+            "areaServed": {
+                "@type": "City",
+                "name": "Nagaland"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.8",
+                "reviewCount": "450"
+            }
+        },
+        {
+            "@type": "Organization",
+            "url": "https://vahanmover.com",
+            "name": "Vahan Mover",
+            "logo": "https://vahanmover.com/assets/img/logo.png"
+        },
+        {
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "How safe is car transport service in India?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Our car transport service is completely safe with professional packing, trained handling staff,\n                        secure carriers, and comprehensive insurance coverage protecting your car throughout the\n                        journey."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Do you provide insurance for car shifting?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes, we provide complete insurance coverage for all car shifting services to protect against\n                        any unforeseen damages or risks during transportation."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How long does car transportation take?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Delivery time depends on the distance and route. Typically, metro-to-metro transport takes 3-5\n                        days, while longer distances may take 5-7 days with regular tracking updates."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "What documents are required for car transport?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "You need to provide car RC (Registration Certificate), valid ID proof, and insurance papers.\n                        Our team will assist with all documentation during pickup."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Is door-to-door car delivery available?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes, we provide complete door-to-door car transport service across India, picking up from your\n                        location and delivering directly to the destination address."
+                    }
+                }
+            ]
+        }
+    ]
+}
+    </script>
 </head>
 
 <body>

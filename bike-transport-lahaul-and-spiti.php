@@ -10,8 +10,91 @@
         content="Professional bike transport service in Lahaul and Spiti. Safe, insured door-to-door bike shifting to and from Lahaul and Spiti to anywhere in India.">
     <meta name="keywords"
         content="bike transport lahaul-and-spiti, bike shifting lahaul-and-spiti, two wheeler transport lahaul-and-spiti, bike courier service lahaul-and-spiti, bike relocation lahaul-and-spiti, motorcycle transport lahaul-and-spiti">
-    
+        <!-- Geo Meta Tags -->
+    <meta name="geo.region" content="IN" />
+    <meta name="geo.placename" content="Lahaul And Spiti" />
     <?php include 'includes/header-link.php'; ?>
+    <!-- Schema Markup -->
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "LocalBusiness",
+            "name": "Vahan Mover - Lahaul And Spiti",
+            "image": "https://vahanmover.com/assets/img/logo.png",
+            "url": "https://vahanmover.com/bike-transport-lahaul-and-spiti.php",
+            "telephone": "+916388717912",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Lahaul And Spiti",
+                "addressRegion": "India",
+                "addressCountry": "IN"
+            },
+            "areaServed": {
+                "@type": "City",
+                "name": "Lahaul And Spiti"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.8",
+                "reviewCount": "450"
+            }
+        },
+        {
+            "@type": "Organization",
+            "url": "https://vahanmover.com",
+            "name": "Vahan Mover",
+            "logo": "https://vahanmover.com/assets/img/logo.png"
+        },
+        {
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "How safe is bike transport service in Lahaul and Spiti?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Our bike transport service is completely safe with professional packing, trained handling staff,\n                        secure carriers, and comprehensive insurance coverage protecting your bike throughout the\n                        journey."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Do you provide insurance for bike shifting from Lahaul and Spiti?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes, we provide complete insurance coverage for all bike shifting services to protect against\n                        any unforeseen damages or risks during transportation."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How long does bike transportation take?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Delivery time depends on the distance and route. Typically, transport takes 3-7\n                        days with regular tracking updates."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "What documents are required for bike transport?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "You need to provide bike RC (Registration Certificate), valid ID proof, and insurance papers.\n                        Our team will assist with all documentation during pickup."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Is door-to-door bike delivery available in Lahaul and Spiti?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes, we provide complete door-to-door bike transport service, picking up from your\n                        home in Lahaul and Spiti and delivering directly to the destination address."
+                    }
+                }
+            ]
+        }
+    ]
+}
+    </script>
 </head>
 
 <body>

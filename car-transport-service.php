@@ -11,7 +11,91 @@
     <meta name="keywords"
         content="car transport service in india, car carriers india, auto transportation india, car shipping services, vehicle relocation, enclosed car transport, car moving services, door-to-door car transport">
     
+        <!-- Geo Meta Tags -->
+    <meta name="geo.region" content="IN" />
+    <meta name="geo.placename" content="Service" />
     <?php include 'includes/header-link.php'; ?>
+    <!-- Schema Markup -->
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "LocalBusiness",
+            "name": "Vahan Mover - Service",
+            "image": "https://vahanmover.com/assets/img/logo.png",
+            "url": "https://vahanmover.com/car-transport-service.php",
+            "telephone": "+916388717912",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Service",
+                "addressRegion": "India",
+                "addressCountry": "IN"
+            },
+            "areaServed": {
+                "@type": "City",
+                "name": "Service"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.8",
+                "reviewCount": "450"
+            }
+        },
+        {
+            "@type": "Organization",
+            "url": "https://vahanmover.com",
+            "name": "Vahan Mover",
+            "logo": "https://vahanmover.com/assets/img/logo.png"
+        },
+        {
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "How safe is car transport service in India?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Our car relocation service is highly safe. We use specialized car carriers (open or enclosed)\n                        and provide insurance coverage to ensure your vehicle reaches securely."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "What is the cost of car shifting in India?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "The cost depends on the car type, distance, and carrier type (open vs. enclosed). Contact us for\n                        a free, customized quote."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How long does car transportation take?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Delivery typically takes 3-7 days depending on the distance and route. We provide estimated\n                        delivery dates and tracking."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Can I put items in my car during transport?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "It is generally recommended not to leave personal items in the car for insurance and safety\n                        reasons. Please consult our team for specific policies."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Is door-to-door car delivery available?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes, we offer complete door-to-door car transport service, picking up the vehicle from your home\n                        and delivering it to your new address."
+                    }
+                }
+            ]
+        }
+    ]
+}
+    </script>
 </head>
 
 <body>

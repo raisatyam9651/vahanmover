@@ -9,8 +9,91 @@
     <meta name="description"
         content="Professional car transport service in Tamil Nadu covering Chennai, Coimbatore, Madurai, Tiruchirappalli, Salem, and all districts. Safe, insured door-to-door car shifting.">
     <meta name="keywords" content="car transport tamil nadu, car transport ariyalur, car transport chengalpattu, car transport chennai, car transport coimbatore, car transport cuddalore, car transport dharmapuri, car transport dindigul, car transport erode, car transport kallakurichi, car transport kancheepuram, car transport karur, car transport krishnagiri, car transport madurai, car transport mayiladuthurai, car transport nagapattinam, car transport namakkal, car transport nilgiris, car transport perambalur, car transport pudukkottai, car transport ramanathapuram, car transport ranipet, car transport salem, car transport sivaganga, car transport tenkasi, car transport thanjavur, car transport theni, car transport thoothukudi, car transport tiruchirappalli, car transport tirunelveli, car transport tirupathur, car transport tiruppur, car transport tiruvallur, car transport tiruvannamalai, car transport tiruvarur, car transport vellore, car transport viluppuram, car transport virudhunagar, car shifting tamil nadu, vehicle transport tamil nadu, car carrier chennai, car relocation coimbatore">
-    
+        <!-- Geo Meta Tags -->
+    <meta name="geo.region" content="IN-TN" />
+    <meta name="geo.placename" content="Tamil Nadu" />
     <?php include 'includes/header-link.php'; ?>
+    <!-- Schema Markup -->
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "LocalBusiness",
+            "name": "Vahan Mover - Tamil Nadu",
+            "image": "https://vahanmover.com/assets/img/logo.png",
+            "url": "https://vahanmover.com/car-transport-tamil-nadu.php",
+            "telephone": "+916388717912",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Tamil Nadu",
+                "addressRegion": "Tamil Nadu",
+                "addressCountry": "IN"
+            },
+            "areaServed": {
+                "@type": "City",
+                "name": "Tamil Nadu"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.8",
+                "reviewCount": "450"
+            }
+        },
+        {
+            "@type": "Organization",
+            "url": "https://vahanmover.com",
+            "name": "Vahan Mover",
+            "logo": "https://vahanmover.com/assets/img/logo.png"
+        },
+        {
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "How safe is car transport service in India?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Our car transport service is completely safe with professional packing, trained handling staff,\n                        secure carriers, and comprehensive insurance coverage protecting your car throughout the\n                        journey."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Do you provide insurance for car shifting?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes, we provide complete insurance coverage for all car shifting services to protect against\n                        any unforeseen damages or risks during transportation."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How long does car transportation take?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Delivery time depends on the distance and route. Typically, metro-to-metro transport takes 3-5\n                        days, while longer distances may take 5-7 days with regular tracking updates."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "What documents are required for car transport?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "You need to provide car RC (Registration Certificate), valid ID proof, and insurance papers.\n                        Our team will assist with all documentation during pickup."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Is door-to-door car delivery available?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes, we provide complete door-to-door car transport service across India, picking up from your\n                        location and delivering directly to the destination address."
+                    }
+                }
+            ]
+        }
+    ]
+}
+    </script>
 </head>
 
 <body>

@@ -10,8 +10,98 @@
         content="Professional bike transport service in Ambala. Safe, insured door-to-door bike shifting to and from Ambala to anywhere in India.">
     <meta name="keywords"
         content="bike transport ambala, bike shifting ambala, two wheeler transport ambala, bike courier service ambala, bike relocation ambala, motorcycle transport ambala">
-    
+        <!-- Geo Meta Tags -->
+    <meta name="geo.region" content="IN" />
+    <meta name="geo.placename" content="Ambala" />
+    <meta name="geo.position" content="30.898889;76.964722" />
+    <meta name="ICBM" content="30.898889, 76.964722" />
     <?php include 'includes/header-link.php'; ?>
+    <!-- Schema Markup -->
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "LocalBusiness",
+            "name": "Vahan Mover - Ambala",
+            "image": "https://vahanmover.com/assets/img/logo.png",
+            "url": "https://vahanmover.com/bike-transport-ambala.php",
+            "telephone": "+916388717912",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Ambala",
+                "addressRegion": "India",
+                "addressCountry": "IN"
+            },
+            "areaServed": {
+                "@type": "City",
+                "name": "Ambala"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.8",
+                "reviewCount": "450"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "30.898889",
+                "longitude": "76.964722"
+            }
+        },
+        {
+            "@type": "Organization",
+            "url": "https://vahanmover.com",
+            "name": "Vahan Mover",
+            "logo": "https://vahanmover.com/assets/img/logo.png"
+        },
+        {
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "How safe is bike transport service in Ambala?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Our bike transport service is completely safe with professional packing, trained handling staff,\n                        secure carriers, and comprehensive insurance coverage protecting your bike throughout the\n                        journey."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Do you provide insurance for bike shifting from Ambala?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes, we provide complete insurance coverage for all bike shifting services to protect against\n                        any unforeseen damages or risks during transportation."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How long does bike transportation take?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Delivery time depends on the distance and route. Typically, transport takes 3-7\n                        days with regular tracking updates."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "What documents are required for bike transport?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "You need to provide bike RC (Registration Certificate), valid ID proof, and insurance papers.\n                        Our team will assist with all documentation during pickup."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Is door-to-door bike delivery available in Ambala?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes, we provide complete door-to-door bike transport service, picking up from your\n                        home in Ambala and delivering directly to the destination address."
+                    }
+                }
+            ]
+        }
+    ]
+}
+    </script>
 </head>
 
 <body>

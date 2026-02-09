@@ -8,8 +8,98 @@
     <title>Car Transport in Shimla | Safe Vehicle Shifting Services</title>
     <meta name="description" content="Professional car transport service in Shimla. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
     <meta name="keywords" content="car transport shimla, car shifting shimla, vehicle transport shimla, car carrier shimla, car relocation shimla">
-    
+        <!-- Geo Meta Tags -->
+    <meta name="geo.region" content="IN-HP" />
+    <meta name="geo.placename" content="Shimla" />
+    <meta name="geo.position" content="28.683333;74.566667" />
+    <meta name="ICBM" content="28.683333, 74.566667" />
     <?php include 'includes/header-link.php'; ?>
+    <!-- Schema Markup -->
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "LocalBusiness",
+            "name": "Vahan Mover - Shimla",
+            "image": "https://vahanmover.com/assets/img/logo.png",
+            "url": "https://vahanmover.com/car-transport-shimla.php",
+            "telephone": "+916388717912",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Shimla",
+                "addressRegion": "Himachal Pradesh",
+                "addressCountry": "IN"
+            },
+            "areaServed": {
+                "@type": "City",
+                "name": "Shimla"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.8",
+                "reviewCount": "450"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "28.683333",
+                "longitude": "74.566667"
+            }
+        },
+        {
+            "@type": "Organization",
+            "url": "https://vahanmover.com",
+            "name": "Vahan Mover",
+            "logo": "https://vahanmover.com/assets/img/logo.png"
+        },
+        {
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "How safe is car transport service in Shimla?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Our car transport service is completely safe with professional packing, trained handling staff,\n                        secure carriers, and comprehensive insurance coverage protecting your car throughout the\n                        journey."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Do you provide insurance for car shifting from Shimla?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes, we provide complete insurance coverage for all car shifting services to protect against\n                        any unforeseen damages or risks during transportation."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How long does car transportation take?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Delivery time depends on the distance and route. Typically, transport takes 3-7\n                        days with regular tracking updates."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "What documents are required for car transport?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "You need to provide car RC (Registration Certificate), valid ID proof, and insurance papers.\n                        Our team will assist with all documentation during pickup."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Is door-to-door car delivery available in Shimla?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes, we provide complete door-to-door car transport service, picking up from your\n                        home in Shimla and delivering directly to the destination address."
+                    }
+                }
+            ]
+        }
+    ]
+}
+    </script>
 </head>
 
 <body>

@@ -9,7 +9,98 @@
     <meta name="description" content="Professional car transport service in Tseminyu. Safe, insured door-to-door car shifting with enclosed carriers and real-time tracking.">
     <meta name="keywords" content="car transport tseminyu, car shifting tseminyu, vehicle transport tseminyu, car carrier tseminyu, car relocation tseminyu">
     
+        <!-- Geo Meta Tags -->
+    <meta name="geo.region" content="IN" />
+    <meta name="geo.placename" content="Tseminyu" />
+    <meta name="geo.position" content="25.933333;94.233333" />
+    <meta name="ICBM" content="25.933333, 94.233333" />
     <?php include 'includes/header-link.php'; ?>
+    <!-- Schema Markup -->
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "LocalBusiness",
+            "name": "Vahan Mover - Tseminyu",
+            "image": "https://vahanmover.com/assets/img/logo.png",
+            "url": "https://vahanmover.com/car-transport-tseminyu.php",
+            "telephone": "+916388717912",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Tseminyu",
+                "addressRegion": "India",
+                "addressCountry": "IN"
+            },
+            "areaServed": {
+                "@type": "City",
+                "name": "Tseminyu"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.8",
+                "reviewCount": "450"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": "25.933333",
+                "longitude": "94.233333"
+            }
+        },
+        {
+            "@type": "Organization",
+            "url": "https://vahanmover.com",
+            "name": "Vahan Mover",
+            "logo": "https://vahanmover.com/assets/img/logo.png"
+        },
+        {
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "How safe is car transport service in Tseminyu?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Our car transport service is completely safe with professional packing, trained handling staff,\n                        secure carriers, and comprehensive insurance coverage protecting your car throughout the\n                        journey."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Do you provide insurance for car shifting from Tseminyu?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes, we provide complete insurance coverage for all car shifting services to protect against\n                        any unforeseen damages or risks during transportation."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How long does car transportation take?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Delivery time depends on the distance and route. Typically, transport takes 3-7\n                        days with regular tracking updates."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "What documents are required for car transport?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "You need to provide car RC (Registration Certificate), valid ID proof, and insurance papers.\n                        Our team will assist with all documentation during pickup."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Is door-to-door car delivery available in Tseminyu?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes, we provide complete door-to-door car transport service, picking up from your\n                        home in Tseminyu and delivering directly to the destination address."
+                    }
+                }
+            ]
+        }
+    ]
+}
+    </script>
 </head>
 
 <body>

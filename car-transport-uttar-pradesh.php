@@ -9,8 +9,91 @@
     <meta name="description"
         content="Professional car transport service in Uttar Pradesh covering Lucknow, Kanpur, Agra, Varanasi, Prayagraj, and all districts. Safe, insured door-to-door car shifting.">
     <meta name="keywords" content="car transport uttar pradesh, car transport agra, car transport aligarh, car transport ambedkar nagar, car transport amethi, car transport amroha, car transport auraiya, car transport ayodhya, car transport azamgarh, car transport baghpat, car transport bahraich, car transport ballia, car transport balrampur, car transport banda, car transport barabanki, car transport bareilly, car transport basti, car transport bhadohi, car transport bijnor, car transport budaun, car transport bulandshahr, car transport chandauli, car transport chitrakoot, car transport deoria, car transport etah, car transport etawah, car transport farrukhabad, car transport fatehpur, car transport firozabad, car transport gautam buddha nagar, car transport ghaziabad, car transport ghazipur, car transport gonda, car transport gorakhpur, car transport hamirpur, car transport hapur, car transport hardoi, car transport hathras, car transport jalaun, car transport jaunpur, car transport jhansi, car transport kannauj, car transport kanpur dehat, car transport kanpur nagar, car transport kasganj, car transport kaushambi, car transport kushinagar, car transport lakhimpur kheri, car transport lalitpur, car transport lucknow, car transport maharajganj, car transport mahoba, car transport mainpuri, car transport mathura, car transport mau, car transport meerut, car transport mirzapur, car transport moradabad, car transport muzaffarnagar, car transport pilibhit, car transport pratapgarh, car transport prayagraj, car transport raebareli, car transport rampur, car transport saharanpur, car transport sambhal, car transport sant kabir nagar, car transport shahjahanpur, car transport shamli, car transport shravasti, car transport siddharthnagar, car transport sitapur, car transport sonbhadra, car transport sultanpur, car transport unnao, car transport varanasi, car shifting uttar pradesh, vehicle transport uttar pradesh, car carrier lucknow, car relocation kanpur">
-    
+        <!-- Geo Meta Tags -->
+    <meta name="geo.region" content="IN-UP" />
+    <meta name="geo.placename" content="Uttar Pradesh" />
     <?php include 'includes/header-link.php'; ?>
+    <!-- Schema Markup -->
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "LocalBusiness",
+            "name": "Vahan Mover - Uttar Pradesh",
+            "image": "https://vahanmover.com/assets/img/logo.png",
+            "url": "https://vahanmover.com/car-transport-uttar-pradesh.php",
+            "telephone": "+916388717912",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Uttar Pradesh",
+                "addressRegion": "Uttar Pradesh",
+                "addressCountry": "IN"
+            },
+            "areaServed": {
+                "@type": "City",
+                "name": "Uttar Pradesh"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.8",
+                "reviewCount": "450"
+            }
+        },
+        {
+            "@type": "Organization",
+            "url": "https://vahanmover.com",
+            "name": "Vahan Mover",
+            "logo": "https://vahanmover.com/assets/img/logo.png"
+        },
+        {
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "How safe is car transport service in India?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Our car transport service is completely safe with professional packing, trained handling staff,\n                        secure carriers, and comprehensive insurance coverage protecting your car throughout the\n                        journey."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Do you provide insurance for car shifting?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes, we provide complete insurance coverage for all car shifting services to protect against\n                        any unforeseen damages or risks during transportation."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How long does car transportation take?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Delivery time depends on the distance and route. Typically, metro-to-metro transport takes 3-5\n                        days, while longer distances may take 5-7 days with regular tracking updates."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "What documents are required for car transport?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "You need to provide car RC (Registration Certificate), valid ID proof, and insurance papers.\n                        Our team will assist with all documentation during pickup."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Is door-to-door car delivery available?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes, we provide complete door-to-door car transport service across India, picking up from your\n                        location and delivering directly to the destination address."
+                    }
+                }
+            ]
+        }
+    ]
+}
+    </script>
 </head>
 
 <body>

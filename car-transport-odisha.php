@@ -10,7 +10,91 @@
         content="Professional car transport service in Odisha covering Bhubaneswar, Cuttack, Rourkela, Berhampur, Sambalpur, and all districts. Safe, insured door-to-door car shifting.">
     <meta name="keywords" content="car transport odisha, car transport angul, car transport balangir, car transport balasore, car transport bargarh, car transport bhadrak, car transport boudh, car transport cuttack, car transport deogarh, car transport dhenkanal, car transport gajapati, car transport ganjam, car transport jagatsinghpur, car transport jajpur, car transport jharsuguda, car transport kalahandi, car transport kandhamal, car transport kendrapara, car transport kendujhar, car transport khordha, car transport koraput, car transport malkangiri, car transport mayurbhanj, car transport nabarangpur, car transport nayagarh, car transport nuapada, car transport puri, car transport rayagada, car transport sambalpur, car transport subarnapur, car transport sundargarh, car shifting odisha, vehicle transport odisha, car carrier bhubaneswar, car relocation cuttack">
     
+        <!-- Geo Meta Tags -->
+    <meta name="geo.region" content="IN-OD" />
+    <meta name="geo.placename" content="Odisha" />
     <?php include 'includes/header-link.php'; ?>
+    <!-- Schema Markup -->
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "LocalBusiness",
+            "name": "Vahan Mover - Odisha",
+            "image": "https://vahanmover.com/assets/img/logo.png",
+            "url": "https://vahanmover.com/car-transport-odisha.php",
+            "telephone": "+916388717912",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Odisha",
+                "addressRegion": "Odisha",
+                "addressCountry": "IN"
+            },
+            "areaServed": {
+                "@type": "City",
+                "name": "Odisha"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.8",
+                "reviewCount": "450"
+            }
+        },
+        {
+            "@type": "Organization",
+            "url": "https://vahanmover.com",
+            "name": "Vahan Mover",
+            "logo": "https://vahanmover.com/assets/img/logo.png"
+        },
+        {
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "How safe is car transport service in India?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Our car transport service is completely safe with professional packing, trained handling staff,\n                        secure carriers, and comprehensive insurance coverage protecting your car throughout the\n                        journey."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Do you provide insurance for car shifting?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes, we provide complete insurance coverage for all car shifting services to protect against\n                        any unforeseen damages or risks during transportation."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How long does car transportation take?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Delivery time depends on the distance and route. Typically, metro-to-metro transport takes 3-5\n                        days, while longer distances may take 5-7 days with regular tracking updates."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "What documents are required for car transport?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "You need to provide car RC (Registration Certificate), valid ID proof, and insurance papers.\n                        Our team will assist with all documentation during pickup."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Is door-to-door car delivery available?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes, we provide complete door-to-door car transport service across India, picking up from your\n                        location and delivering directly to the destination address."
+                    }
+                }
+            ]
+        }
+    ]
+}
+    </script>
 </head>
 
 <body>

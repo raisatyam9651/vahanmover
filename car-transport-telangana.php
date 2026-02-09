@@ -9,8 +9,91 @@
     <meta name="description"
         content="Professional car transport service in Telangana covering Hyderabad, Warangal, Nizamabad, Karimnagar, Khammam, and all districts. Safe, insured door-to-door car shifting.">
     <meta name="keywords" content="car transport telangana, car transport adilabad, car transport bhadradri kothagudem, car transport hanumakonda, car transport hyderabad, car transport jagtial, car transport jangaon, car transport jayashankar bhupalpally, car transport jogulamba gadwal, car transport kamareddy, car transport karimnagar, car transport khammam, car transport komaram bheem asifabad, car transport mahabubabad, car transport mahabubnagar, car transport mancherial, car transport medak, car transport medchal-malkajgiri, car transport mulugu, car transport nagarkurnool, car transport nalgonda, car transport narayanpet, car transport nirmal, car transport nizamabad, car transport peddapalli, car transport rajanna sircilla, car transport rangareddy, car transport sangareddy, car transport siddipet, car transport suryapet, car transport vikarabad, car transport wanaparthy, car transport warangal, car transport yadadri bhuvanagiri, car shifting telangana, vehicle transport telangana, car carrier hyderabad, car relocation warangal">
-    
+        <!-- Geo Meta Tags -->
+    <meta name="geo.region" content="IN-TG" />
+    <meta name="geo.placename" content="Telangana" />
     <?php include 'includes/header-link.php'; ?>
+    <!-- Schema Markup -->
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "LocalBusiness",
+            "name": "Vahan Mover - Telangana",
+            "image": "https://vahanmover.com/assets/img/logo.png",
+            "url": "https://vahanmover.com/car-transport-telangana.php",
+            "telephone": "+916388717912",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Telangana",
+                "addressRegion": "Telangana",
+                "addressCountry": "IN"
+            },
+            "areaServed": {
+                "@type": "City",
+                "name": "Telangana"
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.8",
+                "reviewCount": "450"
+            }
+        },
+        {
+            "@type": "Organization",
+            "url": "https://vahanmover.com",
+            "name": "Vahan Mover",
+            "logo": "https://vahanmover.com/assets/img/logo.png"
+        },
+        {
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "How safe is car transport service in India?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Our car transport service is completely safe with professional packing, trained handling staff,\n                        secure carriers, and comprehensive insurance coverage protecting your car throughout the\n                        journey."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Do you provide insurance for car shifting?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes, we provide complete insurance coverage for all car shifting services to protect against\n                        any unforeseen damages or risks during transportation."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "How long does car transportation take?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Delivery time depends on the distance and route. Typically, metro-to-metro transport takes 3-5\n                        days, while longer distances may take 5-7 days with regular tracking updates."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "What documents are required for car transport?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "You need to provide car RC (Registration Certificate), valid ID proof, and insurance papers.\n                        Our team will assist with all documentation during pickup."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "Is door-to-door car delivery available?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Yes, we provide complete door-to-door car transport service across India, picking up from your\n                        location and delivering directly to the destination address."
+                    }
+                }
+            ]
+        }
+    ]
+}
+    </script>
 </head>
 
 <body>
