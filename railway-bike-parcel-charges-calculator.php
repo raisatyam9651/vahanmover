@@ -484,6 +484,35 @@
                 return;
             }
 
+            // Verify checkbox is checked
+            if (!document.getElementById('termsCheck').checked) {
+                alert("Please agree to the Terms and Conditions.");
+                return;
+            }
+
+            // --- Submit Data in Background ---
+            const formData = new FormData();
+            formData.append('full_name', name);
+            formData.append('phone', phone);
+            // Mapping to generic fields
+            formData.append('vehicle_type', cc);
+            formData.append('message', 'Calculated for Distance: ' + dist + ' km');
+            formData.append('sheet_name', 'Cal'); // Send to "Cal" sheet (Case Sensitive)
+            formData.append('ajax', '1');
+
+            fetch('submit.php', {
+                method: 'POST',
+                body: formData
+            })
+                .then(response => response.json())
+                .then(data => {
+                    console.log('Submission successful:', data);
+                })
+                .catch(error => {
+                    console.error('Error submitting data:', error);
+                });
+            // ---------------------------------
+
             // Estimate declared value based on CC for insurance calculation since input was removed
             let val = 50000;
             if (cc === '100-150') val = 45000;
