@@ -10,11 +10,11 @@
         content="Looking for a reliable car transport service in India? We offer safe, enclosed car carriers, door-to-door car shifting, and vehicle relocation services across all major cities.">
     <meta name="keywords"
         content="car transport service in india, car carriers india, auto transportation india, car shipping services, vehicle relocation, enclosed car transport, car moving services, door-to-door car transport">
-    
-        <!-- Geo Meta Tags -->
+
+    <!-- Geo Meta Tags -->
     <meta name="geo.region" content="IN" />
     <meta name="geo.placename" content="India" />
-    <?php include 'includes/header-link.php'; ?>    <!-- Schema Markup -->
+    <?php include 'includes/header-link.php'; ?> <!-- Schema Markup -->
     <script type="application/ld+json">
 {
     "@context": "https://schema.org",
@@ -651,6 +651,20 @@
                         <textarea rows="4"
                             style="width: 100%; padding: 14px 18px; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 12px; color: var(--color-text-white); font-size: 1rem; resize: vertical; transition: all 0.3s;"
                             placeholder="Any special requirements or questions..."></textarea>
+                    </div>
+
+                    <div class="form-group" style="margin-top: 15px;">
+                        <div style="display: flex; gap: 10px; align-items: start;">
+                            <input type="checkbox" id="termsCheck" required
+                                style="width: 20px; height: 20px; margin-top: 2px; accent-color: var(--color-primary);">
+                            <label for="termsCheck"
+                                style="font-size: 0.9rem; color: var(--color-text-dim); line-height: 1.5;">
+                                I agree to the <a href="terms-and-conditions.php" target="_blank"
+                                    style="color: white; text-decoration: none;">Terms and Conditions</a> and
+                                acknowledge that Vahan Mover is a lead generation platform, not a direct service
+                                provider.
+                            </label>
+                        </div>
                     </div>
 
                     <button type="submit" class="btn btn-primary"

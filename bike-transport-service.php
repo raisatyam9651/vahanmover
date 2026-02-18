@@ -10,10 +10,10 @@
         content="Looking for a reliable bike transport service in India? We offer safe, insured, door-to-door bike shifting across all major cities with timely delivery.">
     <meta name="keywords"
         content="bike transport service in india, bike shifting service, two wheeler transport india, bike courier service, bike relocation service india, motorcycle transport service, bike parcel service">
-        <!-- Geo Meta Tags -->
+    <!-- Geo Meta Tags -->
     <meta name="geo.region" content="IN" />
     <meta name="geo.placename" content="India" />
-    <?php include 'includes/header-link.php'; ?>    <!-- Schema Markup -->
+    <?php include 'includes/header-link.php'; ?> <!-- Schema Markup -->
     <script type="application/ld+json">
 {
     "@context": "https://schema.org",
@@ -665,6 +665,20 @@
                             placeholder="Any special requirements or questions..."></textarea>
                     </div>
 
+                    <div class="form-group" style="margin-top: 15px;">
+                        <div style="display: flex; gap: 10px; align-items: start;">
+                            <input type="checkbox" id="termsCheck" required
+                                style="width: 20px; height: 20px; margin-top: 2px; accent-color: var(--color-primary);">
+                            <label for="termsCheck"
+                                style="font-size: 0.9rem; color: var(--color-text-dim); line-height: 1.5;">
+                                I agree to the <a href="terms-and-conditions.php" target="_blank"
+                                    style="color: white; text-decoration: none;">Terms and Conditions</a> and
+                                acknowledge that Vahan Mover is a lead generation platform, not a direct service
+                                provider.
+                            </label>
+                        </div>
+                    </div>
+
                     <button type="submit" class="btn btn-primary"
                         style="width: 100%; padding: 16px; font-size: 1.1rem; margin-top: 10px;">
                         <i class="fa-solid fa-paper-plane"></i> Get Free Quote
@@ -694,44 +708,58 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-andhra-pradesh" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Andhra
+                            <a href="bike-transport-andhra-pradesh"
+                                style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
+                                transport in Andhra
                                 Pradesh</a>
                         </li>
                         <li
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-arunachal-pradesh" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Arunachal
+                            <a href="bike-transport-arunachal-pradesh"
+                                style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
+                                transport in Arunachal
                                 Pradesh</a>
                         </li>
                         <li
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-assam" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Assam</a>
+                            <a href="bike-transport-assam"
+                                style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
+                                transport in Assam</a>
                         </li>
                         <li
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-bihar" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Bihar</a>
+                            <a href="bike-transport-bihar"
+                                style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
+                                transport in Bihar</a>
                         </li>
                         <li
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-chhattisgarh" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Chhattisgarh</a>
+                            <a href="bike-transport-chhattisgarh"
+                                style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
+                                transport in Chhattisgarh</a>
                         </li>
                         <li
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-goa" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Goa</a>
+                            <a href="bike-transport-goa"
+                                style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
+                                transport in Goa</a>
                         </li>
                         <li style="padding: 10px 0; display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-gujarat" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Gujarat</a>
+                            <a href="bike-transport-gujarat"
+                                style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
+                                transport in Gujarat</a>
                         </li>
                     </ul>
 
@@ -741,44 +769,58 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-haryana" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Haryana</a>
+                            <a href="bike-transport-haryana"
+                                style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
+                                transport in Haryana</a>
                         </li>
                         <li
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-himachal-pradesh" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Himachal
+                            <a href="bike-transport-himachal-pradesh"
+                                style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
+                                transport in Himachal
                                 Pradesh</a>
                         </li>
                         <li
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-jharkhand" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Jharkhand</a>
+                            <a href="bike-transport-jharkhand"
+                                style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
+                                transport in Jharkhand</a>
                         </li>
                         <li
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-karnataka" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Karnataka</a>
+                            <a href="bike-transport-karnataka"
+                                style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
+                                transport in Karnataka</a>
                         </li>
                         <li
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-kerala" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Kerala</a>
+                            <a href="bike-transport-kerala"
+                                style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
+                                transport in Kerala</a>
                         </li>
                         <li
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-madhya-pradesh" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Madhya
+                            <a href="bike-transport-madhya-pradesh"
+                                style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
+                                transport in Madhya
                                 Pradesh</a>
                         </li>
                         <li style="padding: 10px 0; display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-maharashtra" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Maharashtra</a>
+                            <a href="bike-transport-maharashtra"
+                                style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
+                                transport in Maharashtra</a>
                         </li>
                     </ul>
 
@@ -788,42 +830,56 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-manipur" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Manipur</a>
+                            <a href="bike-transport-manipur"
+                                style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
+                                transport in Manipur</a>
                         </li>
                         <li
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-meghalaya" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Meghalaya</a>
+                            <a href="bike-transport-meghalaya"
+                                style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
+                                transport in Meghalaya</a>
                         </li>
                         <li
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-mizoram" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Mizoram</a>
+                            <a href="bike-transport-mizoram"
+                                style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
+                                transport in Mizoram</a>
                         </li>
                         <li
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-nagaland" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Nagaland</a>
+                            <a href="bike-transport-nagaland"
+                                style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
+                                transport in Nagaland</a>
                         </li>
                         <li
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-odisha" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Odisha</a>
+                            <a href="bike-transport-odisha"
+                                style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
+                                transport in Odisha</a>
                         </li>
                         <li
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-punjab" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Punjab</a>
+                            <a href="bike-transport-punjab"
+                                style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
+                                transport in Punjab</a>
                         </li>
                         <li style="padding: 10px 0; display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-rajasthan" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Rajasthan</a>
+                            <a href="bike-transport-rajasthan"
+                                style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
+                                transport in Rajasthan</a>
                         </li>
                     </ul>
 
@@ -833,44 +889,58 @@
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-sikkim" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Sikkim</a>
+                            <a href="bike-transport-sikkim"
+                                style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
+                                transport in Sikkim</a>
                         </li>
                         <li
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-tamil-nadu" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Tamil
+                            <a href="bike-transport-tamil-nadu"
+                                style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
+                                transport in Tamil
                                 Nadu</a>
                         </li>
                         <li
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-telangana" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Telangana</a>
+                            <a href="bike-transport-telangana"
+                                style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
+                                transport in Telangana</a>
                         </li>
                         <li
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-tripura" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Tripura</a>
+                            <a href="bike-transport-tripura"
+                                style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
+                                transport in Tripura</a>
                         </li>
                         <li
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-uttar-pradesh" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Uttar
+                            <a href="bike-transport-uttar-pradesh"
+                                style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
+                                transport in Uttar
                                 Pradesh</a>
                         </li>
                         <li
                             style="padding: 10px 0; border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-uttarakhand" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in Uttarakhand</a>
+                            <a href="bike-transport-uttarakhand"
+                                style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
+                                transport in Uttarakhand</a>
                         </li>
                         <li style="padding: 10px 0; display: flex; align-items: flex-start; gap: 10px;">
                             <i class="fa-solid fa-circle-check"
                                 style="color: var(--color-primary); font-size: 0.8rem; margin-top: 5px; flex-shrink: 0;"></i>
-                            <a href="bike-transport-west-bengal" style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike transport in West
+                            <a href="bike-transport-west-bengal"
+                                style="color: var(--color-text-white); font-size: 1rem; text-decoration: none; transition: 0.3s;">Bike
+                                transport in West
                                 Bengal</a>
                         </li>
                     </ul>
