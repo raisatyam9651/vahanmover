@@ -297,6 +297,18 @@
 
                         <form id="railwayCostForm" onsubmit="calculateCost(event)">
                             <div class="form-group">
+                                <label class="form-label">Your Name</label>
+                                <input type="text" class="form-control" id="userName" placeholder="Enter your name"
+                                    required>
+                            </div>
+
+                            <div class="form-group">
+                                <label class="form-label">Phone Number</label>
+                                <input type="tel" class="form-control" id="userPhone" placeholder="Enter phone number"
+                                    pattern="[0-9]{10}" title="Please enter a valid 10-digit phone number" required>
+                            </div>
+
+                            <div class="form-group">
                                 <label class="form-label">Bike Engine Capacity (CC)</label>
                                 <select class="form-control" id="bikeCC" required>
                                     <option value="" disabled selected>Select Engine CC</option>
@@ -311,14 +323,6 @@
                                 <label class="form-label">Total Distance (km)</label>
                                 <input type="number" class="form-control" id="distance" placeholder="Ex: 1200" min="10"
                                     required>
-                            </div>
-
-                            <div class="form-group">
-                                <label class="form-label">Declared Value of Bike (₹)</label>
-                                <input type="number" class="form-control" id="declaredValue" placeholder="Ex: 50000"
-                                    min="1000" required>
-                                <small style="color: var(--color-text-dim); font-size: 0.8rem;">(Used for insurance
-                                    calculation)</small>
                             </div>
 
                             <button type="submit" class="btn btn-primary" style="width: 100%;">Calculate
@@ -458,12 +462,20 @@
             // Get inputs
             const cc = document.getElementById('bikeCC').value;
             const dist = parseFloat(document.getElementById('distance').value);
-            const val = parseFloat(document.getElementById('declaredValue').value);
+            const name = document.getElementById('userName').value;
+            const phone = document.getElementById('userPhone').value;
 
-            if (!cc || !dist || !val) {
+            if (!cc || !dist || !name || !phone) {
                 alert("Please fill all fields");
                 return;
             }
+
+            // Estimate declared value based on CC for insurance calculation since input was removed
+            let val = 50000;
+            if (cc === '100-150') val = 45000;
+            else if (cc === '150-250') val = 85000;
+            else if (cc === '250-350') val = 160000;
+            else if (cc === '350+') val = 300000;
 
             // --- Calculation Logic (Estimates) ---
 
