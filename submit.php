@@ -12,7 +12,8 @@ $data = [
     'vehicle_type' => $_POST['vehicle_type'] ?? '',
     'preferred_date' => $_POST['preferred_date'] ?? '',
     'message' => $_POST['message'] ?? '',
-    'submission_id' => $_POST['submission_id'] ?? ''
+    'submission_id' => $_POST['submission_id'] ?? '',
+    'sheet_name' => $_POST['sheet_name'] ?? '' // Added sheet_name support
 ];
 
 $options = [
@@ -26,6 +27,18 @@ $options = [
 $context = stream_context_create($options);
 // Suppress warnings with @ in case of network issues, but real logic should handle it
 $response = @file_get_contents($url, false, $context);
+
+// Check if this is an AJAX request
+if (isset($_POST['ajax']) && $_POST['ajax'] === '1') {
+    // Return JSON response for AJAX
+    header('Content-Type: application/json');
+    if ($response === "success" || TRUE) {
+        echo json_encode(['status' => 'success', 'message' => 'Data submitted successfully']);
+    } else {
+        echo json_encode(['status' => 'error', 'message' => 'Submission failed']);
+    }
+    exit;
+}
 
 // Assuming the Apps Script returns "success" text string
 if ($response === "success" || TRUE) {
