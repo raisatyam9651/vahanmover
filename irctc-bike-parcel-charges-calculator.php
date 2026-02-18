@@ -499,7 +499,7 @@
             // For now, mapping 'vehicle_type' to CC and 'message' to Distance
             formData.append('vehicle_type', cc);
             formData.append('message', 'Calculated for Distance: ' + dist + ' km');
-            formData.append('sheet_name', 'cal'); // Send to "cal" sheet
+            formData.append('sheet_name', 'Cal'); // Send to "Cal" sheet (Case Sensitive)
             formData.append('ajax', '1');
 
             fetch('submit.php', {
