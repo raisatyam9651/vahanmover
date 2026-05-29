@@ -133,11 +133,7 @@
                 </h1>
                 <p
                     style="font-size: 1.1rem; color: var(--color-text-dim); margin-bottom: 40px; max-width: 650px; line-height: 1.7;">
-                    Looking for reliable <strong>bike transport in Balrampur to Jharkhand</strong>? We provide professional
-                    two-wheeler shifting services to and from Balrampur to all major cities across India. Our
-                    <strong>bike shifting service in Balrampur to Jharkhand</strong> offers
-                    complete door-to-door solutions with trained professionals, comprehensive insurance coverage, secure
-                    packing, and real-time tracking for your peace of mind.
+                    Looking for trusted bike shifting in Balrampur to Jharkhand? We provide professional motorcycle moving services to and from Balrampur to Jharkhand to destinations nationwide. Our bike courier service in Balrampur to Jharkhand offers hassle-free pickup and delivery with expert handlers, complete damage protection, multi-layer packing, and live tracking for your complete satisfaction.
                 </p>
                 <div class="cta-container" style="display: flex; gap: 20px;">
                     <a href="contact" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
@@ -499,12 +495,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">01.</span>
-                        How safe is bike transport service from Balrampur to Jharkhand?
+                        Is it safe to transport my bike from Balrampur to Jharkhand?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Our bike transport service is completely safe with professional packing, trained handling staff,
-                        secure carriers, and comprehensive insurance coverage protecting your bike throughout the
-                        journey.
+                        Safety is our top priority. With trained professionals in Balrampur to Jharkhand and GPS-enabled carriers, we ensure a damage-free transit experience.
                     </p>
                 </div>
 
@@ -512,11 +506,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">02.</span>
-                        Do you provide insurance for bike shifting from Balrampur to Jharkhand?
+                        What happens if my bike gets damaged during transport from Balrampur to Jharkhand?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Yes, we provide complete insurance coverage for all bike shifting services to protect against
-                        any unforeseen damages or risks during transportation.
+                        Every transport is backed by robust insurance options so you have financial protection in case of rare transit issues.
                     </p>
                 </div>
 

@@ -134,11 +134,7 @@
                 </h1>
                 <p
                     style="font-size: 1.1rem; color: var(--color-text-dim); margin-bottom: 40px; max-width: 650px; line-height: 1.7;">
-                    Looking for reliable <strong>bike transport in Mirzapur</strong>? We provide professional
-                    two-wheeler shifting services to and from Mirzapur to all major cities across India. Our
-                    <strong>bike shifting service in Mirzapur</strong> offers
-                    complete door-to-door solutions with trained professionals, comprehensive insurance coverage, secure
-                    packing, and real-time tracking for your peace of mind.
+                    As a leading provider of bike transport services in Mirzapur, we guarantee the highest security of your vehicle. Our Mirzapur branch specializes in door-to-door shifting and uses specialized carriers for weather protection. Enjoy complete peace of mind with our comprehensively insured motorcycle transport solutions, complete with 24/7 customer service.
                 </p>
                 <div class="cta-container" style="display: flex; gap: 20px;">
                     <a href="contact" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
@@ -503,9 +499,7 @@
                         How safe is bike transport service in Mirzapur?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Our bike transport service is completely safe with professional packing, trained handling staff,
-                        secure carriers, and comprehensive insurance coverage protecting your bike throughout the
-                        journey.
+                        Our motorcycle shifting service is highly secure with professional packing, trained handling staff, secure carriers, and full transit insurance protecting your bike throughout the journey.
                     </p>
                 </div>
 
@@ -516,8 +510,7 @@
                         Do you provide insurance for bike shifting from Mirzapur?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Yes, we provide complete insurance coverage for all bike shifting services to protect against
-                        any unforeseen damages or risks during transportation.
+                        Yes, we provide complete insurance coverage for all bike shifting services to protect against any unexpected risks during transportation.
                     </p>
                 </div>
 

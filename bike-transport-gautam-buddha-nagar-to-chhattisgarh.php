@@ -133,11 +133,7 @@
                 </h1>
                 <p
                     style="font-size: 1.1rem; color: var(--color-text-dim); margin-bottom: 40px; max-width: 650px; line-height: 1.7;">
-                    Looking for reliable <strong>bike transport in Gautam Buddha Nagar to Chhattisgarh</strong>? We provide professional
-                    two-wheeler shifting services to and from Gautam Buddha Nagar to all major cities across India. Our
-                    <strong>bike shifting service in Gautam Buddha Nagar to Chhattisgarh</strong> offers
-                    complete door-to-door solutions with trained professionals, comprehensive insurance coverage, secure
-                    packing, and real-time tracking for your peace of mind.
+                    Need to shift your motorcycle from Gautam Buddha Nagar to Chhattisgarh? Our dedicated bike shifting team in Gautam Buddha Nagar to Chhattisgarh ensures a stress-free experience. We offer door-to-door services with scratch-proof packing and full transit insurance. Whether you are moving from Gautam Buddha Nagar to Chhattisgarh to another state or across the country, our reliable network guarantees on-time delivery and real-time updates.
                 </p>
                 <div class="cta-container" style="display: flex; gap: 20px;">
                     <a href="contact" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
@@ -499,12 +495,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">01.</span>
-                        How safe is bike transport service from Gautam Buddha Nagar to Chhattisgarh?
+                        Is it safe to transport my bike from Gautam Buddha Nagar to Chhattisgarh?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Our bike transport service is completely safe with professional packing, trained handling staff,
-                        secure carriers, and comprehensive insurance coverage protecting your bike throughout the
-                        journey.
+                        Safety is our primary concern. With expert loaders in Gautam Buddha Nagar to Chhattisgarh and tracked transport vehicles, we ensure a seamless transit experience.
                     </p>
                 </div>
 
@@ -512,11 +506,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">02.</span>
-                        Do you provide insurance for bike shifting from Gautam Buddha Nagar to Chhattisgarh?
+                        Is transit insurance included for Gautam Buddha Nagar to Chhattisgarh bike transport?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Yes, we provide complete insurance coverage for all bike shifting services to protect against
-                        any unforeseen damages or risks during transportation.
+                        Absolutely. We offer comprehensive insurance plans to safeguard your motorcycle against any transit damages from Gautam Buddha Nagar to Chhattisgarh to your destination.
                     </p>
                 </div>
 

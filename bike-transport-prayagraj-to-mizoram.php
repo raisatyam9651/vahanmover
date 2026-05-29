@@ -133,11 +133,7 @@
                 </h1>
                 <p
                     style="font-size: 1.1rem; color: var(--color-text-dim); margin-bottom: 40px; max-width: 650px; line-height: 1.7;">
-                    Looking for reliable <strong>bike transport in Prayagraj to Mizoram</strong>? We provide professional
-                    two-wheeler shifting services to and from Prayagraj to all major cities across India. Our
-                    <strong>bike shifting service in Prayagraj to Mizoram</strong> offers
-                    complete door-to-door solutions with trained professionals, comprehensive insurance coverage, secure
-                    packing, and real-time tracking for your peace of mind.
+                    Looking for expert motorcycle transport in Prayagraj to Mizoram? We provide professional motorcycle moving services to and from Prayagraj to Mizoram to all major cities across India. Our transportation service in Prayagraj to Mizoram offers hassle-free pickup and delivery with trained professionals, comprehensive insurance coverage, premium packaging, and real-time tracking for your peace of mind.
                 </p>
                 <div class="cta-container" style="display: flex; gap: 20px;">
                     <a href="contact" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
@@ -499,12 +495,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">01.</span>
-                        How safe is bike transport service from Prayagraj to Mizoram?
+                        What safety measures do you take for Prayagraj to Mizoram bike transport?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Our bike transport service is completely safe with professional packing, trained handling staff,
-                        secure carriers, and comprehensive insurance coverage protecting your bike throughout the
-                        journey.
+                        Safety is our top priority. With expert loaders in Prayagraj to Mizoram and tracked transport vehicles, we ensure a seamless transit experience.
                     </p>
                 </div>
 
@@ -512,11 +506,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">02.</span>
-                        Do you provide insurance for bike shifting from Prayagraj to Mizoram?
+                        What happens if my bike gets damaged during transport from Prayagraj to Mizoram?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Yes, we provide complete insurance coverage for all bike shifting services to protect against
-                        any unforeseen damages or risks during transportation.
+                        Every transport is backed by transit insurance coverage so you have complete peace of mind in case of rare transit issues.
                     </p>
                 </div>
 

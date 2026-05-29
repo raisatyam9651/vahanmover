@@ -133,11 +133,7 @@
                 </h1>
                 <p
                     style="font-size: 1.1rem; color: var(--color-text-dim); margin-bottom: 40px; max-width: 650px; line-height: 1.7;">
-                    Looking for reliable <strong>bike transport in Firozabad to Meghalaya</strong>? We provide professional
-                    two-wheeler shifting services to and from Firozabad to all major cities across India. Our
-                    <strong>bike shifting service in Firozabad to Meghalaya</strong> offers
-                    complete door-to-door solutions with trained professionals, comprehensive insurance coverage, secure
-                    packing, and real-time tracking for your peace of mind.
+                    Need to relocate your bike from Firozabad to Meghalaya? Our expert bike transport team in Firozabad to Meghalaya ensures a stress-free experience. We offer home pickup and delivery services with premium packing and 100% insurance coverage. Whether you are moving from Firozabad to Meghalaya to another state or across the country, our trusted network guarantees timely delivery and live GPS tracking.
                 </p>
                 <div class="cta-container" style="display: flex; gap: 20px;">
                     <a href="contact" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
@@ -499,12 +495,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">01.</span>
-                        How safe is bike transport service from Firozabad to Meghalaya?
+                        Is it safe to transport my bike from Firozabad to Meghalaya?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Our bike transport service is completely safe with professional packing, trained handling staff,
-                        secure carriers, and comprehensive insurance coverage protecting your bike throughout the
-                        journey.
+                        We use multi-layer packaging, specialized tiedowns, and closed carriers to ensure your two-wheeler remains 100% safe when moving to or from Firozabad to Meghalaya.
                     </p>
                 </div>
 
@@ -512,11 +506,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">02.</span>
-                        Do you provide insurance for bike shifting from Firozabad to Meghalaya?
+                        Is transit insurance included for Firozabad to Meghalaya bike transport?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Yes, we provide complete insurance coverage for all bike shifting services to protect against
-                        any unforeseen damages or risks during transportation.
+                        Absolutely. We offer comprehensive insurance plans to protect your motorcycle against any accidental risks from Firozabad to Meghalaya to your destination.
                     </p>
                 </div>
 

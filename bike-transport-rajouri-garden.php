@@ -126,11 +126,7 @@
                 </h1>
                 <p
                     style="font-size: 1.1rem; color: var(--color-text-dim); margin-bottom: 40px; max-width: 650px; line-height: 1.7;">
-                    Looking for reliable <strong>bike transport in Rajouri Garden, Delhi</strong>? We provide professional
-                    two-wheeler shifting services to and from Rajouri Garden, Delhi to all major cities across India. Our
-                    <strong>bike shifting service in Rajouri Garden, Delhi</strong> offers
-                    complete door-to-door solutions with trained professionals, comprehensive insurance coverage, secure
-                    packing, and real-time tracking for your peace of mind.
+                    Need to relocate your bike from Rajouri Garden, Delhi? Our dedicated bike transport team in Rajouri Garden, Delhi ensures a smooth experience. We offer home pickup and delivery services with premium packing and 100% insurance coverage. Whether you are moving from Rajouri Garden, Delhi to another state or across the country, our reliable network guarantees timely delivery and live GPS tracking.
                 </p>
                 <div class="cta-container" style="display: flex; gap: 20px;">
                     <a href="contact" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
@@ -492,12 +488,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">01.</span>
-                        How safe is bike transport service in Rajouri Garden, Delhi?
+                        What safety measures do you take for Rajouri Garden, Delhi bike transport?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Our bike transport service is completely safe with professional packing, trained handling staff,
-                        secure carriers, and comprehensive insurance coverage protecting your bike throughout the
-                        journey.
+                        Safety is our top priority. With expert loaders in Rajouri Garden, Delhi and GPS-enabled carriers, we ensure a seamless transit experience.
                     </p>
                 </div>
 
@@ -505,11 +499,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">02.</span>
-                        Do you provide insurance for bike shifting from Rajouri Garden, Delhi?
+                        Is transit insurance included for Rajouri Garden, Delhi bike transport?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Yes, we provide complete insurance coverage for all bike shifting services to protect against
-                        any unforeseen damages or risks during transportation.
+                        Every transport is backed by robust insurance options so you have complete peace of mind in case of rare transit issues.
                     </p>
                 </div>
 

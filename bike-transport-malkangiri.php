@@ -133,11 +133,7 @@
                 </h1>
                 <p
                     style="font-size: 1.1rem; color: var(--color-text-dim); margin-bottom: 40px; max-width: 650px; line-height: 1.7;">
-                    Looking for reliable <strong>bike transport in Malkangiri</strong>? We provide professional
-                    two-wheeler shifting services to and from Malkangiri to all major cities across India. Our
-                    <strong>bike shifting service in Malkangiri</strong> offers
-                    complete door-to-door solutions with trained professionals, comprehensive insurance coverage, secure
-                    packing, and real-time tracking for your peace of mind.
+                    As a top-rated provider of two-wheeler relocation services in Malkangiri, we ensure the utmost safety of your vehicle. Our Malkangiri branch specializes in doorstep pickup and uses specialized carriers for maximum protection. Enjoy complete peace of mind with our comprehensively insured motorcycle transport solutions, complete with 24/7 customer service.
                 </p>
                 <div class="cta-container" style="display: flex; gap: 20px;">
                     <a href="contact" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
@@ -502,9 +498,7 @@
                         How safe is bike transport service in Malkangiri?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Our bike transport service is completely safe with professional packing, trained handling staff,
-                        secure carriers, and comprehensive insurance coverage protecting your bike throughout the
-                        journey.
+                        Our bike transport service is completely safe with premium packaging, trained handling staff, secure carriers, and full transit insurance protecting your bike throughout the journey.
                     </p>
                 </div>
 
@@ -515,8 +509,7 @@
                         Do you provide insurance for bike shifting from Malkangiri?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Yes, we provide complete insurance coverage for all bike shifting services to protect against
-                        any unforeseen damages or risks during transportation.
+                        Absolutely. We offer comprehensive insurance plans to protect your motorcycle against any transit damages from Malkangiri to your destination.
                     </p>
                 </div>
 

@@ -133,11 +133,7 @@
                 </h1>
                 <p
                     style="font-size: 1.1rem; color: var(--color-text-dim); margin-bottom: 40px; max-width: 650px; line-height: 1.7;">
-                    Looking for reliable <strong>bike transport in Budaun to Tamil Nadu</strong>? We provide professional
-                    two-wheeler shifting services to and from Budaun to all major cities across India. Our
-                    <strong>bike shifting service in Budaun to Tamil Nadu</strong> offers
-                    complete door-to-door solutions with trained professionals, comprehensive insurance coverage, secure
-                    packing, and real-time tracking for your peace of mind.
+                    Looking for safe motorcycle transport in Budaun to Tamil Nadu? We provide expert motorcycle moving services to and from Budaun to Tamil Nadu to all major cities across India. Our bike courier service in Budaun to Tamil Nadu offers end-to-end transport with trained professionals, comprehensive insurance coverage, premium packaging, and live tracking for your assurance.
                 </p>
                 <div class="cta-container" style="display: flex; gap: 20px;">
                     <a href="contact" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
@@ -499,12 +495,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">01.</span>
-                        How safe is bike transport service from Budaun to Tamil Nadu?
+                        How safe is bike transport service in Budaun to Tamil Nadu?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Our bike transport service is completely safe with professional packing, trained handling staff,
-                        secure carriers, and comprehensive insurance coverage protecting your bike throughout the
-                        journey.
+                        Safety is our primary concern. With trained professionals in Budaun to Tamil Nadu and tracked transport vehicles, we ensure a seamless transit experience.
                     </p>
                 </div>
 
@@ -512,11 +506,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">02.</span>
-                        Do you provide insurance for bike shifting from Budaun to Tamil Nadu?
+                        Is transit insurance included for Budaun to Tamil Nadu bike transport?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Yes, we provide complete insurance coverage for all bike shifting services to protect against
-                        any unforeseen damages or risks during transportation.
+                        Every transport is backed by transit insurance coverage so you have financial protection in case of rare transit issues.
                     </p>
                 </div>
 

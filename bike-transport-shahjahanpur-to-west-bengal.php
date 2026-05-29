@@ -133,11 +133,7 @@
                 </h1>
                 <p
                     style="font-size: 1.1rem; color: var(--color-text-dim); margin-bottom: 40px; max-width: 650px; line-height: 1.7;">
-                    Looking for reliable <strong>bike transport in Shahjahanpur to West Bengal</strong>? We provide professional
-                    two-wheeler shifting services to and from Shahjahanpur to all major cities across India. Our
-                    <strong>bike shifting service in Shahjahanpur to West Bengal</strong> offers
-                    complete door-to-door solutions with trained professionals, comprehensive insurance coverage, secure
-                    packing, and real-time tracking for your peace of mind.
+                    As a leading provider of bike transport services in Shahjahanpur to West Bengal, we ensure the highest security of your vehicle. Our Shahjahanpur to West Bengal branch specializes in door-to-door shifting and uses closed transport trucks for weather protection. Enjoy complete peace of mind with our comprehensively insured bike moving solutions, complete with 24/7 customer service.
                 </p>
                 <div class="cta-container" style="display: flex; gap: 20px;">
                     <a href="contact" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
@@ -499,12 +495,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">01.</span>
-                        How safe is bike transport service from Shahjahanpur to West Bengal?
+                        What safety measures do you take for Shahjahanpur to West Bengal bike transport?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Our bike transport service is completely safe with professional packing, trained handling staff,
-                        secure carriers, and comprehensive insurance coverage protecting your bike throughout the
-                        journey.
+                        Safety is our primary concern. With trained professionals in Shahjahanpur to West Bengal and tracked transport vehicles, we ensure a seamless transit experience.
                     </p>
                 </div>
 
@@ -512,11 +506,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">02.</span>
-                        Do you provide insurance for bike shifting from Shahjahanpur to West Bengal?
+                        Is transit insurance included for Shahjahanpur to West Bengal bike transport?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Yes, we provide complete insurance coverage for all bike shifting services to protect against
-                        any unforeseen damages or risks during transportation.
+                        Yes, we provide full transit insurance for all bike shifting services to protect against any unforeseen damages during transportation.
                     </p>
                 </div>
 

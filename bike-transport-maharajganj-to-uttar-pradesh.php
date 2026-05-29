@@ -133,11 +133,7 @@
                 </h1>
                 <p
                     style="font-size: 1.1rem; color: var(--color-text-dim); margin-bottom: 40px; max-width: 650px; line-height: 1.7;">
-                    Looking for reliable <strong>bike transport in Maharajganj to Uttar Pradesh</strong>? We provide professional
-                    two-wheeler shifting services to and from Maharajganj to all major cities across India. Our
-                    <strong>bike shifting service in Maharajganj to Uttar Pradesh</strong> offers
-                    complete door-to-door solutions with trained professionals, comprehensive insurance coverage, secure
-                    packing, and real-time tracking for your peace of mind.
+                    Looking for expert bike shifting in Maharajganj to Uttar Pradesh? We provide premium motorcycle moving services to and from Maharajganj to Uttar Pradesh to destinations nationwide. Our bike shifting service in Maharajganj to Uttar Pradesh offers complete door-to-door solutions with trained professionals, complete damage protection, secure packing, and real-time tracking for your complete satisfaction.
                 </p>
                 <div class="cta-container" style="display: flex; gap: 20px;">
                     <a href="contact" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
@@ -499,12 +495,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">01.</span>
-                        How safe is bike transport service from Maharajganj to Uttar Pradesh?
+                        Is it secure to transport my bike from Maharajganj to Uttar Pradesh?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Our bike transport service is completely safe with professional packing, trained handling staff,
-                        secure carriers, and comprehensive insurance coverage protecting your bike throughout the
-                        journey.
+                        Safety is our top priority. With trained professionals in Maharajganj to Uttar Pradesh and tracked transport vehicles, we ensure a seamless transit experience.
                     </p>
                 </div>
 
@@ -512,11 +506,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">02.</span>
-                        Do you provide insurance for bike shifting from Maharajganj to Uttar Pradesh?
+                        Is transit insurance included for Maharajganj to Uttar Pradesh bike transport?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Yes, we provide complete insurance coverage for all bike shifting services to protect against
-                        any unforeseen damages or risks during transportation.
+                        Yes, we provide complete insurance coverage for all bike shifting services to protect against any unforeseen damages during transportation.
                     </p>
                 </div>
 

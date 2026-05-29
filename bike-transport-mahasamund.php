@@ -133,11 +133,7 @@
                 </h1>
                 <p
                     style="font-size: 1.1rem; color: var(--color-text-dim); margin-bottom: 40px; max-width: 650px; line-height: 1.7;">
-                    Looking for reliable <strong>bike transport in Mahasamund</strong>? We provide professional
-                    two-wheeler shifting services to and from Mahasamund to all major cities across India. Our
-                    <strong>bike shifting service in Mahasamund</strong> offers
-                    complete door-to-door solutions with trained professionals, comprehensive insurance coverage, secure
-                    packing, and real-time tracking for your peace of mind.
+                    Need to shift your two-wheeler from Mahasamund? Our dedicated bike transport team in Mahasamund ensures a stress-free experience. We offer door-to-door services with scratch-proof packing and 100% insurance coverage. Whether you are moving from Mahasamund to another state or across the country, our reliable network guarantees timely delivery and real-time updates.
                 </p>
                 <div class="cta-container" style="display: flex; gap: 20px;">
                     <a href="contact" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
@@ -499,12 +495,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">01.</span>
-                        How safe is bike transport service in Mahasamund?
+                        How safe is bike shifting service in Mahasamund?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Our bike transport service is completely safe with professional packing, trained handling staff,
-                        secure carriers, and comprehensive insurance coverage protecting your bike throughout the
-                        journey.
+                        Safety is our primary concern. With trained professionals in Mahasamund and GPS-enabled carriers, we ensure a damage-free transit experience.
                     </p>
                 </div>
 
@@ -512,11 +506,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">02.</span>
-                        Do you provide insurance for bike shifting from Mahasamund?
+                        Is transit insurance included for Mahasamund bike transport?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Yes, we provide complete insurance coverage for all bike shifting services to protect against
-                        any unforeseen damages or risks during transportation.
+                        Every transport is backed by transit insurance coverage so you have complete peace of mind in case of rare transit issues.
                     </p>
                 </div>
 

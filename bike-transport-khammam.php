@@ -133,11 +133,7 @@
                 </h1>
                 <p
                     style="font-size: 1.1rem; color: var(--color-text-dim); margin-bottom: 40px; max-width: 650px; line-height: 1.7;">
-                    Looking for reliable <strong>bike transport in Khammam</strong>? We provide professional
-                    two-wheeler shifting services to and from Khammam to all major cities across India. Our
-                    <strong>bike shifting service in Khammam</strong> offers
-                    complete door-to-door solutions with trained professionals, comprehensive insurance coverage, secure
-                    packing, and real-time tracking for your peace of mind.
+                    Looking for expert bike transport in Khammam? We provide expert bike relocation solutions to and from Khammam to destinations nationwide. Our bike courier service in Khammam offers hassle-free pickup and delivery with experienced staff, complete damage protection, premium packaging, and GPS tracking for your complete satisfaction.
                 </p>
                 <div class="cta-container" style="display: flex; gap: 20px;">
                     <a href="contact" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
@@ -499,12 +495,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">01.</span>
-                        How safe is bike transport service in Khammam?
+                        Is it safe to transport my bike from Khammam?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Our bike transport service is completely safe with professional packing, trained handling staff,
-                        secure carriers, and comprehensive insurance coverage protecting your bike throughout the
-                        journey.
+                        We use multi-layer packaging, secure strapping, and weather-proof trucks to ensure your two-wheeler remains 100% safe when moving to or from Khammam.
                     </p>
                 </div>
 
@@ -512,11 +506,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">02.</span>
-                        Do you provide insurance for bike shifting from Khammam?
+                        Is transit insurance included for Khammam bike transport?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Yes, we provide complete insurance coverage for all bike shifting services to protect against
-                        any unforeseen damages or risks during transportation.
+                        Absolutely. We offer comprehensive insurance plans to safeguard your motorcycle against any accidental risks from Khammam to your destination.
                     </p>
                 </div>
 

@@ -133,11 +133,7 @@
                 </h1>
                 <p
                     style="font-size: 1.1rem; color: var(--color-text-dim); margin-bottom: 40px; max-width: 650px; line-height: 1.7;">
-                    Looking for reliable <strong>bike transport in Jaunpur to Chhattisgarh</strong>? We provide professional
-                    two-wheeler shifting services to and from Jaunpur to all major cities across India. Our
-                    <strong>bike shifting service in Jaunpur to Chhattisgarh</strong> offers
-                    complete door-to-door solutions with trained professionals, comprehensive insurance coverage, secure
-                    packing, and real-time tracking for your peace of mind.
+                    Need to move your bike from Jaunpur to Chhattisgarh? Our professional bike shifting team in Jaunpur to Chhattisgarh ensures a stress-free experience. We offer door-to-door services with secure packaging and full transit insurance. Whether you are moving from Jaunpur to Chhattisgarh to another state or across the country, our reliable network guarantees on-time delivery and live GPS tracking.
                 </p>
                 <div class="cta-container" style="display: flex; gap: 20px;">
                     <a href="contact" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
@@ -499,12 +495,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">01.</span>
-                        How safe is bike transport service from Jaunpur to Chhattisgarh?
+                        How secure is bike shifting service in Jaunpur to Chhattisgarh?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Our bike transport service is completely safe with professional packing, trained handling staff,
-                        secure carriers, and comprehensive insurance coverage protecting your bike throughout the
-                        journey.
+                        Our motorcycle shifting service is completely safe with premium packaging, trained handling staff, closed trucks, and full transit insurance protecting your bike throughout the journey.
                     </p>
                 </div>
 
@@ -512,11 +506,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">02.</span>
-                        Do you provide insurance for bike shifting from Jaunpur to Chhattisgarh?
+                        What happens if my bike gets damaged during transport from Jaunpur to Chhattisgarh?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Yes, we provide complete insurance coverage for all bike shifting services to protect against
-                        any unforeseen damages or risks during transportation.
+                        Absolutely. We offer transit insurance to protect your motorcycle against any accidental risks from Jaunpur to Chhattisgarh to your destination.
                     </p>
                 </div>
 

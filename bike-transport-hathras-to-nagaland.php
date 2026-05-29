@@ -133,11 +133,7 @@
                 </h1>
                 <p
                     style="font-size: 1.1rem; color: var(--color-text-dim); margin-bottom: 40px; max-width: 650px; line-height: 1.7;">
-                    Looking for reliable <strong>bike transport in Hathras to Nagaland</strong>? We provide professional
-                    two-wheeler shifting services to and from Hathras to all major cities across India. Our
-                    <strong>bike shifting service in Hathras to Nagaland</strong> offers
-                    complete door-to-door solutions with trained professionals, comprehensive insurance coverage, secure
-                    packing, and real-time tracking for your peace of mind.
+                    Looking for expert bike transport in Hathras to Nagaland? We provide professional two-wheeler shifting services to and from Hathras to Nagaland to anywhere in India. Our transportation service in Hathras to Nagaland offers complete door-to-door solutions with expert handlers, complete damage protection, multi-layer packing, and GPS tracking for your complete satisfaction.
                 </p>
                 <div class="cta-container" style="display: flex; gap: 20px;">
                     <a href="contact" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
@@ -499,12 +495,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">01.</span>
-                        How safe is bike transport service from Hathras to Nagaland?
+                        Is it secure to transport my bike from Hathras to Nagaland?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Our bike transport service is completely safe with professional packing, trained handling staff,
-                        secure carriers, and comprehensive insurance coverage protecting your bike throughout the
-                        journey.
+                        Our bike transport service is highly secure with premium packaging, expert handlers, closed trucks, and comprehensive insurance coverage protecting your bike throughout the journey.
                     </p>
                 </div>
 
@@ -512,11 +506,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">02.</span>
-                        Do you provide insurance for bike shifting from Hathras to Nagaland?
+                        What happens if my bike gets damaged during transport from Hathras to Nagaland?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Yes, we provide complete insurance coverage for all bike shifting services to protect against
-                        any unforeseen damages or risks during transportation.
+                        Absolutely. We offer transit insurance to protect your motorcycle against any transit damages from Hathras to Nagaland to your destination.
                     </p>
                 </div>
 

@@ -133,11 +133,7 @@
                 </h1>
                 <p
                     style="font-size: 1.1rem; color: var(--color-text-dim); margin-bottom: 40px; max-width: 650px; line-height: 1.7;">
-                    Looking for reliable <strong>bike transport in Azamgarh to Telangana</strong>? We provide professional
-                    two-wheeler shifting services to and from Azamgarh to all major cities across India. Our
-                    <strong>bike shifting service in Azamgarh to Telangana</strong> offers
-                    complete door-to-door solutions with trained professionals, comprehensive insurance coverage, secure
-                    packing, and real-time tracking for your peace of mind.
+                    Need to relocate your two-wheeler from Azamgarh to Telangana? Our professional bike shifting team in Azamgarh to Telangana ensures a safe experience. We offer door-to-door services with premium packing and 100% insurance coverage. Whether you are moving from Azamgarh to Telangana to another state or across the country, our reliable network guarantees timely delivery and real-time updates.
                 </p>
                 <div class="cta-container" style="display: flex; gap: 20px;">
                     <a href="contact" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
@@ -499,12 +495,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">01.</span>
-                        How safe is bike transport service from Azamgarh to Telangana?
+                        How secure is bike shifting service in Azamgarh to Telangana?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Our bike transport service is completely safe with professional packing, trained handling staff,
-                        secure carriers, and comprehensive insurance coverage protecting your bike throughout the
-                        journey.
+                        Our motorcycle shifting service is highly secure with professional packing, expert handlers, secure carriers, and comprehensive insurance coverage protecting your bike throughout the journey.
                     </p>
                 </div>
 
@@ -512,11 +506,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">02.</span>
-                        Do you provide insurance for bike shifting from Azamgarh to Telangana?
+                        Is transit insurance included for Azamgarh to Telangana bike transport?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Yes, we provide complete insurance coverage for all bike shifting services to protect against
-                        any unforeseen damages or risks during transportation.
+                        Every transport is backed by robust insurance options so you have complete peace of mind in case of rare transit issues.
                     </p>
                 </div>
 

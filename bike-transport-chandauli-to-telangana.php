@@ -133,11 +133,7 @@
                 </h1>
                 <p
                     style="font-size: 1.1rem; color: var(--color-text-dim); margin-bottom: 40px; max-width: 650px; line-height: 1.7;">
-                    Looking for reliable <strong>bike transport in Chandauli to Telangana</strong>? We provide professional
-                    two-wheeler shifting services to and from Chandauli to all major cities across India. Our
-                    <strong>bike shifting service in Chandauli to Telangana</strong> offers
-                    complete door-to-door solutions with trained professionals, comprehensive insurance coverage, secure
-                    packing, and real-time tracking for your peace of mind.
+                    Looking for expert bike transport in Chandauli to Telangana? We provide top-rated bike relocation solutions to and from Chandauli to Telangana to anywhere in India. Our bike shifting service in Chandauli to Telangana offers end-to-end transport with expert handlers, comprehensive insurance coverage, premium packaging, and real-time tracking for your complete satisfaction.
                 </p>
                 <div class="cta-container" style="display: flex; gap: 20px;">
                     <a href="contact" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
@@ -499,12 +495,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">01.</span>
-                        How safe is bike transport service from Chandauli to Telangana?
+                        Is it safe to transport my bike from Chandauli to Telangana?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Our bike transport service is completely safe with professional packing, trained handling staff,
-                        secure carriers, and comprehensive insurance coverage protecting your bike throughout the
-                        journey.
+                        We use multi-layer packaging, secure strapping, and closed carriers to ensure your two-wheeler remains 100% safe when moving to or from Chandauli to Telangana.
                     </p>
                 </div>
 
@@ -512,11 +506,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">02.</span>
-                        Do you provide insurance for bike shifting from Chandauli to Telangana?
+                        What happens if my bike gets damaged during transport from Chandauli to Telangana?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Yes, we provide complete insurance coverage for all bike shifting services to protect against
-                        any unforeseen damages or risks during transportation.
+                        Yes, we provide complete insurance coverage for all bike shifting services to protect against any unforeseen damages during transportation.
                     </p>
                 </div>
 

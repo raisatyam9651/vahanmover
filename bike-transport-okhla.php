@@ -126,11 +126,7 @@
                 </h1>
                 <p
                     style="font-size: 1.1rem; color: var(--color-text-dim); margin-bottom: 40px; max-width: 650px; line-height: 1.7;">
-                    Looking for reliable <strong>bike transport in Okhla, Delhi</strong>? We provide professional
-                    two-wheeler shifting services to and from Okhla, Delhi to all major cities across India. Our
-                    <strong>bike shifting service in Okhla, Delhi</strong> offers
-                    complete door-to-door solutions with trained professionals, comprehensive insurance coverage, secure
-                    packing, and real-time tracking for your peace of mind.
+                    Looking for secure two-wheeler relocation in Okhla, Delhi? We provide professional motorcycle moving services to and from Okhla, Delhi to destinations nationwide. Our bike shifting service in Okhla, Delhi offers end-to-end transport with experienced staff, full transit insurance, secure packing, and live tracking for your complete satisfaction.
                 </p>
                 <div class="cta-container" style="display: flex; gap: 20px;">
                     <a href="contact" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
@@ -492,12 +488,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">01.</span>
-                        How safe is bike transport service in Okhla, Delhi?
+                        Is it safe to transport my bike from Okhla, Delhi?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Our bike transport service is completely safe with professional packing, trained handling staff,
-                        secure carriers, and comprehensive insurance coverage protecting your bike throughout the
-                        journey.
+                        We use premium bubble wrap and foam, specialized tiedowns, and closed carriers to ensure your two-wheeler remains scratch-free when moving to or from Okhla, Delhi.
                     </p>
                 </div>
 
@@ -505,11 +499,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">02.</span>
-                        Do you provide insurance for bike shifting from Okhla, Delhi?
+                        What happens if my bike gets damaged during transport from Okhla, Delhi?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Yes, we provide complete insurance coverage for all bike shifting services to protect against
-                        any unforeseen damages or risks during transportation.
+                        Absolutely. We offer transit insurance to safeguard your motorcycle against any transit damages from Okhla, Delhi to your destination.
                     </p>
                 </div>
 

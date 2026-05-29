@@ -133,11 +133,7 @@
                 </h1>
                 <p
                     style="font-size: 1.1rem; color: var(--color-text-dim); margin-bottom: 40px; max-width: 650px; line-height: 1.7;">
-                    Looking for reliable <strong>bike transport in Ambedkar Nagar to Ladakh</strong>? We provide professional
-                    two-wheeler shifting services to and from Ambedkar Nagar to all major cities across India. Our
-                    <strong>bike shifting service in Ambedkar Nagar to Ladakh</strong> offers
-                    complete door-to-door solutions with trained professionals, comprehensive insurance coverage, secure
-                    packing, and real-time tracking for your peace of mind.
+                    Looking for trusted bike transport in Ambedkar Nagar to Ladakh? We provide expert two-wheeler shifting services to and from Ambedkar Nagar to Ladakh to destinations nationwide. Our transportation service in Ambedkar Nagar to Ladakh offers hassle-free pickup and delivery with experienced staff, full transit insurance, multi-layer packing, and GPS tracking for your assurance.
                 </p>
                 <div class="cta-container" style="display: flex; gap: 20px;">
                     <a href="contact" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
@@ -499,12 +495,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">01.</span>
-                        How safe is bike transport service from Ambedkar Nagar to Ladakh?
+                        Is it safe to transport my bike from Ambedkar Nagar to Ladakh?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Our bike transport service is completely safe with professional packing, trained handling staff,
-                        secure carriers, and comprehensive insurance coverage protecting your bike throughout the
-                        journey.
+                        Our motorcycle shifting service is completely safe with premium packaging, trained handling staff, secure carriers, and comprehensive insurance coverage protecting your bike throughout the journey.
                     </p>
                 </div>
 
@@ -512,11 +506,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">02.</span>
-                        Do you provide insurance for bike shifting from Ambedkar Nagar to Ladakh?
+                        Is transit insurance included for Ambedkar Nagar to Ladakh bike transport?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Yes, we provide complete insurance coverage for all bike shifting services to protect against
-                        any unforeseen damages or risks during transportation.
+                        Absolutely. We offer comprehensive insurance plans to protect your motorcycle against any transit damages from Ambedkar Nagar to Ladakh to your destination.
                     </p>
                 </div>
 

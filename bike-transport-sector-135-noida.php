@@ -127,11 +127,7 @@
                 </h1>
                 <p
                     style="font-size: 1.1rem; color: var(--color-text-dim); margin-bottom: 40px; max-width: 650px; line-height: 1.7;">
-                    Looking for reliable <strong>bike transport in Sector 135 Noida</strong>? We provide professional
-                    two-wheeler shifting services to and from Noida to all major cities across India. Our
-                    <strong>bike shifting service in Sector 135 Noida</strong> offers
-                    complete door-to-door solutions with trained professionals, comprehensive insurance coverage, secure
-                    packing, and real-time tracking for your peace of mind.
+                    Looking for safe two-wheeler relocation in Sector 135 Noida? We provide top-rated bike relocation solutions to and from Sector 135 Noida to destinations nationwide. Our transportation service in Sector 135 Noida offers hassle-free pickup and delivery with expert handlers, comprehensive insurance coverage, premium packaging, and real-time tracking for your complete satisfaction.
                 </p>
                 <div class="cta-container" style="display: flex; gap: 20px;">
                     <a href="contact" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
@@ -498,9 +494,7 @@
                         How safe is bike transport service in Sector 135 Noida?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Our bike transport service is completely safe with professional packing, trained handling staff,
-                        secure carriers, and comprehensive insurance coverage protecting your bike throughout the
-                        journey.
+                        Safety is our primary concern. With expert loaders in Sector 135 Noida and GPS-enabled carriers, we ensure a seamless transit experience.
                     </p>
                 </div>
 
@@ -511,8 +505,7 @@
                         Do you provide insurance for bike shifting from Sector 135 Noida?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Yes, we provide complete insurance coverage for all bike shifting services to protect against
-                        any unforeseen damages or risks during transportation.
+                        Yes, we provide full transit insurance for all bike shifting services to protect against any unexpected risks during transportation.
                     </p>
                 </div>
 

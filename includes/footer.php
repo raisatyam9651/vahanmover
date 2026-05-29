@@ -33,6 +33,9 @@
                     <li style="margin-bottom: 12px;"><a href="index"
                             style="color: var(--color-text-dim); text-decoration: none; transition: 0.3s;">Home</a>
                     </li>
+                    <li style="margin-bottom: 12px;"><a href="about"
+                            style="color: var(--color-text-dim); text-decoration: none; transition: 0.3s;">About Us</a>
+                    </li>
                     <li style="margin-bottom: 12px;"><a href="bike-transport-service"
                             style="color: var(--color-text-dim); text-decoration: none; transition: 0.3s;">Bike
                             Transport</a></li>
@@ -41,6 +44,12 @@
                             Transport</a></li>
                     <li style="margin-bottom: 12px;"><a href="contact"
                             style="color: var(--color-text-dim); text-decoration: none; transition: 0.3s;">Contact</a>
+                    </li>
+                    <li style="margin-bottom: 12px;"><a href="privacy-policy"
+                            style="color: var(--color-text-dim); text-decoration: none; transition: 0.3s;">Privacy Policy</a>
+                    </li>
+                    <li style="margin-bottom: 12px;"><a href="terms-and-conditions"
+                            style="color: var(--color-text-dim); text-decoration: none; transition: 0.3s;">Terms & Conditions</a>
                     </li>
                 </ul>
             </div>

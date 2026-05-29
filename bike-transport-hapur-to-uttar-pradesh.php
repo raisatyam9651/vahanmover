@@ -133,11 +133,7 @@
                 </h1>
                 <p
                     style="font-size: 1.1rem; color: var(--color-text-dim); margin-bottom: 40px; max-width: 650px; line-height: 1.7;">
-                    Looking for reliable <strong>bike transport in Hapur to Uttar Pradesh</strong>? We provide professional
-                    two-wheeler shifting services to and from Hapur to all major cities across India. Our
-                    <strong>bike shifting service in Hapur to Uttar Pradesh</strong> offers
-                    complete door-to-door solutions with trained professionals, comprehensive insurance coverage, secure
-                    packing, and real-time tracking for your peace of mind.
+                    Looking for reliable motorcycle transport in Hapur to Uttar Pradesh? We provide expert motorcycle moving services to and from Hapur to Uttar Pradesh to anywhere in India. Our bike courier service in Hapur to Uttar Pradesh offers end-to-end transport with trained professionals, complete damage protection, premium packaging, and live tracking for your complete satisfaction.
                 </p>
                 <div class="cta-container" style="display: flex; gap: 20px;">
                     <a href="contact" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
@@ -499,12 +495,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">01.</span>
-                        How safe is bike transport service from Hapur to Uttar Pradesh?
+                        Is it safe to transport my bike from Hapur to Uttar Pradesh?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Our bike transport service is completely safe with professional packing, trained handling staff,
-                        secure carriers, and comprehensive insurance coverage protecting your bike throughout the
-                        journey.
+                        Our motorcycle shifting service is highly secure with premium packaging, trained handling staff, closed trucks, and comprehensive insurance coverage protecting your bike throughout the journey.
                     </p>
                 </div>
 
@@ -512,11 +506,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">02.</span>
-                        Do you provide insurance for bike shifting from Hapur to Uttar Pradesh?
+                        Is transit insurance included for Hapur to Uttar Pradesh bike transport?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Yes, we provide complete insurance coverage for all bike shifting services to protect against
-                        any unforeseen damages or risks during transportation.
+                        Every transport is backed by transit insurance coverage so you have complete peace of mind in case of rare transit issues.
                     </p>
                 </div>
 

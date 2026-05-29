@@ -133,11 +133,7 @@
                 </h1>
                 <p
                     style="font-size: 1.1rem; color: var(--color-text-dim); margin-bottom: 40px; max-width: 650px; line-height: 1.7;">
-                    Looking for reliable <strong>bike transport in Agra to Maharashtra</strong>? We provide professional
-                    two-wheeler shifting services to and from Agra to all major cities across India. Our
-                    <strong>bike shifting service in Agra to Maharashtra</strong> offers
-                    complete door-to-door solutions with trained professionals, comprehensive insurance coverage, secure
-                    packing, and real-time tracking for your peace of mind.
+                    Looking for reliable bike transport in Agra to Maharashtra? We provide professional two-wheeler shifting services to and from Agra to Maharashtra to anywhere in India. Our bike shifting service in Agra to Maharashtra offers complete door-to-door solutions with expert handlers, full transit insurance, premium packaging, and live tracking for your assurance.
                 </p>
                 <div class="cta-container" style="display: flex; gap: 20px;">
                     <a href="contact" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
@@ -499,12 +495,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">01.</span>
-                        How safe is bike transport service from Agra to Maharashtra?
+                        What safety measures do you take for Agra to Maharashtra bike transport?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Our bike transport service is completely safe with professional packing, trained handling staff,
-                        secure carriers, and comprehensive insurance coverage protecting your bike throughout the
-                        journey.
+                        Safety is our top priority. With expert loaders in Agra to Maharashtra and GPS-enabled carriers, we ensure a seamless transit experience.
                     </p>
                 </div>
 
@@ -515,8 +509,7 @@
                         Do you provide insurance for bike shifting from Agra to Maharashtra?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Yes, we provide complete insurance coverage for all bike shifting services to protect against
-                        any unforeseen damages or risks during transportation.
+                        Yes, we provide full transit insurance for all bike shifting services to protect against any unforeseen damages during transportation.
                     </p>
                 </div>
 

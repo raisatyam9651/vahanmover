@@ -133,11 +133,7 @@
                 </h1>
                 <p
                     style="font-size: 1.1rem; color: var(--color-text-dim); margin-bottom: 40px; max-width: 650px; line-height: 1.7;">
-                    Looking for reliable <strong>bike transport in Jaunpur to Andhra Pradesh</strong>? We provide professional
-                    two-wheeler shifting services to and from Jaunpur to all major cities across India. Our
-                    <strong>bike shifting service in Jaunpur to Andhra Pradesh</strong> offers
-                    complete door-to-door solutions with trained professionals, comprehensive insurance coverage, secure
-                    packing, and real-time tracking for your peace of mind.
+                    Need to shift your bike from Jaunpur to Andhra Pradesh? Our expert bike transport team in Jaunpur to Andhra Pradesh ensures a safe experience. We offer door-to-door services with scratch-proof packing and 100% insurance coverage. Whether you are moving from Jaunpur to Andhra Pradesh to another state or across the country, our trusted network guarantees timely delivery and live GPS tracking.
                 </p>
                 <div class="cta-container" style="display: flex; gap: 20px;">
                     <a href="contact" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
@@ -499,12 +495,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">01.</span>
-                        How safe is bike transport service from Jaunpur to Andhra Pradesh?
+                        How secure is bike shifting service in Jaunpur to Andhra Pradesh?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Our bike transport service is completely safe with professional packing, trained handling staff,
-                        secure carriers, and comprehensive insurance coverage protecting your bike throughout the
-                        journey.
+                        Safety is our top priority. With expert loaders in Jaunpur to Andhra Pradesh and GPS-enabled carriers, we ensure a damage-free transit experience.
                     </p>
                 </div>
 
@@ -512,11 +506,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">02.</span>
-                        Do you provide insurance for bike shifting from Jaunpur to Andhra Pradesh?
+                        Is transit insurance included for Jaunpur to Andhra Pradesh bike transport?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Yes, we provide complete insurance coverage for all bike shifting services to protect against
-                        any unforeseen damages or risks during transportation.
+                        Every transport is backed by robust insurance options so you have complete peace of mind in case of rare transit issues.
                     </p>
                 </div>
 

@@ -133,11 +133,7 @@
                 </h1>
                 <p
                     style="font-size: 1.1rem; color: var(--color-text-dim); margin-bottom: 40px; max-width: 650px; line-height: 1.7;">
-                    Looking for reliable <strong>bike transport in Sitapur to Uttar Pradesh</strong>? We provide professional
-                    two-wheeler shifting services to and from Sitapur to all major cities across India. Our
-                    <strong>bike shifting service in Sitapur to Uttar Pradesh</strong> offers
-                    complete door-to-door solutions with trained professionals, comprehensive insurance coverage, secure
-                    packing, and real-time tracking for your peace of mind.
+                    As a leading provider of bike transport services in Sitapur to Uttar Pradesh, we guarantee the utmost safety of your vehicle. Our Sitapur to Uttar Pradesh branch specializes in doorstep pickup and uses closed transport trucks for weather protection. Enjoy complete peace of mind with our fully insured bike moving solutions, complete with dedicated support.
                 </p>
                 <div class="cta-container" style="display: flex; gap: 20px;">
                     <a href="contact" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
@@ -499,12 +495,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">01.</span>
-                        How safe is bike transport service from Sitapur to Uttar Pradesh?
+                        How secure is bike transport service in Sitapur to Uttar Pradesh?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Our bike transport service is completely safe with professional packing, trained handling staff,
-                        secure carriers, and comprehensive insurance coverage protecting your bike throughout the
-                        journey.
+                        Safety is our primary concern. With trained professionals in Sitapur to Uttar Pradesh and GPS-enabled carriers, we ensure a damage-free transit experience.
                     </p>
                 </div>
 
@@ -512,11 +506,10 @@
                 <div class="glass-card faq-card">
                     <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
                         <span style="color: var(--color-accent); font-size: 1.2rem;">02.</span>
-                        Do you provide insurance for bike shifting from Sitapur to Uttar Pradesh?
+                        Is transit insurance included for Sitapur to Uttar Pradesh bike transport?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Yes, we provide complete insurance coverage for all bike shifting services to protect against
-                        any unforeseen damages or risks during transportation.
+                        Every transport is backed by transit insurance coverage so you have financial protection in case of rare transit issues.
                     </p>
                 </div>
 

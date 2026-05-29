@@ -126,11 +126,7 @@
                 </h1>
                 <p
                     style="font-size: 1.1rem; color: var(--color-text-dim); margin-bottom: 40px; max-width: 650px; line-height: 1.7;">
-                    Looking for reliable <strong>bike transport in Sector 58 Noida</strong>? We provide professional
-                    two-wheeler shifting services to and from Noida to all major cities across India. Our
-                    <strong>bike shifting service in Sector 58 Noida</strong> offers
-                    complete door-to-door solutions with trained professionals, comprehensive insurance coverage, secure
-                    packing, and real-time tracking for your peace of mind.
+                    Looking for safe bike transport in Sector 58 Noida? We provide professional two-wheeler shifting services to and from Sector 58 Noida to anywhere in India. Our bike courier service in Sector 58 Noida offers hassle-free pickup and delivery with trained professionals, complete damage protection, premium packaging, and real-time tracking for your assurance.
                 </p>
                 <div class="cta-container" style="display: flex; gap: 20px;">
                     <a href="contact" class="btn btn-primary"><i class="fa-solid fa-bolt"></i> Get Free Quote</a>
@@ -497,9 +493,7 @@
                         How safe is bike transport service in Sector 58 Noida?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Our bike transport service is completely safe with professional packing, trained handling staff,
-                        secure carriers, and comprehensive insurance coverage protecting your bike throughout the
-                        journey.
+                        Safety is our primary concern. With trained professionals in Sector 58 Noida and GPS-enabled carriers, we ensure a seamless transit experience.
                     </p>
                 </div>
 
@@ -510,8 +504,7 @@
                         Do you provide insurance for bike shifting from Sector 58 Noida?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Yes, we provide complete insurance coverage for all bike shifting services to protect against
-                        any unforeseen damages or risks during transportation.
+                        Every transport is backed by robust insurance options so you have complete peace of mind in case of rare transit issues.
                     </p>
                 </div>
 
