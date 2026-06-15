@@ -1,5 +1,5 @@
 <!-- Footer -->
-<footer style="background: rgba(15, 23, 42, 0.8); border-top: 1px solid rgba(255,255,255,0.05); padding: 60px 0 20px;">
+<footer style="background: rgba(241, 245, 249, 0.9); border-top: 1px solid rgba(15, 23, 42, 0.08); padding: 60px 0 20px;">
     <div class="container">
         <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 40px; margin-bottom: 40px;">
             <div style="flex: 1; min-width: 250px;">
@@ -13,16 +13,16 @@
                 </p>
                 <div style="display: flex; gap: 15px;">
                     <a href="#"
-                        style="color: var(--color-text-white); width: 35px; height: 35px; background: rgba(255,255,255,0.05); display: flex; align-items: center; justify-content: center; border-radius: 50%; text-decoration: none;"><i
+                        style="color: var(--color-text-white); width: 35px; height: 35px; background: rgba(15, 23, 42, 0.05); display: flex; align-items: center; justify-content: center; border-radius: 50%; text-decoration: none;"><i
                             class="fa-brands fa-facebook-f"></i></a>
                     <a href="#"
-                        style="color: var(--color-text-white); width: 35px; height: 35px; background: rgba(255,255,255,0.05); display: flex; align-items: center; justify-content: center; border-radius: 50%; text-decoration: none;"><i
+                        style="color: var(--color-text-white); width: 35px; height: 35px; background: rgba(15, 23, 42, 0.05); display: flex; align-items: center; justify-content: center; border-radius: 50%; text-decoration: none;"><i
                             class="fa-brands fa-twitter"></i></a>
                     <a href="#"
-                        style="color: var(--color-text-white); width: 35px; height: 35px; background: rgba(255,255,255,0.05); display: flex; align-items: center; justify-content: center; border-radius: 50%; text-decoration: none;"><i
+                        style="color: var(--color-text-white); width: 35px; height: 35px; background: rgba(15, 23, 42, 0.05); display: flex; align-items: center; justify-content: center; border-radius: 50%; text-decoration: none;"><i
                             class="fa-brands fa-instagram"></i></a>
                     <a href="#"
-                        style="color: var(--color-text-white); width: 35px; height: 35px; background: rgba(255,255,255,0.05); display: flex; align-items: center; justify-content: center; border-radius: 50%; text-decoration: none;"><i
+                        style="color: var(--color-text-white); width: 35px; height: 35px; background: rgba(15, 23, 42, 0.05); display: flex; align-items: center; justify-content: center; border-radius: 50%; text-decoration: none;"><i
                             class="fa-brands fa-linkedin-in"></i></a>
                 </div>
             </div>
@@ -42,6 +42,8 @@
                     <li style="margin-bottom: 12px;"><a href="car-transport-service"
                             style="color: var(--color-text-dim); text-decoration: none; transition: 0.3s;">Car
                             Transport</a></li>
+                    <li style="margin-bottom: 12px;"><a href="blog"
+                            style="color: var(--color-text-dim); text-decoration: none; transition: 0.3s;">Blog</a></li>
                     <li style="margin-bottom: 12px;"><a href="contact"
                             style="color: var(--color-text-dim); text-decoration: none; transition: 0.3s;">Contact</a>
                     </li>

@@ -12,11 +12,13 @@ $current_page = basename($_SERVER['PHP_SELF']);
             <a href="/"
                 style="color: <?php echo ($current_page == 'index.php') ? 'var(--color-primary)' : 'var(--color-text-white)'; ?>; text-decoration: none; font-weight: 500;">Home</a>
             <a href="bike-transport-service"
-                style="color: <?php echo ($current_page == 'bike-transport-service.php' || strpos($current_page, 'bike-transport-') === 0 && $current_page != 'bike-transport-service.php') ? 'var(--color-primary)' : 'var(--color-text-white)'; ?>; text-decoration: none; font-weight: 500;">Bike
+                style="color: <?php echo ($current_page == 'bike-transport-service.php' || (strpos($current_page, 'bike-transport-') === 0 && $current_page != 'bike-transport-service.php')) ? 'var(--color-primary)' : 'var(--color-text-white)'; ?>; text-decoration: none; font-weight: 500;">Bike
                 Transport</a>
             <a href="car-transport-service"
-                style="color: <?php echo ($current_page == 'car-transport-service.php' || strpos($current_page, 'car-transport-') === 0 && $current_page != 'car-transport-service.php') ? 'var(--color-primary)' : 'var(--color-text-white)'; ?>; text-decoration: none; font-weight: 500;">Car
+                style="color: <?php echo ($current_page == 'car-transport-service.php' || (strpos($current_page, 'car-transport-') === 0 && $current_page != 'car-transport-service.php')) ? 'var(--color-primary)' : 'var(--color-text-white)'; ?>; text-decoration: none; font-weight: 500;">Car
                 Transport</a>
+            <a href="blog"
+                style="color: <?php echo ($current_page == 'blog.php' || strpos($_SERVER['PHP_SELF'], '/blog/') !== false) ? 'var(--color-primary)' : 'var(--color-text-white)'; ?>; text-decoration: none; font-weight: 500;">Blog</a>
             <a href="contact"
                 style="color: <?php echo ($current_page == 'contact.php') ? 'var(--color-primary)' : 'var(--color-text-white)'; ?>; text-decoration: none; font-weight: 500;">Contact</a>
         </div>

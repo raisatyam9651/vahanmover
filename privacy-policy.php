@@ -30,9 +30,9 @@
 
     <!-- Hero Section -->
     <section class="hero"
-        style="min-height: 50vh; display: flex; align-items: center; padding-top: 100px; position: relative; background: linear-gradient(to right, #0f172a, #1e293b);">
+        style="min-height: 50vh; display: flex; align-items: center; padding-top: 100px; position: relative; background: linear-gradient(to right, #f1f5f9, #e2e8f0);">
         <div class="container">
-            <h1 style="font-size: 3.5rem; font-weight: 800; margin-bottom: 20px; color: white;">Privacy <span
+            <h1 style="font-size: 3.5rem; font-weight: 800; margin-bottom: 20px; ">Privacy <span
                     style="color: var(--color-primary);">Policy</span></h1>
             <p style="color: var(--color-text-dim); font-size: 1.2rem; max-width: 600px;">Learn how we collect, use, and protect your personal information.</p>
         </div>
