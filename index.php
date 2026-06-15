@@ -523,6 +523,72 @@
         </div>
     </section>
 
+    <!-- Expert Shifting Guides Section -->
+    <section class="guides" style="padding: 70px 0; background: rgba(255,255,255,0.02); position: relative;">
+        <!-- background bloom -->
+        <div style="position: absolute; top: -100px; right: -50px; width: 300px; height: 300px; background: var(--color-primary); filter: blur(150px); opacity: 0.1; border-radius: 50%;"></div>
+        
+        <div class="container">
+            <div style="text-align: center; margin-bottom: 60px;">
+                <div style="display: inline-block; padding: 8px 16px; background: rgba(6, 182, 212, 0.1); border: 1px solid rgba(6, 182, 212, 0.3); border-radius: 30px; margin-bottom: 20px; color: var(--color-primary); font-weight: 600; font-size: 0.9rem;">
+                    <i class="fa-solid fa-graduation-cap"></i> Knowledge Center
+                </div>
+                <h2 style="font-size: 3rem; margin-bottom: 15px; font-weight: 700;">Expert Shifting <span style="color: var(--color-primary);">Guides & Resources</span></h2>
+                <p style="color: var(--color-text-dim); font-size: 1.1rem; max-width: 600px; margin: 0 auto;">Everything you need to know about shifting your car or bike safely in India. Written by logistics professionals.</p>
+            </div>
+
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 30px; margin-bottom: 50px;">
+                
+                <!-- Guide 1 -->
+                <article class="glass-card" style="padding: 30px; display: flex; flex-direction: column; justify-content: space-between; height: 100%;">
+                    <div>
+                        <div style="width: 50px; height: 50px; background: rgba(6, 182, 212, 0.1); border-radius: 12px; display: flex; align-items: center; justify-content: center; margin-bottom: 20px; font-size: 1.25rem; color: var(--color-primary);">
+                            <i class="fa-solid fa-train"></i>
+                        </div>
+                        <h3 style="font-size: 1.3rem; margin-bottom: 12px; color: var(--color-text-white);">Indian Railways Bike Transport: The Ultimate Guide</h3>
+                        <p style="color: var(--color-text-dim); line-height: 1.6; font-size: 0.95rem; margin-bottom: 20px;">
+                            Learn how to book and ship your two-wheeler via Indian Railways. Understand luggage vs parcel options, documents, and pricing guidelines.
+                        </p>
+                    </div>
+                    <a href="blog/how-to-transport-bike-by-indian-railways" style="color: var(--color-primary); text-decoration: none; font-weight: 600; display: inline-flex; align-items: center; gap: 8px; font-size: 0.95rem;">Read Guide <i class="fa-solid fa-arrow-right-long"></i></a>
+                </article>
+
+                <!-- Guide 2 -->
+                <article class="glass-card" style="padding: 30px; display: flex; flex-direction: column; justify-content: space-between; height: 100%;">
+                    <div>
+                        <div style="width: 50px; height: 50px; background: rgba(20, 184, 166, 0.1); border-radius: 12px; display: flex; align-items: center; justify-content: center; margin-bottom: 20px; font-size: 1.25rem; color: var(--color-accent);">
+                            <i class="fa-solid fa-building-columns"></i>
+                        </div>
+                        <h3 style="font-size: 1.3rem; margin-bottom: 12px; color: var(--color-text-white);">RTO Rules for Moving Vehicles to Another State</h3>
+                        <p style="color: var(--color-text-dim); line-height: 1.6; font-size: 0.95rem; margin-bottom: 20px;">
+                            Understand the RTO NOC procurement process (Forms 27 and 28), new state road tax payment procedures, and claiming tax refunds from parent RTOs.
+                        </p>
+                    </div>
+                    <a href="blog/rto-rules-for-moving-vehicle-to-another-state" style="color: var(--color-accent); text-decoration: none; font-weight: 600; display: inline-flex; align-items: center; gap: 8px; font-size: 0.95rem;">Read Guide <i class="fa-solid fa-arrow-right-long"></i></a>
+                </article>
+
+                <!-- Guide 3 -->
+                <article class="glass-card" style="padding: 30px; display: flex; flex-direction: column; justify-content: space-between; height: 100%;">
+                    <div>
+                        <div style="width: 50px; height: 50px; background: rgba(139, 92, 246, 0.1); border-radius: 12px; display: flex; align-items: center; justify-content: center; margin-bottom: 20px; font-size: 1.25rem; color: #8b5cf6;">
+                            <i class="fa-solid fa-clipboard-list"></i>
+                        </div>
+                        <h3 style="font-size: 1.3rem; margin-bottom: 12px; color: var(--color-text-white);">Ultimate Relocation & Vehicle Shifting Checklist</h3>
+                        <p style="color: var(--color-text-dim); line-height: 1.6; font-size: 0.95rem; margin-bottom: 20px;">
+                            Coordinating home shifting and vehicle relocation simultaneously? Follow our structured timeline checklist (3 weeks out, 1 week out, moving day).
+                        </p>
+                    </div>
+                    <a href="blog/moving-checklist-for-shifting-household-and-vehicles" style="color: #8b5cf6; text-decoration: none; font-weight: 600; display: inline-flex; align-items: center; gap: 8px; font-size: 0.95rem;">Read Guide <i class="fa-solid fa-arrow-right-long"></i></a>
+                </article>
+
+            </div>
+
+            <div style="text-align: center;">
+                <a href="blog" class="btn btn-secondary" style="display: inline-flex; align-items: center; gap: 10px; padding: 14px 30px;"><i class="fa-solid fa-book-open"></i> Browse All Relocation Guides</a>
+            </div>
+        </div>
+    </section>
+
     <!-- Contact Form Section -->
     <section style="padding: 60px 0 100px; position: relative;">
         <div class="container">

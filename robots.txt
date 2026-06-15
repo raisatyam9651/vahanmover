@@ -7,10 +7,6 @@ Disallow: /includes/
 Disallow: /.git/
 Disallow: /html_backup/
 
-# Temporarily disallow programmatic SEO pages for AdSense review
-Disallow: /bike-transport-*.php
-Disallow: /car-transport-*.php
-
 # Sitemap location
 Sitemap: https://vahanmover.com/sitemap.xml
 

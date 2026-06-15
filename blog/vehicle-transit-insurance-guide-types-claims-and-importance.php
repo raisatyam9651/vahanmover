@@ -229,6 +229,9 @@ $current_page = 'blog.php';
                 At Vahan Mover, safety is our priority. Our logistics partners provide comprehensive, all-risk transit insurance and standard condition reports to keep your vehicle relocation completely protected. Check out our <a href="car-transport-service" style="color: var(--color-primary); text-decoration: underline; font-weight: 500;">car shipping options</a>, request a free quote today, and relocation safely!
             </p>
 
+            <!-- Reusable Author Component -->
+            <?php include '../includes/author-bio.php'; ?>
+
             <div style="margin-top: 50px; padding-top: 30px; border-top: 1px solid rgba(15, 23, 42, 0.08); text-align: center;">
                 <a href="contact" class="btn btn-primary"><i class="fa-solid fa-paper-plane"></i> Request Free Insured Quote</a>
             </div>

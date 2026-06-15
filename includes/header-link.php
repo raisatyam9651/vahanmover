@@ -34,7 +34,7 @@ $base_url = $protocol . $host . $base_path;
 $current_page = basename($_SERVER['PHP_SELF']);
 if ((strpos($current_page, 'bike-transport-') === 0 && $current_page != 'bike-transport-service.php') || 
     (strpos($current_page, 'car-transport-') === 0 && $current_page != 'car-transport-service.php')) {
-    echo '<meta name="robots" content="noindex, nofollow" />';
+    echo '<meta name="robots" content="noindex, follow" />';
 } else {
     echo '<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />';
 }

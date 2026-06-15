@@ -258,6 +258,66 @@ $current_page = 'blog.php';
                 <a href="blog/moving-checklist-for-shifting-household-and-vehicles" class="read-more-btn">Read Full Article <i class="fa-solid fa-arrow-right-long"></i></a>
             </article>
 
+            <!-- Article 7 -->
+            <article class="glass-card blog-card">
+                <div>
+                    <div class="blog-icon-box" style="background: linear-gradient(135deg, #f59e0b, #e11d48);">
+                        <i class="fa-solid fa-magnifying-glass"></i>
+                    </div>
+                    <div class="blog-category">RTO Guides</div>
+                    <h2 class="blog-title">How to Check RTO Vehicle Registration Status Online</h2>
+                    <p class="blog-excerpt">
+                        Before shifting your vehicle to another state, it is critical to verify its active registration status on the official Parivahan portal. Learn how to query RC details online.
+                    </p>
+                </div>
+                <a href="blog/how-to-check-rto-vehicle-registration-status-online" class="read-more-btn">Read Full Article <i class="fa-solid fa-arrow-right-long"></i></a>
+            </article>
+
+            <!-- Article 8 -->
+            <article class="glass-card blog-card">
+                <div>
+                    <div class="blog-icon-box" style="background: linear-gradient(135deg, #0284c7, #06b6d4);">
+                        <i class="fa-solid fa-calculator"></i>
+                    </div>
+                    <div class="blog-category">Railway Guides</div>
+                    <h2 class="blog-title">Bike Transport by Railways Charges & Calculator Guide</h2>
+                    <p class="blog-excerpt">
+                        Need to calculate the exact cost to parcel your motorcycle by train? Read our comprehensive charges breakdown and how to use railway parcel calculators.
+                    </p>
+                </div>
+                <a href="blog/bike-transport-by-railways-charges-calculator-guide" class="read-more-btn">Read Full Article <i class="fa-solid fa-arrow-right-long"></i></a>
+            </article>
+
+            <!-- Article 9 -->
+            <article class="glass-card blog-card">
+                <div>
+                    <div class="blog-icon-box" style="background: linear-gradient(135deg, #4f46e5, #7c3aed);">
+                        <i class="fa-solid fa-gem"></i>
+                    </div>
+                    <div class="blog-category">Car Shifting</div>
+                    <h2 class="blog-title">Tips for Relocating Luxury Cars Safely in India</h2>
+                    <p class="blog-excerpt">
+                        Transporting a premium or sports car requires extra security and care. Discover how to choose enclosed containers and protect your high-value vehicle.
+                    </p>
+                </div>
+                <a href="blog/tips-for-relocating-luxury-cars-in-india" class="read-more-btn">Read Full Article <i class="fa-solid fa-arrow-right-long"></i></a>
+            </article>
+
+            <!-- Article 10 -->
+            <article class="glass-card blog-card">
+                <div>
+                    <div class="blog-icon-box" style="background: linear-gradient(135deg, #ea580c, #ef4444);">
+                        <i class="fa-solid fa-hand-holding-hand"></i>
+                    </div>
+                    <div class="blog-category">Insurance</div>
+                    <h2 class="blog-title">What to Do if Vehicle is Damaged During Transit</h2>
+                    <p class="blog-excerpt">
+                        Unfortunate transit issues can occur. Learn how to identify damage on delivery, document it legally, and file a successful insurance claim.
+                    </p>
+                </div>
+                <a href="blog/what-to-do-if-vehicle-damaged-during-transit" class="read-more-btn">Read Full Article <i class="fa-solid fa-arrow-right-long"></i></a>
+            </article>
+
         </div>
     </main>
 

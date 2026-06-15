@@ -278,6 +278,9 @@ $current_page = 'blog.php';
                 At Vahan Mover, we connect you with verified, premium car relocation services offering closed containers, GPS tracking, and complete transit insurance. Check out our dedicated <a href="car-transport-service" style="color: var(--color-primary); text-decoration: underline; font-weight: 500;">car transport service</a>, request a free quote today, and let our specialists relocate your vehicle safely!
             </p>
 
+            <!-- Reusable Author Component -->
+            <?php include '../includes/author-bio.php'; ?>
+
             <div style="margin-top: 50px; padding-top: 30px; border-top: 1px solid rgba(15, 23, 42, 0.08); text-align: center;">
                 <a href="contact" class="btn btn-primary"><i class="fa-solid fa-paper-plane"></i> Get Free Car Shifting Quote</a>
             </div>

@@ -294,6 +294,9 @@ $current_page = 'blog.php';
                 If you prefer a hassle-free, door-to-door vehicle transport experience without standing in queues or handling railway paperwork, check out our premium <a href="bike-transport-service" style="color: var(--color-primary); text-decoration: underline; font-weight: 500;">bike transport service</a> and get in touch with our verified private vehicle logistics partners at Vahan Mover. We handle the pickup, packing, transport, and delivery at your doorstep!
             </p>
 
+            <!-- Reusable Author Component -->
+            <?php include '../includes/author-bio.php'; ?>
+
             <div style="margin-top: 50px; padding-top: 30px; border-top: 1px solid rgba(15, 23, 42, 0.08); text-align: center;">
                 <a href="contact" class="btn btn-primary"><i class="fa-solid fa-paper-plane"></i> Get Free Shipping Quote</a>
             </div>

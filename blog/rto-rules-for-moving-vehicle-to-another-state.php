@@ -223,6 +223,9 @@ $current_page = 'blog.php';
                 If you need assistance in transport logistics or getting your car or bike shipped safely across states, check out our premium <a href="car-transport-service" style="color: var(--color-primary); text-decoration: underline; font-weight: 500;">car shipping solutions</a> or our <a href="bike-transport-service" style="color: var(--color-primary); text-decoration: underline; font-weight: 500;">two-wheeler courier services</a>, and contact Vahan Mover. We provide certified carriers and transit receipts to help you document the move for RTO entries!
             </p>
 
+            <!-- Reusable Author Component -->
+            <?php include '../includes/author-bio.php'; ?>
+
             <div style="margin-top: 50px; padding-top: 30px; border-top: 1px solid rgba(15, 23, 42, 0.08); text-align: center;">
                 <a href="contact" class="btn btn-primary"><i class="fa-solid fa-paper-plane"></i> Get Shifting Quote</a>
             </div>

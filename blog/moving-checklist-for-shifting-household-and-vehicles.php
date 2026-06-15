@@ -197,6 +197,9 @@ $current_page = 'blog.php';
                 At Vahan Mover, we simplify your entire relocation experience. We offer verified packing and moving solutions for both household items and vehicle transport. Check out our core <a href="car-transport-service" style="color: var(--color-primary); text-decoration: underline; font-weight: 500;">car transport service</a>, request a free, all-inclusive quote today, and relocate stress-free!
             </p>
 
+            <!-- Reusable Author Component -->
+            <?php include '../includes/author-bio.php'; ?>
+
             <div style="margin-top: 50px; padding-top: 30px; border-top: 1px solid rgba(15, 23, 42, 0.08); text-align: center;">
                 <a href="contact" class="btn btn-primary"><i class="fa-solid fa-paper-plane"></i> Request Relocation Quote</a>
             </div>

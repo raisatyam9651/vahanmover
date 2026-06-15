@@ -204,6 +204,9 @@ $current_page = 'blog.php';
                 If you are looking for premium, scratch-free two-wheeler transport services with professional multi-layer packing and dynamic updates, check out our core <a href="bike-transport-service" style="color: var(--color-primary); text-decoration: underline; font-weight: 500;">bike transport service</a> and contact Vahan Mover today. Get a free quote now!
             </p>
 
+            <!-- Reusable Author Component -->
+            <?php include '../includes/author-bio.php'; ?>
+
             <div style="margin-top: 50px; padding-top: 30px; border-top: 1px solid rgba(15, 23, 42, 0.08); text-align: center;">
                 <a href="contact" class="btn btn-primary"><i class="fa-solid fa-paper-plane"></i> Get Free Bike Transport Quote</a>
             </div>
