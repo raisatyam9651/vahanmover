@@ -2,7 +2,7 @@
 $current_page = basename($_SERVER['PHP_SELF']);
 ?>
 <!-- Navigation -->
-<nav style="position: absolute; width: 100%; top: 0; padding: 20px 0; z-index: 100;">
+<nav style="position: absolute; width: 100%; top: 0; padding: 20px 0; z-index: 100; background: rgba(11, 15, 25, 0.95); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-bottom: 1px solid rgba(255, 255, 255, 0.07); --color-text-white: #ffffff;">
     <div class="container" style="display: flex; justify-content: space-between; align-items: center;">
         <div class="logo"
             style="font-size: 1.8rem; font-weight: 800; color: var(--color-primary); letter-spacing: -1px;">

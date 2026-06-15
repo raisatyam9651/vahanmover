@@ -267,3 +267,17 @@ html {
         grid-template-columns: 1fr !important;
     }
 }
+
+/* Header & Footer Custom Link Hover Effects */
+.nav-links a {
+    transition: color 0.2s ease-in-out !important;
+}
+.nav-links a:hover {
+    color: var(--color-primary) !important;
+}
+footer a {
+    transition: color 0.2s ease-in-out !important;
+}
+footer a:hover {
+    color: var(--color-primary) !important;
+}

@@ -1,5 +1,5 @@
 <!-- Footer -->
-<footer style="background: rgba(241, 245, 249, 0.9); border-top: 1px solid rgba(15, 23, 42, 0.08); padding: 60px 0 20px;">
+<footer style="background: #0b0f19; border-top: 1px solid rgba(255, 255, 255, 0.05); padding: 60px 0 20px; --color-text-white: #ffffff; --color-text-dim: #94a3b8; color: #ffffff;">
     <div class="container">
         <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 40px; margin-bottom: 40px;">
             <div style="flex: 1; min-width: 250px;">
@@ -11,20 +11,6 @@
                     Trusted partner for safe and reliable vehicle transportation across India. Book your move today
                     for a stress-free experience.
                 </p>
-                <div style="display: flex; gap: 15px;">
-                    <a href="#"
-                        style="color: var(--color-text-white); width: 35px; height: 35px; background: rgba(15, 23, 42, 0.05); display: flex; align-items: center; justify-content: center; border-radius: 50%; text-decoration: none;"><i
-                            class="fa-brands fa-facebook-f"></i></a>
-                    <a href="#"
-                        style="color: var(--color-text-white); width: 35px; height: 35px; background: rgba(15, 23, 42, 0.05); display: flex; align-items: center; justify-content: center; border-radius: 50%; text-decoration: none;"><i
-                            class="fa-brands fa-twitter"></i></a>
-                    <a href="#"
-                        style="color: var(--color-text-white); width: 35px; height: 35px; background: rgba(15, 23, 42, 0.05); display: flex; align-items: center; justify-content: center; border-radius: 50%; text-decoration: none;"><i
-                            class="fa-brands fa-instagram"></i></a>
-                    <a href="#"
-                        style="color: var(--color-text-white); width: 35px; height: 35px; background: rgba(15, 23, 42, 0.05); display: flex; align-items: center; justify-content: center; border-radius: 50%; text-decoration: none;"><i
-                            class="fa-brands fa-linkedin-in"></i></a>
-                </div>
             </div>
 
             <div style="flex: 1; min-width: 200px;">
