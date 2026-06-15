@@ -51,7 +51,7 @@ $current_page = 'blog.php';
             margin-top: 40px;
             margin-bottom: 20px;
             font-weight: 700;
-            border-bottom: 1px solid rgba(255,255,255,0.05);
+            border-bottom: 1px solid rgba(15, 23, 42, 0.08);
             padding-bottom: 10px;
         }
 
@@ -223,7 +223,7 @@ $current_page = 'blog.php';
                 If you need assistance in transport logistics or getting your car or bike shipped safely across states, contact Vahan Mover. We provide certified transport carriers and transport receipts to help you document the move for RTO entries!
             </p>
 
-            <div style="margin-top: 50px; padding-top: 30px; border-top: 1px solid rgba(255,255,255,0.1); text-align: center;">
+            <div style="margin-top: 50px; padding-top: 30px; border-top: 1px solid rgba(15, 23, 42, 0.08); text-align: center;">
                 <a href="contact" class="btn btn-primary"><i class="fa-solid fa-paper-plane"></i> Get Shifting Quote</a>
             </div>
 

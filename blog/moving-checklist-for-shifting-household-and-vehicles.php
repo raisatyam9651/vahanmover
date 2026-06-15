@@ -51,7 +51,7 @@ $current_page = 'blog.php';
             margin-top: 40px;
             margin-bottom: 20px;
             font-weight: 700;
-            border-bottom: 1px solid rgba(255,255,255,0.05);
+            border-bottom: 1px solid rgba(15, 23, 42, 0.08);
             padding-bottom: 10px;
         }
 
@@ -197,7 +197,7 @@ $current_page = 'blog.php';
                 At Vahan Mover, we simplify your entire relocation experience. We offer verified packing and moving solutions for both household items and vehicles across India. Get a free, all-inclusive quote today!
             </p>
 
-            <div style="margin-top: 50px; padding-top: 30px; border-top: 1px solid rgba(255,255,255,0.1); text-align: center;">
+            <div style="margin-top: 50px; padding-top: 30px; border-top: 1px solid rgba(15, 23, 42, 0.08); text-align: center;">
                 <a href="contact" class="btn btn-primary"><i class="fa-solid fa-paper-plane"></i> Request Relocation Quote</a>
             </div>
 

@@ -3,6 +3,10 @@ $protocol = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on') ? "https://
 $host = $_SERVER['HTTP_HOST'];
 $script_dir = dirname($_SERVER['SCRIPT_NAME']);
 $script_dir = str_replace('\\', '/', $script_dir);
+if ($script_dir === '/blog' || substr($script_dir, -5) === '/blog') {
+    $script_dir = dirname($script_dir);
+}
+$script_dir = str_replace('\\', '/', $script_dir);
 $base_path = ($script_dir == '/') ? '/' : $script_dir . '/';
 $base_url = $protocol . $host . $base_path;
 ?>

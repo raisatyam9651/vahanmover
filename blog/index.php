@@ -53,7 +53,7 @@ $current_page = 'blog.php';
             justify-content: space-between;
             height: 100%;
             transition: all 0.3s ease;
-            border: 1px solid rgba(255, 255, 255, 0.05);
+            border: 1px solid var(--glass-border);
             padding: 35px;
             overflow: hidden;
             position: relative;
@@ -76,9 +76,9 @@ $current_page = 'blog.php';
 
         .blog-card:hover {
             transform: translateY(-8px);
-            border-color: rgba(6, 182, 212, 0.3);
-            background: rgba(255, 255, 255, 0.07);
-            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.4);
+            border-color: rgba(6, 182, 212, 0.4);
+            background: rgba(255, 255, 255, 0.95);
+            box-shadow: 0 15px 35px rgba(15, 23, 42, 0.08);
         }
 
         .blog-icon-box {

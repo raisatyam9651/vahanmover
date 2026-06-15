@@ -51,7 +51,7 @@ $current_page = 'blog.php';
             margin-top: 40px;
             margin-bottom: 20px;
             font-weight: 700;
-            border-bottom: 1px solid rgba(255,255,255,0.05);
+            border-bottom: 1px solid rgba(15, 23, 42, 0.08);
             padding-bottom: 10px;
         }
 
@@ -102,7 +102,7 @@ $current_page = 'blog.php';
         .table-container {
             overflow-x: auto;
             margin-bottom: 30px;
-            border: 1px solid rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(15, 23, 42, 0.08);
             border-radius: 12px;
         }
 
@@ -113,16 +113,16 @@ $current_page = 'blog.php';
         }
 
         th {
-            background: rgba(255, 255, 255, 0.05);
+            background: rgba(15, 23, 42, 0.04);
             color: var(--color-text-white);
             font-weight: 600;
             padding: 15px;
-            border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+            border-bottom: 2px solid rgba(15, 23, 42, 0.1);
         }
 
         td {
             padding: 15px;
-            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+            border-bottom: 1px solid rgba(15, 23, 42, 0.08);
             color: var(--color-text-dim);
         }
 
@@ -278,7 +278,7 @@ $current_page = 'blog.php';
                 At Vahan Mover, we connect you with verified, premium car relocation services offering closed containers, GPS tracking, and complete transit insurance. Request a free quote today and let our specialists relocate your vehicle safely!
             </p>
 
-            <div style="margin-top: 50px; padding-top: 30px; border-top: 1px solid rgba(255,255,255,0.1); text-align: center;">
+            <div style="margin-top: 50px; padding-top: 30px; border-top: 1px solid rgba(15, 23, 42, 0.08); text-align: center;">
                 <a href="contact" class="btn btn-primary"><i class="fa-solid fa-paper-plane"></i> Get Free Car Shifting Quote</a>
             </div>
 
