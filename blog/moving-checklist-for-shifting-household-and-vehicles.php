@@ -107,7 +107,7 @@ $current_page = 'blog.php';
     <?php include '../includes/navbar.php'; ?>
 
     <!-- Header Section -->
-    <section class="hero" style="min-height: 50vh; display: flex; align-items: center; padding-top: 100px; position: relative; background: linear-gradient(to right, #f1f5f9, #e2e8f0);">
+    <section class="hero" style="min-height: 50vh; display: flex; align-items: center; padding-top: 140px; padding-bottom: 90px; position: relative; background: linear-gradient(to right, #f1f5f9, #e2e8f0);">
         <div class="container" style="position: relative; z-index: 2;">
             <div style="margin-bottom: 15px; display: flex; gap: 15px; align-items: center; color: var(--color-primary); font-weight: 600;">
                 <span><i class="fa-solid fa-folder-open"></i> Relocation Checklist</span>
@@ -191,10 +191,10 @@ $current_page = 'blog.php';
 
             <h2>Conclusion</h2>
             <p>
-                A systematic relocation checklist turns a chaotic move into an organized, stress-free transition. Setting clear timelines helps you tackle tasks one by one without feeling overwhelmed.
+                A systematic relocation checklist turns a chaotic move into an organized, stress-free transition. Setting clear timelines helps you tackle tasks one by one without feeling overwhelmed. If you are shifting your car, make sure to read our detailed <a href="blog/complete-guide-to-car-transportation-services-in-india" style="color: var(--color-primary); text-decoration: underline; font-weight: 500;">car shifting container guide</a> and understand the <a href="blog/rto-rules-for-moving-vehicle-to-another-state" style="color: var(--color-primary); text-decoration: underline; font-weight: 500;">RTO registration transfer rules</a> beforehand.
             </p>
             <p>
-                At Vahan Mover, we simplify your entire relocation experience. We offer verified packing and moving solutions for both household items and vehicles across India. Get a free, all-inclusive quote today!
+                At Vahan Mover, we simplify your entire relocation experience. We offer verified packing and moving solutions for both household items and vehicle transport. Check out our core <a href="car-transport-service" style="color: var(--color-primary); text-decoration: underline; font-weight: 500;">car transport service</a>, request a free, all-inclusive quote today, and relocate stress-free!
             </p>
 
             <div style="margin-top: 50px; padding-top: 30px; border-top: 1px solid rgba(15, 23, 42, 0.08); text-align: center;">

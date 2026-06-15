@@ -138,7 +138,7 @@ $current_page = 'blog.php';
     <?php include '../includes/navbar.php'; ?>
 
     <!-- Header Section -->
-    <section class="hero" style="min-height: 50vh; display: flex; align-items: center; padding-top: 100px; position: relative; background: linear-gradient(to right, #f1f5f9, #e2e8f0);">
+    <section class="hero" style="min-height: 50vh; display: flex; align-items: center; padding-top: 140px; padding-bottom: 90px; position: relative; background: linear-gradient(to right, #f1f5f9, #e2e8f0);">
         <div class="container" style="position: relative; z-index: 2;">
             <div style="margin-bottom: 15px; display: flex; gap: 15px; align-items: center; color: var(--color-primary); font-weight: 600;">
                 <span><i class="fa-solid fa-folder-open"></i> Car Shifting Guide</span>
@@ -272,10 +272,10 @@ $current_page = 'blog.php';
 
             <h2>Conclusion</h2>
             <p>
-                Car shifting can be stress-free if you choose the right carrier type, prepare your vehicle, and work with verified logistics professionals. Keeping a condition report with photo records protects you from any liability disputes.
+                Car shifting can be stress-free if you choose the right carrier type, prepare your vehicle, and work with verified logistics professionals. Keeping a condition report with photo records protects you from any liability disputes. Review our complete <a href="blog/moving-checklist-for-shifting-household-and-vehicles" style="color: var(--color-primary); text-decoration: underline; font-weight: 500;">household and vehicle moving checklist</a> for a smooth relocation timeline.
             </p>
             <p>
-                At Vahan Mover, we connect you with verified, premium car relocation services offering closed containers, GPS tracking, and complete transit insurance. Request a free quote today and let our specialists relocate your vehicle safely!
+                At Vahan Mover, we connect you with verified, premium car relocation services offering closed containers, GPS tracking, and complete transit insurance. Check out our dedicated <a href="car-transport-service" style="color: var(--color-primary); text-decoration: underline; font-weight: 500;">car transport service</a>, request a free quote today, and let our specialists relocate your vehicle safely!
             </p>
 
             <div style="margin-top: 50px; padding-top: 30px; border-top: 1px solid rgba(15, 23, 42, 0.08); text-align: center;">

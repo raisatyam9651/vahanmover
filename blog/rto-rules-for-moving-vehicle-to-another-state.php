@@ -107,7 +107,7 @@ $current_page = 'blog.php';
     <?php include '../includes/navbar.php'; ?>
 
     <!-- Header Section -->
-    <section class="hero" style="min-height: 50vh; display: flex; align-items: center; padding-top: 100px; position: relative; background: linear-gradient(to right, #f1f5f9, #e2e8f0);">
+    <section class="hero" style="min-height: 50vh; display: flex; align-items: center; padding-top: 140px; padding-bottom: 90px; position: relative; background: linear-gradient(to right, #f1f5f9, #e2e8f0);">
         <div class="container" style="position: relative; z-index: 2;">
             <div style="margin-bottom: 15px; display: flex; gap: 15px; align-items: center; color: var(--color-primary); font-weight: 600;">
                 <span><i class="fa-solid fa-folder-open"></i> Legal & RTO Rules</span>
@@ -217,10 +217,10 @@ $current_page = 'blog.php';
 
             <h2>Conclusion</h2>
             <p>
-                Completing the RTO documentation ensures you drive legally and stress-free in your new home. Start the NOC process at least 3 weeks before your moving date to avoid delays.
+                Completing the RTO documentation ensures you drive legally and stress-free in your new home. Start the NOC process at least 3 weeks before your moving date to avoid delays. Make sure you map out your entire relocation timeline with our comprehensive <a href="blog/moving-checklist-for-shifting-household-and-vehicles" style="color: var(--color-primary); text-decoration: underline; font-weight: 500;">moving checklist for household and vehicles</a>.
             </p>
             <p>
-                If you need assistance in transport logistics or getting your car or bike shipped safely across states, contact Vahan Mover. We provide certified transport carriers and transport receipts to help you document the move for RTO entries!
+                If you need assistance in transport logistics or getting your car or bike shipped safely across states, check out our premium <a href="car-transport-service" style="color: var(--color-primary); text-decoration: underline; font-weight: 500;">car shipping solutions</a> or our <a href="bike-transport-service" style="color: var(--color-primary); text-decoration: underline; font-weight: 500;">two-wheeler courier services</a>, and contact Vahan Mover. We provide certified carriers and transit receipts to help you document the move for RTO entries!
             </p>
 
             <div style="margin-top: 50px; padding-top: 30px; border-top: 1px solid rgba(15, 23, 42, 0.08); text-align: center;">

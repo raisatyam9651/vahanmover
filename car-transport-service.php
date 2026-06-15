@@ -506,8 +506,7 @@
                         How safe is car transport service in India?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Our car relocation service is highly safe. We use specialized car carriers (open or enclosed)
-                        and provide insurance coverage to ensure your vehicle reaches securely.
+                        Our car relocation service is highly safe. We use specialized car carriers (open or enclosed) and provide insurance coverage to ensure your vehicle reaches securely. Check out our <a href="blog/complete-guide-to-car-transportation-services-in-india" style="color: var(--color-primary); text-decoration: underline; font-weight: 500;">complete car shifting guide</a> for comparison tips.
                     </p>
                 </div>
 
@@ -542,8 +541,7 @@
                         Can I put items in my car during transport?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        It is generally recommended not to leave personal items in the car for insurance and safety
-                        reasons. Please consult our team for specific policies.
+                        It is generally recommended not to leave personal items in the car for insurance and safety reasons. Keep track of all your shifting items with our comprehensive <a href="blog/moving-checklist-for-shifting-household-and-vehicles" style="color: var(--color-primary); text-decoration: underline; font-weight: 500;">moving checklist for household and vehicles</a>.
                     </p>
                 </div>
 
@@ -556,6 +554,17 @@
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
                         Yes, we offer complete door-to-door car transport service, picking up the vehicle from your home
                         and delivering it to your new address.
+                    </p>
+                </div>
+
+                <!-- FAQ 6 -->
+                <div class="glass-card faq-card">
+                    <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
+                        <span style="color: var(--color-accent); font-size: 1.2rem;">06.</span>
+                        What are the RTO rules for out-of-state car shifting?
+                    </h4>
+                    <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
+                        When permanently moving your car to another state, you must register the vehicle and obtain a No Objection Certificate (NOC). Read our step-by-step <a href="blog/rto-rules-for-moving-vehicle-to-another-state" style="color: var(--color-primary); text-decoration: underline; font-weight: 500;">RTO state transfer NOC guide</a> for all form procedures.
                     </p>
                 </div>
 

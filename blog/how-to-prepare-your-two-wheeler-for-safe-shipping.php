@@ -107,7 +107,7 @@ $current_page = 'blog.php';
     <?php include '../includes/navbar.php'; ?>
 
     <!-- Header Section -->
-    <section class="hero" style="min-height: 50vh; display: flex; align-items: center; padding-top: 100px; position: relative; background: linear-gradient(to right, #f1f5f9, #e2e8f0);">
+    <section class="hero" style="min-height: 50vh; display: flex; align-items: center; padding-top: 140px; padding-bottom: 90px; position: relative; background: linear-gradient(to right, #f1f5f9, #e2e8f0);">
         <div class="container" style="position: relative; z-index: 2;">
             <div style="margin-bottom: 15px; display: flex; gap: 15px; align-items: center; color: var(--color-primary); font-weight: 600;">
                 <span><i class="fa-solid fa-folder-open"></i> Vehicle Preparation</span>
@@ -198,10 +198,10 @@ $current_page = 'blog.php';
 
             <h2>Conclusion</h2>
             <p>
-                Preparing your two-wheeler takes very little effort but saves you from potential repair costs and delays. A clean, empty, and mirrorless bike is easy to pack and secure inside transport carriers.
+                Preparing your two-wheeler takes very little effort but saves you from potential repair costs and delays. A clean, empty, and mirrorless bike is easy to pack and secure inside transport carriers. If you are sending your vehicle by train, read our detailed <a href="blog/how-to-transport-bike-by-indian-railways" style="color: var(--color-primary); text-decoration: underline; font-weight: 500;">railways train bike transport guide</a>.
             </p>
             <p>
-                If you are looking for premium, scratch-free two-wheeler transport services with professional multi-layer packing and dynamic updates, contact Vahan Mover today. Get a free quote now!
+                If you are looking for premium, scratch-free two-wheeler transport services with professional multi-layer packing and dynamic updates, check out our core <a href="bike-transport-service" style="color: var(--color-primary); text-decoration: underline; font-weight: 500;">bike transport service</a> and contact Vahan Mover today. Get a free quote now!
             </p>
 
             <div style="margin-top: 50px; padding-top: 30px; border-top: 1px solid rgba(15, 23, 42, 0.08); text-align: center;">

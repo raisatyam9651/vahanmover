@@ -107,7 +107,7 @@ $current_page = 'blog.php';
     <?php include '../includes/navbar.php'; ?>
 
     <!-- Header Section -->
-    <section class="hero" style="min-height: 50vh; display: flex; align-items: center; padding-top: 100px; position: relative; background: linear-gradient(to right, #f1f5f9, #e2e8f0);">
+    <section class="hero" style="min-height: 50vh; display: flex; align-items: center; padding-top: 140px; padding-bottom: 90px; position: relative; background: linear-gradient(to right, #f1f5f9, #e2e8f0);">
         <div class="container" style="position: relative; z-index: 2;">
             <div style="margin-bottom: 15px; display: flex; gap: 15px; align-items: center; color: var(--color-primary); font-weight: 600;">
                 <span><i class="fa-solid fa-folder-open"></i> Shifting Insurance</span>
@@ -223,10 +223,10 @@ $current_page = 'blog.php';
 
             <h2>Conclusion</h2>
             <p>
-                Paying a nominal fee for transit insurance (e.g., ₹300 for a bike, ₹2,000 for a car) is a small price to pay to secure a vehicle worth lakhs. Make sure you work with carriers that provide transparent, verified marine cargo policies.
+                Paying a nominal fee for transit insurance (e.g., ₹300 for a bike, ₹2,000 for a car) is a small price to pay to secure a vehicle worth lakhs. Make sure you work with carriers that provide transparent, verified marine cargo policies. If you are comparing carriers, consult our <a href="blog/complete-guide-to-car-transportation-services-in-india" style="color: var(--color-primary); text-decoration: underline; font-weight: 500;">complete car transportation guide</a>.
             </p>
             <p>
-                At Vahan Mover, safety is our priority. Our logistics partners provide comprehensive, all-risk transit insurance and standard condition reports to keep your vehicle relocation completely protected. Get a free quote today!
+                At Vahan Mover, safety is our priority. Our logistics partners provide comprehensive, all-risk transit insurance and standard condition reports to keep your vehicle relocation completely protected. Check out our <a href="car-transport-service" style="color: var(--color-primary); text-decoration: underline; font-weight: 500;">car shipping options</a>, request a free quote today, and relocation safely!
             </p>
 
             <div style="margin-top: 50px; padding-top: 30px; border-top: 1px solid rgba(15, 23, 42, 0.08); text-align: center;">

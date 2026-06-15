@@ -300,7 +300,7 @@
                     <div>
                         <h3 style="font-size: 1.4rem; margin-bottom: 10px;">Secure Packing</h3>
                         <p style="color: var(--color-text-dim); line-height: 1.6;">We use quality packing materials
-                            including bubble wrap, foam, and protective covers to ensure complete safety.</p>
+                            including bubble wrap, foam, and protective covers to ensure complete safety. Learn more in our <a href="blog/how-to-prepare-your-two-wheeler-for-safe-shipping" style="color: var(--color-primary); text-decoration: underline; font-weight: 500;">two-wheeler shifting preparation guide</a>.</p>
                     </div>
                 </div>
 
@@ -530,8 +530,7 @@
                         Do you provide insurance for bike shifting?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        Yes, we provide complete insurance coverage for all bike shifting services to protect against
-                        any unforeseen damages or risks during transportation.
+                        Yes, we provide complete transit insurance coverage for all bike shifting services. Read our <a href="blog/vehicle-transit-insurance-guide-types-claims-and-importance" style="color: var(--color-primary); text-decoration: underline; font-weight: 500;">vehicle transit insurance claims guide</a> to understand how your ride is protected.
                     </p>
                 </div>
 
@@ -554,8 +553,7 @@
                         What documents are required for bike transport?
                     </h4>
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
-                        You need to provide bike RC (Registration Certificate), valid ID proof, and insurance papers.
-                        Our team will assist with all documentation during pickup.
+                        You need to provide bike RC (Registration Certificate), valid ID proof, and insurance papers. If you are moving permanently, check our detailed <a href="blog/rto-rules-for-moving-vehicle-to-another-state" style="color: var(--color-primary); text-decoration: underline; font-weight: 500;">RTO vehicle registration NOC rules</a> for moving out-of-state.
                     </p>
                 </div>
 
@@ -568,6 +566,17 @@
                     <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
                         Yes, we provide complete door-to-door bike transport service across India, picking up from your
                         location and delivering directly to the destination address.
+                    </p>
+                </div>
+
+                <!-- FAQ 6 -->
+                <div class="glass-card faq-card">
+                    <h4 style="margin-bottom: 10px; display: flex; align-items: start; gap: 10px;">
+                        <span style="color: var(--color-accent); font-size: 1.2rem;">06.</span>
+                        Can I transport my bike by train?
+                    </h4>
+                    <p style="color: var(--color-text-dim); line-height: 1.6; padding-left: 35px;">
+                        Yes, you can ship your bike via train as either luggage or parcel. Review our comprehensive <a href="blog/how-to-transport-bike-by-indian-railways" style="color: var(--color-primary); text-decoration: underline; font-weight: 500;">Indian Railways bike booking guide</a> for charges and parcel procedures.
                     </p>
                 </div>
 

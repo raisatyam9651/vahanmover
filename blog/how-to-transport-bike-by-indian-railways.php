@@ -138,7 +138,7 @@ $current_page = 'blog.php';
     <?php include '../includes/navbar.php'; ?>
 
     <!-- Header Section -->
-    <section class="hero" style="min-height: 50vh; display: flex; align-items: center; padding-top: 100px; position: relative; background: linear-gradient(to right, #f1f5f9, #e2e8f0);">
+    <section class="hero" style="min-height: 50vh; display: flex; align-items: center; padding-top: 140px; padding-bottom: 90px; position: relative; background: linear-gradient(to right, #f1f5f9, #e2e8f0);">
         <div class="container" style="position: relative; z-index: 2;">
             <div style="margin-bottom: 15px; display: flex; gap: 15px; align-items: center; color: var(--color-primary); font-weight: 600;">
                 <span><i class="fa-solid fa-folder-open"></i> Railways Guide</span>
@@ -288,10 +288,10 @@ $current_page = 'blog.php';
 
             <h2>Conclusion</h2>
             <p>
-                Transporting your bike by train is a safe, time-tested, and budget-friendly method if you follow the paperwork and rules carefully. Ensure you empty the fuel tank completely to avoid penalties, hire verified packing agents at the station, and keep the original booking receipt safe to collect your vehicle.
+                Transporting your bike by train is a safe, time-tested, and budget-friendly method if you follow the paperwork and rules carefully. Ensure you empty the fuel tank completely to avoid penalties, hire verified packing agents at the station, and keep the original booking receipt safe to collect your vehicle. You can also consult our step-by-step <a href="blog/how-to-prepare-your-two-wheeler-for-safe-shipping" style="color: var(--color-primary); text-decoration: underline; font-weight: 500;">two-wheeler shifting preparation guide</a> to avoid damages.
             </p>
             <p>
-                If you prefer a hassle-free, door-to-door vehicle transport experience without standing in queues or handling railway paperwork, get in touch with our verified private vehicle logistics partners at Vahan Mover. We handle the pickup, packing, transport, and delivery at your doorstep!
+                If you prefer a hassle-free, door-to-door vehicle transport experience without standing in queues or handling railway paperwork, check out our premium <a href="bike-transport-service" style="color: var(--color-primary); text-decoration: underline; font-weight: 500;">bike transport service</a> and get in touch with our verified private vehicle logistics partners at Vahan Mover. We handle the pickup, packing, transport, and delivery at your doorstep!
             </p>
 
             <div style="margin-top: 50px; padding-top: 30px; border-top: 1px solid rgba(15, 23, 42, 0.08); text-align: center;">
