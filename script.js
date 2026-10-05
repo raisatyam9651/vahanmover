@@ -27,19 +27,20 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // Universal Form Submission Handler for Frappe CRM & Google Sheets
-    const contactForm = document.getElementById('contactForm');
-    if (contactForm) {
-        contactForm.addEventListener('submit', function (e) {
+    document.querySelectorAll('form').forEach(form => {
+        if (form.id === 'railwayCostForm') return; // Handled by calculateCost(event)
+
+        form.addEventListener('submit', function (e) {
             // Check if form already has action and name attributes properly set
-            const hasNames = contactForm.querySelector('[name="phone"], [name="email"]');
-            if (contactForm.getAttribute('action') === 'submit.php' && hasNames) {
+            const hasNames = form.querySelector('[name="phone"], [name="email"]');
+            if (form.getAttribute('action') === 'submit.php' && hasNames) {
                 // Let native browser POST to submit.php proceed
                 return;
             }
 
             e.preventDefault();
 
-            const submitBtn = contactForm.querySelector('button[type="submit"]');
+            const submitBtn = form.querySelector('button[type="submit"]');
             const originalBtnText = submitBtn ? submitBtn.innerHTML : '';
             if (submitBtn) {
                 submitBtn.disabled = true;
@@ -47,32 +48,32 @@ document.addEventListener('DOMContentLoaded', () => {
             }
 
             // Extract values smartly by name or position/placeholder
-            const fullName = contactForm.querySelector('[name="full_name"]')?.value ||
-                contactForm.querySelector('input[placeholder*="name" i]')?.value || '';
+            const fullName = form.querySelector('[name="full_name"]')?.value ||
+                form.querySelector('input[placeholder*="name" i]')?.value || '';
 
-            const phone = contactForm.querySelector('[name="phone"]')?.value ||
-                contactForm.querySelector('input[type="tel"]')?.value ||
-                contactForm.querySelector('input[placeholder*="phone" i]')?.value || '';
+            const phone = form.querySelector('[name="phone"]')?.value ||
+                form.querySelector('input[type="tel"]')?.value ||
+                form.querySelector('input[placeholder*="phone" i]')?.value || '';
 
-            const email = contactForm.querySelector('[name="email"]')?.value ||
-                contactForm.querySelector('input[type="email"]')?.value || '';
+            const email = form.querySelector('[name="email"]')?.value ||
+                form.querySelector('input[type="email"]')?.value || '';
 
-            const pickupCity = contactForm.querySelector('[name="pickup_city"]')?.value ||
-                contactForm.querySelector('input[placeholder*="From" i]')?.value ||
-                contactForm.querySelector('input[placeholder*="Pickup" i]')?.value || '';
+            const pickupCity = form.querySelector('[name="pickup_city"]')?.value ||
+                form.querySelector('input[placeholder*="From" i]')?.value ||
+                form.querySelector('input[placeholder*="Pickup" i]')?.value || '';
 
-            const dropCity = contactForm.querySelector('[name="drop_city"]')?.value ||
-                contactForm.querySelector('input[placeholder*="To" i]')?.value ||
-                contactForm.querySelector('input[placeholder*="Drop" i]')?.value || '';
+            const dropCity = form.querySelector('[name="drop_city"]')?.value ||
+                form.querySelector('input[placeholder*="To" i]')?.value ||
+                form.querySelector('input[placeholder*="Drop" i]')?.value || '';
 
-            const vehicleType = contactForm.querySelector('[name="vehicle_type"]')?.value ||
-                contactForm.querySelector('select')?.value || '';
+            const vehicleType = form.querySelector('[name="vehicle_type"]')?.value ||
+                form.querySelector('select')?.value || '';
 
-            const preferredDate = contactForm.querySelector('[name="preferred_date"]')?.value ||
-                contactForm.querySelector('input[type="date"]')?.value || '';
+            const preferredDate = form.querySelector('[name="preferred_date"]')?.value ||
+                form.querySelector('input[type="date"]')?.value || '';
 
-            const message = contactForm.querySelector('[name="message"]')?.value ||
-                contactForm.querySelector('textarea')?.value || '';
+            const message = form.querySelector('[name="message"]')?.value ||
+                form.querySelector('textarea')?.value || '';
 
             const formData = new FormData();
             formData.append('full_name', fullName);
@@ -99,5 +100,5 @@ document.addEventListener('DOMContentLoaded', () => {
                 window.location.href = 'thank-you.php';
             });
         });
-    }
+    });
 });
