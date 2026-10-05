@@ -490,29 +490,6 @@
                 return;
             }
 
-            // --- Submit Data in Background ---
-            const formData = new FormData();
-            formData.append('full_name', name);
-            formData.append('phone', phone);
-            // Mapping to generic fields
-            formData.append('vehicle_type', cc);
-            formData.append('message', 'Calculated for Distance: ' + dist + ' km');
-            formData.append('sheet_name', 'Cal'); // Send to "Cal" sheet (Case Sensitive)
-            formData.append('ajax', '1');
-
-            fetch('submit.php', {
-                method: 'POST',
-                body: formData
-            })
-                .then(response => response.json())
-                .then(data => {
-                    console.log('Submission successful:', data);
-                })
-                .catch(error => {
-                    console.error('Error submitting data:', error);
-                });
-            // ---------------------------------
-
             // Estimate declared value based on CC for insurance calculation since input was removed
             let val = 50000;
             if (cc === '100-150') val = 45000;
@@ -531,16 +508,11 @@
 
             // Min freight charge logic
             let freight = Math.max(300, (dist * baseRatePerKm) / 10);
-            // Note: Railway freight formula is complex, this is a simplified estimation for user guidance (approx ₹2.5 - ₹4.5 per 10km block roughly)
-            // Adjusting formula to be more realistic: roughly Rs 400-800 for shorter, Rs 1500-2500 for longer
 
             // Improved estimate formula:
-            // Base + (Rate * Distance)
             let baseFee = 300;
             if (cc == '350+') baseFee = 500;
 
-            // Rate per km varies by distance slabs usually, simplifying to linear for estimate
-            // 150cc approx 1.5rs/km average over long haul
             let rateFactor = 1.2;
             if (cc === '150-250') rateFactor = 1.5;
             if (cc === '250-350') rateFactor = 1.8;
@@ -553,9 +525,8 @@
             if (cc === '150-250') packing = 500;
             if (cc === '250-350' || cc === '350+') packing = 800;
 
-            // 3. Insurance (1% of declared value is standard railway insurance fee approx)
+            // 3. Insurance
             let insurance = val * 0.01;
-            // Add Handling/Porter charges (approx 200)
             insurance += 200;
 
             // Total
@@ -569,6 +540,27 @@
 
             // Show result
             document.getElementById('resultBox').style.display = 'block';
+
+            // --- Submit Data in Background to Frappe CRM & Google Sheets ---
+            const formData = new FormData();
+            formData.append('full_name', name);
+            formData.append('phone', phone);
+            formData.append('vehicle_type', cc);
+            formData.append('message', 'Calculated Distance: ' + dist + ' km | Est Total: ₹' + Math.round(total) + ' (Freight: ₹' + Math.round(freight) + ', Packing: ₹' + Math.round(packing) + ', Insurance: ₹' + Math.round(insurance) + ')');
+            formData.append('sheet_name', 'Cal');
+            formData.append('ajax', '1');
+
+            fetch('submit.php', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                console.log('Submission successful:', data);
+            })
+            .catch(error => {
+                console.error('Error submitting data:', error);
+            });
         }
     </script>
 </body>

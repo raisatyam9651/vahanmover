@@ -37,14 +37,22 @@ if (!empty($data['preferred_date'])) $detailsText .= "Preferred Date: " . $data[
 if (!empty($data['message']))        $detailsText .= "Message: " . $data['message'] . "\n";
 if (!empty($data['submission_id']))  $detailsText .= "Submission ID: " . $data['submission_id'] . "\n";
 
-$orgText = (!empty($data['pickup_city']) && !empty($data['drop_city'])) 
-    ? ($data['pickup_city'] . ' -> ' . $data['drop_city'] . (!empty($data['vehicle_type']) ? ' (' . ucfirst($data['vehicle_type']) . ')' : ''))
-    : 'Vahan Mover Website';
+$isCalculator = (!empty($data['sheet_name']) && $data['sheet_name'] === 'Cal') || 
+                (empty($data['pickup_city']) && empty($data['drop_city']) && !empty($data['vehicle_type']));
+
+if ($isCalculator) {
+    $orgText = 'IRCTC Bike Calculator (' . (!empty($data['vehicle_type']) ? $data['vehicle_type'] . ' CC' : 'Bike') . ')';
+    $detailsText = "Source: IRCTC Bike Parcel Charges Calculator\n" . $detailsText;
+} else {
+    $orgText = (!empty($data['pickup_city']) && !empty($data['drop_city'])) 
+        ? ($data['pickup_city'] . ' -> ' . $data['drop_city'] . (!empty($data['vehicle_type']) ? ' (' . ucfirst($data['vehicle_type']) . ')' : ''))
+        : 'Vahan Mover Website';
+}
 
 $crmPayload = [
     'first_name'   => $firstName,
     'last_name'    => $lastName,
-    'email'        => !empty($data['email']) ? $data['email'] : 'lead@vahanmover.com',
+    'email'        => !empty($data['email']) ? $data['email'] : 'calculator-lead@vahanmover.com',
     'mobile_no'    => $data['phone'] ?? '',
     'organization' => $orgText,
     'status'       => 'New'
@@ -55,8 +63,7 @@ $crmJson = json_encode($crmPayload);
 $crmOptions = [
     'http' => [
         'header' => "Authorization: token {$crmApiKey}:{$crmApiSecret}\r\n" .
-                    "Content-Type: application/json\r\n" .
-                    "Host: crm.localhost\r\n",
+                    "Content-Type: application/json\r\n",
         'method' => 'POST',
         'content' => $crmJson,
         'timeout' => 5,
@@ -74,8 +81,7 @@ if (!empty($detailsText) && $crmRes) {
         $commentOptions = [
             'http' => [
                 'header' => "Authorization: token {$crmApiKey}:{$crmApiSecret}\r\n" .
-                            "Content-Type: application/json\r\n" .
-                            "Host: crm.localhost\r\n",
+                            "Content-Type: application/json\r\n",
                 'method' => 'POST',
                 'content' => json_encode([
                     'comment_type'      => 'Comment',
